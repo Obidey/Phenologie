@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775682469932,
-  "_date": "2026-04-08T21:07:49.932Z",
-  "_modCount": 16,
+  "_ts": 1775682577824,
+  "_date": "2026-04-08T21:09:37.824Z",
+  "_modCount": 18,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
@@ -112,7 +112,8 @@
     "ko9_Érable_Shojo_debourrement_0": true,
     "ko9_Érable_Shojo_debourrement_1": true,
     "ko9_Glycine_debourrement_0": true,
-    "ko13_Glycine_feuillaison_0": true
+    "ko13_Glycine_feuillaison_0": true,
+    "ko13_Pin_rouge_du_Japon_semis_0": true
   },
   "config": {
     "ville1": {
