@@ -1,10 +1,10 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775649010231,
-  "_date": "2026-04-08T11:50:10.231Z",
+  "_ts": 1775651489330,
+  "_date": "2026-04-08T12:31:29.330Z",
   "_modCount": 0,
-  "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
+  "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {},
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
@@ -115,12 +115,7 @@
     "ko9_Glycine_debourrement_0": true
   },
   "config": {
-    "ville1": {
-      "nom": "Cazaux",
-      "lat": "44.497",
-      "lon": "-1.164",
-      "url": "https://www.meteoblue.com/it/tempo/webcams/cazaux_francia_3028068"
-    },
+    "ville1": {},
     "ville2": {
       "nom": "Villedômer",
       "lat": "47.5473",
