@@ -1,10 +1,10 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775682584063,
-  "_date": "2026-04-08T21:09:44.063Z",
-  "_modCount": 19,
-  "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
+  "_ts": 1775682600565,
+  "_date": "2026-04-08T21:10:00.565Z",
+  "_modCount": 13,
+  "_device": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHT",
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_1": true,
@@ -112,8 +112,7 @@
     "ko9_Érable_Shojo_debourrement_0": true,
     "ko9_Érable_Shojo_debourrement_1": true,
     "ko9_Glycine_debourrement_0": true,
-    "ko13_Glycine_feuillaison_0": true,
-    "ko13_Pin_rouge_du_Japon_semis_0": true
+    "ko13_Glycine_feuillaison_0": true
   },
   "config": {
     "ville1": {
