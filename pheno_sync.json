@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775651664636,
-  "_date": "2026-04-08T12:34:24.636Z",
-  "_modCount": 2,
+  "_ts": 1775652028523,
+  "_date": "2026-04-08T12:40:28.523Z",
+  "_modCount": 3,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {},
   "checklist": {
@@ -115,7 +115,12 @@
     "ko9_Glycine_debourrement_0": true
   },
   "config": {
-    "ville1": {},
+    "ville1": {
+      "nom": "Cazaux",
+      "lat": "44.497",
+      "lon": "-1.164",
+      "url": "https://www.meteoblue.com/it/tempo/webcams/cazaux_francia_3028068"
+    },
     "ville2": {
       "nom": "Villedômer",
       "lat": "47.5473",
