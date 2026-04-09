@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775740630914,
-  "_date": "2026-04-09T13:17:10.914Z",
-  "_modCount": 53,
+  "_ts": 1775740648247,
+  "_date": "2026-04-09T13:17:28.247Z",
+  "_modCount": 55,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -4269,9 +4269,12 @@
         "espece": "Nouvelle espèce",
         "notes": "",
         "url": "",
-        "debourrement": null,
-        "debourrement_djc": null,
-        "debourrement_travaux": "",
+        "debourrement": [
+          3,
+          0
+        ],
+        "debourrement_djc": 992,
+        "debourrement_travaux": "test N2",
         "feuillaison": null,
         "feuillaison_djc": null,
         "feuillaison_travaux": "",
@@ -4464,7 +4467,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 53
+    "_modCount": 54
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
