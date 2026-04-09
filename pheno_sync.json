@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775714842423,
-  "_date": "2026-04-09T06:07:22.423Z",
-  "_modCount": 52,
+  "_ts": 1775714928347,
+  "_date": "2026-04-09T06:08:48.347Z",
+  "_modCount": 53,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -4362,6 +4362,39 @@
         "boutures": null,
         "boutures_travaux": "",
         "_idx": 98
+      },
+      {
+        "espece": "Nouvelle espèce",
+        "url": "",
+        "notes": "",
+        "debourrement_djc": 992,
+        "debourrement_travaux": "ttttttteeeeeessssstttt",
+        "debourrement": [
+          3,
+          0
+        ],
+        "feuillaison_djc": null,
+        "feuillaison_travaux": "",
+        "feuillaison": null,
+        "floraison_djc": null,
+        "floraison_travaux": "",
+        "floraison": null,
+        "croissance_djc": null,
+        "croissance_travaux": "",
+        "croissance": null,
+        "maturation_djc": null,
+        "maturation_travaux": "",
+        "maturation": null,
+        "senescence_djc": null,
+        "senescence_travaux": "",
+        "senescence": null,
+        "photo": "",
+        "semis_djc": null,
+        "semis": null,
+        "semis_travaux": "",
+        "boutures_djc": null,
+        "boutures": null,
+        "boutures_travaux": ""
       }
     ],
     "_version": "v20",
