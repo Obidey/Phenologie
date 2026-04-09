@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775711857856,
-  "_date": "2026-04-09T05:17:37.856Z",
-  "_modCount": 28,
+  "_ts": 1775711863616,
+  "_date": "2026-04-09T05:17:43.616Z",
+  "_modCount": 29,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -4362,39 +4362,6 @@
         "boutures": null,
         "boutures_travaux": "",
         "_idx": 98
-      },
-      {
-        "espece": "Test iPhone le 9 4",
-        "url": "",
-        "notes": "",
-        "debourrement_djc": 992,
-        "debourrement_travaux": "Test le 9!avril",
-        "debourrement": [
-          3,
-          0
-        ],
-        "feuillaison_djc": null,
-        "feuillaison_travaux": "",
-        "feuillaison": null,
-        "floraison_djc": null,
-        "floraison_travaux": "",
-        "floraison": null,
-        "croissance_djc": null,
-        "croissance_travaux": "",
-        "croissance": null,
-        "maturation_djc": null,
-        "maturation_travaux": "",
-        "maturation": null,
-        "senescence_djc": null,
-        "senescence_travaux": "",
-        "senescence": null,
-        "photo": "",
-        "semis_djc": null,
-        "semis": null,
-        "semis_travaux": "",
-        "boutures_djc": null,
-        "boutures": null,
-        "boutures_travaux": ""
       }
     ],
     "_version": "v20",
