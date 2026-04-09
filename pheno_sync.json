@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775711509582,
-  "_date": "2026-04-09T05:11:49.582Z",
-  "_modCount": 21,
+  "_ts": 1775711539486,
+  "_date": "2026-04-09T05:12:19.486Z",
+  "_modCount": 23,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -1928,7 +1928,7 @@
           3,
           0
         ],
-        "feuillaison_travaux": "Feuilles pennées élégantes, pinçage pousses longues, ligature",
+        "feuillaison_travaux": "Feuilles pennées élégantes, pinçage pousses longues, ligature, test",
         "floraison_djc": 924,
         "floraison": [
           2,
@@ -1959,7 +1959,8 @@
         "boutures_djc": null,
         "boutures": null,
         "boutures_travaux": "Boutures semi-ligneuses été avec hormone, résultats bons",
-        "_idx": 41
+        "_idx": 41,
+        "photo": ""
       },
       {
         "espece": "Grenadier (Punica granatum)",
