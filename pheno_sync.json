@@ -1,8 +1,8 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775714486209,
-  "_date": "2026-04-09T06:01:26.209Z",
+  "_ts": 1775714672948,
+  "_date": "2026-04-09T06:04:32.948Z",
   "_modCount": 52,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
@@ -4362,39 +4362,6 @@
         "boutures": null,
         "boutures_travaux": "",
         "_idx": 98
-      },
-      {
-        "espece": "Nouvelle espèce",
-        "url": "",
-        "notes": "",
-        "debourrement_djc": 992,
-        "debourrement_travaux": "Debugvia iPhone",
-        "debourrement": [
-          3,
-          0
-        ],
-        "feuillaison_djc": null,
-        "feuillaison_travaux": "",
-        "feuillaison": null,
-        "floraison_djc": null,
-        "floraison_travaux": "",
-        "floraison": null,
-        "croissance_djc": null,
-        "croissance_travaux": "",
-        "croissance": null,
-        "maturation_djc": null,
-        "maturation_travaux": "",
-        "maturation": null,
-        "senescence_djc": null,
-        "senescence_travaux": "",
-        "senescence": null,
-        "photo": "",
-        "semis_djc": null,
-        "semis": null,
-        "semis_travaux": "",
-        "boutures_djc": null,
-        "boutures": null,
-        "boutures_travaux": ""
       }
     ],
     "_version": "v20",
