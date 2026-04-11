@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775916378945,
-  "_date": "2026-04-11T14:06:18.945Z",
-  "_modCount": 147,
+  "_ts": 1775916401855,
+  "_date": "2026-04-11T14:06:41.855Z",
+  "_modCount": 148,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -3882,7 +3882,7 @@
           2,
           0.6566757493188011
         ],
-        "debourrement_travaux": "Observation des frondes",
+        "debourrement_travaux": "Observation  : sortie des frondes",
         "feuillaison_djc": null,
         "feuillaison": null,
         "feuillaison_travaux": "",
@@ -3903,7 +3903,8 @@
         "semis_travaux": "",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": ""
+        "boutures_travaux": "",
+        "photo": ""
       },
       {
         "espece": "Pommier du Japon",
@@ -4178,7 +4179,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 66
+    "_modCount": 67
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
