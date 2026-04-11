@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775914699711,
-  "_date": "2026-04-11T13:38:19.711Z",
-  "_modCount": 88,
+  "_ts": 1775914722214,
+  "_date": "2026-04-11T13:38:42.214Z",
+  "_modCount": 89,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -2746,10 +2746,10 @@
         "maturation_djc": null,
         "maturation": null,
         "maturation_travaux": "",
-        "senescence_djc": 860,
+        "senescence_djc": 1070,
         "senescence": [
-          2,
-          0.8256130790190735
+          3,
+          0.21487603305785125
         ],
         "senescence_travaux": "Les pousses de l'année precedente jaunissent apres la floraison",
         "semis_djc": 557,
@@ -2760,7 +2760,8 @@
         "semis_travaux": "",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": ""
+        "boutures_travaux": "",
+        "photo": ""
       },
       {
         "espece": "Pêcher",
@@ -3762,12 +3763,12 @@
           0
         ],
         "floraison_travaux": "",
-        "croissance_djc": 1142,
+        "croissance_djc": 1070,
         "croissance": [
           3,
-          0.4132231404958678
+          0.21487603305785125
         ],
-        "croissance_travaux": "",
+        "croissance_travaux": "test",
         "maturation_djc": 3893,
         "maturation": [
           7,
@@ -3791,7 +3792,8 @@
           3,
           0.21487603305785125
         ],
-        "boutures_travaux": "MDDM27FO1"
+        "boutures_travaux": "MDDM27FO1",
+        "photo": ""
       },
       {
         "espece": "Azalée indica (de Chine)",
@@ -4267,10 +4269,43 @@
         "boutures_djc": null,
         "boutures": null,
         "boutures_travaux": ""
+      },
+      {
+        "espece": "Chèvrefeuille de JL",
+        "url": "",
+        "notes": "",
+        "debourrement_djc": null,
+        "debourrement_travaux": "",
+        "debourrement": null,
+        "feuillaison_djc": null,
+        "feuillaison_travaux": "",
+        "feuillaison": null,
+        "floraison_djc": 1070,
+        "floraison_travaux": "TEst de création d'une nouvelle espèce",
+        "floraison": [
+          3,
+          0.21487603305785125
+        ],
+        "croissance_djc": null,
+        "croissance_travaux": "",
+        "croissance": null,
+        "maturation_djc": null,
+        "maturation_travaux": "",
+        "maturation": null,
+        "senescence_djc": null,
+        "senescence_travaux": "",
+        "senescence": null,
+        "photo": "",
+        "semis_djc": null,
+        "semis": null,
+        "semis_travaux": "",
+        "boutures_djc": null,
+        "boutures": null,
+        "boutures_travaux": ""
       }
     ],
     "_version": "v20",
-    "_modCount": 88
+    "_modCount": 56
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
