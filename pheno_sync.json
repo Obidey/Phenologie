@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775916552042,
-  "_date": "2026-04-11T14:09:12.042Z",
-  "_modCount": 157,
+  "_ts": 1775916559104,
+  "_date": "2026-04-11T14:09:19.104Z",
+  "_modCount": 158,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -78,7 +78,7 @@
           2,
           0.8256130790190735
         ],
-        "debourrement_travaux": "Taille légère, observer reprise, nettoyer sutures",
+        "debourrement_travaux": "Taille légère, observer reprise,",
         "feuillaison_djc": 924,
         "feuillaison": [
           2,
@@ -4180,7 +4180,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 69
+    "_modCount": 70
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
