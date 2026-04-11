@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775917195915,
-  "_date": "2026-04-11T14:19:55.915Z",
-  "_modCount": 194,
+  "_ts": 1775917206603,
+  "_date": "2026-04-11T14:20:06.603Z",
+  "_modCount": 195,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4097,39 +4097,6 @@
         "boutures_travaux": ""
       },
       {
-        "espece": "Test 7 iPad sync export",
-        "url": "",
-        "notes": "",
-        "debourrement_djc": 924,
-        "debourrement_travaux": "Test",
-        "debourrement": [
-          2,
-          1
-        ],
-        "feuillaison_djc": null,
-        "feuillaison_travaux": "",
-        "feuillaison": null,
-        "floraison_djc": null,
-        "floraison_travaux": "",
-        "floraison": null,
-        "croissance_djc": null,
-        "croissance_travaux": "",
-        "croissance": null,
-        "maturation_djc": null,
-        "maturation_travaux": "",
-        "maturation": null,
-        "senescence_djc": null,
-        "senescence_travaux": "",
-        "senescence": null,
-        "photo": "",
-        "semis_djc": null,
-        "semis": null,
-        "semis_travaux": "",
-        "boutures_djc": null,
-        "boutures": null,
-        "boutures_travaux": ""
-      },
-      {
         "espece": "Chèvrefeuille de JL",
         "url": "",
         "notes": "",
@@ -4164,7 +4131,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 87
+    "_modCount": 88
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
