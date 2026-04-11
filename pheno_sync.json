@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775915643747,
-  "_date": "2026-04-11T13:54:03.747Z",
-  "_modCount": 111,
+  "_ts": 1775915697315,
+  "_date": "2026-04-11T13:54:57.315Z",
+  "_modCount": 112,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -2600,7 +2600,7 @@
           2,
           0
         ],
-        "feuillaison_travaux": "Feuilles bipennées délicates, arrosage modéré, plein soleil",
+        "feuillaison_travaux": "Observation",
         "floraison_djc": 299,
         "floraison": [
           1,
@@ -4266,7 +4266,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 58
+    "_modCount": 59
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
@@ -4399,7 +4399,8 @@
     "ko6__rable_katsura_debourrement_0": true,
     "ko6__rable_katsura_debourrement_1": true,
     "ko6_Hortensia_debourrement_0": true,
-    "ko6_Houx_senescence_0": true
+    "ko6_Houx_senescence_0": true,
+    "ko6_Mimosa__Acacia_dealbata__feuillaison_0": true
   },
   "config": {
     "ville1": {
