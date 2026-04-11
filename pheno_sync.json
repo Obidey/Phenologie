@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775915443262,
-  "_date": "2026-04-11T13:50:43.262Z",
-  "_modCount": 102,
+  "_ts": 1775915447045,
+  "_date": "2026-04-11T13:50:47.045Z",
+  "_modCount": 103,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4432,7 +4432,8 @@
     "ko3_Cognassier_du_Japon__Chaenomeles__feuillaison_1": true,
     "ko3_Mimosa__Acacia_dealbata__debourrement_0": true,
     "ko4_Pins__noir_Noir__Pinus_thunbergii_semis_0": true,
-    "ko4_Pins__noir_Noir__Pinus_thunbergii_semis_1": true
+    "ko4_Pins__noir_Noir__Pinus_thunbergii_semis_1": true,
+    "ko5_Satsuki___Azal_e_du_Japon__boutures_0": true
   },
   "config": {
     "ville1": {
