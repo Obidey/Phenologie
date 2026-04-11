@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775917023166,
-  "_date": "2026-04-11T14:17:03.166Z",
-  "_modCount": 186,
+  "_ts": 1775917051011,
+  "_date": "2026-04-11T14:17:31.011Z",
+  "_modCount": 187,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -2944,7 +2944,7 @@
           2,
           1
         ],
-        "senescence_travaux": "",
+        "senescence_travaux": "Observation",
         "semis_djc": 992,
         "semis": [
           3,
@@ -2953,7 +2953,8 @@
         "semis_travaux": "",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": ""
+        "boutures_travaux": "",
+        "photo": ""
       },
       {
         "espece": "Pin maritime",
@@ -4192,7 +4193,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 81
+    "_modCount": 82
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
