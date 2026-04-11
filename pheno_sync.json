@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775917306814,
-  "_date": "2026-04-11T14:21:46.814Z",
-  "_modCount": 200,
+  "_ts": 1775917324564,
+  "_date": "2026-04-11T14:22:04.564Z",
+  "_modCount": 201,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -2114,60 +2114,6 @@
         "photo": ""
       },
       {
-        "espece": "Jasminum Starry Night",
-        "notes": "Grimpant semi-persistant - Jasmin étoilé",
-        "url": "https://fr.wikipedia.org/wiki/Jasminum_officinale",
-        "debourrement_djc": 798,
-        "debourrement": [
-          2,
-          0.6566757493188011
-        ],
-        "debourrement_travaux": "Engrais",
-        "feuillaison_djc": 992,
-        "feuillaison": [
-          3,
-          0
-        ],
-        "feuillaison_travaux": "Engrais arrosage",
-        "floraison_djc": 1608,
-        "floraison": [
-          4,
-          0.48623853211009177
-        ],
-        "floraison_travaux": "",
-        "croissance_djc": 1449,
-        "croissance": [
-          4,
-          0
-        ],
-        "croissance_travaux": "",
-        "maturation_djc": 4024,
-        "maturation": [
-          8,
-          0
-        ],
-        "maturation_travaux": "",
-        "senescence_djc": 5010,
-        "senescence": [
-          10,
-          0
-        ],
-        "senescence_travaux": "",
-        "semis_djc": 992,
-        "semis": [
-          3,
-          0
-        ],
-        "semis_travaux": "",
-        "boutures_djc": 1449,
-        "boutures": [
-          4,
-          0
-        ],
-        "boutures_travaux": "",
-        "photo": ""
-      },
-      {
         "espece": "Juniperus  Itoigawa (chinensis)",
         "notes": "Persistant",
         "url": "https://fr.wikipedia.org/wiki/Gen%C3%A9vrier",
@@ -4101,7 +4047,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 91
+    "_modCount": 92
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
