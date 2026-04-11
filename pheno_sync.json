@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775915317985,
-  "_date": "2026-04-11T13:48:37.985Z",
-  "_modCount": 96,
+  "_ts": 1775915359717,
+  "_date": "2026-04-11T13:49:19.717Z",
+  "_modCount": 97,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -1116,7 +1116,7 @@
           1,
           0.431924882629108
         ],
-        "feuillaison_travaux": "Pinçage pousses vigoureuses, ligature, défoliation possible",
+        "feuillaison_travaux": "Pinçage pousses vigoureuses + \n ligature",
         "floraison_djc": 299,
         "floraison": [
           1,
