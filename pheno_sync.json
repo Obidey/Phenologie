@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775915508135,
-  "_date": "2026-04-11T13:51:48.135Z",
-  "_modCount": 105,
+  "_ts": 1775915570751,
+  "_date": "2026-04-11T13:52:50.751Z",
+  "_modCount": 106,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4433,7 +4433,9 @@
     "ko3_Mimosa__Acacia_dealbata__debourrement_0": true,
     "ko4_Pins__noir_Noir__Pinus_thunbergii_semis_0": true,
     "ko4_Pins__noir_Noir__Pinus_thunbergii_semis_1": true,
-    "ko5_Satsuki___Azal_e_du_Japon__boutures_0": true
+    "ko5_Satsuki___Azal_e_du_Japon__boutures_0": true,
+    "ko6_Erable_Beni_Shichihenge_debourrement_0": true,
+    "ko6_Erable_Beni_Shichihenge_debourrement_1": true
   },
   "config": {
     "ville1": {
