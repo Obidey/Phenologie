@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775916353997,
-  "_date": "2026-04-11T14:05:53.997Z",
-  "_modCount": 145,
+  "_ts": 1775916360317,
+  "_date": "2026-04-11T14:06:00.317Z",
+  "_modCount": 146,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4347,7 +4347,8 @@
     "ko10_Arbre_de_Jud_e__Cercis_siliquastrum__floraison_0": true,
     "ko10_Azal_e_indica__de_Chine__floraison_0": true,
     "ko10_Bougainvillier_Violet_de_M_ze_boutures_0": true,
-    "ko10_Cerisier_du_Japon__Sakura__debourrement_0": true
+    "ko10_Cerisier_du_Japon__Sakura__debourrement_0": true,
+    "ko10_Cerisier_du_Japon__Sakura__floraison_0": true
   },
   "config": {
     "ville1": {
