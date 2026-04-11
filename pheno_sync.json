@@ -1,10 +1,10 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775892010260,
-  "_date": "2026-04-11T07:20:10.260Z",
-  "_modCount": 65,
-  "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
+  "_ts": 1775892039217,
+  "_date": "2026-04-11T07:20:39.217Z",
+  "_modCount": 66,
+  "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
       "0": "11-255°J",
@@ -4386,7 +4386,8 @@
     "ko13_Glycine_feuillaison_3": true,
     "ko14_Charme__Carpinus_betulus__floraison_0": true,
     "ko14_Charme__Carpinus_betulus__floraison_1": true,
-    "ko14_Charme__Carpinus_betulus__floraison_2": true
+    "ko14_Charme__Carpinus_betulus__floraison_2": true,
+    "ko14_Ch_vrefeuille_debourrement_0": true
   },
   "config": {
     "ville1": {
