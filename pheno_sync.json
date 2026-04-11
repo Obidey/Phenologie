@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775917685092,
-  "_date": "2026-04-11T14:28:05.092Z",
-  "_modCount": 221,
+  "_ts": 1775917694424,
+  "_date": "2026-04-11T14:28:14.424Z",
+  "_modCount": 222,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4291,7 +4291,10 @@
     "ko14_Fr_ne_floraison_0": true,
     "ko14_Glycine_floraison_0": true,
     "ko14_Glycine_floraison_1": true,
-    "ko14_Pin_noir_du_Japon_debourrement_0": true
+    "ko14_Pin_noir_du_Japon_debourrement_0": true,
+    "ko14_Pin_noir_du_Japon_semis_0": true,
+    "ko14_Pin_noir_du_Japon_semis_1": true,
+    "ko14_Pin_noir_du_Japon_semis_2": true
   },
   "config": {
     "ville1": {
