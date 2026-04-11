@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775915869218,
-  "_date": "2026-04-11T13:57:49.218Z",
-  "_modCount": 121,
+  "_ts": 1775915881353,
+  "_date": "2026-04-11T13:58:01.353Z",
+  "_modCount": 122,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -1801,7 +1801,7 @@
           2,
           0.1362397820163488
         ],
-        "floraison_travaux": "",
+        "floraison_travaux": "Observation",
         "croissance_djc": 1070,
         "croissance": [
           3,
