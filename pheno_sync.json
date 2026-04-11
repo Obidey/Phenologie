@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775917557336,
-  "_date": "2026-04-11T14:25:57.336Z",
-  "_modCount": 212,
+  "_ts": 1775917596521,
+  "_date": "2026-04-11T14:26:36.521Z",
+  "_modCount": 213,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -1795,37 +1795,37 @@
         "espece": "Frêne",
         "notes": "Caduc",
         "url": "https://fr.wikipedia.org/wiki/Fr%C3%AAne_commun",
-        "debourrement_djc": 900,
+        "debourrement_djc": 1070,
         "debourrement": [
-          2,
-          0.9346049046321526
+          3,
+          0.21487603305785125
         ],
         "debourrement_travaux": "Taille avant débourrement, bourgeons noirs caractéristiques",
-        "feuillaison_djc": 1050,
+        "feuillaison_djc": 1142,
         "feuillaison": [
           3,
-          0.15977961432506887
+          0.4132231404958678
         ],
-        "feuillaison_travaux": "Feuilles pennées, défoliation totale juin, ligature",
-        "floraison_djc": 1100,
+        "feuillaison_travaux": "Feuilles pennées, défoliation possible totale juin, ligature",
+        "floraison_djc": 1070,
         "floraison": [
           3,
-          0.2975206611570248
+          0.21487603305785125
         ],
         "floraison_travaux": "Fleurs avant feuilles, discrètes, pas d'intervention",
-        "croissance_djc": 1700,
+        "croissance_djc": 1689,
         "croissance": [
           4,
-          0.7675840978593272
+          0.7339449541284404
         ],
         "croissance_travaux": "Croissance rapide, pinçage fréquent, fertilisation, arrosage abondant",
-        "maturation_djc": 2400,
+        "maturation_djc": 2448,
         "maturation": [
           5,
-          0.9136690647482014
+          1
         ],
         "maturation_travaux": "Samares ailées décoratifs, retirer pour éviter épuisement",
-        "senescence_djc": 5000,
+        "senescence_djc": 5010,
         "senescence": [
           10,
           0
@@ -1836,7 +1836,8 @@
         "semis_travaux": "Samares stratifiées 2 étapes (chaud puis froid), germination printemps N+1",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures ligneuses hiver, résultats variables"
+        "boutures_travaux": "Boutures ligneuses hiver, résultats variables",
+        "photo": ""
       },
       {
         "espece": "Glycine",
@@ -4049,7 +4050,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 98
+    "_modCount": 99
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
