@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775918947460,
-  "_date": "2026-04-11T14:49:07.460Z",
-  "_modCount": 234,
+  "_ts": 1775919001502,
+  "_date": "2026-04-11T14:50:01.502Z",
+  "_modCount": 235,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -1075,7 +1075,7 @@
           1,
           0.431924882629108
         ],
-        "feuillaison_travaux": "Pinçage pousses vigoureuses + \n ligature",
+        "feuillaison_travaux": "Pinçage pousses vigoureuses +  ligature",
         "floraison_djc": 299,
         "floraison": [
           1,
@@ -1087,7 +1087,7 @@
           3,
           0.4132231404958678
         ],
-        "croissance_travaux": "Fertilisation équilibrée, ligature, nombreuses épines à gérer",
+        "croissance_travaux": "Fertilisation équilibrée, ligature",
         "maturation_djc": 2448,
         "maturation": [
           5,
@@ -4032,7 +4032,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 107
+    "_modCount": 108
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
