@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775916565162,
-  "_date": "2026-04-11T14:09:25.162Z",
-  "_modCount": 159,
+  "_ts": 1775916604127,
+  "_date": "2026-04-11T14:10:04.127Z",
+  "_modCount": 160,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -316,10 +316,10 @@
           0.6566757493188011
         ],
         "floraison_travaux": "Floraison directement sur le bois (cauliflore) — ne pas tailler !",
-        "croissance_djc": 860,
+        "croissance_djc": 992,
         "croissance": [
-          2,
-          0.8256130790190735
+          3,
+          0
         ],
         "croissance_travaux": "Fertilisation modérée, ligature souple, rempotage tous 2-3 ans",
         "maturation_djc": 2448,
@@ -339,7 +339,8 @@
         "semis_travaux": "Graines scarifiées eau bouillante + stratification 4 sem. froid",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Difficiles — boutures vertes juin avec hormone, résultat aléatoire"
+        "boutures_travaux": "Difficiles — boutures vertes juin avec hormone, résultat aléatoire",
+        "photo": ""
       },
       {
         "espece": "Arum d'Italie",
