@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775917015562,
-  "_date": "2026-04-11T14:16:55.562Z",
-  "_modCount": 184,
+  "_ts": 1775917019717,
+  "_date": "2026-04-11T14:16:59.717Z",
+  "_modCount": 185,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4406,7 +4406,8 @@
     "ko12__rable_Shojo_floraison_0": true,
     "ko12_Fr_ne_debourrement_0": true,
     "ko12_Fr_ne_debourrement_1": true,
-    "ko12_Jasmin_d_Espagne_debourrement_0": true
+    "ko12_Jasmin_d_Espagne_debourrement_0": true,
+    "ko12_Laurier_feuillaison_0": true
   },
   "config": {
     "ville1": {
