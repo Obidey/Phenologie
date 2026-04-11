@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775917071146,
-  "_date": "2026-04-11T14:17:51.146Z",
-  "_modCount": 190,
+  "_ts": 1775917134295,
+  "_date": "2026-04-11T14:18:54.295Z",
+  "_modCount": 191,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -3448,7 +3448,7 @@
           2,
           1
         ],
-        "croissance_travaux": "Fertilisation azotée, arrosage régulier, ligature",
+        "croissance_travaux": "Fertilisation azotée Ligatures boutures  aeriennes",
         "maturation_djc": 1272,
         "maturation": [
           3,
@@ -3466,7 +3466,8 @@
         "semis_travaux": "Noyaux stratifiés froid 8-10 sem., semis printemps",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses juin avec hormone, résultats corrects"
+        "boutures_travaux": "Boutures semi-ligneuses juin avec hormone, résultats corrects",
+        "photo": ""
       },
       {
         "espece": "Romarin",
@@ -4194,7 +4195,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 83
+    "_modCount": 84
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
@@ -4412,7 +4413,8 @@
     "ko12_Laurier_feuillaison_0": true,
     "ko12_Pin_noir_du_Japon_senescence_0": true,
     "ko12_Pin_noir_du_Japon_senescence_1": true,
-    "ko12_Pin_d_Alep_senescence_0": true
+    "ko12_Pin_d_Alep_senescence_0": true,
+    "ko12_Prunus_mume_croissance_0": true
   },
   "config": {
     "ville1": {
