@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775915888075,
-  "_date": "2026-04-11T13:58:08.075Z",
-  "_modCount": 123,
+  "_ts": 1775915918250,
+  "_date": "2026-04-11T13:58:38.250Z",
+  "_modCount": 124,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -3565,53 +3565,6 @@
         "boutures_djc": null,
         "boutures": null,
         "boutures_travaux": ""
-      },
-      {
-        "espece": "Satsuki ( Azalée du Japon)",
-        "notes": "Persistant (climat doux)",
-        "url": "https://fr.wikipedia.org/wiki/Rhododendron_(genre)",
-        "debourrement_djc": 607,
-        "debourrement": [
-          2,
-          0.1362397820163488
-        ],
-        "debourrement_travaux": "Taille drastique si besoin bour reconfigurer l'arbre",
-        "feuillaison_djc": 726,
-        "feuillaison": [
-          2,
-          0.4604904632152589
-        ],
-        "feuillaison_travaux": "",
-        "floraison_djc": 1892,
-        "floraison": [
-          5,
-          0
-        ],
-        "floraison_travaux": "Rempotage après floraison, substrat acide (pH 5-6), taille légèrepas d'engrais pendant floraison",
-        "croissance_djc": 1530,
-        "croissance": [
-          4,
-          0.24770642201834864
-        ],
-        "croissance_travaux": "Fertilisation pour acidophiles, ligature souple, mi-ombre été",
-        "maturation_djc": 2448,
-        "maturation": [
-          5,
-          1
-        ],
-        "maturation_travaux": "Retirer capsules graines pour économiser énergie",
-        "senescence_djc": null,
-        "senescence": null,
-        "senescence_travaux": "Demi-persistant selon variété, protection contre froid sec",
-        "semis_djc": null,
-        "semis": null,
-        "semis_travaux": "Graines très fines, semis superficiel, substrat acide humide, lumière",
-        "boutures_djc": 512,
-        "boutures": [
-          1,
-          1
-        ],
-        "boutures_travaux": "Boutures semi-ligneuses Février juin-juillet + substrat acide+brumisation+hormone mais egalement février au japon"
       },
       {
         "espece": "Saule",
