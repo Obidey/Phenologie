@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775917134295,
-  "_date": "2026-04-11T14:18:54.295Z",
-  "_modCount": 191,
+  "_ts": 1775917151525,
+  "_date": "2026-04-11T14:19:11.525Z",
+  "_modCount": 192,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4005,10 +4005,10 @@
         "espece": "Test 4",
         "notes": "",
         "url": "",
-        "debourrement_djc": 924,
+        "debourrement_djc": 1070,
         "debourrement": [
-          2,
-          1
+          3,
+          0.21487603305785125
         ],
         "debourrement_travaux": "test 4 travx",
         "feuillaison_djc": null,
@@ -4031,7 +4031,8 @@
         "semis_travaux": "",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": ""
+        "boutures_travaux": "",
+        "photo": ""
       },
       {
         "espece": "test 5 depuis chrome",
@@ -4195,7 +4196,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 84
+    "_modCount": 85
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
