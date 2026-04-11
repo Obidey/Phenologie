@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775923319464,
-  "_date": "2026-04-11T16:01:59.464Z",
-  "_modCount": 264,
+  "_ts": 1775923497627,
+  "_date": "2026-04-11T16:04:57.627Z",
+  "_modCount": 265,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4220,10 +4220,43 @@
         "boutures_djc": null,
         "boutures": null,
         "boutures_travaux": "Division des rejets basaux ou sections de tronc au printemps"
+      },
+      {
+        "espece": "Remptage des pins",
+        "url": "https://calendar.google.com/calendar/u/0/r/eventedit/NzVybDdiaGlmbm1za2NiMGRyN3VtMTZvaXBfMjAyNjAzMTUgMjE3ODc3YjU1OTE1ZDk5N2UxMDJmMmY0YWQzZGE1YjYyMmExNjlmYTNjODYzYzcyMjgzYzk0OTM1YWEyNjdjMUBn",
+        "notes": "",
+        "debourrement_djc": 860,
+        "debourrement_travaux": "",
+        "debourrement": [
+          2,
+          0.8256130790190735
+        ],
+        "feuillaison_djc": null,
+        "feuillaison_travaux": "",
+        "feuillaison": null,
+        "floraison_djc": null,
+        "floraison_travaux": "",
+        "floraison": null,
+        "croissance_djc": null,
+        "croissance_travaux": "",
+        "croissance": null,
+        "maturation_djc": null,
+        "maturation_travaux": "",
+        "maturation": null,
+        "senescence_djc": null,
+        "senescence_travaux": "",
+        "senescence": null,
+        "photo": "",
+        "semis_djc": null,
+        "semis": null,
+        "semis_travaux": "",
+        "boutures_djc": null,
+        "boutures": null,
+        "boutures_travaux": ""
       }
     ],
     "_version": "v20",
-    "_modCount": 123
+    "_modCount": 124
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
