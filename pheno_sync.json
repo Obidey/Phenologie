@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775917673545,
-  "_date": "2026-04-11T14:27:53.545Z",
-  "_modCount": 220,
+  "_ts": 1775917685092,
+  "_date": "2026-04-11T14:28:05.092Z",
+  "_modCount": 221,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -2963,7 +2963,7 @@
           3,
           0.21487603305785125
         ],
-        "debourrement_travaux": "Observer l'élongation des bougies, retrait protection hivernale",
+        "debourrement_travaux": "Observer l'élongation des bougies",
         "feuillaison_djc": 1142,
         "feuillaison": [
           3,
@@ -3002,7 +3002,8 @@
         "semis_travaux": "Semis en terrine, stratification à froid 4-6 sem., repiquage après levée",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": ""
+        "boutures_travaux": "",
+        "photo": ""
       },
       {
         "espece": "Pin parasol",
@@ -4050,7 +4051,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 101
+    "_modCount": 102
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
