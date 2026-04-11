@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775917464022,
-  "_date": "2026-04-11T14:24:24.022Z",
-  "_modCount": 206,
+  "_ts": 1775917491169,
+  "_date": "2026-04-11T14:24:51.169Z",
+  "_modCount": 207,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -3042,7 +3042,7 @@
           3,
           0
         ],
-        "senescence_travaux": "",
+        "senescence_travaux": "Observation",
         "semis_djc": 1142,
         "semis": [
           3,
@@ -3051,7 +3051,8 @@
         "semis_travaux": "",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": ""
+        "boutures_travaux": "",
+        "photo": ""
       },
       {
         "espece": "Pin rouge du Japon",
@@ -4048,7 +4049,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 96
+    "_modCount": 97
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
