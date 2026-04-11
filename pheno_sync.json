@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775925559853,
-  "_date": "2026-04-11T16:39:19.853Z",
-  "_modCount": 274,
+  "_ts": 1775925649373,
+  "_date": "2026-04-11T16:40:49.373Z",
+  "_modCount": 275,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -618,7 +618,7 @@
         "boutures_travaux": "Division des rejets basaux au printemps, facile"
       },
       {
-        "espece": "Bougainvillier",
+        "espece": "Bougainvillier (Alexandra, Princess Thai…)",
         "notes": "Semi-persistant climat doux",
         "url": "https://fr.wikipedia.org/wiki/Bougainvill%C3%A9e",
         "debourrement_djc": 798,
@@ -626,7 +626,7 @@
           2,
           0.6566757493188011
         ],
-        "debourrement_travaux": "Taille sévère fin hiver, favorise floraison sur bois de l'année, purgeons au nebari",
+        "debourrement_travaux": "Taille sévère fin hiver, favorise floraison sur bois de l'année, burgeons au nebari (Princess Thai)",
         "feuillaison_djc": null,
         "feuillaison": null,
         "feuillaison_travaux": "Pinçage pousses après 2 feuilles pour densifier",
@@ -4299,7 +4299,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 127
+    "_modCount": 128
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
