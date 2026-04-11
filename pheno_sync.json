@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775916559104,
-  "_date": "2026-04-11T14:09:19.104Z",
-  "_modCount": 158,
+  "_ts": 1775916565162,
+  "_date": "2026-04-11T14:09:25.162Z",
+  "_modCount": 159,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4369,7 +4369,10 @@
     "ko10_Pommier_du_Japon_debourrement_0": true,
     "ko10_Saule_debourrement_0": true,
     "ko11_Acacia_Constantinople_debourrement_0": true,
-    "ko11_Acacia_Constantinople_debourrement_1": true
+    "ko11_Acacia_Constantinople_debourrement_1": true,
+    "ko11_Arbre_de_Jud_e__Cercis_siliquastrum__croissance_0": true,
+    "ko11_Arbre_de_Jud_e__Cercis_siliquastrum__croissance_1": true,
+    "ko11_Arbre_de_Jud_e__Cercis_siliquastrum__croissance_2": true
   },
   "config": {
     "ville1": {
