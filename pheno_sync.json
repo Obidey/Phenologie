@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775917491169,
-  "_date": "2026-04-11T14:24:51.169Z",
-  "_modCount": 207,
+  "_ts": 1775917494734,
+  "_date": "2026-04-11T14:24:54.734Z",
+  "_modCount": 208,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4275,7 +4275,8 @@
     "ko13_Jasminum_Starry_Night_feuillaison_0": true,
     "ko13_Pin_d_Alep_debourrement_0": true,
     "ko13_Pin_blanc_du_Japon_senescence_0": true,
-    "ko13_Pin_d_Alep_semis_0": true
+    "ko13_Pin_d_Alep_semis_0": true,
+    "ko13_Pin_parasol_senescence_0": true
   },
   "config": {
     "ville1": {
