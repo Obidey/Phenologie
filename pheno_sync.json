@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775916276501,
-  "_date": "2026-04-11T14:04:36.501Z",
-  "_modCount": 141,
+  "_ts": 1775916331313,
+  "_date": "2026-04-11T14:05:31.313Z",
+  "_modCount": 142,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -3728,7 +3728,7 @@
           2,
           0.6566757493188011
         ],
-        "floraison_travaux": "Spectaculaire, arrosage eau de pluie, pas d'engrais pendant floraison, Rempotage après floraison, substrat acide (pH 5-6), taille légère",
+        "floraison_travaux": "Spectaculairepas d'engrais pendant floraison, Rempotage après floraison substrat acide (pH 5-6), taille légère",
         "croissance_djc": 1530,
         "croissance": [
           4,
@@ -3749,7 +3749,8 @@
         "semis_travaux": "Graines très fines, semis superficiel, substrat acide humide, lumière",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses juin-juillet, substrat acide, brumisation, hormone"
+        "boutures_travaux": "Boutures semi-ligneuses juin-juillet, substrat acide, brumisation, hormone",
+        "photo": ""
       },
       {
         "espece": "Azalées Satsuki (Japon)",
@@ -4177,7 +4178,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 65
+    "_modCount": 66
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
