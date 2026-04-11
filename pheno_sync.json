@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775915380900,
-  "_date": "2026-04-11T13:49:40.900Z",
-  "_modCount": 99,
+  "_ts": 1775915385887,
+  "_date": "2026-04-11T13:49:45.887Z",
+  "_modCount": 100,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4429,7 +4429,8 @@
     "ko1_Mimosa__Acacia_dealbata__floraison_0": true,
     "ko1_Paturin_des_pres_debourrement_0": true,
     "ko3_Cognassier_du_Japon__Chaenomeles__feuillaison_0": true,
-    "ko3_Cognassier_du_Japon__Chaenomeles__feuillaison_1": true
+    "ko3_Cognassier_du_Japon__Chaenomeles__feuillaison_1": true,
+    "ko3_Mimosa__Acacia_dealbata__debourrement_0": true
   },
   "config": {
     "ville1": {
