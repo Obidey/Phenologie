@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775923573043,
-  "_date": "2026-04-11T16:06:13.043Z",
-  "_modCount": 266,
+  "_ts": 1775923664327,
+  "_date": "2026-04-11T16:07:44.327Z",
+  "_modCount": 267,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -3434,12 +3434,12 @@
         "espece": "Pin noir du Japon",
         "notes": "Conifère - Pinus thunbergii",
         "url": "https://fr.wikipedia.org/wiki/Pin_(genre_v%C3%A9g%C3%A9tal)",
-        "debourrement_djc": 1070,
+        "debourrement_djc": 992,
         "debourrement": [
           3,
-          0.21487603305785125
+          0
         ],
-        "debourrement_travaux": "Observer l'élongation des bougies",
+        "debourrement_travaux": "Observer l'élongation des bougies, France Bonsai N° 79 :  Effeuillage total d'un Pinus thunbergii au printemps Kodera,",
         "feuillaison_djc": 1142,
         "feuillaison": [
           3,
@@ -4256,7 +4256,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 124
+    "_modCount": 125
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
