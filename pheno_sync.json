@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775917270815,
-  "_date": "2026-04-11T14:21:10.815Z",
-  "_modCount": 199,
+  "_ts": 1775917306814,
+  "_date": "2026-04-11T14:21:46.814Z",
+  "_modCount": 200,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -2128,7 +2128,7 @@
           3,
           0
         ],
-        "feuillaison_travaux": "",
+        "feuillaison_travaux": "Engrais arrosage",
         "floraison_djc": 1608,
         "floraison": [
           4,
@@ -2164,7 +2164,8 @@
           4,
           0
         ],
-        "boutures_travaux": ""
+        "boutures_travaux": "",
+        "photo": ""
       },
       {
         "espece": "Juniperus  Itoigawa (chinensis)",
@@ -4100,7 +4101,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 90
+    "_modCount": 91
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
@@ -4322,7 +4323,8 @@
     "ko12_Prunus_mume_croissance_0": true,
     "ko13_Arbre_de_Jud_e__Cercis_siliquastrum__croissance_0": true,
     "ko13_Arbre_de_Jud_e__Cercis_siliquastrum__croissance_1": true,
-    "ko13_Arbre_de_Jud_e__Cercis_siliquastrum__croissance_2": true
+    "ko13_Arbre_de_Jud_e__Cercis_siliquastrum__croissance_2": true,
+    "ko13_Jasminum_Starry_Night_feuillaison_0": true
   },
   "config": {
     "ville1": {
