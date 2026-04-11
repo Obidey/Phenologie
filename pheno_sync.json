@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775916273201,
-  "_date": "2026-04-11T14:04:33.201Z",
-  "_modCount": 140,
+  "_ts": 1775916276501,
+  "_date": "2026-04-11T14:04:36.501Z",
+  "_modCount": 141,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4342,7 +4342,8 @@
     "ko9_Juniperus_rigida_debourrement_0": true,
     "ko9_Lierre_debourrement_0": true,
     "ko9_Saule_feuillaison_0": true,
-    "ko10_Arbre_de_Jud_e__Cercis_siliquastrum__debourrement_0": true
+    "ko10_Arbre_de_Jud_e__Cercis_siliquastrum__debourrement_0": true,
+    "ko10_Arbre_de_Jud_e__Cercis_siliquastrum__floraison_0": true
   },
   "config": {
     "ville1": {
