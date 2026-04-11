@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775919279151,
-  "_date": "2026-04-11T14:54:39.151Z",
-  "_modCount": 239,
+  "_ts": 1775919373517,
+  "_date": "2026-04-11T14:56:13.517Z",
+  "_modCount": 240,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -1021,31 +1021,31 @@
         "espece": "Citrus Limon (Citronnier)",
         "notes": "Persistant - Floraison remontante",
         "url": "https://fr.wikipedia.org/wiki/Citronnier",
-        "debourrement_djc": 1200,
+        "debourrement_djc": 1210,
         "debourrement": [
           3,
-          0.5730027548209367
+          0.6005509641873278
         ],
         "debourrement_travaux": "Rempotage printemps, substrat spécial agrumes, taille légère",
-        "feuillaison_djc": 1400,
+        "feuillaison_djc": 1355,
         "feuillaison": [
-          4,
-          0
+          3,
+          1
         ],
         "feuillaison_travaux": "Pinçage nouvelles pousses, traitement préventif cochenilles",
-        "floraison_djc": 1800,
+        "floraison_djc": 1776,
         "floraison": [
-          5,
-          0
+          4,
+          1
         ],
         "floraison_travaux": "Fleurs parfumées toute l'année, arrosage eau de pluie tiède",
-        "croissance_djc": 2500,
+        "croissance_djc": 2448,
         "croissance": [
-          6,
-          0
+          5,
+          1
         ],
         "croissance_travaux": "Fertilisation agrumes riche, plein soleil, sortir en été",
-        "maturation_djc": 4000,
+        "maturation_djc": 4024,
         "maturation": [
           8,
           0
@@ -1059,7 +1059,9 @@
         "semis_travaux": "Pépins frais non séchés, 25°C, germination facile mais lente",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses printemps avec hormone, 25°C, résultat moyen"
+        "boutures_travaux": "Boutures semi-ligneuses printemps avec hormone, 25°C, résultat moyen",
+        "_hidden": true,
+        "photo": ""
       },
       {
         "espece": "Cognassier du Japon (Chaenomeles)",
