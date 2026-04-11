@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775915209089,
-  "_date": "2026-04-11T13:46:49.089Z",
-  "_modCount": 92,
+  "_ts": 1775915271264,
+  "_date": "2026-04-11T13:47:51.264Z",
+  "_modCount": 93,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4423,7 +4423,8 @@
     "ko13_Glycine_feuillaison_3": true,
     "ko14_Charme__Carpinus_betulus__floraison_0": true,
     "ko14_Charme__Carpinus_betulus__floraison_1": true,
-    "ko14_Charme__Carpinus_betulus__floraison_2": true
+    "ko14_Charme__Carpinus_betulus__floraison_2": true,
+    "ko1_Cognassier_du_Japon__Chaenomeles__floraison_0": true
   },
   "config": {
     "ville1": {
