@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775916744041,
-  "_date": "2026-04-11T14:12:24.041Z",
-  "_modCount": 168,
+  "_ts": 1775916752179,
+  "_date": "2026-04-11T14:12:32.179Z",
+  "_modCount": 169,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4383,7 +4383,9 @@
     "ko11_Pommier_du_Japon_feuillaison_0": true,
     "ko11_Lavande_feuillaison_0": true,
     "ko11_Pommier_du_Japon_floraison_0": true,
-    "ko12_Acacia_faux_robinier_feuillaison_0": true
+    "ko12_Acacia_faux_robinier_feuillaison_0": true,
+    "ko12_Arbre_de_Jud_e__Cercis_siliquastrum__feuillaison_0": true,
+    "ko12_Cerisier_du_Japon__Sakura__feuillaison_0": true
   },
   "config": {
     "ville1": {
