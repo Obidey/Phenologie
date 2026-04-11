@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775916249983,
-  "_date": "2026-04-11T14:04:09.983Z",
-  "_modCount": 138,
+  "_ts": 1775916256160,
+  "_date": "2026-04-11T14:04:16.160Z",
+  "_modCount": 139,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4339,7 +4339,9 @@
     "ko8_Pin_maritime_debourrement_0": true,
     "ko9_Juniperus__Itoigawa__chinensis__feuillaison_0": true,
     "ko9_Juniperus__Itoigawa__chinensis__feuillaison_1": true,
-    "ko9_Juniperus_rigida_debourrement_0": true
+    "ko9_Juniperus_rigida_debourrement_0": true,
+    "ko9_Lierre_debourrement_0": true,
+    "ko9_Saule_feuillaison_0": true
   },
   "config": {
     "ville1": {
