@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775917238645,
-  "_date": "2026-04-11T14:20:38.645Z",
-  "_modCount": 197,
+  "_ts": 1775917251277,
+  "_date": "2026-04-11T14:20:51.277Z",
+  "_modCount": 198,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4212,8 +4212,8 @@
     "ko13_Pin_rouge_du_Japon_semis_0": true,
     "ko13_Datura_debourrement_0": true,
     "ko13_Datura_debourrement_1": true,
-    "ko13_Glycine_feuillaison_1": true,
-    "ko13_Glycine_feuillaison_2": true,
+    "ko13_Glycine_feuillaison_1": false,
+    "ko13_Glycine_feuillaison_2": false,
     "ko13_Glycine_feuillaison_3": true,
     "ko14_Charme__Carpinus_betulus__floraison_0": true,
     "ko14_Charme__Carpinus_betulus__floraison_1": true,
