@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775927743883,
-  "_date": "2026-04-11T17:15:43.883Z",
-  "_modCount": 282,
+  "_ts": 1775927801329,
+  "_date": "2026-04-11T17:16:41.329Z",
+  "_modCount": 283,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -3285,7 +3285,7 @@
         "boutures_travaux": "Division massive rhizomes printemps, sections avec noeuds"
       },
       {
-        "espece": "Phyllostachys vivaxaureasulcata",
+        "espece": "Phyllostachys aureosulcata",
         "notes": "Persistant",
         "url": "https://fr.wikipedia.org/wiki/Phyllostachys_vivax",
         "debourrement_djc": 557,
