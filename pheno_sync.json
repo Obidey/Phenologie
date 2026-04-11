@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775923063179,
-  "_date": "2026-04-11T15:57:43.179Z",
-  "_modCount": 259,
+  "_ts": 1775923104003,
+  "_date": "2026-04-11T15:58:24.003Z",
+  "_modCount": 260,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -2262,6 +2262,42 @@
         "photo": ""
       },
       {
+        "espece": "HASUKASHI: Réduire les aiguilles des pins noirs à 2 ou 3 paires 15 nov.  => 15 avril",
+        "url": "",
+        "notes": "",
+        "debourrement_djc": null,
+        "debourrement_travaux": "",
+        "debourrement": null,
+        "feuillaison_djc": null,
+        "feuillaison_travaux": "",
+        "feuillaison": null,
+        "floraison_djc": null,
+        "floraison_travaux": "",
+        "floraison": null,
+        "croissance_djc": null,
+        "croissance_travaux": "",
+        "croissance": null,
+        "maturation_djc": 5160,
+        "maturation_travaux": "",
+        "maturation": [
+          10,
+          0.47318611987381703
+        ],
+        "senescence_djc": 5160,
+        "senescence_travaux": "(SYLVESTRES )(ROMERO) COUPER LES POUSSES FORTES ( LAISSER AU MOINS UNE CHANDELLE) DU BOUT POUR FAVORISER LES PETITS BOURGEONS DE LA BRANCHE",
+        "senescence": [
+          10,
+          0.47318611987381703
+        ],
+        "photo": "",
+        "semis_djc": null,
+        "semis": null,
+        "semis_travaux": "",
+        "boutures_djc": null,
+        "boutures": null,
+        "boutures_travaux": ""
+      },
+      {
         "espece": "Hibiscus des marais",
         "notes": "Caduc tardif",
         "url": "https://fr.wikipedia.org/wiki/Hibiscus_moscheutos",
@@ -2957,42 +2993,6 @@
         "boutures": null,
         "boutures_travaux": "Boutures ligneuses hiver, résultats variables — marcottage aérien plus fiable",
         "_hidden": true
-      },
-      {
-        "espece": "HASUKASHI: Réduire les aiguilles des pins noirs à 2 ou 3 paires => 15 avril",
-        "url": "",
-        "notes": "",
-        "debourrement_djc": null,
-        "debourrement_travaux": "",
-        "debourrement": null,
-        "feuillaison_djc": null,
-        "feuillaison_travaux": "",
-        "feuillaison": null,
-        "floraison_djc": null,
-        "floraison_travaux": "",
-        "floraison": null,
-        "croissance_djc": null,
-        "croissance_travaux": "",
-        "croissance": null,
-        "maturation_djc": 5160,
-        "maturation_travaux": "",
-        "maturation": [
-          10,
-          0.47318611987381703
-        ],
-        "senescence_djc": 5160,
-        "senescence_travaux": "(SYLVESTRES )(ROMERO) COUPER LES POUSSES FORTES ( LAISSER AU MOINS UNE CHANDELLE) DU BOUT POUR FAVORISER LES PETITS BOURGEONS DE LA BRANCHE",
-        "senescence": [
-          10,
-          0.47318611987381703
-        ],
-        "photo": "",
-        "semis_djc": null,
-        "semis": null,
-        "semis_travaux": "",
-        "boutures_djc": null,
-        "boutures": null,
-        "boutures_travaux": ""
       },
       {
         "espece": "Palmier nain (Chamaerops humilis)",
@@ -4181,7 +4181,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 119
+    "_modCount": 120
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
