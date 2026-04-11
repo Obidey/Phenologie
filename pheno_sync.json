@@ -1,8 +1,8 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775920240177,
-  "_date": "2026-04-11T15:10:40.177Z",
+  "_ts": 1775920654652,
+  "_date": "2026-04-11T15:17:34.652Z",
   "_modCount": 245,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
@@ -4325,7 +4325,8 @@
     "ko13_Pin_blanc_du_Japon_senescence_1": true,
     "ko13_Pin_maritime_floraison_0": true,
     "ko13_Pin_sylvestre_debourrement_0": true,
-    "ko14_Pin_d_Alep_floraison_0": true
+    "ko14_Pin_d_Alep_floraison_0": true,
+    "ko14_Ciste_floraison_1": true
   },
   "config": {
     "ville1": {
