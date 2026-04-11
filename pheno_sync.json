@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775915759207,
-  "_date": "2026-04-11T13:55:59.207Z",
-  "_modCount": 113,
+  "_ts": 1775915801063,
+  "_date": "2026-04-11T13:56:41.063Z",
+  "_modCount": 114,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4400,7 +4400,11 @@
     "ko6__rable_katsura_debourrement_1": true,
     "ko6_Hortensia_debourrement_0": true,
     "ko6_Houx_senescence_0": true,
-    "ko6_Mimosa__Acacia_dealbata__feuillaison_0": true
+    "ko6_Mimosa__Acacia_dealbata__feuillaison_0": true,
+    "ko6_Pins__noir_Noir__Pinus_thunbergii_debourrement_0": true,
+    "ko6_Pins__noir_Noir__Pinus_thunbergii_debourrement_1": true,
+    "ko6_Pins__noir_Noir__Pinus_thunbergii_debourrement_2": true,
+    "ko6_Pins__noir_Noir__Pinus_thunbergii_debourrement_3": true
   },
   "config": {
     "ville1": {
