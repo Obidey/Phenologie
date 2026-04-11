@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775914093409,
-  "_date": "2026-04-11T13:28:13.409Z",
-  "_modCount": 84,
+  "_ts": 1775914197066,
+  "_date": "2026-04-11T13:29:57.066Z",
+  "_modCount": 85,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -3661,31 +3661,31 @@
         "espece": "Troène de Chine",
         "notes": "Semi-persistant climat doux",
         "url": "https://fr.wikipedia.org/wiki/Ligustrum_sinense",
-        "debourrement_djc": 600,
+        "debourrement_djc": 607,
         "debourrement": [
           2,
-          0.11716621253405994
+          0.1362397820163488
         ],
         "debourrement_travaux": "Taille sévère possible, espèce très vigoureuse idéale débutant",
-        "feuillaison_djc": 750,
+        "feuillaison_djc": 726,
         "feuillaison": [
           2,
-          0.5258855585831063
+          0.4604904632152589
         ],
-        "feuillaison_travaux": "Feuilles semi-persistantes, pinçage fréquent, défoliation possible",
-        "floraison_djc": 1600,
+        "feuillaison_travaux": "Feuilles semi-persistantes + pinçage fréquent",
+        "floraison_djc": 1608,
         "floraison": [
           4,
-          0.4617737003058104
+          0.48623853211009177
         ],
         "floraison_travaux": "Grappes blanches parfumées, retirer si fructification non souhaitée",
-        "croissance_djc": 2200,
+        "croissance_djc": 2198,
         "croissance": [
           5,
-          0.5539568345323741
+          0.5503597122302158
         ],
         "croissance_travaux": "Fertilisation régulière, arrosage abondant, ligature, rempotage fréquent",
-        "maturation_djc": 3200,
+        "maturation_djc": 3230,
         "maturation": [
           7,
           0
@@ -3699,7 +3699,8 @@
         "semis_travaux": "Graines des baies stratifiées, germination bonne printemps suivant",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures ligneuses hiver ou semi-ligneuses été, excellente reprise"
+        "boutures_travaux": "Boutures ligneuses hiver ou semi-ligneuses été, excellente reprise",
+        "photo": ""
       },
       {
         "espece": "Yucca",
@@ -4269,7 +4270,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 53
+    "_modCount": 54
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
