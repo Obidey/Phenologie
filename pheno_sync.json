@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775915918250,
-  "_date": "2026-04-11T13:58:38.250Z",
-  "_modCount": 124,
+  "_ts": 1775916081430,
+  "_date": "2026-04-11T14:01:21.430Z",
+  "_modCount": 125,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -3622,7 +3622,7 @@
           2,
           0.1362397820163488
         ],
-        "debourrement_travaux": "Taille sévère possible, espèce très vigoureuse idéale débutant",
+        "debourrement_travaux": "Taille sévère possible + espèce très vigoureuse idéale débutant",
         "feuillaison_djc": 726,
         "feuillaison": [
           2,
@@ -4220,7 +4220,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 62
+    "_modCount": 63
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
