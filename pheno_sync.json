@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775915570751,
-  "_date": "2026-04-11T13:52:50.751Z",
-  "_modCount": 106,
+  "_ts": 1775915603578,
+  "_date": "2026-04-11T13:53:23.578Z",
+  "_modCount": 107,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -3934,7 +3934,7 @@
           2,
           0
         ],
-        "debourrement_travaux": "Pincer à 2 noeuds apres débourrement, jeunes feuilles oranges très décoratives",
+        "debourrement_travaux": "Pincer à 2 noeuds apres débourrement, jeunes feuilles roses er vertes panachéestrès décoratives",
         "feuillaison_djc": 726,
         "feuillaison": [
           2,
@@ -3970,7 +3970,8 @@
         "semis_travaux": "Samares fraîches stratifiées froid 2-3 mois, semis printemps",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses juin avec hormone, résultats variables"
+        "boutures_travaux": "Boutures semi-ligneuses juin avec hormone, résultats variables",
+        "photo": ""
       },
       {
         "espece": "Fargesia Scabrida Asian",
