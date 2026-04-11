@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775916905246,
-  "_date": "2026-04-11T14:15:05.246Z",
-  "_modCount": 178,
+  "_ts": 1775916930611,
+  "_date": "2026-04-11T14:15:30.611Z",
+  "_modCount": 179,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -1538,7 +1538,7 @@
           2,
           0.4604904632152589
         ],
-        "debourrement_travaux": "Taille avant débourrement (risque saignée), cicatrisant soufré",
+        "debourrement_travaux": "Taille avant débourrement (risque saignée) cicatrisant soufré",
         "feuillaison_djc": 798,
         "feuillaison": [
           2,
@@ -1550,7 +1550,7 @@
           2,
           1
         ],
-        "floraison_travaux": "Fleurs rouges discrètes avant feuilles, pas d'intervention",
+        "floraison_travaux": "Fleurs rouges discrètes avant feuilles pas observées",
         "croissance_djc": 1689,
         "croissance": [
           4,
@@ -1574,7 +1574,8 @@
         "semis_travaux": "Samares fraîches, stratification froid 3-4 mois, germination printanière",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses juin avec hormone, mi-ombre, résultats corrects"
+        "boutures_travaux": "Boutures semi-ligneuses juin avec hormone, mi-ombre, résultats corrects",
+        "photo": ""
       },
       {
         "espece": "Eucalyptus",
@@ -4186,7 +4187,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 76
+    "_modCount": 77
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
@@ -4396,7 +4397,8 @@
     "ko12__rable_desojo__Acer_palmatum__floraison_0": true,
     "ko12__rable_Kagiri_nishiki_floraison_0": true,
     "ko12__rable_Osakazuki_floraison_0": true,
-    "ko12__rable_Shaina_floraison_0": true
+    "ko12__rable_Shaina_floraison_0": true,
+    "ko12__rable_Shojo_floraison_0": true
   },
   "config": {
     "ville1": {
