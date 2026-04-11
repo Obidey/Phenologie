@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775913978898,
-  "_date": "2026-04-11T13:26:18.898Z",
-  "_modCount": 82,
+  "_ts": 1775914064860,
+  "_date": "2026-04-11T13:27:44.860Z",
+  "_modCount": 83,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -1122,7 +1122,7 @@
           1,
           0
         ],
-        "floraison_travaux": "Floraison précoce sur vieux bois, protéger gel, ne pas tailler !",
+        "floraison_travaux": "Floraison précoce sur vieux bois",
         "croissance_djc": 1142,
         "croissance": [
           3,
@@ -1146,7 +1146,8 @@
         "semis_travaux": "Pépins stratifiés 8-12 sem. froid, semis printemps",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses été, résultats bons, hormones recommandées"
+        "boutures_travaux": "Boutures semi-ligneuses été, résultats bons, hormones recommandées",
+        "photo": ""
       },
       {
         "espece": "Cordyline",
