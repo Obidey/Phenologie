@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775913953041,
-  "_date": "2026-04-11T13:25:53.041Z",
-  "_modCount": 80,
+  "_ts": 1775913965916,
+  "_date": "2026-04-11T13:26:05.916Z",
+  "_modCount": 81,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -3789,7 +3789,7 @@
           3,
           0.21487603305785125
         ],
-        "boutures_travaux": ""
+        "boutures_travaux": "MDDM27FO1"
       },
       {
         "espece": "Azalée indica (de Chine)",
