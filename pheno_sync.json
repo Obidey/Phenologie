@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775917057563,
-  "_date": "2026-04-11T14:17:37.563Z",
-  "_modCount": 188,
+  "_ts": 1775917064633,
+  "_date": "2026-04-11T14:17:44.633Z",
+  "_modCount": 189,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -3153,7 +3153,8 @@
         "boutures_djc": null,
         "boutures": null,
         "boutures_travaux": "",
-        "photo": ""
+        "photo": "",
+        "_hidden": true
       },
       {
         "espece": "Pin sylvestre",
@@ -4193,7 +4194,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 82
+    "_modCount": 83
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
