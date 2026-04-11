@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775917629416,
-  "_date": "2026-04-11T14:27:09.416Z",
-  "_modCount": 215,
+  "_ts": 1775917632918,
+  "_date": "2026-04-11T14:27:12.918Z",
+  "_modCount": 216,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4284,7 +4284,8 @@
     "ko14_Forsythia_croissance_2": true,
     "ko14_Fr_ne_feuillaison_0": false,
     "ko14_Fr_ne_debourrement_0": true,
-    "ko14_Fr_ne_debourrement_1": true
+    "ko14_Fr_ne_debourrement_1": true,
+    "ko14_Pin_d_Alep_feuillaison_0": true
   },
   "config": {
     "ville1": {
