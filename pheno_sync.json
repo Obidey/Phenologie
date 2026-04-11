@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775923272850,
-  "_date": "2026-04-11T16:01:12.850Z",
-  "_modCount": 263,
+  "_ts": 1775923319464,
+  "_date": "2026-04-11T16:01:59.464Z",
+  "_modCount": 264,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -3588,12 +3588,12 @@
         "espece": "Pin sylvestre",
         "notes": "Persistant",
         "url": "https://fr.wikipedia.org/wiki/Pin_sylvestre",
-        "debourrement_djc": 992,
+        "debourrement_djc": 924,
         "debourrement": [
-          3,
-          0
+          2,
+          1
         ],
-        "debourrement_travaux": "Observer  chandelles",
+        "debourrement_travaux": "Observer  chandelles, rempotage",
         "feuillaison_djc": 1355,
         "feuillaison": [
           3,
@@ -4223,7 +4223,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 122
+    "_modCount": 123
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
