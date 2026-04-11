@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775922828770,
-  "_date": "2026-04-11T15:53:48.770Z",
-  "_modCount": 255,
+  "_ts": 1775922890243,
+  "_date": "2026-04-11T15:54:50.243Z",
+  "_modCount": 256,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -3197,13 +3197,13 @@
         "boutures_travaux": "Division massive rhizomes printemps, sections avec noeuds"
       },
       {
-        "espece": "Phyllostachys vivax (copie)",
+        "espece": "Phyllostachys vivaxaureasulcata (copie)",
         "notes": "Persistant",
         "url": "https://fr.wikipedia.org/wiki/Phyllostachys_vivax",
-        "debourrement_djc": 668,
+        "debourrement_djc": 557,
         "debourrement": [
           2,
-          0.3024523160762943
+          0
         ],
         "debourrement_travaux": "Louchage, desherbant",
         "feuillaison_djc": null,
@@ -3232,7 +3232,8 @@
         "semis_travaux": "Graines rares, semis immédiat",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Division massive rhizomes printemps, sections avec noeuds"
+        "boutures_travaux": "Division massive rhizomes printemps, sections avec noeuds",
+        "photo": ""
       },
       {
         "espece": "Pin blanc du Japon",
@@ -4177,7 +4178,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 116
+    "_modCount": 117
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
