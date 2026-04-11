@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775916360317,
-  "_date": "2026-04-11T14:06:00.317Z",
-  "_modCount": 146,
+  "_ts": 1775916378945,
+  "_date": "2026-04-11T14:06:18.945Z",
+  "_modCount": 147,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4348,7 +4348,14 @@
     "ko10_Azal_e_indica__de_Chine__floraison_0": true,
     "ko10_Bougainvillier_Violet_de_M_ze_boutures_0": true,
     "ko10_Cerisier_du_Japon__Sakura__debourrement_0": true,
-    "ko10_Cerisier_du_Japon__Sakura__floraison_0": true
+    "ko10_Cerisier_du_Japon__Sakura__floraison_0": true,
+    "ko10_Charme__Carpinus_betulus__debourrement_0": true,
+    "ko10_Charme__Carpinus_betulus__debourrement_1": true,
+    "ko10_Ch_ne__p_doncul__sessile__feuillaison_0": true,
+    "ko10_Ch_vrefeuille_feuillaison_0": true,
+    "ko10_Ciste_debourrement_0": true,
+    "ko10__rable_Purpurum_feuillaison_0": true,
+    "ko10__rable_Shojo_feuillaison_0": true
   },
   "config": {
     "ville1": {
