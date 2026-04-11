@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775915610080,
-  "_date": "2026-04-11T13:53:30.080Z",
-  "_modCount": 108,
+  "_ts": 1775915613517,
+  "_date": "2026-04-11T13:53:33.517Z",
+  "_modCount": 109,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4438,7 +4438,8 @@
     "ko6_Erable_Beni_Shichihenge_debourrement_0": true,
     "ko6_Erable_Beni_Shichihenge_debourrement_1": true,
     "ko6__rable_katsura_debourrement_0": true,
-    "ko6__rable_katsura_debourrement_1": true
+    "ko6__rable_katsura_debourrement_1": true,
+    "ko6_Hortensia_debourrement_0": true
   },
   "config": {
     "ville1": {
