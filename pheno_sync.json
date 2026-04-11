@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775916471181,
-  "_date": "2026-04-11T14:07:51.181Z",
-  "_modCount": 152,
+  "_ts": 1775916490086,
+  "_date": "2026-04-11T14:08:10.086Z",
+  "_modCount": 153,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4361,7 +4361,8 @@
     "ko10_Fougeres_Royales_Canal_des_Landes_debourrement_0": true,
     "ko10_Jasminum_Starry_Night_debourrement_0": true,
     "ko10_Kaki__Plaqueminier__debourrement_0": true,
-    "ko10_Lilas_floraison_0": true
+    "ko10_Lilas_floraison_0": true,
+    "ko10_Lilas_feuillaison_0": false
   },
   "config": {
     "ville1": {
