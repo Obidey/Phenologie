@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775918918152,
-  "_date": "2026-04-11T14:48:38.152Z",
-  "_modCount": 233,
+  "_ts": 1775918947460,
+  "_date": "2026-04-11T14:49:07.460Z",
+  "_modCount": 234,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -3998,35 +3998,6 @@
         "photo": ""
       },
       {
-        "espece": "Nouvelle espèce",
-        "notes": "",
-        "url": "",
-        "debourrement": null,
-        "debourrement_djc": null,
-        "debourrement_travaux": "",
-        "feuillaison": null,
-        "feuillaison_djc": null,
-        "feuillaison_travaux": "",
-        "floraison": null,
-        "floraison_djc": null,
-        "floraison_travaux": "",
-        "croissance": null,
-        "croissance_djc": null,
-        "croissance_travaux": "",
-        "maturation": null,
-        "maturation_djc": null,
-        "maturation_travaux": "",
-        "senescence": null,
-        "senescence_djc": null,
-        "senescence_travaux": "",
-        "semis": null,
-        "semis_djc": null,
-        "semis_travaux": "",
-        "boutures": null,
-        "boutures_djc": null,
-        "boutures_travaux": ""
-      },
-      {
         "espece": "Chèvrefeuille de JL",
         "url": "",
         "notes": "",
@@ -4061,7 +4032,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 106
+    "_modCount": 107
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
