@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775916154282,
-  "_date": "2026-04-11T14:02:34.282Z",
-  "_modCount": 131,
+  "_ts": 1775916165688,
+  "_date": "2026-04-11T14:02:45.688Z",
+  "_modCount": 132,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4329,7 +4329,9 @@
     "ko8_Azal_es_indica__Chine__debourrement_0": true,
     "ko8_Ch_vrefeuille_debourrement_0": true,
     "ko8__rable_Bi_Hoo_debourrement_0": true,
-    "ko8__rable_Bi_Hoo_debourrement_1": true
+    "ko8__rable_Bi_Hoo_debourrement_1": true,
+    "ko8__rable_Kagiri_nishiki_debourrement_0": true,
+    "ko8__rable_Kagiri_nishiki_debourrement_1": true
   },
   "config": {
     "ville1": {
