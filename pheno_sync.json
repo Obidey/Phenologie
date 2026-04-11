@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775915447045,
-  "_date": "2026-04-11T13:50:47.045Z",
-  "_modCount": 103,
+  "_ts": 1775915462399,
+  "_date": "2026-04-11T13:51:02.399Z",
+  "_modCount": 104,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -3934,7 +3934,7 @@
           2,
           0
         ],
-        "debourrement_travaux": "Pincer à 2 noeuds apres débourrement, jeunes feuilles orangestrès décoratives",
+        "debourrement_travaux": "Pincer à 2 noeuds apres débourrement, jeunes feuilles oranges très décoratives",
         "feuillaison_djc": 726,
         "feuillaison": [
           2,
