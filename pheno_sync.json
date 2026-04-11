@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775916861785,
-  "_date": "2026-04-11T14:14:21.785Z",
-  "_modCount": 174,
+  "_ts": 1775916876198,
+  "_date": "2026-04-11T14:14:36.198Z",
+  "_modCount": 175,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -1407,7 +1407,7 @@
           2,
           1
         ],
-        "floraison_travaux": "Fleurs rouges discrètes avant feuilles, pas d'intervention",
+        "floraison_travaux": "Fleurs rouges discrètes avant feuilles pas observées",
         "croissance_djc": 1689,
         "croissance": [
           4,
@@ -1431,7 +1431,8 @@
         "semis_travaux": "Samares fraîches, stratification froid 3-4 mois, germination printanière",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses juin avec hormone, mi-ombre, résultats corrects"
+        "boutures_travaux": "Boutures semi-ligneuses juin avec hormone, mi-ombre, résultats corrects",
+        "photo": ""
       },
       {
         "espece": "Érable Purpurum",
@@ -4184,7 +4185,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 74
+    "_modCount": 75
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
