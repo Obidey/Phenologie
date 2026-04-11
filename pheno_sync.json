@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775917894085,
-  "_date": "2026-04-11T14:31:34.085Z",
-  "_modCount": 225,
+  "_ts": 1775917961402,
+  "_date": "2026-04-11T14:32:41.402Z",
+  "_modCount": 226,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -3113,28 +3113,34 @@
         "espece": "Pin sylvestre",
         "notes": "Persistant",
         "url": "https://fr.wikipedia.org/wiki/Pin_sylvestre",
-        "debourrement_djc": null,
-        "debourrement": null,
-        "debourrement_travaux": "Observer bougies, retirer protection hivernale, désherbage",
-        "feuillaison_djc": null,
-        "feuillaison": null,
-        "feuillaison_travaux": "Pinçage des bougies, paires d'aiguilles bleues-vertes à préserver",
-        "floraison_djc": 1400,
-        "floraison": [
-          4,
+        "debourrement_djc": 992,
+        "debourrement": [
+          3,
           0
         ],
+        "debourrement_travaux": "Observer  chandelles",
+        "feuillaison_djc": 1355,
+        "feuillaison": [
+          3,
+          1
+        ],
+        "feuillaison_travaux": "Pinçage des chandelles",
+        "floraison_djc": 1355,
+        "floraison": [
+          3,
+          1
+        ],
         "floraison_travaux": "Pollen abondant, pollinisation anémophile, noter synchronisme",
-        "croissance_djc": 2200,
+        "croissance_djc": 2198,
         "croissance": [
           5,
-          0.5539568345323741
+          0.5503597122302158
         ],
         "croissance_travaux": "Fertilisation modérée, contrôle processionnaire, ligature longue",
-        "maturation_djc": 3000,
+        "maturation_djc": 2998,
         "maturation": [
           6,
-          0.7803163444639719
+          0.7768014059753954
         ],
         "maturation_travaux": "Cônes brun-gris (maturation 2 ans), collecte avant ouverture",
         "senescence_djc": null,
@@ -3145,7 +3151,8 @@
         "semis_travaux": "Graines extractes des cônes, stratification 4-6 sem. froid, semis printemps",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Non applicable — greffe sur porte-greffe de même espèce préférée"
+        "boutures_travaux": "Non applicable — greffe sur porte-greffe de même espèce préférée",
+        "photo": ""
       },
       {
         "espece": "Pins  (Pinus parviflora)",
@@ -4052,7 +4059,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 103
+    "_modCount": 104
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
