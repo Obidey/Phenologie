@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775916081430,
-  "_date": "2026-04-11T14:01:21.430Z",
-  "_modCount": 125,
+  "_ts": 1775916097679,
+  "_date": "2026-04-11T14:01:37.679Z",
+  "_modCount": 126,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4367,7 +4367,8 @@
     "ko7_Forsythia_debourrement_0": true,
     "ko7_Forsythia_floraison_0": true,
     "ko7_Lavande_debourrement_0": true,
-    "ko7_Lavande_debourrement_1": true
+    "ko7_Lavande_debourrement_1": true,
+    "ko7_Tro_ne_de_Chine_debourrement_0": true
   },
   "config": {
     "ville1": {
