@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775916195324,
-  "_date": "2026-04-11T14:03:15.324Z",
-  "_modCount": 136,
+  "_ts": 1775916241742,
+  "_date": "2026-04-11T14:04:01.742Z",
+  "_modCount": 137,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -253,10 +253,10 @@
         "espece": "Arbousier (Arbutus unedo)",
         "notes": "Persistant - Floraison hivernale Nov",
         "url": "https://fr.wikipedia.org/wiki/Arbousier_commun",
-        "debourrement_djc": 726,
+        "debourrement_djc": 557,
         "debourrement": [
           2,
-          0.4604904632152589
+          0
         ],
         "debourrement_travaux": "Taille drastique de printemps espèce à croissance forte",
         "feuillaison_djc": null,
@@ -291,7 +291,8 @@
         "semis_travaux": "Graines fraîches des fruits mûrs, substrat acide, germination lente",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses été, difficiles, hormone forte, brumisation"
+        "boutures_travaux": "Boutures semi-ligneuses été, difficiles, hormone forte, brumisation",
+        "photo": ""
       },
       {
         "espece": "Arbre de Judée (Cercis siliquastrum)",
