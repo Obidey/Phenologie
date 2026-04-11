@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775916134034,
-  "_date": "2026-04-11T14:02:14.034Z",
-  "_modCount": 130,
+  "_ts": 1775916154282,
+  "_date": "2026-04-11T14:02:34.282Z",
+  "_modCount": 131,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -3661,7 +3661,7 @@
           2,
           0.3024523160762943
         ],
-        "debourrement_travaux": "",
+        "debourrement_travaux": "Observation",
         "feuillaison_djc": 798,
         "feuillaison": [
           2,
@@ -4176,7 +4176,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 64
+    "_modCount": 65
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
@@ -4326,7 +4326,10 @@
     "ko7_Lavande_debourrement_1": true,
     "ko7_Tro_ne_de_Chine_debourrement_0": true,
     "ko8_Azal_e_indica__de_Chine__debourrement_0": true,
-    "ko8_Azal_es_indica__Chine__debourrement_0": true
+    "ko8_Azal_es_indica__Chine__debourrement_0": true,
+    "ko8_Ch_vrefeuille_debourrement_0": true,
+    "ko8__rable_Bi_Hoo_debourrement_0": true,
+    "ko8__rable_Bi_Hoo_debourrement_1": true
   },
   "config": {
     "ville1": {
