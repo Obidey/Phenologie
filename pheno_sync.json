@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775922986654,
-  "_date": "2026-04-11T15:56:26.654Z",
-  "_modCount": 258,
+  "_ts": 1775923063179,
+  "_date": "2026-04-11T15:57:43.179Z",
+  "_modCount": 259,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -3200,7 +3200,7 @@
         "boutures_travaux": "Division massive rhizomes printemps, sections avec noeuds"
       },
       {
-        "espece": "Phyllostachys vivaxaureasulcata (copie)",
+        "espece": "Phyllostachys vivaxaureasulcata",
         "notes": "Persistant",
         "url": "https://fr.wikipedia.org/wiki/Phyllostachys_vivax",
         "debourrement_djc": 557,
@@ -4181,7 +4181,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 118
+    "_modCount": 119
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
