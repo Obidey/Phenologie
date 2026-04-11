@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775912865321,
-  "_date": "2026-04-11T13:07:45.321Z",
-  "_modCount": 70,
+  "_ts": 1775912951638,
+  "_date": "2026-04-11T13:09:11.638Z",
+  "_modCount": 71,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4386,7 +4386,7 @@
     "ko13_Glycine_feuillaison_3": true,
     "ko14_Charme__Carpinus_betulus__floraison_0": true,
     "ko14_Charme__Carpinus_betulus__floraison_1": true,
-    "ko14_Charme__Carpinus_betulus__floraison_2": true
+    "ko14_Charme__Carpinus_betulus__floraison_2": false
   },
   "config": {
     "ville1": {
