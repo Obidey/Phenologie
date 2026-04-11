@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775915359717,
-  "_date": "2026-04-11T13:49:19.717Z",
-  "_modCount": 97,
+  "_ts": 1775915366240,
+  "_date": "2026-04-11T13:49:26.240Z",
+  "_modCount": 98,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4427,7 +4427,9 @@
     "ko14_Charme__Carpinus_betulus__floraison_2": true,
     "ko1_Cognassier_du_Japon__Chaenomeles__floraison_0": true,
     "ko1_Mimosa__Acacia_dealbata__floraison_0": true,
-    "ko1_Paturin_des_pres_debourrement_0": true
+    "ko1_Paturin_des_pres_debourrement_0": true,
+    "ko3_Cognassier_du_Japon__Chaenomeles__feuillaison_0": true,
+    "ko3_Cognassier_du_Japon__Chaenomeles__feuillaison_1": true
   },
   "config": {
     "ville1": {
