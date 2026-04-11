@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775919184356,
-  "_date": "2026-04-11T14:53:04.356Z",
-  "_modCount": 237,
+  "_ts": 1775919206036,
+  "_date": "2026-04-11T14:53:26.036Z",
+  "_modCount": 238,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -947,10 +947,10 @@
         "feuillaison_djc": null,
         "feuillaison": null,
         "feuillaison_travaux": "Feuilles persistantes collantes, arrosage modéré, plein soleil",
-        "floraison_djc": 1355,
+        "floraison_djc": 1070,
         "floraison": [
           3,
-          1
+          0.21487603305785125
         ],
         "floraison_travaux": "Fleurs éphémères (1 jour), spectaculaires, substrat sec",
         "croissance_djc": 1991,
@@ -973,7 +973,8 @@
         "semis_travaux": "Graines scarifiées eau chaude, semis printemps, germination rapide",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses été, substrat sableux, bonne reprise"
+        "boutures_travaux": "Boutures semi-ligneuses été, substrat sableux, bonne reprise",
+        "photo": ""
       },
       {
         "espece": "Citron lime",
@@ -4065,7 +4066,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 109
+    "_modCount": 110
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
