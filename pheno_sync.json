@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775915881353,
-  "_date": "2026-04-11T13:58:01.353Z",
-  "_modCount": 122,
+  "_ts": 1775915888075,
+  "_date": "2026-04-11T13:58:08.075Z",
+  "_modCount": 123,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4411,7 +4411,10 @@
     "ko7__rable_desojo__Acer_palmatum__debourrement_0": true,
     "ko7__rable_Shaina_debourrement_0": true,
     "ko7__rable_Shaina_debourrement_1": true,
-    "ko7_Forsythia_debourrement_0": true
+    "ko7_Forsythia_debourrement_0": true,
+    "ko7_Forsythia_floraison_0": true,
+    "ko7_Lavande_debourrement_0": true,
+    "ko7_Lavande_debourrement_1": true
   },
   "config": {
     "ville1": {
