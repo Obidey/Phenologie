@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775916900644,
-  "_date": "2026-04-11T14:15:00.644Z",
-  "_modCount": 177,
+  "_ts": 1775916905246,
+  "_date": "2026-04-11T14:15:05.246Z",
+  "_modCount": 178,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4395,7 +4395,8 @@
     "ko12__rable_desojo__Acer_palmatum__floraison_1": true,
     "ko12__rable_desojo__Acer_palmatum__floraison_0": true,
     "ko12__rable_Kagiri_nishiki_floraison_0": true,
-    "ko12__rable_Osakazuki_floraison_0": true
+    "ko12__rable_Osakazuki_floraison_0": true,
+    "ko12__rable_Shaina_floraison_0": true
   },
   "config": {
     "ville1": {
