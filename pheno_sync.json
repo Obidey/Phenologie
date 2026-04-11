@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775917218921,
-  "_date": "2026-04-11T14:20:18.921Z",
-  "_modCount": 196,
+  "_ts": 1775917238645,
+  "_date": "2026-04-11T14:20:38.645Z",
+  "_modCount": 197,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4318,7 +4318,10 @@
     "ko12_Pin_noir_du_Japon_senescence_0": true,
     "ko12_Pin_noir_du_Japon_senescence_1": true,
     "ko12_Pin_d_Alep_senescence_0": true,
-    "ko12_Prunus_mume_croissance_0": true
+    "ko12_Prunus_mume_croissance_0": true,
+    "ko13_Arbre_de_Jud_e__Cercis_siliquastrum__croissance_0": true,
+    "ko13_Arbre_de_Jud_e__Cercis_siliquastrum__croissance_1": true,
+    "ko13_Arbre_de_Jud_e__Cercis_siliquastrum__croissance_2": true
   },
   "config": {
     "ville1": {
