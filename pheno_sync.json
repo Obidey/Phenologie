@@ -1,10 +1,10 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775890442734,
-  "_date": "2026-04-11T06:54:02.734Z",
-  "_modCount": 59,
-  "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
+  "_ts": 1775890455643,
+  "_date": "2026-04-11T06:54:15.643Z",
+  "_modCount": 61,
+  "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
       "0": "11-255°J",
@@ -67,7 +67,6 @@
         "boutures_djc": null,
         "boutures": null,
         "boutures_travaux": "Boutures herbacées juin-juillet, hormone de bouturage, brumisation",
-        "_idx": 0,
         "_hidden": true
       },
       {
@@ -115,8 +114,7 @@
         "semis_travaux": "Graines scarifiées eau chaude 24h, semis printemps, germination rapide",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses été, hormone, substrat drainant",
-        "_idx": 1
+        "boutures_travaux": "Boutures semi-ligneuses été, hormone, substrat drainant"
       },
       {
         "espece": "Acacia faux robinier",
@@ -163,8 +161,7 @@
         "semis_travaux": "Graines scarifiées, semis printemps, croissance rapide",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures de racines hiver, section 10 cm, enterrer horizontalement",
-        "_idx": 2
+        "boutures_travaux": "Boutures de racines hiver, section 10 cm, enterrer horizontalement"
       },
       {
         "espece": "Aloès arborescent",
@@ -202,8 +199,7 @@
         "semis_travaux": "Graines fraîches substrat sableux, 20°C, germination 2-3 sem.",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Sécher coupe 48h avant de planter, substrat sec, pas d'arrosage 2 sem.",
-        "_idx": 3
+        "boutures_travaux": "Sécher coupe 48h avant de planter, substrat sec, pas d'arrosage 2 sem."
       },
       {
         "espece": "Amandier",
@@ -251,7 +247,6 @@
         "boutures_djc": null,
         "boutures": null,
         "boutures_travaux": "Boutures herbacées mai-juin, difficiles — greffe préférée",
-        "_idx": 4,
         "_hidden": true
       },
       {
@@ -296,8 +291,7 @@
         "semis_travaux": "Graines fraîches des fruits mûrs, substrat acide, germination lente",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses été, difficiles, hormone forte, brumisation",
-        "_idx": 5
+        "boutures_travaux": "Boutures semi-ligneuses été, difficiles, hormone forte, brumisation"
       },
       {
         "espece": "Arbre de Judée (Cercis siliquastrum)",
@@ -344,8 +338,7 @@
         "semis_travaux": "Graines scarifiées eau bouillante + stratification 4 sem. froid",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Difficiles — boutures vertes juin avec hormone, résultat aléatoire",
-        "_idx": 6
+        "boutures_travaux": "Difficiles — boutures vertes juin avec hormone, résultat aléatoire"
       },
       {
         "espece": "Arum d'Italie",
@@ -393,7 +386,6 @@
         "boutures_djc": null,
         "boutures": null,
         "boutures_travaux": "Non applicable — division uniquement",
-        "_idx": 7,
         "_hidden": true
       },
       {
@@ -441,8 +433,7 @@
         "semis_travaux": "Graines fraîches, stratification courte, substrat humide, germination facile",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures ligneuses hiver, bonne reprise en substrat humide",
-        "_idx": 8
+        "boutures_travaux": "Boutures ligneuses hiver, bonne reprise en substrat humide"
       },
       {
         "espece": "Azalées (Chine/Japon)",
@@ -487,7 +478,6 @@
         "boutures_djc": null,
         "boutures": null,
         "boutures_travaux": "Boutures semi-ligneuses juin-juillet, substrat acide, brumisation, hormone",
-        "_idx": 9,
         "_hidden": true
       },
       {
@@ -532,8 +522,7 @@
         "semis_travaux": "Graines très fines, semis superficiel, substrat acide humide, lumière",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses juin-juillet, substrat acide, brumisation, hormone",
-        "_idx": 10
+        "boutures_travaux": "Boutures semi-ligneuses juin-juillet, substrat acide, brumisation, hormone"
       },
       {
         "espece": "Bananier",
@@ -577,8 +566,7 @@
         "semis_travaux": "Graines fraîches trempées 24h, 25°C, germination 2-4 sem.",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Division des rejets basaux au printemps, facile",
-        "_idx": 11
+        "boutures_travaux": "Division des rejets basaux au printemps, facile"
       },
       {
         "espece": "Bougainvillier",
@@ -622,8 +610,7 @@
         "semis_travaux": "Semis 25°C, germination irrégulière, boutures préférées",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses été avec hormone, 25°C, résultat bon",
-        "_idx": 12
+        "boutures_travaux": "Boutures semi-ligneuses été avec hormone, 25°C, résultat bon"
       },
       {
         "espece": "Bougainvillier Violet de Mèze",
@@ -670,8 +657,7 @@
           2,
           0.6566757493188011
         ],
-        "boutures_travaux": "Boutures semi-ligneuses avec hormone +25°C",
-        "_idx": 13
+        "boutures_travaux": "Boutures semi-ligneuses avec hormone +25°C"
       },
       {
         "espece": "Bouleau",
@@ -716,7 +702,6 @@
         "boutures_djc": null,
         "boutures": null,
         "boutures_travaux": "Boutures herbacées mai-juin avec hormone, résultat variable",
-        "_idx": 14,
         "_hidden": true
       },
       {
@@ -755,8 +740,7 @@
         "semis_travaux": "Graines très fines, substrat acide humide, germination lente 4-6 sem.",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses été, substrat acide, brumisation, bonne reprise",
-        "_idx": 15
+        "boutures_travaux": "Boutures semi-ligneuses été, substrat acide, brumisation, bonne reprise"
       },
       {
         "espece": "Cerisier du Japon",
@@ -804,7 +788,6 @@
         "boutures_djc": null,
         "boutures": null,
         "boutures_travaux": "Boutures vertes juin, hormone, difficiles — greffe préférée pour cultivars",
-        "_idx": 16,
         "_hidden": true
       },
       {
@@ -852,8 +835,7 @@
         "semis_travaux": "Noyaux stratifiés 8-12 sem. froid, semis printemps",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures vertes juin, hormone, difficiles — greffe préférée pour cultivars",
-        "_idx": 17
+        "boutures_travaux": "Boutures vertes juin, hormone, difficiles — greffe préférée pour cultivars"
       },
       {
         "espece": "Charme (Carpinus betulus)",
@@ -900,8 +882,7 @@
         "semis_travaux": "Graines stratifiées 12-16 sem. froid, germination lente mais fiable",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures ligneuses hiver, résultat variable — semis préféré",
-        "_idx": 18
+        "boutures_travaux": "Boutures ligneuses hiver, résultat variable — semis préféré"
       },
       {
         "espece": "Chêne (pédonculé/sessile)",
@@ -948,8 +929,7 @@
         "semis_travaux": "Glands frais semés dès récolte automne, stratification courte, germination rapide",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Très difficiles — semis de glands frais de loin préférable",
-        "_idx": 19
+        "boutures_travaux": "Très difficiles — semis de glands frais de loin préférable"
       },
       {
         "espece": "Chêne vert",
@@ -993,8 +973,7 @@
         "semis_travaux": "Glands frais automne, germination facile et rapide",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Difficiles — semis glands préféré",
-        "_idx": 20
+        "boutures_travaux": "Difficiles — semis glands préféré"
       },
       {
         "espece": "Ciste",
@@ -1035,8 +1014,7 @@
         "semis_travaux": "Graines scarifiées eau chaude, semis printemps, germination rapide",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses été, substrat sableux, bonne reprise",
-        "_idx": 21
+        "boutures_travaux": "Boutures semi-ligneuses été, substrat sableux, bonne reprise"
       },
       {
         "espece": "Citron lime",
@@ -1077,8 +1055,7 @@
         "semis_travaux": "Pépins frais, 25°C, germination 2-4 sem., croissance lente",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses printemps, hormone, 25°C, résultat moyen",
-        "_idx": 22
+        "boutures_travaux": "Boutures semi-ligneuses printemps, hormone, 25°C, résultat moyen"
       },
       {
         "espece": "Citrus Limon (Citronnier)",
@@ -1122,8 +1099,7 @@
         "semis_travaux": "Pépins frais non séchés, 25°C, germination facile mais lente",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses printemps avec hormone, 25°C, résultat moyen",
-        "_idx": 23
+        "boutures_travaux": "Boutures semi-ligneuses printemps avec hormone, 25°C, résultat moyen"
       },
       {
         "espece": "Cognassier du Japon (Chaenomeles)",
@@ -1170,8 +1146,7 @@
         "semis_travaux": "Pépins stratifiés 8-12 sem. froid, semis printemps",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses été, résultats bons, hormones recommandées",
-        "_idx": 24
+        "boutures_travaux": "Boutures semi-ligneuses été, résultats bons, hormones recommandées"
       },
       {
         "espece": "Cordyline",
@@ -1209,8 +1184,7 @@
         "semis_travaux": "Graines fraîches 20°C, germination 1-3 mois",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Sections de tronc posées horizontalement sur substrat",
-        "_idx": 25
+        "boutures_travaux": "Sections de tronc posées horizontalement sur substrat"
       },
       {
         "espece": "Datura",
@@ -1258,7 +1232,6 @@
         "boutures_djc": null,
         "boutures": null,
         "boutures_travaux": "Boutures herbacées très faciles été, racinent rapidement",
-        "_idx": 26,
         "_hidden": true,
         "photo": ""
       },
@@ -1307,8 +1280,7 @@
         "semis_travaux": "Samares fraîches, stratification froid 3-4 mois, germination printanière",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses juin avec hormone, mi-ombre, résultats corrects",
-        "_idx": 27
+        "boutures_travaux": "Boutures semi-ligneuses juin avec hormone, mi-ombre, résultats corrects"
       },
       {
         "espece": "Érable desojo (Acer palmatum)",
@@ -1355,8 +1327,7 @@
         "semis_travaux": "Samares fraîches, stratification froid 3-4 mois, germination printanière",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses juin avec hormone, mi-ombre, résultats corrects",
-        "_idx": 28
+        "boutures_travaux": "Boutures semi-ligneuses juin avec hormone, mi-ombre, résultats corrects"
       },
       {
         "espece": "Érable Kagiri-nishiki",
@@ -1403,8 +1374,7 @@
         "semis_travaux": "Samares fraîches, stratification froid 3-4 mois, germination printanière",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses juin avec hormone, mi-ombre, résultats corrects",
-        "_idx": 29
+        "boutures_travaux": "Boutures semi-ligneuses juin avec hormone, mi-ombre, résultats corrects"
       },
       {
         "espece": "Érable katsura",
@@ -1451,8 +1421,7 @@
         "semis_travaux": "Samares fraîches stratifiées froid 2-3 mois, semis printemps",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses juin avec hormone, résultats variables",
-        "_idx": 30
+        "boutures_travaux": "Boutures semi-ligneuses juin avec hormone, résultats variables"
       },
       {
         "espece": "Érable Osakazuki",
@@ -1499,8 +1468,7 @@
         "semis_travaux": "Samares fraîches, stratification froid 3-4 mois, germination printanière",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses juin avec hormone, mi-ombre, résultats corrects",
-        "_idx": 31
+        "boutures_travaux": "Boutures semi-ligneuses juin avec hormone, mi-ombre, résultats corrects"
       },
       {
         "espece": "Érable Purpurum",
@@ -1547,8 +1515,7 @@
         "semis_travaux": "Samares fraîches, stratification froid 3-4 mois, germination printanière",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses juin avec hormone, mi-ombre, résultats corrects",
-        "_idx": 32
+        "boutures_travaux": "Boutures semi-ligneuses juin avec hormone, mi-ombre, résultats corrects"
       },
       {
         "espece": "Érable Shaina",
@@ -1595,8 +1562,7 @@
         "semis_travaux": "Samares fraîches, stratification froid 3-4 mois, germination printanière",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses juin avec hormone, mi-ombre, résultats corrects",
-        "_idx": 33
+        "boutures_travaux": "Boutures semi-ligneuses juin avec hormone, mi-ombre, résultats corrects"
       },
       {
         "espece": "Érable Shojo",
@@ -1643,8 +1609,7 @@
         "semis_travaux": "Samares fraîches, stratification froid 3-4 mois, germination printanière",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses juin avec hormone, mi-ombre, résultats corrects",
-        "_idx": 34
+        "boutures_travaux": "Boutures semi-ligneuses juin avec hormone, mi-ombre, résultats corrects"
       },
       {
         "espece": "Eucalyptus",
@@ -1682,8 +1647,7 @@
         "semis_travaux": "Graines très fines, semis superficiel, 18-22°C, germination facile",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Difficiles — semis préféré largement",
-        "_idx": 35
+        "boutures_travaux": "Difficiles — semis préféré largement"
       },
       {
         "espece": "Fargesia (bambous cespiteux)",
@@ -1718,8 +1682,7 @@
         "semis_travaux": "Graines fraîches (rares), semis immédiat, germination rapide",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Division de touffes au printemps, section rhizomes, bonne reprise",
-        "_idx": 36
+        "boutures_travaux": "Division de touffes au printemps, section rhizomes, bonne reprise"
       },
       {
         "espece": "Figuier 2 saisons",
@@ -1766,8 +1729,7 @@
         "semis_travaux": "Graines des figues fraîches, semis 20°C, germination facile",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures ligneuses hiver très faciles, 20 cm, enterrer 2/3",
-        "_idx": 37
+        "boutures_travaux": "Boutures ligneuses hiver très faciles, 20 cm, enterrer 2/3"
       },
       {
         "espece": "Figuier de Dalmatie",
@@ -1814,8 +1776,7 @@
         "semis_travaux": "Graines fraîches 20°C, germination bonne",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures ligneuses hiver très faciles, excellente reprise",
-        "_idx": 38
+        "boutures_travaux": "Boutures ligneuses hiver très faciles, excellente reprise"
       },
       {
         "espece": "Forsythia",
@@ -1862,8 +1823,7 @@
         "semis_travaux": "Graines stratifiées froid, germination variable",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures ligneuses hiver ou semi-ligneuses été, très faciles",
-        "_idx": 39
+        "boutures_travaux": "Boutures ligneuses hiver ou semi-ligneuses été, très faciles"
       },
       {
         "espece": "Frêne",
@@ -1910,8 +1870,7 @@
         "semis_travaux": "Samares stratifiées 2 étapes (chaud puis froid), germination printemps N+1",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures ligneuses hiver, résultats variables",
-        "_idx": 40
+        "boutures_travaux": "Boutures ligneuses hiver, résultats variables"
       },
       {
         "espece": "Glycine",
@@ -1959,7 +1918,6 @@
         "boutures_djc": null,
         "boutures": null,
         "boutures_travaux": "Boutures semi-ligneuses été avec hormone, résultats bons",
-        "_idx": 41,
         "photo": ""
       },
       {
@@ -2007,8 +1965,7 @@
         "semis_travaux": "Graines fraîches des grenades, 25°C, germination facile",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses été, excellent taux de reprise",
-        "_idx": 42
+        "boutures_travaux": "Boutures semi-ligneuses été, excellent taux de reprise"
       },
       {
         "espece": "Hibiscus des marais",
@@ -2052,8 +2009,7 @@
         "semis_travaux": "Graines scarifiées eau chaude 24h, 25°C, germination 1-2 sem.",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures herbacées été avec hormone, résultats bons",
-        "_idx": 43
+        "boutures_travaux": "Boutures herbacées été avec hormone, résultats bons"
       },
       {
         "espece": "Hortensia",
@@ -2097,8 +2053,7 @@
         "semis_travaux": "Graines très fines, substrat acide, germination lente",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures herbacées juin-juillet, eau de pluie, substrat acide, facile",
-        "_idx": 44
+        "boutures_travaux": "Boutures herbacées juin-juillet, eau de pluie, substrat acide, facile"
       },
       {
         "espece": "Houx",
@@ -2145,8 +2100,7 @@
         "semis_travaux": "",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "",
-        "_idx": 45
+        "boutures_travaux": ""
       },
       {
         "espece": "Jasmin d'Espagne",
@@ -2187,8 +2141,7 @@
         "semis_travaux": "Graines fraîches 20°C, germination variable",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses été avec hormone, résultats très bons",
-        "_idx": 46
+        "boutures_travaux": "Boutures semi-ligneuses été avec hormone, résultats très bons"
       },
       {
         "espece": "Jasminum Starry Night",
@@ -2241,8 +2194,7 @@
           4,
           0
         ],
-        "boutures_travaux": "",
-        "_idx": 47
+        "boutures_travaux": ""
       },
       {
         "espece": "Juniperus  Itoigawa (chinensis)",
@@ -2283,8 +2235,7 @@
         "semis_travaux": "Graines stratifiées chaud 3 mois + froid 3 mois, germination lente",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses été avec hormone, résultats corrects",
-        "_idx": 48
+        "boutures_travaux": "Boutures semi-ligneuses été avec hormone, résultats corrects"
       },
       {
         "espece": "Juniperus rigida",
@@ -2322,8 +2273,7 @@
         "semis_travaux": "Stratification double (chaud/froid), germination très lente",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures août-septembre avec hormone forte, substrat minéral",
-        "_idx": 49
+        "boutures_travaux": "Boutures août-septembre avec hormone forte, substrat minéral"
       },
       {
         "espece": "Kaki (Plaqueminier)",
@@ -2370,8 +2320,7 @@
         "semis_travaux": "Pépins frais stratifiés froid 8-12 sem., semis printemps",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Difficiles — greffage préféré pour variétés",
-        "_idx": 50
+        "boutures_travaux": "Difficiles — greffage préféré pour variétés"
       },
       {
         "espece": "Kumquat",
@@ -2412,8 +2361,7 @@
         "semis_travaux": "Pépins frais 25°C, germination facile",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses printemps avec hormone, résultats moyens",
-        "_idx": 51
+        "boutures_travaux": "Boutures semi-ligneuses printemps avec hormone, résultats moyens"
       },
       {
         "espece": "Laurier",
@@ -2457,8 +2405,7 @@
         "semis_travaux": "Graines fraîches stratifiées, germination lente 3-6 mois",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses été avec hormone, bonne reprise",
-        "_idx": 52
+        "boutures_travaux": "Boutures semi-ligneuses été avec hormone, bonne reprise"
       },
       {
         "espece": "Lavande",
@@ -2502,8 +2449,7 @@
         "semis_travaux": "Graines stratifiées froid 2-4 sem., 18°C, germination 2-4 sem.",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses août, substrat sableux, sans hormone souvent suffisant",
-        "_idx": 53
+        "boutures_travaux": "Boutures semi-ligneuses août, substrat sableux, sans hormone souvent suffisant"
       },
       {
         "espece": "Lierre",
@@ -2541,8 +2487,7 @@
         "semis_travaux": "Graines des baies stratifiées, germination lente",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures ligneuses ou herbacées, très facile, bonne reprise",
-        "_idx": 54
+        "boutures_travaux": "Boutures ligneuses ou herbacées, très facile, bonne reprise"
       },
       {
         "espece": "Lilas",
@@ -2589,8 +2534,7 @@
         "semis_travaux": "Graines stratifiées froid, germination lente, floraison en 5-7 ans",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses juin avec hormone, résultats variables",
-        "_idx": 55
+        "boutures_travaux": "Boutures semi-ligneuses juin avec hormone, résultats variables"
       },
       {
         "espece": "Marronnier",
@@ -2638,7 +2582,6 @@
         "boutures_djc": null,
         "boutures": null,
         "boutures_travaux": "Très difficiles — semis de marrons frais de loin préférable",
-        "_idx": 56,
         "_hidden": true
       },
       {
@@ -2686,8 +2629,7 @@
         "semis_travaux": "Graines scarifiées eau bouillante, semis printemps, germination rapide",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses printemps avec hormone, résultats corrects",
-        "_idx": 57
+        "boutures_travaux": "Boutures semi-ligneuses printemps avec hormone, résultats corrects"
       },
       {
         "espece": "Noisetier",
@@ -2735,7 +2677,6 @@
         "boutures_djc": null,
         "boutures": null,
         "boutures_travaux": "Boutures ligneuses hiver, résultats variables — marcottage aérien plus fiable",
-        "_idx": 58,
         "_hidden": true
       },
       {
@@ -2774,8 +2715,7 @@
         "semis_travaux": "Graines fraîches trempées 48h, 25°C, germination lente 1-3 mois",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Division des rejets basaux — seule méthode végétative",
-        "_idx": 59
+        "boutures_travaux": "Division des rejets basaux — seule méthode végétative"
       },
       {
         "espece": "Paturin des pres",
@@ -2819,8 +2759,7 @@
         "semis_travaux": "",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "",
-        "_idx": 60
+        "boutures_travaux": ""
       },
       {
         "espece": "Pêcher",
@@ -2868,7 +2807,6 @@
         "boutures_djc": null,
         "boutures": null,
         "boutures_travaux": "Difficiles — greffe sur amandier ou prunier porte-greffe préféré",
-        "_idx": 61,
         "_hidden": true
       },
       {
@@ -2904,8 +2842,7 @@
         "semis_travaux": "Graines très rares, semis immédiat à maturité",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Division rhizomes printemps, section avec 3-4 noeuds, bonne reprise",
-        "_idx": 62
+        "boutures_travaux": "Division rhizomes printemps, section avec 3-4 noeuds, bonne reprise"
       },
       {
         "espece": "Phyllostachys vivax",
@@ -2943,8 +2880,7 @@
         "semis_travaux": "Graines rares, semis immédiat",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Division massive rhizomes printemps, sections avec noeuds",
-        "_idx": 63
+        "boutures_travaux": "Division massive rhizomes printemps, sections avec noeuds"
       },
       {
         "espece": "Pin blanc du Japon",
@@ -2994,8 +2930,7 @@
         "semis_travaux": "Semis en terrine après stratification froide 8 sem., germination lente",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "",
-        "_idx": 64
+        "boutures_travaux": ""
       },
       {
         "espece": "Pin d'Alep",
@@ -3045,8 +2980,7 @@
         "semis_travaux": "",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "",
-        "_idx": 65
+        "boutures_travaux": ""
       },
       {
         "espece": "Pin maritime",
@@ -3093,8 +3027,7 @@
           5,
           0
         ],
-        "boutures_travaux": "Sur juvenile",
-        "_idx": 66
+        "boutures_travaux": "Sur juvenile"
       },
       {
         "espece": "Pin noir du Japon",
@@ -3144,8 +3077,7 @@
         "semis_travaux": "Semis en terrine, stratification à froid 4-6 sem., repiquage après levée",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "",
-        "_idx": 67
+        "boutures_travaux": ""
       },
       {
         "espece": "Pin parasol",
@@ -3195,8 +3127,7 @@
         "semis_travaux": "",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "",
-        "_idx": 68
+        "boutures_travaux": ""
       },
       {
         "espece": "Pin rouge du Japon",
@@ -3247,7 +3178,6 @@
         "boutures_djc": null,
         "boutures": null,
         "boutures_travaux": "",
-        "_idx": 69,
         "photo": ""
       },
       {
@@ -3286,8 +3216,7 @@
         "semis_travaux": "Graines extractes des cônes, stratification 4-6 sem. froid, semis printemps",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Non applicable — greffe sur porte-greffe de même espèce préférée",
-        "_idx": 70
+        "boutures_travaux": "Non applicable — greffe sur porte-greffe de même espèce préférée"
       },
       {
         "espece": "Pins  (Pinus parviflora)",
@@ -3332,7 +3261,6 @@
         "boutures_djc": null,
         "boutures": null,
         "boutures_travaux": "",
-        "_idx": 71,
         "_hidden": true
       },
       {
@@ -3383,8 +3311,7 @@
         "semis_travaux": "semis, bouture",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "",
-        "_idx": 72
+        "boutures_travaux": ""
       },
       {
         "espece": "Pins (noir/blanc Japon, sylvestre)",
@@ -3423,7 +3350,6 @@
         "boutures_djc": null,
         "boutures": null,
         "boutures_travaux": "Non applicable pour les pins",
-        "_idx": 73,
         "_hidden": true
       },
       {
@@ -3469,7 +3395,6 @@
         "boutures_djc": null,
         "boutures": null,
         "boutures_travaux": "Boutures ligneuses hiver, résultats bons",
-        "_idx": 74,
         "_hidden": true
       },
       {
@@ -3518,7 +3443,6 @@
         "boutures_djc": null,
         "boutures": null,
         "boutures_travaux": "Boutures ligneuses hiver, résultats variables — greffe préférée",
-        "_idx": 76,
         "_hidden": true
       },
       {
@@ -3566,8 +3490,7 @@
         "semis_travaux": "Noyaux stratifiés froid 8-10 sem., semis printemps",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses juin avec hormone, résultats corrects",
-        "_idx": 77
+        "boutures_travaux": "Boutures semi-ligneuses juin avec hormone, résultats corrects"
       },
       {
         "espece": "Romarin",
@@ -3605,8 +3528,7 @@
         "semis_travaux": "Graines fraîches 18-20°C, germination lente et irrégulière",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses été sans hormone, substrat sableux, facile",
-        "_idx": 78
+        "boutures_travaux": "Boutures semi-ligneuses été sans hormone, substrat sableux, facile"
       },
       {
         "espece": "Sassa Indocalamus tesselatus",
@@ -3638,8 +3560,7 @@
         "semis_travaux": "",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "",
-        "_idx": 79
+        "boutures_travaux": ""
       },
       {
         "espece": "Satsuki ( Azalée du Japon)",
@@ -3686,8 +3607,7 @@
           1,
           1
         ],
-        "boutures_travaux": "Boutures semi-ligneuses Février juin-juillet, substrat acide, brumisation, hormone mais egalement février au japon",
-        "_idx": 80
+        "boutures_travaux": "Boutures semi-ligneuses Février juin-juillet, substrat acide, brumisation, hormone mais egalement février au japon"
       },
       {
         "espece": "Saule",
@@ -3734,8 +3654,7 @@
         "semis_travaux": "Graines éphémères (viables 24h) — boutures très faciles préférées",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures ligneuses hiver 20-30 cm, simplement plantées en terre humide — reprise quasi certaine",
-        "_idx": 81
+        "boutures_travaux": "Boutures ligneuses hiver 20-30 cm, simplement plantées en terre humide — reprise quasi certaine"
       },
       {
         "espece": "Troène de Chine",
@@ -3779,8 +3698,7 @@
         "semis_travaux": "Graines des baies stratifiées, germination bonne printemps suivant",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures ligneuses hiver ou semi-ligneuses été, excellente reprise",
-        "_idx": 82
+        "boutures_travaux": "Boutures ligneuses hiver ou semi-ligneuses été, excellente reprise"
       },
       {
         "espece": "Yucca",
@@ -3818,8 +3736,7 @@
         "semis_travaux": "Graines fraîches 25°C, germination 1-3 mois",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Division des rejets basaux ou sections de tronc au printemps",
-        "_idx": 83
+        "boutures_travaux": "Division des rejets basaux ou sections de tronc au printemps"
       },
       {
         "espece": "Chèvrefeuille",
@@ -3872,8 +3789,7 @@
           3,
           0.21487603305785125
         ],
-        "boutures_travaux": "",
-        "_idx": 84
+        "boutures_travaux": ""
       },
       {
         "espece": "Azalée indica (de Chine)",
@@ -3917,8 +3833,7 @@
         "semis_travaux": "Graines très fines, semis superficiel, substrat acide humide, lumière",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses juin-juillet, substrat acide, brumisation, hormone",
-        "_idx": 85
+        "boutures_travaux": "Boutures semi-ligneuses juin-juillet, substrat acide, brumisation, hormone"
       },
       {
         "espece": "Azalées Satsuki (Japon)",
@@ -3962,8 +3877,7 @@
         "semis_travaux": "Graines très fines, semis superficiel, substrat acide humide, lumière",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses juin-juillet, substrat acide, brumisation, hormone",
-        "_idx": 86
+        "boutures_travaux": "Boutures semi-ligneuses juin-juillet, substrat acide, brumisation, hormone"
       },
       {
         "espece": "Juniperus chinensis",
@@ -4004,8 +3918,7 @@
         "semis_travaux": "Graines stratifiées chaud 3 mois + froid 3 mois, germination lente",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses été avec hormone, résultats corrects",
-        "_idx": 87
+        "boutures_travaux": "Boutures semi-ligneuses été avec hormone, résultats corrects"
       },
       {
         "espece": "Erable Beni Shichihenge",
@@ -4052,8 +3965,7 @@
         "semis_travaux": "Samares fraîches stratifiées froid 2-3 mois, semis printemps",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses juin avec hormone, résultats variables",
-        "_idx": 88
+        "boutures_travaux": "Boutures semi-ligneuses juin avec hormone, résultats variables"
       },
       {
         "espece": "Fargesia Scabrida Asian",
@@ -4082,8 +3994,7 @@
         "semis_travaux": "",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "",
-        "_idx": 89
+        "boutures_travaux": ""
       },
       {
         "espece": "Fougeres Royales Canal des Landes",
@@ -4115,8 +4026,7 @@
         "semis_travaux": "",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "",
-        "_idx": 90
+        "boutures_travaux": ""
       },
       {
         "espece": "Pommier du Japon",
@@ -4163,8 +4073,7 @@
         "semis_travaux": "Noyaux stratifiés 8-12 sem. froid, semis printemps",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures vertes juin, hormone, difficiles — greffe préférée pour cultivars",
-        "_idx": 92
+        "boutures_travaux": "Boutures vertes juin, hormone, difficiles — greffe préférée pour cultivars"
       },
       {
         "espece": "Test3",
@@ -4196,8 +4105,7 @@
         "semis_travaux": "",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "",
-        "_idx": 93
+        "boutures_travaux": ""
       },
       {
         "espece": "Test 4",
@@ -4229,8 +4137,7 @@
         "semis_travaux": "",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "",
-        "_idx": 94
+        "boutures_travaux": ""
       },
       {
         "espece": "test 5 depuis chrome",
@@ -4262,8 +4169,7 @@
         "semis_travaux": "",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "",
-        "_idx": 95
+        "boutures_travaux": ""
       },
       {
         "espece": "Nouvelle espèce",
@@ -4292,8 +4198,7 @@
         "semis_travaux": "",
         "boutures": null,
         "boutures_djc": null,
-        "boutures_travaux": "",
-        "_idx": 96
+        "boutures_travaux": ""
       },
       {
         "espece": "Test 6 sync export iphone",
@@ -4326,8 +4231,7 @@
         "semis_travaux": "",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "",
-        "_idx": 97
+        "boutures_travaux": ""
       },
       {
         "espece": "Test 7 iPad sync export",
@@ -4360,8 +4264,7 @@
         "semis_travaux": "",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "",
-        "_idx": 98
+        "boutures_travaux": ""
       }
     ],
     "_version": "v20",
@@ -4482,7 +4385,8 @@
     "ko13_Glycine_feuillaison_2": true,
     "ko13_Glycine_feuillaison_3": true,
     "ko14_Charme__Carpinus_betulus__floraison_0": true,
-    "ko14_Charme__Carpinus_betulus__floraison_1": true
+    "ko14_Charme__Carpinus_betulus__floraison_1": true,
+    "ko14_Charme__Carpinus_betulus__floraison_2": true
   },
   "config": {
     "ville1": {
