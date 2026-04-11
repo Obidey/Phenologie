@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775917640875,
-  "_date": "2026-04-11T14:27:20.875Z",
-  "_modCount": 217,
+  "_ts": 1775917645236,
+  "_date": "2026-04-11T14:27:25.236Z",
+  "_modCount": 218,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4287,7 +4287,9 @@
     "ko14_Fr_ne_debourrement_1": true,
     "ko14_Pin_d_Alep_feuillaison_0": true,
     "ko14_Paturin_des_pres_senescence_0": true,
-    "ko14_Fr_ne_floraison_0": true
+    "ko14_Fr_ne_floraison_0": true,
+    "ko14_Glycine_floraison_0": true,
+    "ko14_Glycine_floraison_1": true
   },
   "config": {
     "ville1": {
