@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775916978449,
-  "_date": "2026-04-11T14:16:18.449Z",
-  "_modCount": 182,
+  "_ts": 1775917009680,
+  "_date": "2026-04-11T14:16:49.680Z",
+  "_modCount": 183,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -2079,7 +2079,7 @@
           2,
           1
         ],
-        "debourrement_travaux": "Sortir de la serre",
+        "debourrement_travaux": "Arrosage + engrais en serre",
         "feuillaison_djc": null,
         "feuillaison": null,
         "feuillaison_travaux": "Feuilles persistantes, arrosage modéré, plein soleil",
@@ -2109,7 +2109,8 @@
         "semis_travaux": "Graines fraîches 20°C, germination variable",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses été avec hormone, résultats très bons"
+        "boutures_travaux": "Boutures semi-ligneuses été avec hormone, résultats très bons",
+        "photo": ""
       },
       {
         "espece": "Jasminum Starry Night",
@@ -4189,7 +4190,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 79
+    "_modCount": 80
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
@@ -4402,7 +4403,8 @@
     "ko12__rable_Shaina_floraison_0": true,
     "ko12__rable_Shojo_floraison_0": true,
     "ko12_Fr_ne_debourrement_0": true,
-    "ko12_Fr_ne_debourrement_1": true
+    "ko12_Fr_ne_debourrement_1": true,
+    "ko12_Jasmin_d_Espagne_debourrement_0": true
   },
   "config": {
     "ville1": {
