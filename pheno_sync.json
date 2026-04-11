@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775917358165,
-  "_date": "2026-04-11T14:22:38.165Z",
-  "_modCount": 203,
+  "_ts": 1775917389922,
+  "_date": "2026-04-11T14:23:09.922Z",
+  "_modCount": 204,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -2842,7 +2842,7 @@
           3,
           0
         ],
-        "senescence_travaux": "Ramassage aiguilles âgées (3-4 ans), brossage tronc",
+        "senescence_travaux": "Ramassage aiguilles âgées (3-4 ans), boutures aerienne",
         "semis_djc": 1142,
         "semis": [
           3,
@@ -2851,7 +2851,8 @@
         "semis_travaux": "Semis en terrine après stratification froide 8 sem., germination lente",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": ""
+        "boutures_travaux": "",
+        "photo": ""
       },
       {
         "espece": "Pin d'Alep",
@@ -4047,7 +4048,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 93
+    "_modCount": 94
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
