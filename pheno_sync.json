@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775916935989,
-  "_date": "2026-04-11T14:15:35.989Z",
-  "_modCount": 180,
+  "_ts": 1775916962648,
+  "_date": "2026-04-11T14:16:02.648Z",
+  "_modCount": 181,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -1854,10 +1854,10 @@
           0
         ],
         "feuillaison_travaux": "Feuilles pennées élégantes, pinçage pousses longues, ligature, test",
-        "floraison_djc": 924,
+        "floraison_djc": 1070,
         "floraison": [
-          2,
-          1
+          3,
+          0.21487603305785125
         ],
         "floraison_travaux": "Grappes parfumées spectaculaires, ne pas tailler pendant floraison ! et après floraison pour maintenir compact",
         "croissance_djc": 1689,
@@ -4187,7 +4187,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 77
+    "_modCount": 78
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
