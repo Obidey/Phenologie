@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775922972635,
-  "_date": "2026-04-11T15:56:12.635Z",
-  "_modCount": 257,
+  "_ts": 1775922986654,
+  "_date": "2026-04-11T15:56:26.654Z",
+  "_modCount": 258,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -2959,7 +2959,7 @@
         "_hidden": true
       },
       {
-        "espece": "Nouvelle esp  HASUKASHI: Réduire les aiguilles des pins noirs à 2 ou 3 paires => 15 avril",
+        "espece": "HASUKASHI: Réduire les aiguilles des pins noirs à 2 ou 3 paires => 15 avril",
         "url": "",
         "notes": "",
         "debourrement_djc": null,
@@ -2980,9 +2980,12 @@
           10,
           0.47318611987381703
         ],
-        "senescence_djc": null,
-        "senescence_travaux": "",
-        "senescence": null,
+        "senescence_djc": 5160,
+        "senescence_travaux": "(SYLVESTRES )(ROMERO) COUPER LES POUSSES FORTES ( LAISSER AU MOINS UNE CHANDELLE) DU BOUT POUR FAVORISER LES PETITS BOURGEONS DE LA BRANCHE",
+        "senescence": [
+          10,
+          0.47318611987381703
+        ],
         "photo": "",
         "semis_djc": null,
         "semis": null,
@@ -4178,7 +4181,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 117
+    "_modCount": 118
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
