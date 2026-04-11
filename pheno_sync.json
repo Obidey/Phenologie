@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775918279610,
-  "_date": "2026-04-11T14:37:59.610Z",
-  "_modCount": 229,
+  "_ts": 1775918580135,
+  "_date": "2026-04-11T14:43:00.135Z",
+  "_modCount": 230,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4312,7 +4312,11 @@
     "ko9__rable_Purpurum_debourrement_1": true,
     "ko9__rable_Purpurum_floraison_0": true,
     "ko9__rable_Shojo_debourrement_0": true,
-    "ko9_Tro_ne_de_Chine_feuillaison_0": true
+    "ko9_Tro_ne_de_Chine_feuillaison_0": true,
+    "ko13_Pin_blanc_du_Japon_senescence_1": true,
+    "ko13_Pin_maritime_floraison_0": true,
+    "ko13_Pin_sylvestre_debourrement_0": true,
+    "ko14_Pin_d_Alep_floraison_0": true
   },
   "config": {
     "ville1": {
