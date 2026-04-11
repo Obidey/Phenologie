@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775916604127,
-  "_date": "2026-04-11T14:10:04.127Z",
-  "_modCount": 160,
+  "_ts": 1775916612754,
+  "_date": "2026-04-11T14:10:12.754Z",
+  "_modCount": 161,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4373,7 +4373,8 @@
     "ko11_Acacia_Constantinople_debourrement_1": true,
     "ko11_Arbre_de_Jud_e__Cercis_siliquastrum__croissance_0": true,
     "ko11_Arbre_de_Jud_e__Cercis_siliquastrum__croissance_1": true,
-    "ko11_Arbre_de_Jud_e__Cercis_siliquastrum__croissance_2": true
+    "ko11_Arbre_de_Jud_e__Cercis_siliquastrum__croissance_2": true,
+    "ko11_Ch_ne_vert_feuillaison_0": true
   },
   "config": {
     "ville1": {
