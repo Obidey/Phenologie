@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775916616108,
-  "_date": "2026-04-11T14:10:16.108Z",
-  "_modCount": 162,
+  "_ts": 1775916623193,
+  "_date": "2026-04-11T14:10:23.193Z",
+  "_modCount": 163,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4375,7 +4375,8 @@
     "ko11_Arbre_de_Jud_e__Cercis_siliquastrum__croissance_1": true,
     "ko11_Arbre_de_Jud_e__Cercis_siliquastrum__croissance_2": true,
     "ko11_Ch_ne_vert_feuillaison_0": true,
-    "ko11_Erable_Beni_Shichihenge_floraison_0": true
+    "ko11_Erable_Beni_Shichihenge_floraison_0": true,
+    "ko11__rable_katsura_floraison_0": true
   },
   "config": {
     "ville1": {
