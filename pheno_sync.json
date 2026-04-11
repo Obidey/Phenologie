@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775917407875,
-  "_date": "2026-04-11T14:23:27.875Z",
-  "_modCount": 205,
+  "_ts": 1775917464022,
+  "_date": "2026-04-11T14:24:24.022Z",
+  "_modCount": 206,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -2899,7 +2899,7 @@
           3,
           0
         ],
-        "semis_travaux": "",
+        "semis_travaux": "Semis",
         "boutures_djc": null,
         "boutures": null,
         "boutures_travaux": "",
@@ -4048,7 +4048,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 95
+    "_modCount": 96
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
@@ -4273,7 +4273,8 @@
     "ko13_Arbre_de_Jud_e__Cercis_siliquastrum__croissance_2": true,
     "ko13_Jasminum_Starry_Night_feuillaison_0": true,
     "ko13_Pin_d_Alep_debourrement_0": true,
-    "ko13_Pin_blanc_du_Japon_senescence_0": true
+    "ko13_Pin_blanc_du_Japon_senescence_0": true,
+    "ko13_Pin_d_Alep_semis_0": true
   },
   "config": {
     "ville1": {
