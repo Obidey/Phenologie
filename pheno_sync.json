@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775925209862,
-  "_date": "2026-04-11T16:33:29.862Z",
-  "_modCount": 270,
+  "_ts": 1775925375823,
+  "_date": "2026-04-11T16:36:15.823Z",
+  "_modCount": 271,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -621,37 +621,37 @@
         "espece": "Bougainvillier",
         "notes": "Semi-persistant climat doux",
         "url": "https://fr.wikipedia.org/wiki/Bougainvill%C3%A9e",
-        "debourrement_djc": 1200,
+        "debourrement_djc": 798,
         "debourrement": [
-          3,
-          0.5730027548209367
+          2,
+          0.6566757493188011
         ],
-        "debourrement_travaux": "Taille sévère fin hiver, favorise floraison sur bois de l'année",
+        "debourrement_travaux": "Taille sévère fin hiver, favorise floraison sur bois de l'année, purgeons au nebari",
         "feuillaison_djc": null,
         "feuillaison": null,
         "feuillaison_travaux": "Pinçage pousses après 2 feuilles pour densifier",
-        "floraison_djc": 2000,
+        "floraison_djc": 1991,
         "floraison": [
           5,
-          0.19424460431654678
+          0.17805755395683454
         ],
         "floraison_travaux": "Bractées colorées spectaculaires, stress hydrique léger favorise floraison",
-        "croissance_djc": 2750,
+        "croissance_djc": 2772,
         "croissance": [
           6,
-          0.3409490333919156
+          0.37961335676625657
         ],
         "croissance_travaux": "Ligature prudente (épines), fertilisation potassique, plein soleil",
-        "maturation_djc": 3500,
+        "maturation_djc": 3461,
         "maturation": [
           7,
-          0.4072398190045249
+          0.34841628959276016
         ],
         "maturation_travaux": "Retirer bractées fanées, laisser mûrir petits fruits tubulaires",
-        "senescence_djc": 5500,
+        "senescence_djc": 5492,
         "senescence": [
           11,
-          0.4645669291338583
+          0.4330708661417323
         ],
         "senescence_travaux": "Rentrer hors gel, réduire arrosage, taille légère nettoyage",
         "semis_djc": null,
@@ -659,7 +659,8 @@
         "semis_travaux": "Semis 25°C, germination irrégulière, boutures préférées",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses été avec hormone, 25°C, résultat bon"
+        "boutures_travaux": "Boutures semi-ligneuses été avec hormone, 25°C, résultat bon",
+        "photo": ""
       },
       {
         "espece": "Bougainvillier Violet de Mèze",
