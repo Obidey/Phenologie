@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775917251277,
-  "_date": "2026-04-11T14:20:51.277Z",
-  "_modCount": 198,
+  "_ts": 1775917270815,
+  "_date": "2026-04-11T14:21:10.815Z",
+  "_modCount": 199,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -2032,7 +2032,7 @@
           3,
           0
         ],
-        "debourrement_travaux": "",
+        "debourrement_travaux": "observation",
         "feuillaison_djc": 1142,
         "feuillaison": [
           3,
@@ -2068,7 +2068,8 @@
         "semis_travaux": "",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": ""
+        "boutures_travaux": "",
+        "photo": ""
       },
       {
         "espece": "Jasmin d'Espagne",
@@ -4099,7 +4100,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 89
+    "_modCount": 90
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
