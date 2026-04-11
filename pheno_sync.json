@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775917206603,
-  "_date": "2026-04-11T14:20:06.603Z",
-  "_modCount": 195,
+  "_ts": 1775917218921,
+  "_date": "2026-04-11T14:20:18.921Z",
+  "_modCount": 196,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -3970,38 +3970,6 @@
         "boutures_travaux": "Boutures vertes juin, hormone, difficiles — greffe préférée pour cultivars"
       },
       {
-        "espece": "Test3",
-        "notes": "",
-        "url": "",
-        "debourrement_djc": 924,
-        "debourrement": [
-          2,
-          1
-        ],
-        "debourrement_travaux": "",
-        "feuillaison_djc": null,
-        "feuillaison": null,
-        "feuillaison_travaux": "",
-        "floraison_djc": null,
-        "floraison": null,
-        "floraison_travaux": "",
-        "croissance_djc": null,
-        "croissance": null,
-        "croissance_travaux": "",
-        "maturation_djc": null,
-        "maturation": null,
-        "maturation_travaux": "",
-        "senescence_djc": null,
-        "senescence": null,
-        "senescence_travaux": "",
-        "semis_djc": null,
-        "semis": null,
-        "semis_travaux": "",
-        "boutures_djc": null,
-        "boutures": null,
-        "boutures_travaux": ""
-      },
-      {
         "espece": "Test 4",
         "notes": "",
         "url": "",
@@ -4131,7 +4099,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 88
+    "_modCount": 89
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
