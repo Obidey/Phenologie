@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775915866174,
-  "_date": "2026-04-11T13:57:46.174Z",
-  "_modCount": 120,
+  "_ts": 1775915869218,
+  "_date": "2026-04-11T13:57:49.218Z",
+  "_modCount": 121,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4410,7 +4410,8 @@
     "ko7_Ch_ne_vert_debourrement_0": true,
     "ko7__rable_desojo__Acer_palmatum__debourrement_0": true,
     "ko7__rable_Shaina_debourrement_0": true,
-    "ko7__rable_Shaina_debourrement_1": true
+    "ko7__rable_Shaina_debourrement_1": true,
+    "ko7_Forsythia_debourrement_0": true
   },
   "config": {
     "ville1": {
