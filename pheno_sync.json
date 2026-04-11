@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775916628145,
-  "_date": "2026-04-11T14:10:28.145Z",
-  "_modCount": 164,
+  "_ts": 1775916669986,
+  "_date": "2026-04-11T14:11:09.986Z",
+  "_modCount": 165,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4378,7 +4378,10 @@
     "ko11_Erable_Beni_Shichihenge_floraison_0": true,
     "ko11__rable_katsura_floraison_0": true,
     "ko11_Figuier_2_saisons_feuillaison_0": true,
-    "ko11_Figuier_de_Dalmatie_feuillaison_0": true
+    "ko11_Figuier_de_Dalmatie_feuillaison_0": true,
+    "ko11_Pommier_du_Japon_feuillaison_0": true,
+    "ko11_Lavande_feuillaison_0": true,
+    "ko11_Pommier_du_Japon_floraison_0": true
   },
   "config": {
     "ville1": {
