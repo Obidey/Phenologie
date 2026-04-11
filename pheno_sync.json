@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775922672501,
-  "_date": "2026-04-11T15:51:12.501Z",
-  "_modCount": 253,
+  "_ts": 1775922741746,
+  "_date": "2026-04-11T15:52:21.746Z",
+  "_modCount": 254,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -3468,9 +3468,12 @@
           0.7768014059753954
         ],
         "maturation_travaux": "Cônes brun-gris (maturation 2 ans), collecte avant ouverture",
-        "senescence_djc": null,
-        "senescence": null,
-        "senescence_travaux": "Chute aiguilles de 2-3 ans normale, nettoyage, observation",
+        "senescence_djc": 924,
+        "senescence": [
+          2,
+          1
+        ],
+        "senescence_travaux": "(SYLVESTRES )(ROMERO) COUPER LES POUSSES FORTES ( LAISSER AU MOINS UNE CHANDELLE) DU BOUT POUR FAVORISER LES PETITS BOURGEONS DE LA BRANCHE",
         "semis_djc": null,
         "semis": null,
         "semis_travaux": "Graines extractes des cônes, stratification 4-6 sem. froid, semis printemps",
@@ -4136,7 +4139,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 114
+    "_modCount": 115
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
