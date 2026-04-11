@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775915815889,
-  "_date": "2026-04-11T13:56:55.889Z",
-  "_modCount": 116,
+  "_ts": 1775915836343,
+  "_date": "2026-04-11T13:57:16.343Z",
+  "_modCount": 117,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -1292,7 +1292,7 @@
           2,
           0.1362397820163488
         ],
-        "debourrement_travaux": "Taille avant débourrement (risque saignée), cicatrisant soufré",
+        "debourrement_travaux": "Taille avant débourrement (risque saignée) + cicatrisant",
         "feuillaison_djc": 726,
         "feuillaison": [
           2,
@@ -1328,7 +1328,8 @@
         "semis_travaux": "Samares fraîches, stratification froid 3-4 mois, germination printanière",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses juin avec hormone, mi-ombre, résultats corrects"
+        "boutures_travaux": "Boutures semi-ligneuses juin avec hormone, mi-ombre, résultats corrects",
+        "photo": ""
       },
       {
         "espece": "Érable Kagiri-nishiki",
@@ -4266,7 +4267,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 60
+    "_modCount": 61
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
