@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775919001502,
-  "_date": "2026-04-11T14:50:01.502Z",
-  "_modCount": 235,
+  "_ts": 1775919178500,
+  "_date": "2026-04-11T14:52:58.500Z",
+  "_modCount": 236,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4029,10 +4029,43 @@
         "boutures_djc": null,
         "boutures": null,
         "boutures_travaux": ""
+      },
+      {
+        "espece": "Citronnier du Vietnam",
+        "url": "https://fr.wikipedia.org/wiki/Citrus_aurantiifolia",
+        "notes": "",
+        "debourrement_djc": null,
+        "debourrement_travaux": "",
+        "debourrement": null,
+        "feuillaison_djc": null,
+        "feuillaison_travaux": "",
+        "feuillaison": null,
+        "floraison_djc": 557,
+        "floraison_travaux": "Observation",
+        "floraison": [
+          2,
+          0
+        ],
+        "croissance_djc": null,
+        "croissance_travaux": "",
+        "croissance": null,
+        "maturation_djc": null,
+        "maturation_travaux": "",
+        "maturation": null,
+        "senescence_djc": null,
+        "senescence_travaux": "",
+        "senescence": null,
+        "photo": "",
+        "semis_djc": null,
+        "semis": null,
+        "semis_travaux": "",
+        "boutures_djc": null,
+        "boutures": null,
+        "boutures_travaux": ""
       }
     ],
     "_version": "v20",
-    "_modCount": 108
+    "_modCount": 109
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
