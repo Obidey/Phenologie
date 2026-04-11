@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775916795042,
-  "_date": "2026-04-11T14:13:15.042Z",
-  "_modCount": 172,
+  "_ts": 1775916844635,
+  "_date": "2026-04-11T14:14:04.635Z",
+  "_modCount": 173,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -1264,7 +1264,7 @@
           2,
           1
         ],
-        "floraison_travaux": "Fleurs rouges discrètes avant feuilles, pas d'intervention",
+        "floraison_travaux": "Fleurs rouges discrètes avant feuilles, pas observées",
         "croissance_djc": 1689,
         "croissance": [
           4,
@@ -4183,7 +4183,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 72
+    "_modCount": 73
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
@@ -4388,7 +4388,9 @@
     "ko12_Arbre_de_Jud_e__Cercis_siliquastrum__feuillaison_0": true,
     "ko12_Cerisier_du_Japon__Sakura__feuillaison_0": true,
     "ko12__rable_Bi_Hoo_floraison_0": true,
-    "ko12__rable_Bi_Hoo_floraison_1": true
+    "ko12__rable_Bi_Hoo_floraison_1": true,
+    "ko12__rable_desojo__Acer_palmatum__floraison_1": true,
+    "ko12__rable_desojo__Acer_palmatum__floraison_0": true
   },
   "config": {
     "ville1": {
