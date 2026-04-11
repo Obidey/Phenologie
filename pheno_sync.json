@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775916121148,
-  "_date": "2026-04-11T14:02:01.148Z",
-  "_modCount": 129,
+  "_ts": 1775916134034,
+  "_date": "2026-04-11T14:02:14.034Z",
+  "_modCount": 130,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -479,50 +479,6 @@
         "boutures": null,
         "boutures_travaux": "Boutures semi-ligneuses juin-juillet, substrat acide, brumisation, hormone",
         "_hidden": true
-      },
-      {
-        "espece": "Azalées indica (Chine)",
-        "notes": "Persistant (climat doux)",
-        "url": "https://fr.wikipedia.org/wiki/Rhododendron_(genre)",
-        "debourrement_djc": 668,
-        "debourrement": [
-          2,
-          0.3024523160762943
-        ],
-        "debourrement_travaux": "Engrais ?",
-        "feuillaison_djc": 726,
-        "feuillaison": [
-          2,
-          0.4604904632152589
-        ],
-        "feuillaison_travaux": "Pinçage après floraison pour densifier, surveiller araignées rouges",
-        "floraison_djc": 798,
-        "floraison": [
-          2,
-          0.6566757493188011
-        ],
-        "floraison_travaux": "Pas d'engrais pendant floraison + Rempotage après floraison + substrat acide (pH 5-6), taille légère",
-        "croissance_djc": 1530,
-        "croissance": [
-          4,
-          0.24770642201834864
-        ],
-        "croissance_travaux": "Fertilisation pour acidophiles, ligature souple, mi-ombre été",
-        "maturation_djc": 2448,
-        "maturation": [
-          5,
-          1
-        ],
-        "maturation_travaux": "Retirer capsules graines pour économiser énergie",
-        "senescence_djc": null,
-        "senescence": null,
-        "senescence_travaux": "Demi-persistant selon variété, protection contre froid sec",
-        "semis_djc": null,
-        "semis": null,
-        "semis_travaux": "Graines très fines, semis superficiel, substrat acide humide, lumière",
-        "boutures_djc": null,
-        "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses juin-juillet, substrat acide, brumisation, hormone"
       },
       {
         "espece": "Bananier",
@@ -4220,7 +4176,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 63
+    "_modCount": 64
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
