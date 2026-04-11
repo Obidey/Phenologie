@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775916490086,
-  "_date": "2026-04-11T14:08:10.086Z",
-  "_modCount": 153,
+  "_ts": 1775916522903,
+  "_date": "2026-04-11T14:08:42.903Z",
+  "_modCount": 154,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -2961,7 +2961,7 @@
           2,
           0.6566757493188011
         ],
-        "floraison_travaux": "Pollen jaune abondant + le 24 mars Taille des chandelles",
+        "floraison_travaux": "le 24 mars Taille des chandelles",
         "croissance_djc": 2198,
         "croissance": [
           5,
@@ -2988,7 +2988,8 @@
           5,
           0
         ],
-        "boutures_travaux": "Sur juvenile"
+        "boutures_travaux": "Sur juvenile",
+        "photo": ""
       },
       {
         "espece": "Pin noir du Japon",
@@ -4179,7 +4180,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 68
+    "_modCount": 69
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
