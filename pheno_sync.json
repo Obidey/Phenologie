@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775917825573,
-  "_date": "2026-04-11T14:30:25.573Z",
-  "_modCount": 224,
+  "_ts": 1775917894085,
+  "_date": "2026-04-11T14:31:34.085Z",
+  "_modCount": 225,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -2606,26 +2606,26 @@
         "url": "https://fr.wikipedia.org/wiki/Chamaerops_humilis",
         "debourrement_djc": null,
         "debourrement": null,
-        "debourrement_travaux": "Supprimer feuilles sèches, rempotage si nécessaire, substrat drainant",
+        "debourrement_travaux": "Supprimer feuilles sèche",
         "feuillaison_djc": null,
         "feuillaison": null,
         "feuillaison_travaux": "Nouvelles frondes enroulées, arrosage modéré, plein soleil",
-        "floraison_djc": 1400,
+        "floraison_djc": 992,
         "floraison": [
-          4,
+          3,
           0
         ],
         "floraison_travaux": "Grandes panicules jaunes, arrosage régulier, fertilisation",
-        "croissance_djc": 2200,
+        "croissance_djc": 2198,
         "croissance": [
           5,
-          0.5539568345323741
+          0.5503597122302158
         ],
         "croissance_travaux": "Fertilisation palmiers, plein soleil, substrat minéral",
-        "maturation_djc": 3500,
+        "maturation_djc": 3461,
         "maturation": [
           7,
-          0.4072398190045249
+          0.34841628959276016
         ],
         "maturation_travaux": "Drupes jaune-orange, décoratifs, retirer tiges florales",
         "senescence_djc": null,
@@ -2636,7 +2636,8 @@
         "semis_travaux": "Graines fraîches trempées 48h, 25°C, germination lente 1-3 mois",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Division des rejets basaux — seule méthode végétative"
+        "boutures_travaux": "Division des rejets basaux — seule méthode végétative",
+        "photo": ""
       },
       {
         "espece": "Paturin des pres",
