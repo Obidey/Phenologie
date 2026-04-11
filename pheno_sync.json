@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775922466741,
-  "_date": "2026-04-11T15:47:46.741Z",
-  "_modCount": 251,
+  "_ts": 1775922648707,
+  "_date": "2026-04-11T15:50:48.707Z",
+  "_modCount": 252,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -3757,10 +3757,10 @@
         "espece": "Prunus mume",
         "notes": "Caduc",
         "url": "https://fr.wikipedia.org/wiki/Prunus_mume",
-        "debourrement_djc": 108,
+        "debourrement_djc": 391,
         "debourrement": [
-          0,
-          0.3975409836065574
+          1,
+          0.431924882629108
         ],
         "debourrement_travaux": "Taille après floraison impérativement, cicatrisant",
         "feuillaison_djc": 512,
@@ -4136,7 +4136,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 113
+    "_modCount": 114
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
