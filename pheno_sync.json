@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775917981179,
-  "_date": "2026-04-11T14:33:01.179Z",
-  "_modCount": 227,
+  "_ts": 1775918260212,
+  "_date": "2026-04-11T14:37:40.212Z",
+  "_modCount": 228,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -2615,7 +2615,7 @@
           3,
           0
         ],
-        "floraison_travaux": "Grandes panicules jaunes, arrosage régulier, fertilisation",
+        "floraison_travaux": "Grandes panicules jaunes",
         "croissance_djc": 2198,
         "croissance": [
           5,
@@ -4302,7 +4302,17 @@
     "ko14_Pin_noir_du_Japon_debourrement_0": true,
     "ko14_Pin_noir_du_Japon_semis_0": true,
     "ko14_Pin_noir_du_Japon_semis_1": true,
-    "ko14_Pin_noir_du_Japon_semis_2": true
+    "ko14_Pin_noir_du_Japon_semis_2": true,
+    "ko9_Erable_Beni_Shichihenge_feuillaison_0": true,
+    "ko9__rable_Bi_Hoo_feuillaison_0": true,
+    "ko9__rable_Kagiri_nishiki_feuillaison_0": true,
+    "ko9__rable_katsura_feuillaison_0": true,
+    "ko9__rable_Osakazuki_feuillaison_0": true,
+    "ko9__rable_Purpurum_debourrement_0": true,
+    "ko9__rable_Purpurum_debourrement_1": true,
+    "ko9__rable_Purpurum_floraison_0": true,
+    "ko9__rable_Shojo_debourrement_0": true,
+    "ko9_Tro_ne_de_Chine_feuillaison_0": true
   },
   "config": {
     "ville1": {
