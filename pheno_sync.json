@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775925508420,
-  "_date": "2026-04-11T16:38:28.420Z",
-  "_modCount": 273,
+  "_ts": 1775925559853,
+  "_date": "2026-04-11T16:39:19.853Z",
+  "_modCount": 274,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -2477,13 +2477,13 @@
         "photo": ""
       },
       {
-        "espece": "Jasmin d'Espagne (copie)",
+        "espece": "Jasmin etoilé",
         "notes": "Semi-persistant climat doux",
-        "url": "https://fr.wikipedia.org/wiki/Jasminum_officinale",
-        "debourrement_djc": 924,
+        "url": "https://www.promessedefleurs.com/grimpantes/grimpantes-par-variete/trachelospermum/jasmin-etoile-trachelospermum-jasminoides.html",
+        "debourrement_djc": 726,
         "debourrement": [
           2,
-          1
+          0.4604904632152589
         ],
         "debourrement_travaux": "Arrosage + engrais en serre",
         "feuillaison_djc": null,
@@ -4299,7 +4299,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 126
+    "_modCount": 127
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
