@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775917694424,
-  "_date": "2026-04-11T14:28:14.424Z",
-  "_modCount": 222,
+  "_ts": 1775917806039,
+  "_date": "2026-04-11T14:30:06.039Z",
+  "_modCount": 223,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -2915,16 +2915,16 @@
           2,
           0.3024523160762943
         ],
-        "debourrement_travaux": "Observer élongation bougies",
+        "debourrement_travaux": "Observer élongation bougies Taille des chandelles",
         "feuillaison_djc": null,
         "feuillaison": null,
         "feuillaison_travaux": "Observation",
-        "floraison_djc": 798,
+        "floraison_djc": 992,
         "floraison": [
-          2,
-          0.6566757493188011
+          3,
+          0
         ],
-        "floraison_travaux": "le 24 mars Taille des chandelles",
+        "floraison_travaux": "Polenisation tres abondantes (canal jaune)",
         "croissance_djc": 2198,
         "croissance": [
           5,
@@ -4051,7 +4051,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 102
+    "_modCount": 103
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
