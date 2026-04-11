@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775915366240,
-  "_date": "2026-04-11T13:49:26.240Z",
-  "_modCount": 98,
+  "_ts": 1775915380900,
+  "_date": "2026-04-11T13:49:40.900Z",
+  "_modCount": 99,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -2594,7 +2594,7 @@
           1,
           0.431924882629108
         ],
-        "debourrement_travaux": "Taille après floraison, feuillage persistant argenté",
+        "debourrement_travaux": "Taille après floraison",
         "feuillaison_djc": 557,
         "feuillaison": [
           2,
