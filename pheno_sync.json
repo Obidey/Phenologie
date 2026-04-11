@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775918580135,
-  "_date": "2026-04-11T14:43:00.135Z",
-  "_modCount": 230,
+  "_ts": 1775918841222,
+  "_date": "2026-04-11T14:47:21.222Z",
+  "_modCount": 231,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -1619,22 +1619,22 @@
         "espece": "Fargesia (bambous cespiteux)",
         "notes": "Persistant",
         "url": "https://fr.wikipedia.org/wiki/Fargesia",
-        "debourrement_djc": 1200,
+        "debourrement_djc": 992,
         "debourrement": [
           3,
-          0.5730027548209367
+          0
         ],
-        "debourrement_travaux": "Division des touffes, rempotage, substrat riche et humide",
+        "debourrement_travaux": "Division des touffes, Louchage, suppression des turion",
         "feuillaison_djc": null,
         "feuillaison": null,
         "feuillaison_travaux": "Arrosage abondant, fertilisation azotée, mi-ombre",
         "floraison_djc": null,
         "floraison": null,
         "floraison_travaux": "Floraison rare (mort de la plante après floraison), observer",
-        "croissance_djc": 2500,
+        "croissance_djc": 2448,
         "croissance": [
-          6,
-          0
+          5,
+          1
         ],
         "croissance_travaux": "Arrosage quotidien, fertilisation régulière, éliminer vieux chaumes",
         "maturation_djc": null,
@@ -1648,7 +1648,8 @@
         "semis_travaux": "Graines fraîches (rares), semis immédiat, germination rapide",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Division de touffes au printemps, section rhizomes, bonne reprise"
+        "boutures_travaux": "Division de touffes au printemps, section rhizomes, bonne reprise",
+        "photo": ""
       },
       {
         "espece": "Figuier 2 saisons",
@@ -4059,7 +4060,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 104
+    "_modCount": 105
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
