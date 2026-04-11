@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775917504804,
-  "_date": "2026-04-11T14:25:04.804Z",
-  "_modCount": 209,
+  "_ts": 1775917538224,
+  "_date": "2026-04-11T14:25:38.224Z",
+  "_modCount": 210,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -3646,7 +3646,7 @@
           3,
           0.21487603305785125
         ],
-        "croissance_travaux": "test",
+        "croissance_travaux": "Pincer les tiges longues",
         "maturation_djc": 3893,
         "maturation": [
           7,
@@ -4049,7 +4049,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 97
+    "_modCount": 98
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
