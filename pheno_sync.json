@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775915616597,
-  "_date": "2026-04-11T13:53:36.597Z",
-  "_modCount": 110,
+  "_ts": 1775915643747,
+  "_date": "2026-04-11T13:54:03.747Z",
+  "_modCount": 111,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -3885,47 +3885,6 @@
         "boutures_travaux": "Boutures semi-ligneuses juin-juillet, substrat acide, brumisation, hormone"
       },
       {
-        "espece": "Juniperus chinensis",
-        "notes": "Persistant",
-        "url": "https://fr.wikipedia.org/wiki/Gen%C3%A9vrier",
-        "debourrement_djc": 557,
-        "debourrement": [
-          2,
-          0
-        ],
-        "debourrement_travaux": "Rempotage si nécessaire (tous 3-5 ans) +substrat drainant",
-        "feuillaison_djc": 726,
-        "feuillaison": [
-          2,
-          0.4604904632152589
-        ],
-        "feuillaison_travaux": "Pinçage manuel des pousses (ne jamais cisailler), ligature",
-        "floraison_djc": null,
-        "floraison": null,
-        "floraison_travaux": "Fleurs discrètes, cônes charnues brun-violacées, pas d'intervention",
-        "croissance_djc": 1776,
-        "croissance": [
-          4,
-          1
-        ],
-        "croissance_travaux": "Ligature souple (fissures possibles), fertilisation modérée",
-        "maturation_djc": 2998,
-        "maturation": [
-          6,
-          0.7768014059753954
-        ],
-        "maturation_travaux": "Baies genévrier (2 ans), décoratifs, observer couleur glauque",
-        "senescence_djc": null,
-        "senescence": null,
-        "senescence_travaux": "Supprimer feuillage mort intérieur (Jin possible), très résistant",
-        "semis_djc": null,
-        "semis": null,
-        "semis_travaux": "Graines stratifiées chaud 3 mois + froid 3 mois, germination lente",
-        "boutures_djc": null,
-        "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses été avec hormone, résultats corrects"
-      },
-      {
         "espece": "Erable Beni Shichihenge",
         "notes": "Caduc -Panaché",
         "url": "https://www.promessedefleurs.com/arbustes/arbustes-par-variete/erables-du-japon/erable-du-japon-acer-palmatum-beni-shichihenge.html",
@@ -4307,7 +4266,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 57
+    "_modCount": 58
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
