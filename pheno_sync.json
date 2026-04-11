@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775915271264,
-  "_date": "2026-04-11T13:47:51.264Z",
-  "_modCount": 93,
+  "_ts": 1775915294485,
+  "_date": "2026-04-11T13:48:14.485Z",
+  "_modCount": 94,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -2606,7 +2606,7 @@
           1,
           0
         ],
-        "floraison_travaux": "Pompons jaunes parfumés spectaculaires, ne pas tailler !",
+        "floraison_travaux": "Pompons jaunes parfumés spectaculaire",
         "croissance_djc": 1142,
         "croissance": [
           3,
@@ -2630,7 +2630,8 @@
         "semis_travaux": "Graines scarifiées eau bouillante, semis printemps, germination rapide",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses printemps avec hormone, résultats corrects"
+        "boutures_travaux": "Boutures semi-ligneuses printemps avec hormone, résultats corrects",
+        "photo": ""
       },
       {
         "espece": "Noisetier",
