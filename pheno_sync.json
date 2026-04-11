@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775915801063,
-  "_date": "2026-04-11T13:56:41.063Z",
-  "_modCount": 114,
+  "_ts": 1775915813071,
+  "_date": "2026-04-11T13:56:53.071Z",
+  "_modCount": 115,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4404,7 +4404,9 @@
     "ko6_Pins__noir_Noir__Pinus_thunbergii_debourrement_0": true,
     "ko6_Pins__noir_Noir__Pinus_thunbergii_debourrement_1": true,
     "ko6_Pins__noir_Noir__Pinus_thunbergii_debourrement_2": true,
-    "ko6_Pins__noir_Noir__Pinus_thunbergii_debourrement_3": true
+    "ko6_Pins__noir_Noir__Pinus_thunbergii_debourrement_3": true,
+    "ko7_Azal_es_Satsuki__Japon__debourrement_0": true,
+    "ko7_Ch_ne_vert_debourrement_0": true
   },
   "config": {
     "ville1": {
