@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775923104003,
-  "_date": "2026-04-11T15:58:24.003Z",
-  "_modCount": 260,
+  "_ts": 1775923143432,
+  "_date": "2026-04-11T15:59:03.432Z",
+  "_modCount": 261,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -2476,6 +2476,48 @@
         "photo": ""
       },
       {
+        "espece": "Jasmin d'Espagne (copie)",
+        "notes": "Semi-persistant climat doux",
+        "url": "https://fr.wikipedia.org/wiki/Jasminum_officinale",
+        "debourrement_djc": 924,
+        "debourrement": [
+          2,
+          1
+        ],
+        "debourrement_travaux": "Arrosage + engrais en serre",
+        "feuillaison_djc": null,
+        "feuillaison": null,
+        "feuillaison_travaux": "Feuilles persistantes, arrosage modéré, plein soleil",
+        "floraison_djc": 1608,
+        "floraison": [
+          4,
+          0.48623853211009177
+        ],
+        "floraison_travaux": "Fleurs blanches très parfumées, arrosage régulier, pas d'engrais",
+        "croissance_djc": 1991,
+        "croissance": [
+          5,
+          0.17805755395683454
+        ],
+        "croissance_travaux": "Ligature pour former la structure, fertilisation légère",
+        "maturation_djc": 2772,
+        "maturation": [
+          6,
+          0.37961335676625657
+        ],
+        "maturation_travaux": "Baies noires toxiques discrètes, retirer de préférence",
+        "senescence_djc": null,
+        "senescence": null,
+        "senescence_travaux": "Persistant, rentrer si gel, taille légère nettoyage",
+        "semis_djc": null,
+        "semis": null,
+        "semis_travaux": "Graines fraîches 20°C, germination variable",
+        "boutures_djc": null,
+        "boutures": null,
+        "boutures_travaux": "Boutures semi-ligneuses été avec hormone, résultats très bons",
+        "photo": ""
+      },
+      {
         "espece": "Juniperus  Itoigawa (chinensis)",
         "notes": "Persistant",
         "url": "https://fr.wikipedia.org/wiki/Gen%C3%A9vrier",
@@ -4181,7 +4223,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 120
+    "_modCount": 121
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
