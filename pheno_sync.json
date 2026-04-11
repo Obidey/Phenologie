@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775916930611,
-  "_date": "2026-04-11T14:15:30.611Z",
-  "_modCount": 179,
+  "_ts": 1775916935989,
+  "_date": "2026-04-11T14:15:35.989Z",
+  "_modCount": 180,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4398,7 +4398,9 @@
     "ko12__rable_Kagiri_nishiki_floraison_0": true,
     "ko12__rable_Osakazuki_floraison_0": true,
     "ko12__rable_Shaina_floraison_0": true,
-    "ko12__rable_Shojo_floraison_0": true
+    "ko12__rable_Shojo_floraison_0": true,
+    "ko12_Fr_ne_debourrement_0": true,
+    "ko12_Fr_ne_debourrement_1": true
   },
   "config": {
     "ville1": {
