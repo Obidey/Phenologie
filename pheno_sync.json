@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775918880125,
-  "_date": "2026-04-11T14:48:00.125Z",
-  "_modCount": 232,
+  "_ts": 1775918918152,
+  "_date": "2026-04-11T14:48:38.152Z",
+  "_modCount": 233,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -3472,12 +3472,12 @@
         "espece": "Sassa Indocalamus tesselatus",
         "notes": "Bambou large feuille peu traçant",
         "url": "https://www.promessedefleurs.com/arbustes/bambou/bambous-nains/sasa-tesselata.html",
-        "debourrement_djc": 668,
+        "debourrement_djc": 924,
         "debourrement": [
           2,
-          0.3024523160762943
+          1
         ],
-        "debourrement_travaux": "Checker si besoin louchage",
+        "debourrement_travaux": "Checker si besoin louchage, sortie des turions",
         "feuillaison_djc": null,
         "feuillaison": null,
         "feuillaison_travaux": "",
@@ -3498,7 +3498,8 @@
         "semis_travaux": "",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": ""
+        "boutures_travaux": "",
+        "photo": ""
       },
       {
         "espece": "Saule",
@@ -4060,7 +4061,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 105
+    "_modCount": 106
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
