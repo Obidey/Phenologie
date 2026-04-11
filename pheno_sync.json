@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775915297671,
-  "_date": "2026-04-11T13:48:17.671Z",
-  "_modCount": 95,
+  "_ts": 1775915317985,
+  "_date": "2026-04-11T13:48:37.985Z",
+  "_modCount": 96,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -2728,7 +2728,7 @@
           1,
           0
         ],
-        "debourrement_travaux": "",
+        "debourrement_travaux": "Observation",
         "feuillaison_djc": 557,
         "feuillaison": [
           2,
@@ -4306,7 +4306,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 56
+    "_modCount": 57
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
@@ -4426,7 +4426,8 @@
     "ko14_Charme__Carpinus_betulus__floraison_1": true,
     "ko14_Charme__Carpinus_betulus__floraison_2": true,
     "ko1_Cognassier_du_Japon__Chaenomeles__floraison_0": true,
-    "ko1_Mimosa__Acacia_dealbata__floraison_0": true
+    "ko1_Mimosa__Acacia_dealbata__floraison_0": true,
+    "ko1_Paturin_des_pres_debourrement_0": true
   },
   "config": {
     "ville1": {
