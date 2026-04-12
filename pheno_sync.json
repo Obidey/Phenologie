@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775989560464,
-  "_date": "2026-04-12T10:26:00.464Z",
-  "_modCount": 318,
+  "_ts": 1775989646012,
+  "_date": "2026-04-12T10:27:26.012Z",
+  "_modCount": 319,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -3088,72 +3088,6 @@
         "_hidden": true
       },
       {
-        "espece": "Nouvelle espèce test 2",
-        "url": "",
-        "notes": "",
-        "debourrement_djc": 1070,
-        "debourrement_travaux": "a faire",
-        "debourrement": [
-          3,
-          0.21487603305785125
-        ],
-        "feuillaison_djc": null,
-        "feuillaison_travaux": "",
-        "feuillaison": null,
-        "floraison_djc": null,
-        "floraison_travaux": "",
-        "floraison": null,
-        "croissance_djc": null,
-        "croissance_travaux": "",
-        "croissance": null,
-        "maturation_djc": null,
-        "maturation_travaux": "",
-        "maturation": null,
-        "senescence_djc": null,
-        "senescence_travaux": "",
-        "senescence": null,
-        "photo": "",
-        "semis_djc": null,
-        "semis": null,
-        "semis_travaux": "",
-        "boutures_djc": null,
-        "boutures": null,
-        "boutures_travaux": ""
-      },
-      {
-        "espece": "Nouvelle espèce test observation",
-        "url": "",
-        "notes": "",
-        "debourrement_djc": 1070,
-        "debourrement_travaux": "",
-        "debourrement": [
-          3,
-          0.21487603305785125
-        ],
-        "feuillaison_djc": null,
-        "feuillaison_travaux": "",
-        "feuillaison": null,
-        "floraison_djc": null,
-        "floraison_travaux": "",
-        "floraison": null,
-        "croissance_djc": null,
-        "croissance_travaux": "",
-        "croissance": null,
-        "maturation_djc": null,
-        "maturation_travaux": "",
-        "maturation": null,
-        "senescence_djc": null,
-        "senescence_travaux": "",
-        "senescence": null,
-        "photo": "",
-        "semis_djc": null,
-        "semis": null,
-        "semis_travaux": "",
-        "boutures_djc": null,
-        "boutures": null,
-        "boutures_travaux": ""
-      },
-      {
         "espece": "Palmier nain (Chamaerops humilis)",
         "notes": "Persistant - Palmier rustique",
         "url": "https://fr.wikipedia.org/wiki/Chamaerops_humilis",
@@ -4307,7 +4241,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 133
+    "_modCount": 134
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
