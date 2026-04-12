@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775973305538,
-  "_date": "2026-04-12T05:55:05.538Z",
-  "_modCount": 294,
+  "_ts": 1775973402398,
+  "_date": "2026-04-12T05:56:42.398Z",
+  "_modCount": 295,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -2774,7 +2774,7 @@
         "boutures_travaux": "Boutures semi-ligneuses été avec hormone, bonne reprise"
       },
       {
-        "espece": "Lavande",
+        "espece": "Lavande 2",
         "notes": "Persistant - Floraison estivale",
         "url": "https://fr.wikipedia.org/wiki/Lavandula",
         "debourrement_djc": 607,
@@ -2815,7 +2815,8 @@
         "semis_travaux": "Graines stratifiées froid 2-4 sem., 18°C, germination 2-4 sem.",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses août, substrat sableux, sans hormone souvent suffisant"
+        "boutures_travaux": "Boutures semi-ligneuses août, substrat sableux, sans hormone souvent suffisant",
+        "photo": ""
       },
       {
         "espece": "Lierre",
@@ -3247,44 +3248,6 @@
         "boutures_travaux": "Division rhizomes printemps, section avec 3-4 noeuds, bonne reprise"
       },
       {
-        "espece": "Phyllostachys vivax",
-        "notes": "Persistant",
-        "url": "https://fr.wikipedia.org/wiki/Phyllostachys_vivax",
-        "debourrement_djc": 668,
-        "debourrement": [
-          2,
-          0.3024523160762943
-        ],
-        "debourrement_travaux": "Louchage, desherbant",
-        "feuillaison_djc": null,
-        "feuillaison": null,
-        "feuillaison_travaux": "Arrosage abondant, fertilisation, espèce très vigoureuse",
-        "floraison_djc": null,
-        "floraison": null,
-        "floraison_travaux": "Floraison rare, mort après — observer et documenter",
-        "croissance_djc": 1991,
-        "croissance": [
-          5,
-          0.17805755395683454
-        ],
-        "croissance_travaux": "Chaumes pouvant dépasser 10 m — tailler à hauteur souhaitée",
-        "maturation_djc": null,
-        "maturation": null,
-        "maturation_travaux": "Observer épaisseur chaumes (poussée complète en 6 sem.)",
-        "senescence_djc": 391,
-        "senescence": [
-          1,
-          0.431924882629108
-        ],
-        "senescence_travaux": "Prelevement",
-        "semis_djc": null,
-        "semis": null,
-        "semis_travaux": "Graines rares, semis immédiat",
-        "boutures_djc": null,
-        "boutures": null,
-        "boutures_travaux": "Division massive rhizomes printemps, sections avec noeuds"
-      },
-      {
         "espece": "Phyllostachys aureosulcata",
         "notes": "Persistant",
         "url": "https://fr.wikipedia.org/wiki/Phyllostachys_vivax",
@@ -3322,6 +3285,44 @@
         "boutures": null,
         "boutures_travaux": "Division massive rhizomes printemps, sections avec noeuds",
         "photo": ""
+      },
+      {
+        "espece": "Phyllostachys vivax",
+        "notes": "Persistant",
+        "url": "https://fr.wikipedia.org/wiki/Phyllostachys_vivax",
+        "debourrement_djc": 668,
+        "debourrement": [
+          2,
+          0.3024523160762943
+        ],
+        "debourrement_travaux": "Louchage, desherbant",
+        "feuillaison_djc": null,
+        "feuillaison": null,
+        "feuillaison_travaux": "Arrosage abondant, fertilisation, espèce très vigoureuse",
+        "floraison_djc": null,
+        "floraison": null,
+        "floraison_travaux": "Floraison rare, mort après — observer et documenter",
+        "croissance_djc": 1991,
+        "croissance": [
+          5,
+          0.17805755395683454
+        ],
+        "croissance_travaux": "Chaumes pouvant dépasser 10 m — tailler à hauteur souhaitée",
+        "maturation_djc": null,
+        "maturation": null,
+        "maturation_travaux": "Observer épaisseur chaumes (poussée complète en 6 sem.)",
+        "senescence_djc": 391,
+        "senescence": [
+          1,
+          0.431924882629108
+        ],
+        "senescence_travaux": "Prelevement",
+        "semis_djc": null,
+        "semis": null,
+        "semis_travaux": "Graines rares, semis immédiat",
+        "boutures_djc": null,
+        "boutures": null,
+        "boutures_travaux": "Division massive rhizomes printemps, sections avec noeuds"
       },
       {
         "espece": "Pin blanc du Japon",
