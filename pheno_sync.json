@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775980935057,
-  "_date": "2026-04-12T08:02:15.057Z",
-  "_modCount": 312,
+  "_ts": 1775981093008,
+  "_date": "2026-04-12T08:04:53.008Z",
+  "_modCount": 313,
   "_device": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHT",
   "data": {
     "bornes": {
@@ -4637,9 +4637,9 @@
       "url": "https://www.meteoblue.com/it/tempo/webcams/cazaux_francia_3028068"
     },
     "ville2": {
-      "nom": "東久留米",
-      "lat": "35.7603",
-      "lon": "139.5341",
+      "nom": "Villedômer",
+      "lat": "47.5473",
+      "lon": "0.8861",
       "url": "",
       "active": false
     }
