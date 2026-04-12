@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775974601041,
-  "_date": "2026-04-12T06:16:41.041Z",
-  "_modCount": 300,
+  "_ts": 1775974750726,
+  "_date": "2026-04-12T06:19:10.726Z",
+  "_modCount": 301,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -482,7 +482,7 @@
         "boutures_djc": null,
         "boutures": null,
         "boutures_travaux": "Boutures semi-ligneuses juin-juillet, substrat acide, brumisation, hormone",
-        "photo": ""
+        "photo": "https://static.aujardin.info/cache/th/img10/azalea-indica-600x450.webp"
       },
       {
         "espece": "Azalées (Chine/Japon)",
@@ -4333,7 +4333,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 129
+    "_modCount": 130
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
