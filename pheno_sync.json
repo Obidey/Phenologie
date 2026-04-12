@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775980645857,
-  "_date": "2026-04-12T07:57:25.857Z",
-  "_modCount": 310,
+  "_ts": 1775980877505,
+  "_date": "2026-04-12T08:01:17.505Z",
+  "_modCount": 311,
   "_device": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHT",
   "data": {
     "bornes": {
@@ -627,9 +627,12 @@
           0.6566757493188011
         ],
         "debourrement_travaux": "Taille sévère fin hiver, favorise floraison sur bois de l'année, burgeons au nebari (Princess Thai)",
-        "feuillaison_djc": null,
-        "feuillaison": null,
-        "feuillaison_travaux": "Pinçage pousses après 2 feuilles pour densifier",
+        "feuillaison_djc": 992,
+        "feuillaison": [
+          3,
+          0
+        ],
+        "feuillaison_travaux": "Arrivage Pinçage pousses après 2 feuilles pour densifier",
         "floraison_djc": 1991,
         "floraison": [
           5,
@@ -3081,6 +3084,39 @@
         "_hidden": true
       },
       {
+        "espece": "Nouvelle espèce test 2",
+        "url": "",
+        "notes": "",
+        "debourrement_djc": 1070,
+        "debourrement_travaux": "a faire",
+        "debourrement": [
+          3,
+          0.21487603305785125
+        ],
+        "feuillaison_djc": null,
+        "feuillaison_travaux": "",
+        "feuillaison": null,
+        "floraison_djc": null,
+        "floraison_travaux": "",
+        "floraison": null,
+        "croissance_djc": null,
+        "croissance_travaux": "",
+        "croissance": null,
+        "maturation_djc": null,
+        "maturation_travaux": "",
+        "maturation": null,
+        "senescence_djc": null,
+        "senescence_travaux": "",
+        "senescence": null,
+        "photo": "",
+        "semis_djc": null,
+        "semis": null,
+        "semis_travaux": "",
+        "boutures_djc": null,
+        "boutures": null,
+        "boutures_travaux": ""
+      },
+      {
         "espece": "Nouvelle espèce test observation",
         "url": "",
         "notes": "",
@@ -4330,39 +4366,6 @@
         "boutures_djc": null,
         "boutures": null,
         "boutures_travaux": "Division des rejets basaux ou sections de tronc au printemps"
-      },
-      {
-        "espece": "Nouvelle espèce test 2",
-        "url": "",
-        "notes": "",
-        "debourrement_djc": 1070,
-        "debourrement_travaux": "a faire",
-        "debourrement": [
-          3,
-          0.21487603305785125
-        ],
-        "feuillaison_djc": null,
-        "feuillaison_travaux": "",
-        "feuillaison": null,
-        "floraison_djc": null,
-        "floraison_travaux": "",
-        "floraison": null,
-        "croissance_djc": null,
-        "croissance_travaux": "",
-        "croissance": null,
-        "maturation_djc": null,
-        "maturation_travaux": "",
-        "maturation": null,
-        "senescence_djc": null,
-        "senescence_travaux": "",
-        "senescence": null,
-        "photo": "",
-        "semis_djc": null,
-        "semis": null,
-        "semis_travaux": "",
-        "boutures_djc": null,
-        "boutures": null,
-        "boutures_travaux": ""
       }
     ],
     "_version": "v20",
