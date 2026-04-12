@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1775983071358,
-  "_date": "2026-04-12T08:37:51.358Z",
-  "_modCount": 316,
+  "_ts": 1775983324260,
+  "_date": "2026-04-12T08:42:04.260Z",
+  "_modCount": 317,
   "_device": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHT",
   "data": {
     "bornes": {
@@ -2831,8 +2831,11 @@
           0.4604904632152589
         ],
         "debourrement_travaux": "Observation",
-        "feuillaison_djc": null,
-        "feuillaison": null,
+        "feuillaison_djc": 992,
+        "feuillaison": [
+          3,
+          0
+        ],
         "feuillaison_travaux": "Feuilles persistantes lobées, pinçage régulier pour compacter",
         "floraison_djc": 2448,
         "floraison": [
@@ -2857,7 +2860,8 @@
         "semis_travaux": "Graines des baies stratifiées, germination lente",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures ligneuses ou herbacées, très facile, bonne reprise"
+        "boutures_travaux": "Boutures ligneuses ou herbacées, très facile, bonne reprise",
+        "photo": ""
       },
       {
         "espece": "Lilas",
@@ -4219,72 +4223,6 @@
         "boutures_travaux": "Boutures ligneuses hiver 20-30 cm, simplement plantées en terre humide — reprise quasi certaine"
       },
       {
-        "espece": "Test 4",
-        "notes": "",
-        "url": "",
-        "debourrement_djc": 1070,
-        "debourrement": [
-          3,
-          0.21487603305785125
-        ],
-        "debourrement_travaux": "test 4 travx",
-        "feuillaison_djc": null,
-        "feuillaison": null,
-        "feuillaison_travaux": "",
-        "floraison_djc": null,
-        "floraison": null,
-        "floraison_travaux": "",
-        "croissance_djc": null,
-        "croissance": null,
-        "croissance_travaux": "",
-        "maturation_djc": null,
-        "maturation": null,
-        "maturation_travaux": "",
-        "senescence_djc": null,
-        "senescence": null,
-        "senescence_travaux": "",
-        "semis_djc": null,
-        "semis": null,
-        "semis_travaux": "",
-        "boutures_djc": null,
-        "boutures": null,
-        "boutures_travaux": "",
-        "photo": ""
-      },
-      {
-        "espece": "test 5 depuis chrome",
-        "notes": "",
-        "url": "",
-        "debourrement_djc": 1070,
-        "debourrement": [
-          3,
-          0.21487603305785125
-        ],
-        "debourrement_travaux": "test depuis raccourci",
-        "feuillaison_djc": null,
-        "feuillaison": null,
-        "feuillaison_travaux": "",
-        "floraison_djc": null,
-        "floraison": null,
-        "floraison_travaux": "",
-        "croissance_djc": null,
-        "croissance": null,
-        "croissance_travaux": "",
-        "maturation_djc": null,
-        "maturation": null,
-        "maturation_travaux": "",
-        "senescence_djc": null,
-        "senescence": null,
-        "senescence_travaux": "",
-        "semis_djc": null,
-        "semis": null,
-        "semis_travaux": "",
-        "boutures_djc": null,
-        "boutures": null,
-        "boutures_travaux": "",
-        "photo": ""
-      },
-      {
         "espece": "Troène de Chine",
         "notes": "Semi-persistant climat doux",
         "url": "https://fr.wikipedia.org/wiki/Ligustrum_sinense",
@@ -4369,7 +4307,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 130
+    "_modCount": 133
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
