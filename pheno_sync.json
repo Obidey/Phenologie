@@ -1,10 +1,10 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1776080024764,
-  "_date": "2026-04-13T11:33:44.764Z",
+  "_ts": 1776113068423,
+  "_date": "2026-04-13T20:44:28.423Z",
   "_modCount": 374,
-  "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
+  "_device": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHT",
   "data": {
     "bornes": {
       "0": "11-255°J",
@@ -1030,6 +1030,93 @@
         "boutures_travaux": "Difficiles — semis glands préféré"
       },
       {
+        "espece": "Chèvrefeuille",
+        "notes": "Grimpant semi-persistant - Lonicera japonica",
+        "url": "https://fr.wikipedia.org/wiki/Ch%C3%A8vrefeuille_du_Japon",
+        "debourrement_djc": 668,
+        "debourrement": [
+          2,
+          0.3024523160762943
+        ],
+        "debourrement_travaux": "Observation",
+        "feuillaison_djc": 798,
+        "feuillaison": [
+          2,
+          0.6566757493188011
+        ],
+        "feuillaison_travaux": "Observation",
+        "floraison_djc": 1449,
+        "floraison": [
+          4,
+          0
+        ],
+        "floraison_travaux": "",
+        "croissance_djc": 1070,
+        "croissance": [
+          3,
+          0.21487603305785125
+        ],
+        "croissance_travaux": "Pincer les tiges longues",
+        "maturation_djc": 3893,
+        "maturation": [
+          7,
+          1
+        ],
+        "maturation_travaux": "",
+        "senescence_djc": 4930,
+        "senescence": [
+          9,
+          1
+        ],
+        "senescence_travaux": "",
+        "semis_djc": 726,
+        "semis": [
+          2,
+          0.4604904632152589
+        ],
+        "semis_travaux": "",
+        "boutures_djc": 1070,
+        "boutures": [
+          3,
+          0.21487603305785125
+        ],
+        "boutures_travaux": "MDDM27FO1",
+        "photo": ""
+      },
+      {
+        "espece": "Chèvrefeuille de JL",
+        "url": "",
+        "notes": "",
+        "debourrement_djc": null,
+        "debourrement_travaux": "",
+        "debourrement": null,
+        "feuillaison_djc": null,
+        "feuillaison_travaux": "",
+        "feuillaison": null,
+        "floraison_djc": 1070,
+        "floraison_travaux": "TEst de création d'une nouvelle espèce",
+        "floraison": [
+          3,
+          0.21487603305785125
+        ],
+        "croissance_djc": null,
+        "croissance_travaux": "",
+        "croissance": null,
+        "maturation_djc": null,
+        "maturation_travaux": "",
+        "maturation": null,
+        "senescence_djc": null,
+        "senescence_travaux": "",
+        "senescence": null,
+        "photo": "",
+        "semis_djc": null,
+        "semis": null,
+        "semis_travaux": "",
+        "boutures_djc": null,
+        "boutures": null,
+        "boutures_travaux": ""
+      },
+      {
         "espece": "Ciste",
         "notes": "Persistant",
         "url": "https://fr.wikipedia.org/wiki/Ciste_(plante)",
@@ -1755,6 +1842,39 @@
         "boutures": null,
         "boutures_travaux": "Boutures semi-ligneuses juin avec hormone, mi-ombre, résultats corrects",
         "photo": ""
+      },
+      {
+        "espece": "Érable Taylor",
+        "url": "",
+        "notes": "",
+        "debourrement_djc": null,
+        "debourrement_travaux": "",
+        "debourrement": null,
+        "feuillaison_djc": 1070,
+        "feuillaison_travaux": "",
+        "feuillaison": [
+          3,
+          0.21487603305785125
+        ],
+        "floraison_djc": null,
+        "floraison_travaux": "",
+        "floraison": null,
+        "croissance_djc": null,
+        "croissance_travaux": "",
+        "croissance": null,
+        "maturation_djc": null,
+        "maturation_travaux": "",
+        "maturation": null,
+        "senescence_djc": null,
+        "senescence_travaux": "",
+        "senescence": null,
+        "photo": "",
+        "semis_djc": null,
+        "semis": null,
+        "semis_travaux": "",
+        "boutures_djc": null,
+        "boutures": null,
+        "boutures_travaux": ""
       },
       {
         "espece": "Eucalyptus",
@@ -2732,8 +2852,7 @@
         "boutures_djc": null,
         "boutures": null,
         "boutures_travaux": "Boutures semi-ligneuses août, substrat sableux, sans hormone souvent suffisant",
-        "photo": "",
-        "_hidden": true
+        "photo": ""
       },
       {
         "espece": "Lierre",
@@ -3345,8 +3464,7 @@
         "boutures_djc": null,
         "boutures": null,
         "boutures_travaux": "",
-        "photo": "",
-        "_hidden": true
+        "photo": ""
       },
       {
         "espece": "Pin maritime",
@@ -3921,7 +4039,7 @@
         "photo": ""
       },
       {
-        "espece": "Rempotage des pins",
+        "espece": "Remptage des pins",
         "url": "https://calendar.google.com/calendar/u/0/r/eventedit/NzVybDdiaGlmbm1za2NiMGRyN3VtMTZvaXBfMjAyNjAzMTUgMjE3ODc3YjU1OTE1ZDk5N2UxMDJmMmY0YWQzZGE1YjYyMmExNjlmYTNjODYzYzcyMjgzYzk0OTM1YWEyNjdjMUBn",
         "notes": "",
         "debourrement_djc": 860,
@@ -3960,11 +4078,8 @@
         "debourrement_djc": null,
         "debourrement": null,
         "debourrement_travaux": "Taille légère après hiver, substrat calcaire drainant, soleil",
-        "feuillaison_djc": 1070,
-        "feuillaison": [
-          3,
-          0.21487603305785125
-        ],
+        "feuillaison_djc": null,
+        "feuillaison": null,
         "feuillaison_travaux": "Feuilles persistantes aromatiques, arrosage très modéré",
         "floraison_djc": 668,
         "floraison": [
@@ -3992,8 +4107,7 @@
         "semis_travaux": "Graines fraîches 18-20°C, germination lente et irrégulière",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses été sans hormone, substrat sableux, facile",
-        "photo": ""
+        "boutures_travaux": "Boutures semi-ligneuses été sans hormone, substrat sableux, facile"
       },
       {
         "espece": "Sassa Indocalamus tesselatus",
@@ -4160,7 +4274,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 137
+    "_modCount": 134
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
