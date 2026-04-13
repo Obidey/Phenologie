@@ -1,10 +1,10 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1776113068423,
-  "_date": "2026-04-13T20:44:28.423Z",
+  "_ts": 1776113415406,
+  "_date": "2026-04-13T20:50:15.406Z",
   "_modCount": 374,
-  "_device": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHT",
+  "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
       "0": "11-255°J",
@@ -4532,7 +4532,8 @@
     "ko13_Pin_maritime_floraison_0": true,
     "ko13_Pin_sylvestre_debourrement_0": true,
     "ko14_Pin_d_Alep_floraison_0": true,
-    "ko14_Ciste_floraison_1": true
+    "ko14_Ciste_floraison_1": true,
+    "ko14__rable_Taylor_feuillaison_0": true
   },
   "config": {
     "ville1": {
