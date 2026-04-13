@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1776058006228,
-  "_date": "2026-04-13T05:26:46.228Z",
-  "_modCount": 349,
+  "_ts": 1776058059429,
+  "_date": "2026-04-13T05:27:39.429Z",
+  "_modCount": 350,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -3960,8 +3960,11 @@
         "debourrement_djc": null,
         "debourrement": null,
         "debourrement_travaux": "Taille légère après hiver, substrat calcaire drainant, soleil",
-        "feuillaison_djc": null,
-        "feuillaison": null,
+        "feuillaison_djc": 1070,
+        "feuillaison": [
+          3,
+          0.21487603305785125
+        ],
         "feuillaison_travaux": "Feuilles persistantes aromatiques, arrosage très modéré",
         "floraison_djc": 668,
         "floraison": [
@@ -3989,7 +3992,8 @@
         "semis_travaux": "Graines fraîches 18-20°C, germination lente et irrégulière",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses été sans hormone, substrat sableux, facile"
+        "boutures_travaux": "Boutures semi-ligneuses été sans hormone, substrat sableux, facile",
+        "photo": ""
       },
       {
         "espece": "Sassa Indocalamus tesselatus",
@@ -4156,7 +4160,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 136
+    "_modCount": 137
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
