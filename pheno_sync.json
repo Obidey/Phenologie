@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1776152062188,
-  "_date": "2026-04-14T07:34:22.188Z",
-  "_modCount": 386,
+  "_ts": 1776152218044,
+  "_date": "2026-04-14T07:36:58.044Z",
+  "_modCount": 388,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -260,9 +260,12 @@
           0
         ],
         "debourrement_travaux": "Taille drastique de printemps espèce à croissance forte",
-        "feuillaison_djc": null,
-        "feuillaison": null,
-        "feuillaison_travaux": "Feuillage persistant, nettoyer vieilles feuilles, arrosage modéré",
+        "feuillaison_djc": 1070,
+        "feuillaison": [
+          3,
+          0.21487603305785125
+        ],
+        "feuillaison_travaux": "Taille les premieres pousses",
         "floraison_djc": 5087,
         "floraison": [
           10,
@@ -274,7 +277,7 @@
           5,
           0.17805755395683454
         ],
-        "croissance_travaux": "Ligature douce, fertilisation légère, substrat acide",
+        "croissance_travaux": "2eme taille des pousses de l'année",
         "maturation_djc": 3790,
         "maturation": [
           7,
