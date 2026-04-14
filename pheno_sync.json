@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1776113443916,
-  "_date": "2026-04-13T20:50:43.916Z",
-  "_modCount": 376,
+  "_ts": 1776141673782,
+  "_date": "2026-04-14T04:41:13.782Z",
+  "_modCount": 377,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -1030,93 +1030,6 @@
         "boutures_travaux": "Difficiles — semis glands préféré"
       },
       {
-        "espece": "Chèvrefeuille",
-        "notes": "Grimpant semi-persistant - Lonicera japonica",
-        "url": "https://fr.wikipedia.org/wiki/Ch%C3%A8vrefeuille_du_Japon",
-        "debourrement_djc": 668,
-        "debourrement": [
-          2,
-          0.3024523160762943
-        ],
-        "debourrement_travaux": "Observation",
-        "feuillaison_djc": 798,
-        "feuillaison": [
-          2,
-          0.6566757493188011
-        ],
-        "feuillaison_travaux": "Observation",
-        "floraison_djc": 1449,
-        "floraison": [
-          4,
-          0
-        ],
-        "floraison_travaux": "",
-        "croissance_djc": 1070,
-        "croissance": [
-          3,
-          0.21487603305785125
-        ],
-        "croissance_travaux": "Pincer les tiges longues",
-        "maturation_djc": 3893,
-        "maturation": [
-          7,
-          1
-        ],
-        "maturation_travaux": "",
-        "senescence_djc": 4930,
-        "senescence": [
-          9,
-          1
-        ],
-        "senescence_travaux": "",
-        "semis_djc": 726,
-        "semis": [
-          2,
-          0.4604904632152589
-        ],
-        "semis_travaux": "",
-        "boutures_djc": 1070,
-        "boutures": [
-          3,
-          0.21487603305785125
-        ],
-        "boutures_travaux": "MDDM27FO1",
-        "photo": ""
-      },
-      {
-        "espece": "Chèvrefeuille de JL",
-        "url": "",
-        "notes": "",
-        "debourrement_djc": null,
-        "debourrement_travaux": "",
-        "debourrement": null,
-        "feuillaison_djc": null,
-        "feuillaison_travaux": "",
-        "feuillaison": null,
-        "floraison_djc": 1070,
-        "floraison_travaux": "TEst de création d'une nouvelle espèce",
-        "floraison": [
-          3,
-          0.21487603305785125
-        ],
-        "croissance_djc": null,
-        "croissance_travaux": "",
-        "croissance": null,
-        "maturation_djc": null,
-        "maturation_travaux": "",
-        "maturation": null,
-        "senescence_djc": null,
-        "senescence_travaux": "",
-        "senescence": null,
-        "photo": "",
-        "semis_djc": null,
-        "semis": null,
-        "semis_travaux": "",
-        "boutures_djc": null,
-        "boutures": null,
-        "boutures_travaux": ""
-      },
-      {
         "espece": "Ciste",
         "notes": "Persistant",
         "url": "https://fr.wikipedia.org/wiki/Ciste_(plante)",
@@ -1851,7 +1764,7 @@
         "debourrement_travaux": "",
         "debourrement": null,
         "feuillaison_djc": 1070,
-        "feuillaison_travaux": "",
+        "feuillaison_travaux": "Vaporiser",
         "feuillaison": [
           3,
           0.21487603305785125
@@ -4274,7 +4187,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 134
+    "_modCount": 135
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
