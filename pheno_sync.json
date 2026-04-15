@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1776252137772,
-  "_date": "2026-04-15T11:22:17.772Z",
-  "_modCount": 424,
+  "_ts": 1776252175262,
+  "_date": "2026-04-15T11:22:55.262Z",
+  "_modCount": 426,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -3068,6 +3068,42 @@
         "dormance_djc": null,
         "dormance_travaux": "",
         "dormance": null
+      },
+      {
+        "espece": "Nouvelle espèce",
+        "url": "",
+        "notes": "",
+        "debourrement_djc": 1142,
+        "debourrement_travaux": "Observation",
+        "debourrement": [
+          3,
+          0.4132231404958678
+        ],
+        "feuillaison_djc": null,
+        "feuillaison_travaux": "Observation",
+        "feuillaison": null,
+        "floraison_djc": null,
+        "floraison_travaux": "Observation",
+        "floraison": null,
+        "croissance_djc": null,
+        "croissance_travaux": "Observation",
+        "croissance": null,
+        "maturation_djc": null,
+        "maturation_travaux": "Observation",
+        "maturation": null,
+        "senescence_djc": null,
+        "senescence_travaux": "Observation",
+        "senescence": null,
+        "dormance_djc": null,
+        "dormance_travaux": "Observation",
+        "dormance": null,
+        "photo": "",
+        "semis_djc": null,
+        "semis": null,
+        "semis_travaux": "Observation",
+        "boutures_djc": null,
+        "boutures": null,
+        "boutures_travaux": "Observation"
       },
       {
         "espece": "Palmier nain (Chamaerops humilis)",
