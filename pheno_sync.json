@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1776252073112,
-  "_date": "2026-04-15T11:21:13.112Z",
-  "_modCount": 422,
+  "_ts": 1776252125994,
+  "_date": "2026-04-15T11:22:05.994Z",
+  "_modCount": 423,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -1242,10 +1242,10 @@
         "boutures": null,
         "boutures_travaux": "Boutures semi-ligneuses été, résultats bons, hormones recommandées",
         "photo": "",
-        "dormance_djc": 1070,
+        "dormance_djc": 1142,
         "dormance": [
           3,
-          0.21487603305785125
+          0.4132231404958678
         ],
         "dormance_travaux": "test"
       },
@@ -4223,7 +4223,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 135
+    "_modCount": 136
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
