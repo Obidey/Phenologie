@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1776235884451,
-  "_date": "2026-04-15T06:51:24.451Z",
-  "_modCount": 416,
+  "_ts": 1776236183573,
+  "_date": "2026-04-15T06:56:23.573Z",
+  "_modCount": 417,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -4449,7 +4449,15 @@
     "ko13_Pin_sylvestre_debourrement_0": true,
     "ko14_Pin_d_Alep_floraison_0": true,
     "ko14_Ciste_floraison_1": true,
-    "ko14__rable_Taylor_feuillaison_0": true
+    "ko14__rable_Taylor_feuillaison_0": true,
+    "ko3_Phyllostachys_aureosulcata_senescence_0": true,
+    "ko3_Prunus_mume_debourrement_0": true,
+    "ko3_Prunus_mume_debourrement_1": true,
+    "ko6_Arbousier__Arbutus_unedo__debourrement_0": true,
+    "ko6_Citronnier_du_Vietnam_floraison_0": true,
+    "ko6_Phyllostachys_aureosulcata_debourrement_0": true,
+    "ko7_Lavande_2_debourrement_0": true,
+    "ko7_Lavande_2_debourrement_1": true
   },
   "config": {
     "ville1": {
