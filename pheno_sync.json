@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1776252217468,
-  "_date": "2026-04-15T11:23:37.468Z",
-  "_modCount": 430,
+  "_ts": 1776252254414,
+  "_date": "2026-04-15T11:24:14.414Z",
+  "_modCount": 431,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -1242,10 +1242,10 @@
         "boutures": null,
         "boutures_travaux": "Boutures semi-ligneuses été, résultats bons, hormones recommandées",
         "photo": "",
-        "dormance_djc": 1142,
+        "dormance_djc": 255,
         "dormance": [
-          3,
-          0.4132231404958678
+          0,
+          1
         ],
         "dormance_travaux": "test"
       },
