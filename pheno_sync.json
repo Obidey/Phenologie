@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1776323947838,
-  "_date": "2026-04-16T07:19:07.838Z",
-  "_modCount": 436,
+  "_ts": 1776342070721,
+  "_date": "2026-04-16T12:21:10.721Z",
+  "_modCount": 437,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -548,7 +548,7 @@
           2,
           0.4604904632152589
         ],
-        "feuillaison_travaux": "",
+        "feuillaison_travaux": "Attention : galle de l'azalée = bouillie bx. https://www.rhododendron-azalee.fr/articles/maladies_et_parasites_rhododendron.pdf",
         "floraison_djc": 1892,
         "floraison": [
           5,
@@ -575,7 +575,11 @@
         "semis_travaux": "Graines très fines, semis superficiel, substrat acide humide, lumière",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses juin-juillet, substrat acide, brumisation, hormone"
+        "boutures_travaux": "Boutures semi-ligneuses juin-juillet, substrat acide, brumisation, hormone",
+        "photo": "",
+        "dormance_djc": null,
+        "dormance": null,
+        "dormance_travaux": "Observation"
       },
       {
         "espece": "Bananier",
@@ -4259,7 +4263,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 136
+    "_modCount": 137
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
