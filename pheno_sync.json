@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1776361628243,
-  "_date": "2026-04-16T17:47:08.243Z",
-  "_modCount": 444,
+  "_ts": 1776361696833,
+  "_date": "2026-04-16T17:48:16.833Z",
+  "_modCount": 446,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -1251,7 +1251,7 @@
           0,
           1
         ],
-        "dormance_travaux": "test"
+        "dormance_travaux": "Protection hivernale, taille de structure\""
       },
       {
         "espece": "Cordyline",
