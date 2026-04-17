@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1776404707682,
-  "_date": "2026-04-17T05:45:07.682Z",
-  "_modCount": 460,
+  "_ts": 1776404717463,
+  "_date": "2026-04-17T05:45:17.463Z",
+  "_modCount": 461,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -2973,7 +2973,11 @@
         "boutures_djc": null,
         "boutures": null,
         "boutures_travaux": "Boutures semi-ligneuses printemps avec hormone, résultats corrects",
-        "photo": ""
+        "photo": "",
+        "_hidden": true,
+        "dormance_djc": null,
+        "dormance": null,
+        "dormance_travaux": "Observation"
       },
       {
         "espece": "NEMAWASHI de Mars (louchage)",
@@ -4272,7 +4276,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 140
+    "_modCount": 141
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
