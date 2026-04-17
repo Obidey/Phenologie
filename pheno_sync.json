@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1776373083064,
-  "_date": "2026-04-16T20:58:03.064Z",
-  "_modCount": 448,
+  "_ts": 1776396855386,
+  "_date": "2026-04-17T03:34:15.386Z",
+  "_modCount": 449,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -2126,7 +2126,13 @@
         "boutures_djc": null,
         "boutures": null,
         "boutures_travaux": "Boutures ligneuses hiver, résultats variables",
-        "photo": ""
+        "photo": "",
+        "dormance_djc": 255,
+        "dormance": [
+          0,
+          1
+        ],
+        "dormance_travaux": "test"
       },
       {
         "espece": "Glycine",
@@ -4263,7 +4269,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 448
+    "_modCount": 137
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
