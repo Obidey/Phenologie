@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1776404635181,
-  "_date": "2026-04-17T05:43:55.181Z",
-  "_modCount": 457,
+  "_ts": 1776404657797,
+  "_date": "2026-04-17T05:44:17.797Z",
+  "_modCount": 458,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -1226,7 +1226,7 @@
           3,
           0.4132231404958678
         ],
-        "croissance_travaux": "Fertilisation équilibrée, ligature",
+        "croissance_travaux": "Fertilisation équilibrée + ligature",
         "maturation_djc": 2448,
         "maturation": [
           5,
@@ -4269,7 +4269,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 138
+    "_modCount": 139
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
