@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1776404570020,
-  "_date": "2026-04-17T05:42:50.020Z",
-  "_modCount": 455,
+  "_ts": 1776404627403,
+  "_date": "2026-04-17T05:43:47.403Z",
+  "_modCount": 456,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -2095,7 +2095,7 @@
           3,
           0.4132231404958678
         ],
-        "feuillaison_travaux": "Feuilles pennées, défoliation possible totale juin, ligature",
+        "feuillaison_travaux": "Feuilles pennées",
         "floraison_djc": 1070,
         "floraison": [
           3,
@@ -4269,7 +4269,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 137
+    "_modCount": 138
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
