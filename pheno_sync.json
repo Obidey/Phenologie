@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1776404717463,
-  "_date": "2026-04-17T05:45:17.463Z",
-  "_modCount": 461,
+  "_ts": 1776404726338,
+  "_date": "2026-04-17T05:45:26.338Z",
+  "_modCount": 462,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -3064,32 +3064,6 @@
         "espece": "Nouvelle espèce",
         "url": "",
         "notes": "",
-        "debourrement_djc": null,
-        "debourrement_travaux": "",
-        "debourrement": null,
-        "feuillaison_djc": null,
-        "feuillaison_travaux": "",
-        "feuillaison": null,
-        "floraison_djc": null,
-        "floraison_travaux": "",
-        "floraison": null,
-        "croissance_djc": null,
-        "croissance_travaux": "",
-        "croissance": null,
-        "maturation_djc": null,
-        "maturation_travaux": "",
-        "maturation": null,
-        "senescence_djc": null,
-        "senescence_travaux": "",
-        "senescence": null,
-        "dormance_djc": null,
-        "dormance_travaux": "",
-        "dormance": null
-      },
-      {
-        "espece": "Nouvelle espèce",
-        "url": "",
-        "notes": "",
         "debourrement_djc": 1142,
         "debourrement_travaux": "Observation",
         "debourrement": [
@@ -4276,7 +4250,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 141
+    "_modCount": 142
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
