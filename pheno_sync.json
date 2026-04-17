@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1776404507790,
-  "_date": "2026-04-17T05:41:47.790Z",
-  "_modCount": 453,
+  "_ts": 1776404570020,
+  "_date": "2026-04-17T05:42:50.020Z",
+  "_modCount": 455,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -2127,10 +2127,10 @@
         "boutures": null,
         "boutures_travaux": "Boutures ligneuses hiver, résultats variables",
         "photo": "",
-        "dormance_djc": 1142,
+        "dormance_djc": 5594,
         "dormance": [
-          3,
-          0.4132231404958678
+          11,
+          0.8346456692913385
         ],
         "dormance_travaux": "test"
       },
