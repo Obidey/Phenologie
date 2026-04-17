@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1776405910427,
-  "_date": "2026-04-17T06:05:10.427Z",
-  "_modCount": 466,
+  "_ts": 1776405927770,
+  "_date": "2026-04-17T06:05:27.770Z",
+  "_modCount": 467,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -3550,31 +3550,31 @@
           3,
           0.4132231404958678
         ],
-        "debourrement_travaux": "",
+        "debourrement_travaux": "test é",
         "feuillaison_djc": 1210,
         "feuillaison": [
           3,
           0.6005509641873278
         ],
-        "feuillaison_travaux": "",
+        "feuillaison_travaux": "Observation",
         "floraison_djc": 1210,
         "floraison": [
           3,
           0.6005509641873278
         ],
-        "floraison_travaux": "",
+        "floraison_travaux": "Observation",
         "croissance_djc": 1355,
         "croissance": [
           3,
           1
         ],
-        "croissance_travaux": "",
+        "croissance_travaux": "Observation",
         "maturation_djc": 4772,
         "maturation": [
           9,
           0.6359447004608295
         ],
-        "maturation_travaux": "",
+        "maturation_travaux": "Observation",
         "senescence_djc": 992,
         "senescence": [
           3,
@@ -3586,11 +3586,14 @@
           3,
           0.4132231404958678
         ],
-        "semis_travaux": "",
+        "semis_travaux": "Observation",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "",
-        "photo": ""
+        "boutures_travaux": "Observation",
+        "photo": "",
+        "dormance_djc": null,
+        "dormance": null,
+        "dormance_travaux": "Observation"
       },
       {
         "espece": "Pin rouge du Japon",
