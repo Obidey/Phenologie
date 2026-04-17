@@ -1,10 +1,10 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1776459508729,
-  "_date": "2026-04-17T20:58:28.729Z",
+  "_ts": 1776459553973,
+  "_date": "2026-04-17T20:59:13.973Z",
   "_modCount": 504,
-  "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
+  "_device": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHT",
   "data": {
     "bornes": {
       "0": "11-255°J",
@@ -4524,7 +4524,8 @@
     "ko15_Fr_ne_feuillaison_0": true,
     "ko15_Cognassier_du_Japon__Chaenomeles__croissance_0": true,
     "ko15_Nouvelle_esp_ce_debourrement_0": true,
-    "ko15_Pin_blanc_du_Japon_semis_1": true
+    "ko15_Pin_blanc_du_Japon_semis_1": true,
+    "ko15_Pin_blanc_du_Japon_semis_0": true
   },
   "config": {
     "ville1": {
