@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1776404661315,
-  "_date": "2026-04-17T05:44:21.315Z",
-  "_modCount": 459,
+  "_ts": 1776404707682,
+  "_date": "2026-04-17T05:45:07.682Z",
+  "_modCount": 460,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -2359,36 +2359,36 @@
         "espece": "Houx",
         "notes": "sempervirent dioïque (pieds mâles et femelles séparés)",
         "url": "https://identify.plantnet.org/fr/k-world-flora/species/Ilex%20aquifolium%20L./data",
-        "debourrement_djc": 992,
+        "debourrement_djc": 1272,
         "debourrement": [
           3,
-          0
+          0.7713498622589532
         ],
         "debourrement_travaux": "observation",
-        "feuillaison_djc": 1142,
+        "feuillaison_djc": 1272,
         "feuillaison": [
           3,
-          0.4132231404958678
+          0.7713498622589532
         ],
-        "feuillaison_travaux": "",
+        "feuillaison_travaux": "Observation",
         "floraison_djc": 1210,
         "floraison": [
           3,
           0.6005509641873278
         ],
-        "floraison_travaux": "",
+        "floraison_travaux": "Observation",
         "croissance_djc": 1449,
         "croissance": [
           4,
           0
         ],
-        "croissance_travaux": "",
+        "croissance_travaux": "Observation",
         "maturation_djc": 4496,
         "maturation": [
           9,
           0
         ],
-        "maturation_travaux": "",
+        "maturation_travaux": "Observation",
         "senescence_djc": 557,
         "senescence": [
           2,
@@ -2397,11 +2397,14 @@
         "senescence_travaux": "Elagage",
         "semis_djc": null,
         "semis": null,
-        "semis_travaux": "",
+        "semis_travaux": "Observation",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "",
-        "photo": ""
+        "boutures_travaux": "Observation",
+        "photo": "",
+        "dormance_djc": null,
+        "dormance": null,
+        "dormance_travaux": "Observation"
       },
       {
         "espece": "Jasmin d'Espagne",
@@ -4269,7 +4272,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 139
+    "_modCount": 140
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
