@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1776404627403,
-  "_date": "2026-04-17T05:43:47.403Z",
-  "_modCount": 456,
+  "_ts": 1776404635181,
+  "_date": "2026-04-17T05:43:55.181Z",
+  "_modCount": 457,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -4536,7 +4536,8 @@
     "ko6_Citronnier_du_Vietnam_floraison_0": true,
     "ko6_Phyllostachys_aureosulcata_debourrement_0": true,
     "ko7_Lavande_2_debourrement_0": true,
-    "ko7_Lavande_2_debourrement_1": true
+    "ko7_Lavande_2_debourrement_1": true,
+    "ko15_Fr_ne_feuillaison_0": true
   },
   "config": {
     "ville1": {
