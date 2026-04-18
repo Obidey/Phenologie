@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1776519449572,
-  "_date": "2026-04-18T13:37:29.572Z",
-  "_modCount": 532,
+  "_ts": 1776519459673,
+  "_date": "2026-04-18T13:37:39.673Z",
+  "_modCount": 533,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -3259,6 +3259,36 @@
         "boutures_travaux": "Observations"
       },
       {
+        "_id": "mo4dtdp5vs55",
+        "espece": "Nouvelle espèce",
+        "notes": "",
+        "url": "",
+        "debourrement": null,
+        "debourrement_djc": null,
+        "debourrement_travaux": "Observations",
+        "feuillaison": null,
+        "feuillaison_djc": null,
+        "feuillaison_travaux": "Observations",
+        "floraison": null,
+        "floraison_djc": null,
+        "floraison_travaux": "Observations",
+        "croissance": null,
+        "croissance_djc": null,
+        "croissance_travaux": "Observations",
+        "maturation": null,
+        "maturation_djc": null,
+        "maturation_travaux": "Observations",
+        "senescence": null,
+        "senescence_djc": null,
+        "senescence_travaux": "Observations",
+        "semis": null,
+        "semis_djc": null,
+        "semis_travaux": "Observations",
+        "boutures": null,
+        "boutures_djc": null,
+        "boutures_travaux": "Observations"
+      },
+      {
         "espece": "Palmier nain (Chamaerops humilis)",
         "notes": "Persistant - Palmier rustique",
         "url": "https://fr.wikipedia.org/wiki/Chamaerops_humilis",
@@ -4415,7 +4445,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 142
+    "_modCount": 143
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
