@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1776492020321,
-  "_date": "2026-04-18T06:00:20.321Z",
-  "_modCount": 516,
+  "_ts": 1776497466692,
+  "_date": "2026-04-18T07:31:06.692Z",
+  "_modCount": 517,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -4250,6 +4250,29 @@
         "boutures_djc": null,
         "boutures": null,
         "boutures_travaux": "Division des rejets basaux ou sections de tronc au printemps"
+      },
+      {
+        "espece": "Nouvelle espèce",
+        "url": "",
+        "notes": "",
+        "debourrement_djc": null,
+        "debourrement_travaux": "",
+        "debourrement": null,
+        "feuillaison_djc": null,
+        "feuillaison_travaux": "",
+        "feuillaison": null,
+        "floraison_djc": null,
+        "floraison_travaux": "",
+        "floraison": null,
+        "croissance_djc": null,
+        "croissance_travaux": "",
+        "croissance": null,
+        "maturation_djc": null,
+        "maturation_travaux": "",
+        "maturation": null,
+        "senescence_djc": null,
+        "senescence_travaux": "",
+        "senescence": null
       }
     ],
     "_version": "v20",
