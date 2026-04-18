@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1776547419735,
-  "_date": "2026-04-18T21:23:39.735Z",
-  "_modCount": 550,
+  "_ts": 1776547439932,
+  "_date": "2026-04-18T21:23:59.932Z",
+  "_modCount": 551,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -3349,36 +3349,6 @@
         "boutures_travaux": "Observations"
       },
       {
-        "_id": "mo4ugntivnuo",
-        "espece": "Nouvelle espèce",
-        "notes": "",
-        "url": "",
-        "debourrement": null,
-        "debourrement_djc": null,
-        "debourrement_travaux": "Observations",
-        "feuillaison": null,
-        "feuillaison_djc": null,
-        "feuillaison_travaux": "Observations",
-        "floraison": null,
-        "floraison_djc": null,
-        "floraison_travaux": "Observations",
-        "croissance": null,
-        "croissance_djc": null,
-        "croissance_travaux": "Observations",
-        "maturation": null,
-        "maturation_djc": null,
-        "maturation_travaux": "Observations",
-        "senescence": null,
-        "senescence_djc": null,
-        "senescence_travaux": "Observations",
-        "semis": null,
-        "semis_djc": null,
-        "semis_travaux": "Observations",
-        "boutures": null,
-        "boutures_djc": null,
-        "boutures_travaux": "Observations"
-      },
-      {
         "espece": "Palmier nain (Chamaerops humilis)",
         "notes": "Persistant - Palmier rustique",
         "url": "https://fr.wikipedia.org/wiki/Chamaerops_humilis",
@@ -4532,6 +4502,55 @@
         "boutures_djc": null,
         "boutures": null,
         "boutures_travaux": "Division des rejets basaux ou sections de tronc au printemps"
+      },
+      {
+        "_id": "mo4ugntivnuo",
+        "espece": "Zuisho",
+        "notes": "Persistant — Pinus parviflora 'Zuisho', cultivar nain du pin blanc du Japon. Croissance très lente, aiguilles courtes et denses bleues-vertes, port compact naturel. Idéal bonsaï shohin et mame. Ne jamais sur-pincer, la vigueur est naturellement faible.",
+        "url": "https://fr.wikipedia.org/wiki/Pinus_parviflora",
+        "debourrement": [
+          2,
+          0.4604904632152589
+        ],
+        "debourrement_djc": 726,
+        "debourrement_travaux": "Observation — Bougies courtes caractéristiques du cultivar (2-4 cm max). Observer l'élongation avant toute intervention. Rempotage tous les 4-5 ans juste avant débourrement, substrat akadama/pouzzolane 1:1, racines peu réduites.",
+        "feuillaison": null,
+        "feuillaison_djc": null,
+        "feuillaison_travaux": "Observation — Persistant, pas de feuillaison saisonnière. Nouvelles aiguilles bleues-vertes émergent avec les bougies au printemps. Ne pas cisailler, pinçage très léger ou absent sur ce cultivar.",
+        "floraison": [
+          3,
+          0.6005509641873278
+        ],
+        "floraison_djc": 1210,
+        "floraison_travaux": "Observation — Cônes pollinifères mâles jaunes en base de pousse, pollinisation anémophile. Espèce dioïque fonctionnelle. Noter la date pour suivi. Pas d'intervention.",
+        "croissance": [
+          3,
+          1
+        ],
+        "croissance_djc": 1355,
+        "croissance_travaux": "Observation — Croissance annuelle très limitée (2-4 cm), caractéristique du cultivar Zuisho. Fertilisation douce : engrais organique NPK équilibré en granulés avril-septembre. Ligature en automne sur branches souples, maintenir 18-24 mois.",
+        "maturation": [
+          9,
+          0.4308755760368664
+        ],
+        "maturation_djc": 4683,
+        "maturation_travaux": "Observation — Petits cônes femelles maturant sur 2 ans, très décoratifs. Collecte possible pour semis espèce type (ne reproduit pas le cultivar). Retirer aiguilles mortes intérieures pour aérer.",
+        "senescence": [
+          3,
+          0
+        ],
+        "senescence_djc": 992,
+        "senescence_travaux": "Observation — Chute naturelle des aiguilles de 3-4 ans en automne-hiver (jaunissement intérieur normal). Retirer manuellement les aiguilles mortes pour prévenir maladies fongiques et améliorer l'esthétique.",
+        "semis": [
+          1,
+          0.431924882629108
+        ],
+        "semis_djc": 391,
+        "semis_travaux": "Observation — Semis P. parviflora espèce type après stratification froide 6-8 semaines. Plants issus de Zuisho variables, non conformes au cultivar nain. Germination lente 4-8 semaines. Intérêt limité pour reproduire le cultivar.",
+        "boutures": null,
+        "boutures_djc": null,
+        "boutures_travaux": "Observation — Boutures impossibles sur les pins. Multiplication du cultivar Zuisho uniquement par greffage sur Pinus thunbergii porte-greffe en janvier-février sous abri froid (5-8°C), greffe en placage ou en fente.",
+        "photo": ""
       }
     ],
     "_version": "v20",
