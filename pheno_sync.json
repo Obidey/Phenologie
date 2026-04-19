@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1776599908204,
-  "_date": "2026-04-19T11:58:28.204Z",
-  "_modCount": 563,
+  "_ts": 1776599953800,
+  "_date": "2026-04-19T11:59:13.800Z",
+  "_modCount": 564,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -4607,42 +4607,10 @@
         "boutures_djc": null,
         "boutures_travaux": "Observation — Boutures impossibles sur les pins. Multiplication du cultivar Zuisho uniquement par greffage sur Pinus thunbergii porte-greffe en janvier-février sous abri froid (5-8°C), greffe en placage ou en fente.",
         "photo": ""
-      },
-      {
-        "_id": "mo5cdvh9c4e5",
-        "espece": "Zuisho",
-        "url": "https://fr.wikipedia.org/wiki/Pinus_parviflora",
-        "notes": "Persistant — Pinus parviflora 'Zuisho', cultivar nain du pin blanc du Japon. Croissance très lente, aiguilles courtes bleues-vertes, port compact naturel sans intervention. Idéal shohin et mame. Ne jamais sur-pincer.",
-        "photo": "",
-        "debourrement": null,
-        "debourrement_djc": null,
-        "debourrement_travaux": "Observation — Bougies très courtes (2-4 cm max), caractéristiques du cultivar. Observer l'élongation avant toute intervention. Rempotage tous les 4-5 ans juste avant, substrat akadama/pouzzolane 1:1, racines peu réduites.",
-        "feuillaison": null,
-        "feuillaison_djc": null,
-        "feuillaison_travaux": "Observation — Persistant, pas de feuillaison saisonnière. Nouvelles aiguilles bleues-vertes émergent avec les bougies. Pinçage très léger ou absent — la vigueur naturelle est faible, ne pas affaiblir.",
-        "floraison": null,
-        "floraison_djc": null,
-        "floraison_travaux": "Observation — Cônes pollinifères mâles jaunes en base de pousse, pollinisation anémophile. Noter la date pour suivi phénologique. Pas d'intervention.",
-        "croissance": null,
-        "croissance_djc": null,
-        "croissance_travaux": "Observation — Croissance annuelle très limitée (2-4 cm). Fertilisation douce engrais organique NPK équilibré en granulés avril-septembre. Ligature en automne sur branches souples, maintenir 18-24 mois minimum.",
-        "maturation": null,
-        "maturation_djc": null,
-        "maturation_travaux": "Observation — Petits cônes femelles maturant sur 2 ans, très décoratifs. Retirer aiguilles mortes intérieures pour aérer le feuillage et prévenir les champignons.",
-        "senescence": null,
-        "senescence_djc": null,
-        "senescence_travaux": "Observation — Chute naturelle des aiguilles de 3-4 ans en automne-hiver, jaunissement intérieur normal. Retirer manuellement les aiguilles mortes pour prévenir maladies fongiques.",
-        "dormance_travaux": "",
-        "semis": null,
-        "semis_djc": null,
-        "semis_travaux": "Observation — Semis P. parviflora espèce type après stratification froide 6-8 semaines. Plants issus de Zuisho variables, ne reproduisent pas le cultivar nain. Intérêt limité pour ce cultivar.",
-        "boutures": null,
-        "boutures_djc": null,
-        "boutures_travaux": "Observation — Boutures impossibles sur les pins. Multiplication du cultivar Zuisho uniquement par greffage sur Pinus thunbergii porte-greffe en janvier-février sous abri froid 5-8°C, greffe en placage."
       }
     ],
     "_version": "v20",
-    "_modCount": 145
+    "_modCount": 146
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
