@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1776599953800,
-  "_date": "2026-04-19T11:59:13.800Z",
-  "_modCount": 564,
+  "_ts": 1776600074036,
+  "_date": "2026-04-19T12:01:14.036Z",
+  "_modCount": 565,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -2572,6 +2572,56 @@
         "dormance_travaux": "Observation"
       },
       {
+        "_id": "mo5pt84wyk9a",
+        "espece": "If",
+        "url": "https://fr.wikipedia.org/wiki/Taxus_baccata",
+        "notes": "Persistant — Taxus baccata, if commun. Croissance très lente, longévité exceptionnelle. Supporte la taille sévère et l'ombre. Bois très dense, idéal pour jin et shari. Toutes les parties sont toxiques sauf l'arille rouge. Excellent bonsaï de style naturaliste.",
+        "photo": "",
+        "debourrement": [
+          2,
+          0.1362397820163488
+        ],
+        "debourrement_djc": 607,
+        "debourrement_travaux": "Observation — Débourrement tardif et discret, nouvelles pousses vert clair. Rempotage possible juste avant tous les 3-4 ans, substrat drainant akadama/pouzzolane, racines peu réduites. Taille de structure tolérée à tout moment.",
+        "feuillaison": null,
+        "feuillaison_djc": null,
+        "feuillaison_travaux": "Observation — Persistant, renouvellement foliaire progressif. Nouvelles aiguilles plus claires au printemps. Pinçage des pousses à la main (ne jamais cisailler les aiguilles). Nettoyer les aiguilles mortes intérieures.",
+        "floraison": [
+          1,
+          1
+        ],
+        "floraison_djc": 512,
+        "floraison_travaux": "Observation — Fleurs très discrètes, espèce dioïque (pieds mâles et femelles séparés). Pollen jaune sur sujets mâles. Pas d'intervention. Noter la date pour suivi phénologique.",
+        "croissance": [
+          3,
+          0
+        ],
+        "croissance_djc": 992,
+        "croissance_travaux": "Observation — Croissance très lente, pinçage léger des pousses terminales pour densifier. Fertilisation modérée engrais organique équilibré. Ligature longue durée (bois dur), maintenir 2-3 ans. Travail de jin et shari possible.",
+        "maturation": [
+          8,
+          0
+        ],
+        "maturation_djc": 4024,
+        "maturation_travaux": "Observation — Arilles rouges très décoratifs sur sujets femelles, persistants en automne-hiver. Attention : toxiques pour les enfants et animaux. Retirer si nécessaire. Observer la fructification pour identifier le sexe du sujet.",
+        "senescence": null,
+        "senescence_djc": null,
+        "senescence_travaux": "Observation — Persistant, pas de sénescence saisonnière. Chute naturelle des aiguilles de 3-4 ans possible en automne. Nettoyer l'intérieur du feuillage. Surveiller l'état sanitaire général.",
+        "dormance_travaux": "",
+        "semis": [
+          1,
+          0.431924882629108
+        ],
+        "semis_djc": 391,
+        "semis_travaux": "Observation — Graines nécessitent double stratification : chaud 6 mois puis froid 3 mois. Germination très lente et irrégulière, N+1 ou N+2. Semis en terrine, patience indispensable. Croissance initiale extrêmement lente.",
+        "boutures": [
+          3,
+          0
+        ],
+        "boutures_djc": 992,
+        "boutures_travaux": "Observation — Boutures semi-ligneuses en septembre-octobre avec hormone forte, substrat sableux, abri froid. Taux de reprise correct (60-70%). Meilleure méthode végétative pour l'if. Enracinement lent, 3-6 mois."
+      },
+      {
         "espece": "Jasmin d'Espagne",
         "notes": "Semi-persistant climat doux",
         "url": "https://fr.wikipedia.org/wiki/Jasminum_officinale",
@@ -4610,7 +4660,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 146
+    "_modCount": 147
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
