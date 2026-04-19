@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1776599865974,
-  "_date": "2026-04-19T11:57:45.974Z",
-  "_modCount": 562,
+  "_ts": 1776599908204,
+  "_date": "2026-04-19T11:58:28.204Z",
+  "_modCount": 563,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -2524,10 +2524,10 @@
         "espece": "Houx",
         "notes": "sempervirent dioïque (pieds mâles et femelles séparés)",
         "url": "https://identify.plantnet.org/fr/k-world-flora/species/Ilex%20aquifolium%20L./data",
-        "debourrement_djc": 1272,
+        "debourrement_djc": 1142,
         "debourrement": [
           3,
-          0.7713498622589532
+          0.4132231404958678
         ],
         "debourrement_travaux": "observation",
         "feuillaison_djc": 1272,
@@ -4642,7 +4642,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 144
+    "_modCount": 145
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
