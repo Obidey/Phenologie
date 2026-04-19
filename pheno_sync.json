@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1776599722022,
-  "_date": "2026-04-19T11:55:22.022Z",
-  "_modCount": 560,
+  "_ts": 1776599864501,
+  "_date": "2026-04-19T11:57:44.501Z",
+  "_modCount": 561,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -414,10 +414,10 @@
         "feuillaison_djc": 512,
         "feuillaison_travaux": "Observation — Petites feuilles lobées caractéristiques, très décoratives en bonsaï. Pinçage des pousses à 2 feuilles dès développement. Défoliation partielle possible en juin pour réduire la taille foliaire.",
         "floraison": [
-          2,
-          0.6566757493188011
+          3,
+          0.21487603305785125
         ],
-        "floraison_djc": 798,
+        "floraison_djc": 1070,
         "floraison_travaux": "Observation — Fleurs blanches parfumées en corymbes, spectaculaires. Ne pas tailler pendant la floraison. Arrosage régulier. Pollinisation par insectes, observer la fructification qui suit.",
         "croissance": [
           3,
@@ -4642,7 +4642,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 143
+    "_modCount": 144
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
