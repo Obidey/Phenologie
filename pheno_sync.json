@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1776577672972,
-  "_date": "2026-04-19T05:47:52.972Z",
-  "_modCount": 559,
+  "_ts": 1776599722022,
+  "_date": "2026-04-19T11:55:22.022Z",
+  "_modCount": 560,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -394,6 +394,62 @@
         "boutures": null,
         "boutures_travaux": "Non applicable — division uniquement",
         "_hidden": true
+      },
+      {
+        "_id": "mo5ploimwl1h",
+        "espece": "aubepine",
+        "url": "https://fr.wikipedia.org/wiki/Crataegus_monogyna",
+        "notes": "Caduc — Crataegus monogyna, aubépine commune. Très rustique, floraison blanche parfumée spectaculaire, fruits rouges décoratifs (cenelles). Épines abondantes à gérer. Excellent bonsaï pour nebari et écorce texturée. Croissance modérée.",
+        "photo": "",
+        "debourrement": [
+          1,
+          0.431924882629108
+        ],
+        "debourrement_djc": 391,
+        "debourrement_travaux": "Observation — Débourrement précoce, bourgeons petits et pointus. Taille de structure possible juste avant, cicatrisant systématique. Attention aux épines lors des manipulations, gants épais indispensables.",
+        "feuillaison": [
+          1,
+          1
+        ],
+        "feuillaison_djc": 512,
+        "feuillaison_travaux": "Observation — Petites feuilles lobées caractéristiques, très décoratives en bonsaï. Pinçage des pousses à 2 feuilles dès développement. Défoliation partielle possible en juin pour réduire la taille foliaire.",
+        "floraison": [
+          2,
+          0.6566757493188011
+        ],
+        "floraison_djc": 798,
+        "floraison_travaux": "Observation — Fleurs blanches parfumées en corymbes, spectaculaires. Ne pas tailler pendant la floraison. Arrosage régulier. Pollinisation par insectes, observer la fructification qui suit.",
+        "croissance": [
+          3,
+          0.6005509641873278
+        ],
+        "croissance_djc": 1210,
+        "croissance_travaux": "Observation — Croissance modérée, pinçage régulier toutes les 3-4 semaines. Ligature souple en été sur pousses de l'année. Fertilisation équilibrée NPK. Attention aux épines lors de la ligature.",
+        "maturation": [
+          7,
+          0.34841628959276016
+        ],
+        "maturation_djc": 3461,
+        "maturation_travaux": "Observation — Cenelles rouges très décoratives, persistantes en hiver. Limiter la charge en bonsaï (quelques grappes). Observer la coloration automnale des fruits. Ne pas laisser pourrir sur l'arbre.",
+        "senescence": [
+          9,
+          0.6359447004608295
+        ],
+        "senescence_djc": 4772,
+        "senescence_travaux": "Observation — Couleurs automnales jaunes-orangées modestes. Taille de nettoyage après chute des feuilles, supprimer branches mortes intérieures. Bonne période pour taille de structure importante.",
+        "dormance_travaux": "",
+        "semis": [
+          1,
+          0.431924882629108
+        ],
+        "semis_djc": 391,
+        "semis_travaux": "Observation — Graines (endocarpe) nécessitent double stratification : chaud 3 mois puis froid 3 mois. Germination printanière N+1. Semis en terrine, croissance lente. Patience requise pour obtenir un sujet intéressant.",
+        "boutures": [
+          3,
+          0.6005509641873278
+        ],
+        "boutures_djc": 1210,
+        "boutures_travaux": "Observation — Boutures semi-ligneuses en juin-juillet avec hormone de bouturage forte, substrat sableux, ombrage et brumisation. Résultats aléatoires. Semis ou marcottage aérien souvent préférés pour cette espèce."
       },
       {
         "espece": "Aulne",
