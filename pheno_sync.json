@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1776679166180,
-  "_date": "2026-04-20T09:59:26.180Z",
-  "_modCount": 584,
+  "_ts": 1776679312616,
+  "_date": "2026-04-20T10:01:52.616Z",
+  "_modCount": 585,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -1444,10 +1444,10 @@
           0.431924882629108
         ],
         "semis_travaux": "Observation — Graines (samaras) sans stratification nécessaire, germination facile et rapide au printemps. Semis en terrine à 15°C, repiquer dès 10 cm. Croissance première année très rapide.",
-        "boutures_djc": 1210,
+        "boutures_djc": 2556,
         "boutures": [
-          3,
-          0.6005509641873278
+          6,
+          0
         ],
         "boutures_travaux": "Observation — Boutures herbacées en juin-juillet avec hormone de bouturage, substrat sableux, ombrage et brumisation. Résultats corrects mais semis préférable pour cette espèce."
       },
