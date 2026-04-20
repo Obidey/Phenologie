@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1776663896109,
-  "_date": "2026-04-20T05:44:56.109Z",
-  "_modCount": 577,
+  "_ts": 1776663938023,
+  "_date": "2026-04-20T05:45:38.023Z",
+  "_modCount": 578,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -1450,61 +1450,6 @@
           0.6005509641873278
         ],
         "boutures_travaux": "Observation — Boutures herbacées en juin-juillet avec hormone de bouturage, substrat sableux, ombrage et brumisation. Résultats corrects mais semis préférable pour cette espèce."
-      },
-      {
-        "_id": "mo4dn35dhwpc",
-        "espece": "erable à giguere",
-        "notes": "Caduc — Acer negundo, érable à feuilles de frêne. Croissance rapide, bois tendre, très vigoureux. Feuillaison précoce, couleurs automnales jaunes modestes. Intéressant pour nebari et tronc épais rapidement.",
-        "url": "https://fr.wikipedia.org/wiki/Acer_negundo",
-        "debourrement": [
-          1,
-          0
-        ],
-        "debourrement_djc": 299,
-        "debourrement_travaux": "Observation — Débourrement très précoce, surveiller les bourgeons apicaux. Taille de structure possible juste avant, cicatrisant systématique sur les coupes. Attention aux saignées importantes.",
-        "feuillaison": [
-          1,
-          0.431924882629108
-        ],
-        "feuillaison_djc": 391,
-        "feuillaison_travaux": "Observation — Feuilles pennées à 3-5 folioles, pincer les pousses à 2 nœuds dès développement. Défoliation totale possible en juin pour réduire la taille des feuilles.",
-        "floraison": [
-          1,
-          0
-        ],
-        "floraison_djc": 299,
-        "floraison_travaux": "Observation — Fleurs discrètes en grappes pendantes avant les feuilles, espèce dioïque (pieds mâles/femelles séparés). Pas d'intervention pendant la floraison.",
-        "croissance": [
-          3,
-          0.6005509641873278
-        ],
-        "croissance_djc": 1210,
-        "croissance_travaux": "Observation — Croissance extrêmement vigoureuse, pinçage fréquent toutes les 2-3 semaines. Ligature souple (bois tendre, marques rapides). Fertilisation azotée modérée pour éviter pousses trop longues.",
-        "maturation": [
-          5,
-          1
-        ],
-        "maturation_djc": 2448,
-        "maturation_travaux": "Observation — Samaras en grappes persistantes, retirer pour éviter épuisement et auto-semis. Observer la ramification secondaire qui se densifie.",
-        "senescence": [
-          9,
-          0.6359447004608295
-        ],
-        "senescence_djc": 4772,
-        "senescence_travaux": "Observation — Jaunissement précoce et chute des feuilles rapide. Taille de nettoyage après chute complète, supprimer les branches mortes intérieures. Bonne période pour rempotage.",
-        "semis": [
-          1,
-          0.431924882629108
-        ],
-        "semis_djc": 391,
-        "semis_travaux": "Observation — Graines (samaras) sans stratification nécessaire, germination facile et rapide au printemps. Semis en terrine à 15°C, repiquer dès 10 cm. Croissance première année très rapide.",
-        "boutures": [
-          3,
-          0.6005509641873278
-        ],
-        "boutures_djc": 1210,
-        "boutures_travaux": "Observation — Boutures herbacées en juin-juillet avec hormone de bouturage, substrat sableux, ombrage et brumisation. Résultats corrects mais semis préférable pour cette espèce.",
-        "photo": ""
       },
       {
         "espece": "Erable Beni Shichihenge",
@@ -4482,7 +4427,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 153
+    "_modCount": 154
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
