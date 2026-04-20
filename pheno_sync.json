@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1776663824935,
-  "_date": "2026-04-20T05:43:44.935Z",
-  "_modCount": 575,
+  "_ts": 1776663868346,
+  "_date": "2026-04-20T05:44:28.346Z",
+  "_modCount": 576,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -449,7 +449,8 @@
           0.6005509641873278
         ],
         "boutures_djc": 1210,
-        "boutures_travaux": "Observation — Boutures semi-ligneuses en juin-juillet avec hormone de bouturage forte, substrat sableux, ombrage et brumisation. Résultats aléatoires. Semis ou marcottage aérien souvent préférés pour cette espèce."
+        "boutures_travaux": "Observation — Boutures semi-ligneuses en juin-juillet avec hormone de bouturage forte, substrat sableux, ombrage et brumisation. Résultats aléatoires. Semis ou marcottage aérien souvent préférés pour cette espèce.",
+        "_hidden": true
       },
       {
         "espece": "Aulne",
@@ -4481,7 +4482,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 152
+    "_modCount": 153
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
