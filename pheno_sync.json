@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1776663868346,
-  "_date": "2026-04-20T05:44:28.346Z",
-  "_modCount": 576,
+  "_ts": 1776663896109,
+  "_date": "2026-04-20T05:44:56.109Z",
+  "_modCount": 577,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -4755,7 +4755,8 @@
     "ko15_Nouvelle_esp_ce_debourrement_0": true,
     "ko15_Pin_blanc_du_Japon_semis_1": true,
     "ko15_Pin_blanc_du_Japon_semis_0": true,
-    "ko15_Houx_debourrement_0": true
+    "ko15_Houx_debourrement_0": true,
+    "ko16_Bananier_debourrement_0": true
   },
   "config": {
     "ville1": {
