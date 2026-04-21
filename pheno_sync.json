@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1776764308445,
-  "_date": "2026-04-21T09:38:28.445Z",
-  "_modCount": 593,
+  "_ts": 1776764316401,
+  "_date": "2026-04-21T09:38:36.401Z",
+  "_modCount": 594,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -449,7 +449,8 @@
           0.6005509641873278
         ],
         "boutures_djc": 1210,
-        "boutures_travaux": "Observation — Boutures semi-ligneuses en juin-juillet avec hormone de bouturage forte, substrat sableux, ombrage et brumisation. Résultats aléatoires. Semis ou marcottage aérien souvent préférés pour cette espèce."
+        "boutures_travaux": "Observation — Boutures semi-ligneuses en juin-juillet avec hormone de bouturage forte, substrat sableux, ombrage et brumisation. Résultats aléatoires. Semis ou marcottage aérien souvent préférés pour cette espèce.",
+        "_hidden": true
       },
       {
         "espece": "Aulne",
