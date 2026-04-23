@@ -1,10 +1,10 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1776944837599,
-  "_date": "2026-04-23T11:47:17.599Z",
+  "_ts": 1776944975332,
+  "_date": "2026-04-23T11:49:35.332Z",
   "_modCount": 609,
-  "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
+  "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
       "0": "11-255°J",
@@ -1992,9 +1992,12 @@
         "espece": "Fargesia Scabrida Asian",
         "notes": "",
         "url": "https://www.promessedefleurs.com/arbustes/bambou/fargesia-scabrida-asian-wonder-bambou-non-tracant-pot.html",
-        "debourrement_djc": null,
-        "debourrement": null,
-        "debourrement_travaux": "",
+        "debourrement_djc": 1070,
+        "debourrement": [
+          3,
+          0.21487603305785125
+        ],
+        "debourrement_travaux": "Observation",
         "feuillaison_djc": null,
         "feuillaison": null,
         "feuillaison_travaux": "",
