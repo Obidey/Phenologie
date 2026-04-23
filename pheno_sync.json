@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1776940484308,
-  "_date": "2026-04-23T10:34:44.308Z",
-  "_modCount": 604,
+  "_ts": 1776940508165,
+  "_date": "2026-04-23T10:35:08.165Z",
+  "_modCount": 605,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -2001,9 +2001,12 @@
         "floraison_djc": null,
         "floraison": null,
         "floraison_travaux": "",
-        "croissance_djc": null,
-        "croissance": null,
-        "croissance_travaux": "",
+        "croissance_djc": 1142,
+        "croissance": [
+          3,
+          0.4132231404958678
+        ],
+        "croissance_travaux": "TAILLE TURIONS",
         "maturation_djc": null,
         "maturation": null,
         "maturation_travaux": "",
@@ -2015,7 +2018,8 @@
         "semis_travaux": "",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": ""
+        "boutures_travaux": "",
+        "photo": ""
       },
       {
         "espece": "Figuier 2 saisons",
@@ -4427,7 +4431,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 604
+    "_modCount": 602
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
