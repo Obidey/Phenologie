@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777012584420,
-  "_date": "2026-04-24T06:36:24.420Z",
-  "_modCount": 619,
+  "_ts": 1777012633975,
+  "_date": "2026-04-24T06:37:13.975Z",
+  "_modCount": 620,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -624,11 +624,8 @@
           1
         ],
         "maturation_travaux": "Retirer capsules graines pour économiser énergie",
-        "senescence_djc": 299,
-        "senescence": [
-          1,
-          0
-        ],
+        "senescence_djc": null,
+        "senescence": null,
         "senescence_travaux": "Demi-persistant selon variété, protection contre froid sec",
         "semis_djc": null,
         "semis": null,
@@ -1995,12 +1992,9 @@
         "espece": "Fargesia Scabrida Asian",
         "notes": "",
         "url": "https://www.promessedefleurs.com/arbustes/bambou/fargesia-scabrida-asian-wonder-bambou-non-tracant-pot.html",
-        "debourrement_djc": 1070,
-        "debourrement": [
-          3,
-          0.21487603305785125
-        ],
-        "debourrement_travaux": "Observation",
+        "debourrement_djc": null,
+        "debourrement": null,
+        "debourrement_travaux": "",
         "feuillaison_djc": null,
         "feuillaison": null,
         "feuillaison_travaux": "",
@@ -2587,8 +2581,11 @@
           1
         ],
         "debourrement_travaux": "Arrosage + engrais en serre",
-        "feuillaison_djc": null,
-        "feuillaison": null,
+        "feuillaison_djc": 1210,
+        "feuillaison": [
+          3,
+          0.6005509641873278
+        ],
         "feuillaison_travaux": "Feuilles persistantes, arrosage modéré, plein soleil",
         "floraison_djc": 1608,
         "floraison": [
@@ -3230,6 +3227,53 @@
         "boutures": null,
         "boutures_travaux": "Boutures ligneuses hiver, résultats variables — marcottage aérien plus fiable",
         "_hidden": true
+      },
+      {
+        "_id": "mocjftepvqnk",
+        "espece": "orge des rats",
+        "url": "https://fr.wikipedia.org/wiki/Hordeum_murinum",
+        "notes": "Annuelle (graminée sauvage) — Hordeum murinum, orge des rats ou orge queue-de-rat. Plante herbacée annuelle d'hiver à printemps, cycle court. Intérêt bonsäi très limité en tant que sujet principal ; utilisée comme plante d'accompagnement (shitakusa) dans les compositions de style naturel ou comme indicateur phénologique de terrain. Rustique, nitrophile, pousse en bordure de pots et bacs. Épis aristés décoratifs mais disséminateurs agressifs.",
+        "photo": "",
+        "debourrement": null,
+        "debourrement_djc": null,
+        "debourrement_travaux": "Observation — Pas de débourrement au sens ligneux ; la germination automnale (sept.–nov.) donne des plantules en rosette basse. En bac de shitakusa, surveiller l'émergence des jeunes touffes dès les premières pluies fraîches. Pas d'intervention nécessaire.",
+        "feuillaison": [
+          0,
+          0.3975409836065574
+        ],
+        "feuillaison_djc": 108,
+        "feuillaison_travaux": "Observation — Vers 100 DJC (fin février–mars), les touffes redémarrent activement après le froid. En composition, évaluer la densité : éclaircir si la graminée concurrence les racines du sujet principal. Conserver 3–5 touffes max par pot.",
+        "floraison": [
+          1,
+          0.431924882629108
+        ],
+        "floraison_djc": 391,
+        "floraison_travaux": "Observation — Aux alentours de 400 DJC (avril–mai), les tiges florales montent rapidement à 20–40 cm et les épis aristés apparaissent. En shitakusa, couper les hampes florales AVANT maturité complète pour éviter la dissémination incontrôlée dans les pots voisins. Conserver quelques épis pour l'effet décoratif si le sujet principal le permet.",
+        "croissance": [
+          1,
+          0
+        ],
+        "croissance_djc": 299,
+        "croissance_travaux": "Observation — Phase de croissance végétative rapide entre 300 et 500 DJC (mars–mai). Arrosages réguliers mais sans excès : l'orge des rats tolère la sécheresse. En pot, la concurrence racinaire peut être forte ; surveiller la vigueur du sujet principal et retirer les touffes excédentaires à la main.",
+        "maturation": [
+          2,
+          0.1362397820163488
+        ],
+        "maturation_djc": 607,
+        "maturation_travaux": "Observation — Vers 600 DJC (mai–juin), les épis brunissent et les arêtes durcissent. Récolter les épis secs si semis contrôlé souhaité pour la saison suivante. Stocker dans une enveloppe papier au sec. Retirer toutes les plantes séchées des pots pour éviter l'accumulation de matière morte favorisant les champignons.",
+        "senescence": [
+          3,
+          0.6005509641873278
+        ],
+        "senescence_djc": 1210,
+        "senescence_travaux": "Observation — Au-delà de 700 DJC (juin), les touffes jaunissent et meurent naturellement. Arracher proprement en tirant les touffes entières par la base ; vérifier que les racines fibreuses ne s'entremêlent pas trop avec celles du bonsäi. Nettoyer la surface du substrat.",
+        "dormance_travaux": "",
+        "semis": null,
+        "semis_djc": null,
+        "semis_travaux": "Observation — Semis naturel automnal, déclenché par les pluies de septembre–octobre (température <15°C). Pour un semis volontaire en shitakusa, semer en surface à l'automne sans recouvrir, dans un mélange drainant léger. Maintenir humide jusqu'à levée (2–3 semaines). DJC non applicable : déclencheur thermique froid, pas de cumul chaud.",
+        "boutures": null,
+        "boutures_djc": null,
+        "boutures_travaux": "Observation — Multiplication par boutures non applicable pour une annuelle. Multiplication exclusivement par semis. En collection bonsäi, la dissémination spontanée depuis les pots suffit généralement à assurer la présence d'année en année si quelques épis ont été laissés à maturité."
       },
       {
         "espece": "Palmier nain (Chamaerops humilis)",
@@ -4437,7 +4481,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 619
+    "_modCount": 603
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
