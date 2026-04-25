@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777097885045,
-  "_date": "2026-04-25T06:18:05.045Z",
-  "_modCount": 644,
+  "_ts": 1777097931247,
+  "_date": "2026-04-25T06:18:51.247Z",
+  "_modCount": 645,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -3236,7 +3236,7 @@
         "photo": "",
         "debourrement": null,
         "debourrement_djc": null,
-        "debourrement_travaux": "Observation — Pas de débourrement au sens ligneux ; la germination automnale (sept.–nov.) donne des plantules en rosette basse. En bac de shitakusa, surveiller l'émergence des jeunes touffes dès les premières pluies fraîches. Pas d'intervention nécessaire.",
+        "debourrement_travaux": "Observation —",
         "feuillaison": [
           0,
           0.3975409836065574
