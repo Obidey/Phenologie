@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777099902899,
-  "_date": "2026-04-25T06:51:42.899Z",
-  "_modCount": 669,
+  "_ts": 1777100105268,
+  "_date": "2026-04-25T06:55:05.268Z",
+  "_modCount": 670,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -611,13 +611,13 @@
           5,
           0
         ],
-        "floraison_travaux": "Rempotage après floraison, substrat acide (pH 5-6), taille légèrepas d'engrais pendant floraison",
-        "croissance_djc": 1530,
+        "floraison_travaux": "Rempotage après floraison substrat acide (pH 5-6) taille légère pas d'engrais pendant floraison",
+        "croissance_djc": 2099,
         "croissance": [
-          4,
-          0.24770642201834864
+          5,
+          0.3723021582733813
         ],
-        "croissance_travaux": "Fertilisation pour acidophiles, ligature souple, mi-ombre été",
+        "croissance_travaux": "Fertilisation pour acidophiles,  mi-ombre été",
         "maturation_djc": 2448,
         "maturation": [
           5,
@@ -4486,7 +4486,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 615
+    "_modCount": 616
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
@@ -4879,7 +4879,8 @@
     "ko16_Zuisho_floraison_1": true,
     "ko17_Houx_feuillaison_0": true,
     "ko17_Kumquat_debourrement_0": true,
-    "ko17_Prunus_mume_maturation_1": true
+    "ko17_Prunus_mume_maturation_1": true,
+    "ko13_Pin_noir_du_Japon_debourrement_0": true
   },
   "config": {
     "ville1": {
