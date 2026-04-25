@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777095410208,
-  "_date": "2026-04-25T05:36:50.208Z",
-  "_modCount": 634,
+  "_ts": 1777095474842,
+  "_date": "2026-04-25T05:37:54.842Z",
+  "_modCount": 635,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4774,7 +4774,8 @@
     "ko5_Satsuki___Azal_e_du_Japon__boutures_3": true,
     "ko6_Juniperus__Itoigawa__chinensis__debourrement_2": true,
     "ko7__rable_desojo__Acer_palmatum__debourrement_1": true,
-    "ko7_Satsuki___Azal_e_du_Japon__debourrement_0": true
+    "ko7_Satsuki___Azal_e_du_Japon__debourrement_0": true,
+    "ko9_Azal_e_indica__de_Chine__feuillaison_0": true
   },
   "config": {
     "ville1": {
