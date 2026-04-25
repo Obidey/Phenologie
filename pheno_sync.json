@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777098872502,
-  "_date": "2026-04-25T06:34:32.502Z",
-  "_modCount": 655,
+  "_ts": 1777098958451,
+  "_date": "2026-04-25T06:35:58.451Z",
+  "_modCount": 656,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -3696,7 +3696,7 @@
           3,
           0.7713498622589532
         ],
-        "croissance_travaux": "Fertilisation légère, contrôle processionnaire du pin",
+        "croissance_travaux": "Fertilisation légère,",
         "maturation_djc": 4588,
         "maturation": [
           9,
@@ -4482,7 +4482,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 609
+    "_modCount": 610
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
@@ -4865,7 +4865,16 @@
     "ko16_Pin_blanc_du_Japon_feuillaison_0": true,
     "ko16_Pin_blanc_du_Japon_floraison_0": true,
     "ko16_Pin_blanc_du_Japon_feuillaison_1": true,
-    "ko16_Pin_blanc_du_Japon_floraison_1": true
+    "ko16_Pin_blanc_du_Japon_floraison_1": true,
+    "ko16_Romarin_croissance_0": true,
+    "ko16_Romarin_croissance_2": true,
+    "ko16_Saule_croissance_0": true,
+    "ko16_Saule_croissance_2": true,
+    "ko16_Saule_croissance_1": true,
+    "ko16_Zuisho_floraison_0": true,
+    "ko16_Zuisho_floraison_1": true,
+    "ko17_Houx_feuillaison_0": true,
+    "ko17_Kumquat_debourrement_0": true
   },
   "config": {
     "ville1": {
