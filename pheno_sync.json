@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777099554146,
-  "_date": "2026-04-25T06:45:54.146Z",
-  "_modCount": 662,
+  "_ts": 1777099613387,
+  "_date": "2026-04-25T06:46:53.387Z",
+  "_modCount": 663,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4246,10 +4246,10 @@
           0.3024523160762943
         ],
         "floraison_travaux": "Fleurs bleues mellifères, arrosage modéré, pas d'engrais pendant floraison",
-        "croissance_djc": 1210,
+        "croissance_djc": 1272,
         "croissance": [
           3,
-          0.6005509641873278
+          0.7713498622589532
         ],
         "croissance_travaux": "Fertilisation légère, taille régulière pour compacter, substrat sec",
         "maturation_djc": 2448,
@@ -4266,7 +4266,8 @@
         "semis_travaux": "Graines fraîches 18-20°C, germination lente et irrégulière",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses été sans hormone, substrat sableux, facile"
+        "boutures_travaux": "Boutures semi-ligneuses été sans hormone, substrat sableux, facile",
+        "photo": ""
       },
       {
         "espece": "Sassa Indocalamus tesselatus",
