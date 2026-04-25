@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777099710392,
-  "_date": "2026-04-25T06:48:30.392Z",
-  "_modCount": 664,
+  "_ts": 1777099807648,
+  "_date": "2026-04-25T06:50:07.648Z",
+  "_modCount": 665,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -605,7 +605,7 @@
           2,
           0.4604904632152589
         ],
-        "feuillaison_travaux": "Attention : galle de l'azalée = bouillie bx.",
+        "feuillaison_travaux": "Attention : galle de l'azalée = bouillie bx. Insecticide sous les feuilles",
         "floraison_djc": 1892,
         "floraison": [
           5,
@@ -4484,7 +4484,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 611
+    "_modCount": 612
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
