@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777102255221,
-  "_date": "2026-04-25T07:30:55.221Z",
-  "_modCount": 675,
+  "_ts": 1777102323711,
+  "_date": "2026-04-25T07:32:03.711Z",
+  "_modCount": 676,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -1403,7 +1403,7 @@
       {
         "_id": "moe0ohhameic",
         "espece": "Dipladenia",
-        "url": "https://fr.wikipedia.org/wiki/Mandevilla",
+        "url": "https://myfavouriterio.com/fr/",
         "notes": "Persistant tropical - Mandevilla sanderi - Floraison estivale remontante, sensible au gel",
         "photo": "",
         "debourrement": [
@@ -4543,7 +4543,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 617
+    "_modCount": 618
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
