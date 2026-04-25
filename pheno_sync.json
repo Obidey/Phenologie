@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777098839570,
-  "_date": "2026-04-25T06:33:59.570Z",
-  "_modCount": 653,
+  "_ts": 1777098869340,
+  "_date": "2026-04-25T06:34:29.340Z",
+  "_modCount": 654,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -3772,7 +3772,8 @@
         "photo": "",
         "dormance_djc": null,
         "dormance": null,
-        "dormance_travaux": "Observation"
+        "dormance_travaux": "Observation",
+        "_hidden": true
       },
       {
         "espece": "Pin rouge du Japon",
@@ -4481,7 +4482,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 608
+    "_modCount": 609
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
@@ -4859,7 +4860,12 @@
     "ko16_Figuier_de_Dalmatie_floraison_1": true,
     "ko16_Jasmin_d_Espagne_feuillaison_0": true,
     "ko16_Jasmin_d_Espagne_feuillaison_1": true,
-    "ko16_Jasmin_d_Espagne_feuillaison_2": true
+    "ko16_Jasmin_d_Espagne_feuillaison_2": true,
+    "ko15_Fargesia_Scabrida_Asian_croissance_0": true,
+    "ko16_Pin_blanc_du_Japon_feuillaison_0": true,
+    "ko16_Pin_blanc_du_Japon_floraison_0": true,
+    "ko16_Pin_blanc_du_Japon_feuillaison_1": true,
+    "ko16_Pin_blanc_du_Japon_floraison_1": true
   },
   "config": {
     "ville1": {
