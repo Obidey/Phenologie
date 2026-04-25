@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777097931247,
-  "_date": "2026-04-25T06:18:51.247Z",
-  "_modCount": 645,
+  "_ts": 1777097966613,
+  "_date": "2026-04-25T06:19:26.613Z",
+  "_modCount": 646,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -3254,7 +3254,7 @@
           0
         ],
         "croissance_djc": 299,
-        "croissance_travaux": "Observation — Phase de croissance végétative rapide entre 300 et 500 DJC (mars–mai). Arrosages réguliers mais sans excès : l'orge des rats tolère la sécheresse. En pot, la concurrence racinaire peut être forte ; surveiller la vigueur du sujet principal et retirer les touffes excédentaires à la main.",
+        "croissance_travaux": "Observation —",
         "maturation": [
           2,
           0.1362397820163488
@@ -4481,7 +4481,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 604
+    "_modCount": 605
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
