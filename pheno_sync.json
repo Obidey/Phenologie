@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777099831607,
-  "_date": "2026-04-25T06:50:31.607Z",
-  "_modCount": 666,
+  "_ts": 1777099852661,
+  "_date": "2026-04-25T06:50:52.661Z",
+  "_modCount": 667,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -2916,7 +2916,7 @@
         "boutures_travaux": "Boutures semi-ligneuses été avec hormone, bonne reprise"
       },
       {
-        "espece": "Lavande 2",
+        "espece": "Lavande",
         "notes": "Persistant - Floraison estivale",
         "url": "https://fr.wikipedia.org/wiki/Lavandula",
         "debourrement_djc": 607,
@@ -4485,7 +4485,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 613
+    "_modCount": 614
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
