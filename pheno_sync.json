@@ -1,8 +1,8 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777101657681,
-  "_date": "2026-04-25T07:20:57.681Z",
+  "_ts": 1777102058071,
+  "_date": "2026-04-25T07:27:38.071Z",
   "_modCount": 674,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
@@ -1399,6 +1399,62 @@
         "boutures_travaux": "Boutures herbacées très faciles été, racinent rapidement",
         "_hidden": true,
         "photo": ""
+      },
+      {
+        "_id": "moe0ohhameic",
+        "espece": "Dipladenia",
+        "url": "https://fr.wikipedia.org/wiki/Mandevilla",
+        "notes": "Persistant tropical - Mandevilla sanderi - Floraison estivale remontante, sensible au gel",
+        "photo": "",
+        "debourrement": [
+          3,
+          0.6005509641873278
+        ],
+        "debourrement_djc": 1210,
+        "debourrement_travaux": "Observation — reprise des bourgeons axillaires après hivernage ; sortir progressivement à l'abri du vent dès 15°C la nuit ; taille de nettoyage sur bois mort hivernal ; rempotage si racines sortent du pot, substrat drainant riche (terreau + perlite 30%)",
+        "feuillaison": [
+          3,
+          1
+        ],
+        "feuillaison_djc": 1355,
+        "feuillaison_travaux": "Observation — feuilles ovales luisantes vert foncé en développement ; pincer les pousses à 2-3 nœuds pour compacter la silhouette ; surveiller l'apparition de cochenilles farineuses à l'aisselle des feuilles ; commencer la fertilisation azotée bi-mensuelle",
+        "floraison": [
+          4,
+          0.7339449541284404
+        ],
+        "floraison_djc": 1689,
+        "floraison_travaux": "Observation — grandes fleurs en entonnoir rose-rouge sur bois de l'année ; ne pas tailler pendant la floraison ; arrosage régulier sans excès (pourriture racinaire facile) ; basculer vers engrais riche en potasse (type tomate) pour prolonger la floraison ; retirer fleurs fanées individuellement",
+        "croissance": [
+          5,
+          0.5503597122302158
+        ],
+        "croissance_djc": 2198,
+        "croissance_travaux": "Observation — pousses longues et vigoureuses à contenir ; pinçage systématique à 2 nœuds toutes les 3-4 semaines pour forcer la ramification ; ligature souple sur structure bonsaï (tiges fragiles cassantes) ; arrosage abondant par chaleur, feuilles indiquent le stress hydrique (légère flétrissure matinale = signal d'arrosage)",
+        "maturation": [
+          7,
+          0
+        ],
+        "maturation_djc": 3230,
+        "maturation_travaux": "Observation — formation éventuelle de gousses longues en paire caractéristiques des Apocynacées ; retirer systématiquement pour éviter l'épuisement et prolonger la floraison ; maintenir la fertilisation potassique ; surveiller les araignées rouges par temps sec et chaud",
+        "senescence": [
+          9,
+          0.6359447004608295
+        ],
+        "senescence_djc": 4772,
+        "senescence_travaux": "Observation — ralentissement végétatif et floral en fin d'été ; réduire progressivement l'arrosage et stopper la fertilisation ; ne pas tailler avant hivernage ; rentrer à l'abri avant 10°C, idéalement sous véranda lumineuse à 12-15°C minimum",
+        "dormance_travaux": "",
+        "semis": [
+          3,
+          1
+        ],
+        "semis_djc": 1355,
+        "semis_travaux": "Observation — semis peu pratiqué (résultats lents et irréguliers) ; utiliser graines fraîches à maturité ; substrat léger à 22-25°C sous mini-serre ; germination en 2-4 semaines ; floraison en bonsaï obtenue bien plus rapidement par bouture",
+        "boutures": [
+          4,
+          0.7339449541284404
+        ],
+        "boutures_djc": 1689,
+        "boutures_travaux": "Observation — méthode privilégiée pour multiplier et conserver les caractères variétaux ; boutures apicales semi-ligneuses de 8-10 cm en juin-juillet ; attention au latex blanc irritant (gants obligatoires, laisser sécher la coupe 30 min) ; hormone de bouturage moyen, substrat tourbe-perlite, 22-25°C sous brumisation ou sac plastique ; enracinement en 4-6 semaines"
       },
       {
         "espece": "Erable à giguere",
