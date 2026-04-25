@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777100105268,
-  "_date": "2026-04-25T06:55:05.268Z",
-  "_modCount": 670,
+  "_ts": 1777100117960,
+  "_date": "2026-04-25T06:55:17.960Z",
+  "_modCount": 671,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -954,7 +954,8 @@
         "semis_travaux": "Noyaux stratifiés 8-12 sem. froid, semis printemps",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures vertes juin, hormone, difficiles — greffe préférée pour cultivars"
+        "boutures_travaux": "Boutures vertes juin, hormone, difficiles — greffe préférée pour cultivars",
+        "_hidden": true
       },
       {
         "espece": "Charme (Carpinus betulus)",
@@ -4486,7 +4487,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 616
+    "_modCount": 617
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
