@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777021731236,
-  "_date": "2026-04-24T09:08:51.236Z",
-  "_modCount": 620,
+  "_ts": 1777094441091,
+  "_date": "2026-04-25T05:20:41.091Z",
+  "_modCount": 621,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -959,40 +959,40 @@
         "espece": "Charme (Carpinus betulus)",
         "notes": "Caduc",
         "url": "https://fr.wikipedia.org/wiki/Charme_commun",
-        "debourrement_djc": 800,
+        "debourrement_djc": 798,
         "debourrement": [
           2,
-          0.662125340599455
+          0.6566757493188011
         ],
         "debourrement_travaux": "Taille avant débourrement, espèce idéale bonsaï (écorce caractéristique)",
-        "feuillaison_djc": 950,
+        "feuillaison_djc": 924,
         "feuillaison": [
-          3,
-          0
+          2,
+          1
         ],
-        "feuillaison_travaux": "Défoliation totale juin, pinçage régulier, ligature",
-        "floraison_djc": 1100,
+        "feuillaison_travaux": "L'astuce est de tailler quand les feuilles sont bien développées. On va couper en laissant 4 feuilles puis en suprimant les deux petites à la base de la branche avec des pinces Ainsi on est sûr que l'année d'après les bourgeons seront à la base des deux feuilles restantes et pas trop près.",
+        "floraison_djc": 1070,
         "floraison": [
           3,
-          0.2975206611570248
+          0.21487603305785125
         ],
         "floraison_travaux": "Chatons discrets, observation, pas d'intervention",
-        "croissance_djc": 1700,
+        "croissance_djc": 1689,
         "croissance": [
           4,
-          0.7675840978593272
+          0.7339449541284404
         ],
         "croissance_travaux": "Croissance modérée, fertilisation équilibrée, rempotage tous 2-3 ans",
-        "maturation_djc": 2400,
+        "maturation_djc": 2448,
         "maturation": [
           5,
-          0.9136690647482014
+          1
         ],
         "maturation_travaux": "Akènes ailés décoratifs, retirer si épuisement",
-        "senescence_djc": 4900,
+        "senescence_djc": 4930,
         "senescence": [
           9,
-          0.9308755760368663
+          1
         ],
         "senescence_travaux": "Feuilles marcescentes (restent sur l'arbre), couleurs cuivre remarquables",
         "semis_djc": null,
@@ -1000,7 +1000,8 @@
         "semis_travaux": "Graines stratifiées 12-16 sem. froid, germination lente mais fiable",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures ligneuses hiver, résultat variable — semis préféré"
+        "boutures_travaux": "Boutures ligneuses hiver, résultat variable — semis préféré",
+        "photo": ""
       },
       {
         "espece": "Chêne (pédonculé/sessile)",
