@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777098750430,
-  "_date": "2026-04-25T06:32:30.430Z",
-  "_modCount": 652,
+  "_ts": 1777098839570,
+  "_date": "2026-04-25T06:33:59.570Z",
+  "_modCount": 653,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -3262,10 +3262,10 @@
         "maturation_djc": 1892,
         "maturation_travaux": "Observation — Vers 600 DJC (mai–juin), les épis brunissent et les arêtes durcissent. Récolter les épis secs si semis contrôlé souhaité pour la saison suivante. Stocker dans une enveloppe papier au sec. Retirer toutes les plantes séchées des pots pour éviter l'accumulation de matière morte favorisant les champignons.",
         "senescence": [
-          3,
-          0.6005509641873278
+          5,
+          0
         ],
-        "senescence_djc": 1210,
+        "senescence_djc": 1892,
         "senescence_travaux": "Observation — Au-delà de 700 DJC (juin), les touffes jaunissent et meurent naturellement. Arracher proprement en tirant les touffes entières par la base ; vérifier que les racines fibreuses ne s'entremêlent pas trop avec celles du bonsäi. Nettoyer la surface du substrat.",
         "dormance_travaux": "",
         "semis": null,
@@ -4481,7 +4481,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 607
+    "_modCount": 608
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
@@ -4843,7 +4843,23 @@
     "ko14_Ciste_floraison_0": true,
     "ko14_Ciste_floraison_2": true,
     "ko14_Phyllostachys_aurea_Holochrysa_debourrement_0": true,
-    "ko14_Phyllostachys_aurea_Holochrysa_debourrement_2": true
+    "ko14_Phyllostachys_aurea_Holochrysa_debourrement_2": true,
+    "ko15_Pin_noir_du_Japon_floraison_0": true,
+    "ko15_Pin_noir_du_Japon_floraison_1": true,
+    "ko15_Pin_parasol_debourrement_0": true,
+    "ko15_Pin_parasol_semis_0": true,
+    "ko16_Aulne_croissance_0": true,
+    "ko16_Bananier_debourrement_1": true,
+    "ko16_Erable___giguere_croissance_0": true,
+    "ko16_Erable___giguere_croissance_1": true,
+    "ko16_Erable___giguere_croissance_2": true,
+    "ko16_Figuier_2_saisons_floraison_0": true,
+    "ko16_Figuier_2_saisons_floraison_1": true,
+    "ko16_Figuier_de_Dalmatie_floraison_0": true,
+    "ko16_Figuier_de_Dalmatie_floraison_1": true,
+    "ko16_Jasmin_d_Espagne_feuillaison_0": true,
+    "ko16_Jasmin_d_Espagne_feuillaison_1": true,
+    "ko16_Jasmin_d_Espagne_feuillaison_2": true
   },
   "config": {
     "ville1": {
