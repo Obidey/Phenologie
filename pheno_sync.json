@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777098286405,
-  "_date": "2026-04-25T06:24:46.405Z",
-  "_modCount": 648,
+  "_ts": 1777098435137,
+  "_date": "2026-04-25T06:27:15.137Z",
+  "_modCount": 649,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4783,7 +4783,22 @@
     "ko3_Erable___giguere_semis_0": true,
     "ko3_Erable___giguere_semis_1": true,
     "ko3_Erable___giguere_semis_2": true,
-    "ko3_If_semis_0": true
+    "ko3_If_semis_0": true,
+    "ko3_If_semis_2": true,
+    "ko3_orge_des_rats_floraison_0": true,
+    "ko3_orge_des_rats_floraison_1": true,
+    "ko3_orge_des_rats_floraison_2": true,
+    "ko3_Zuisho_semis_0": true,
+    "ko3_Zuisho_semis_1": true,
+    "ko3_If_semis_1": true,
+    "ko5_If_floraison_0": true,
+    "ko5_If_floraison_1": true,
+    "ko6_Phyllostachys_aureosulcata_debourrement_1": true,
+    "ko7_If_debourrement_0": true,
+    "ko7_If_debourrement_1": true,
+    "ko7_If_debourrement_3": true,
+    "ko7_If_debourrement_2": true,
+    "ko7_If_debourrement_4": true
   },
   "config": {
     "ville1": {
