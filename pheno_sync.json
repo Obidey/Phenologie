@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777098958451,
-  "_date": "2026-04-25T06:35:58.451Z",
-  "_modCount": 656,
+  "_ts": 1777098998848,
+  "_date": "2026-04-25T06:36:38.848Z",
+  "_modCount": 657,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4874,7 +4874,8 @@
     "ko16_Zuisho_floraison_0": true,
     "ko16_Zuisho_floraison_1": true,
     "ko17_Houx_feuillaison_0": true,
-    "ko17_Kumquat_debourrement_0": true
+    "ko17_Kumquat_debourrement_0": true,
+    "ko17_Prunus_mume_maturation_1": true
   },
   "config": {
     "ville1": {
