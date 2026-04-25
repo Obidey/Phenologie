@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777098451283,
-  "_date": "2026-04-25T06:27:31.283Z",
-  "_modCount": 650,
+  "_ts": 1777098715246,
+  "_date": "2026-04-25T06:31:55.246Z",
+  "_modCount": 651,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -605,7 +605,7 @@
           2,
           0.4604904632152589
         ],
-        "feuillaison_travaux": "Attention : galle de l'azalée = bouillie bx. https://www.rhododendron-azalee.fr/articles/maladies_et_parasites_rhododendron.pdf",
+        "feuillaison_travaux": "Attention : galle de l'azalée = bouillie bx.",
         "floraison_djc": 1892,
         "floraison": [
           5,
@@ -4463,10 +4463,10 @@
         "maturation_djc": 4683,
         "maturation_travaux": "Observation — Petits cônes femelles maturant sur 2 ans, très décoratifs. Collecte possible pour semis espèce type (ne reproduit pas le cultivar). Retirer aiguilles mortes intérieures pour aérer.",
         "senescence": [
-          3,
-          0
+          9,
+          1
         ],
-        "senescence_djc": 992,
+        "senescence_djc": 4930,
         "senescence_travaux": "Observation — Chute naturelle des aiguilles de 3-4 ans en automne-hiver (jaunissement intérieur normal). Retirer manuellement les aiguilles mortes pour prévenir maladies fongiques et améliorer l'esthétique.",
         "semis": [
           1,
@@ -4481,7 +4481,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 606
+    "_modCount": 607
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
@@ -4594,8 +4594,8 @@
     "ko13_Pin_rouge_du_Japon_semis_0": true,
     "ko13_Datura_debourrement_0": true,
     "ko13_Datura_debourrement_1": true,
-    "ko13_Glycine_feuillaison_1": false,
-    "ko13_Glycine_feuillaison_2": false,
+    "ko13_Glycine_feuillaison_1": true,
+    "ko13_Glycine_feuillaison_2": true,
     "ko13_Glycine_feuillaison_3": true,
     "ko14_Charme__Carpinus_betulus__floraison_0": true,
     "ko14_Charme__Carpinus_betulus__floraison_1": true,
@@ -4664,7 +4664,7 @@
     "ko10_Jasminum_Starry_Night_debourrement_0": true,
     "ko10_Kaki__Plaqueminier__debourrement_0": true,
     "ko10_Lilas_floraison_0": true,
-    "ko10_Lilas_feuillaison_0": false,
+    "ko10_Lilas_feuillaison_0": true,
     "ko10_Pin_maritime_floraison_0": true,
     "ko10_Paturin_des_pres_floraison_0": true,
     "ko10_Pommier_du_Japon_debourrement_0": true,
@@ -4798,7 +4798,48 @@
     "ko7_If_debourrement_1": true,
     "ko7_If_debourrement_3": true,
     "ko7_If_debourrement_2": true,
-    "ko7_If_debourrement_4": true
+    "ko7_If_debourrement_4": true,
+    "ko9_Azal_e_indica__de_Chine__feuillaison_1": true,
+    "ko9_Bougainvillier_Violet_de_M_ze_debourrement_0": true,
+    "ko9_Ch_ne__p_doncul__sessile__debourrement_0": true,
+    "ko9_Ch_ne__p_doncul__sessile__debourrement_2": true,
+    "ko9_Ch_ne__p_doncul__sessile__debourrement_1": true,
+    "ko9_Jasmin_etoil__debourrement_0": true,
+    "ko9_Zuisho_debourrement_0": true,
+    "ko9_Zuisho_debourrement_1": true,
+    "ko9_Zuisho_debourrement_2": true,
+    "ko9_Zuisho_debourrement_3": true,
+    "ko10_Azal_e_indica__de_Chine__floraison_1": true,
+    "ko10_Azal_e_indica__de_Chine__floraison_2": true,
+    "ko10_Bougainvillier__Alexandra__Princess_Thai___debourrement_0": true,
+    "ko10_Bougainvillier__Alexandra__Princess_Thai___debourrement_1": true,
+    "ko10_Bougainvillier__Alexandra__Princess_Thai___debourrement_2": true,
+    "ko10_Lilas_feuillaison_1": true,
+    "ko12_Acacia_Constantinople_feuillaison_0": true,
+    "ko12_Charme__Carpinus_betulus__feuillaison_1": true,
+    "ko12_Charme__Carpinus_betulus__feuillaison_2": true,
+    "ko12_jasmin_stary_night_debourrement_0": true,
+    "ko12_Pin_sylvestre_debourrement_0": true,
+    "ko12_Pin_sylvestre_debourrement_1": true,
+    "ko12_Pin_sylvestre_senescence_0": true,
+    "ko12_Sassa_Indocalamus_tesselatus_debourrement_0": true,
+    "ko12_Sassa_Indocalamus_tesselatus_debourrement_1": true,
+    "ko13_Bougainvillier__Alexandra__Princess_Thai___feuillaison_0": true,
+    "ko13_Ch_ne__p_doncul__sessile__floraison_0": true,
+    "ko13_Fargesia__bambous_cespiteux__debourrement_0": true,
+    "ko13_Fargesia__bambous_cespiteux__debourrement_1": true,
+    "ko13_Fargesia__bambous_cespiteux__debourrement_2": true,
+    "ko13_If_croissance_0": true,
+    "ko13_If_croissance_1": true,
+    "ko13_If_croissance_2": true,
+    "ko13_If_boutures_0": true,
+    "ko13_If_boutures_1": true,
+    "ko13_If_boutures_2": true,
+    "ko13_If_boutures_3": true,
+    "ko13_Lierre_feuillaison_0": true,
+    "ko13_Lierre_feuillaison_1": true,
+    "ko13_Palmier_nain__Chamaerops_humilis__floraison_0": true,
+    "ko13_Pin_noir_du_Japon_debourrement_1": true
   },
   "config": {
     "ville1": {
