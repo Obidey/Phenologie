@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777098715246,
-  "_date": "2026-04-25T06:31:55.246Z",
-  "_modCount": 651,
+  "_ts": 1777098750430,
+  "_date": "2026-04-25T06:32:30.430Z",
+  "_modCount": 652,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4839,7 +4839,11 @@
     "ko13_Lierre_feuillaison_0": true,
     "ko13_Lierre_feuillaison_1": true,
     "ko13_Palmier_nain__Chamaerops_humilis__floraison_0": true,
-    "ko13_Pin_noir_du_Japon_debourrement_1": true
+    "ko13_Pin_noir_du_Japon_debourrement_1": true,
+    "ko14_Ciste_floraison_0": true,
+    "ko14_Ciste_floraison_2": true,
+    "ko14_Phyllostachys_aurea_Holochrysa_debourrement_0": true,
+    "ko14_Phyllostachys_aurea_Holochrysa_debourrement_2": true
   },
   "config": {
     "ville1": {
