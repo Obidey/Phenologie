@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777095242708,
-  "_date": "2026-04-25T05:34:02.708Z",
-  "_modCount": 630,
+  "_ts": 1777095327030,
+  "_date": "2026-04-25T05:35:27.030Z",
+  "_modCount": 631,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4768,7 +4768,13 @@
     "ko17_Ch_ne__p_doncul__sessile__floraison_1": true,
     "ko1_Cognassier_du_Japon__Chaenomeles__floraison_1": true,
     "ko1_Cognassier_du_Japon__Chaenomeles__floraison_2": true,
-    "ko3_Cognassier_du_Japon__Chaenomeles__feuillaison_2": true
+    "ko3_Cognassier_du_Japon__Chaenomeles__feuillaison_2": true,
+    "ko5_Satsuki___Azal_e_du_Japon__boutures_1": true,
+    "ko5_Satsuki___Azal_e_du_Japon__boutures_2": true,
+    "ko5_Satsuki___Azal_e_du_Japon__boutures_3": true,
+    "ko6_Juniperus__Itoigawa__chinensis__debourrement_2": true,
+    "ko7__rable_desojo__Acer_palmatum__debourrement_1": true,
+    "ko7_Satsuki___Azal_e_du_Japon__debourrement_0": true
   },
   "config": {
     "ville1": {
