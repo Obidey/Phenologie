@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777097456701,
-  "_date": "2026-04-25T06:10:56.701Z",
-  "_modCount": 638,
+  "_ts": 1777097512582,
+  "_date": "2026-04-25T06:11:52.582Z",
+  "_modCount": 639,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -1403,7 +1403,7 @@
         "url": "https://fr.wikipedia.org/wiki/Acer_negundo",
         "notes": "Caduc — Acer negundo, érable à feuilles de frêne. Croissance rapide, bois tendre, très vigoureux. Feuillaison précoce, couleurs automnales jaunes modestes. Intéressant pour nebari et tronc épais rapidement.",
         "debourrement_djc": 299,
-        "debourrement_travaux": "Observation — Débourrement très précoce, surveiller les bourgeons apicaux. Taille de structure possible juste avant, cicatrisant systématique sur les coupes. Attention aux saignées importantes.",
+        "debourrement_travaux": "Observation — Débourrement très précoce",
         "debourrement": [
           1,
           0
