@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777097802844,
-  "_date": "2026-04-25T06:16:42.844Z",
-  "_modCount": 641,
+  "_ts": 1777097865544,
+  "_date": "2026-04-25T06:17:45.544Z",
+  "_modCount": 642,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -1414,7 +1414,7 @@
           0.431924882629108
         ],
         "floraison_djc": 299,
-        "floraison_travaux": "Observation — Fleurs discrètes en grappes pendantes avant les feuilles, espèce dioïque (pieds mâles/femelles séparés). Pas d'intervention pendant la floraison.",
+        "floraison_travaux": "Observation — Fleurs discrètes en grappes pendantes avant les feuilles",
         "floraison": [
           1,
           0
