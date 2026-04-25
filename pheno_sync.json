@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777098435137,
-  "_date": "2026-04-25T06:27:15.137Z",
-  "_modCount": 649,
+  "_ts": 1777098451283,
+  "_date": "2026-04-25T06:27:31.283Z",
+  "_modCount": 650,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -3256,10 +3256,10 @@
         "croissance_djc": 299,
         "croissance_travaux": "Observation —",
         "maturation": [
-          2,
-          0.1362397820163488
+          5,
+          0
         ],
-        "maturation_djc": 607,
+        "maturation_djc": 1892,
         "maturation_travaux": "Observation — Vers 600 DJC (mai–juin), les épis brunissent et les arêtes durcissent. Récolter les épis secs si semis contrôlé souhaité pour la saison suivante. Stocker dans une enveloppe papier au sec. Retirer toutes les plantes séchées des pots pour éviter l'accumulation de matière morte favorisant les champignons.",
         "senescence": [
           3,
@@ -4481,7 +4481,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 605
+    "_modCount": 606
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
