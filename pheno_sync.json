@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777099613387,
-  "_date": "2026-04-25T06:46:53.387Z",
-  "_modCount": 663,
+  "_ts": 1777099710392,
+  "_date": "2026-04-25T06:48:30.392Z",
+  "_modCount": 664,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -653,7 +653,7 @@
           3,
           1
         ],
-        "feuillaison_travaux": "Nouvelles feuilles en cornet, arrosage abondant, fertilisation azotée",
+        "feuillaison_travaux": "Nouvelles feuilles en cornet arrosage abondant fertilisation azotée",
         "floraison_djc": 2448,
         "floraison": [
           5,
@@ -680,7 +680,8 @@
         "semis_travaux": "Graines fraîches trempées 24h, 25°C, germination 2-4 sem.",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Division des rejets basaux au printemps, facile"
+        "boutures_travaux": "Division des rejets basaux au printemps, facile",
+        "photo": ""
       },
       {
         "espece": "Bougainvillier (Alexandra, Princess Thai…)",
@@ -4483,7 +4484,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 610
+    "_modCount": 611
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
