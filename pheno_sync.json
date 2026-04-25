@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777099807648,
-  "_date": "2026-04-25T06:50:07.648Z",
-  "_modCount": 665,
+  "_ts": 1777099831607,
+  "_date": "2026-04-25T06:50:31.607Z",
+  "_modCount": 666,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -2751,7 +2751,7 @@
           2,
           0.4604904632152589
         ],
-        "debourrement_travaux": "Rempotage printanier si nécessaire, substrat minéral drainant",
+        "debourrement_travaux": "Rempotage printanier si nécessaire substrat minéral drainant",
         "feuillaison_djc": null,
         "feuillaison": null,
         "feuillaison_travaux": "Aiguilles piquantes (gants !), pinçage des nouvelles pousses",
@@ -2778,7 +2778,8 @@
         "semis_travaux": "Stratification double (chaud/froid), germination très lente",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures août-septembre avec hormone forte, substrat minéral"
+        "boutures_travaux": "Boutures août-septembre avec hormone forte, substrat minéral",
+        "photo": ""
       },
       {
         "espece": "Kaki (Plaqueminier)",
@@ -4484,7 +4485,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 612
+    "_modCount": 613
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
