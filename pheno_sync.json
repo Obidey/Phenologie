@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777441749259,
-  "_date": "2026-04-29T05:49:09.259Z",
-  "_modCount": 830,
+  "_ts": 1777442028733,
+  "_date": "2026-04-29T05:53:48.733Z",
+  "_modCount": 831,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4939,7 +4939,9 @@
     "ko17_Prunus_mume_maturation_1": true,
     "ko13_Pin_noir_du_Japon_debourrement_0": true,
     "ko17_Romarin_croissance_0": true,
-    "ko17_Romarin_croissance_2": true
+    "ko17_Romarin_croissance_2": true,
+    "ko16_Jasmin_d_Espagne_debourrement_0": true,
+    "ko17_Prunus_mume_maturation_2": true
   },
   "config": {
     "ville1": {
