@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777441645580,
-  "_date": "2026-04-29T05:47:25.580Z",
-  "_modCount": 829,
+  "_ts": 1777441749259,
+  "_date": "2026-04-29T05:49:09.259Z",
+  "_modCount": 830,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -605,7 +605,7 @@
           2,
           0.4604904632152589
         ],
-        "feuillaison_travaux": "Attention : galle de l'azalée = bouillie bx. Insecticide sous les feuilles. attaque Styphanitis Pyriodes https://en.wikipedia.org/wiki/Stephanitis_pyrioides",
+        "feuillaison_travaux": "Attention : galle = bouillie bx. attaque Styphanitis Pyriodesg (Nicotine)",
         "floraison_djc": 1892,
         "floraison": [
           5,
@@ -4543,7 +4543,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 620
+    "_modCount": 621
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
