@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777441512035,
-  "_date": "2026-04-29T05:45:12.035Z",
-  "_modCount": 826,
+  "_ts": 1777441582041,
+  "_date": "2026-04-29T05:46:22.041Z",
+  "_modCount": 827,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4242,7 +4242,7 @@
           3,
           0.7713498622589532
         ],
-        "maturation_travaux": "Petits fruits jaunes acides, limiter en bonsaï",
+        "maturation_travaux": "Petits fruits jaunes acides, Tailler à 4 feuilles, couper les 2 premieres feuilles pour bourgeons à feuilles  l'année prochaine",
         "senescence_djc": 4772,
         "senescence": [
           9,
@@ -4543,7 +4543,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 619
+    "_modCount": 620
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
