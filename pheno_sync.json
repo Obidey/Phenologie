@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777441391151,
-  "_date": "2026-04-29T05:43:11.151Z",
-  "_modCount": 824,
+  "_ts": 1777441459582,
+  "_date": "2026-04-29T05:44:19.582Z",
+  "_modCount": 825,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -2634,16 +2634,16 @@
         "espece": "Jasmin d'Espagne",
         "notes": "Semi-persistant climat doux",
         "url": "https://fr.wikipedia.org/wiki/Jasminum_officinale",
-        "debourrement_djc": 924,
+        "debourrement_djc": 1210,
         "debourrement": [
-          2,
-          1
-        ],
-        "debourrement_travaux": "Arrosage + engrais en serre",
-        "feuillaison_djc": 1210,
-        "feuillaison": [
           3,
           0.6005509641873278
+        ],
+        "debourrement_travaux": "Arrosage + engrais en serre",
+        "feuillaison_djc": 1355,
+        "feuillaison": [
+          3,
+          1
         ],
         "feuillaison_travaux": "Feuilles persistantes, arrosage modéré, plein soleil",
         "floraison_djc": 1608,
@@ -4543,7 +4543,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 618
+    "_modCount": 619
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
