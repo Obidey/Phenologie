@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777814643929,
-  "_date": "2026-05-03T13:24:03.929Z",
-  "_modCount": 866,
+  "_ts": 1777814697630,
+  "_date": "2026-05-03T13:24:57.630Z",
+  "_modCount": 867,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -1096,6 +1096,62 @@
         "boutures_djc": null,
         "boutures": null,
         "boutures_travaux": "Difficiles — semis glands préféré"
+      },
+      {
+        "_id": "mopsytoz3njq",
+        "espece": "Chevrefeuille",
+        "url": "https://fr.wikipedia.org/wiki/Lonicera_periclymenum",
+        "notes": "Caduc à semi-persistant selon l'hiver — Lonicera japonica (persistant) ou Lonicera periclymenum (caduc), espèces les plus cultivées en bonsaï. Liane vigoureuse à écorce se desquamant avec l'âge, très décorative. Floraison parfumée blanc-crème à jaune. Excellente ramification, réponse remarquable à la taille. Supporte bien la contrainte racinaire ; idéal pour styles enroulés ou sur rocher.",
+        "photo": "",
+        "debourrement": [
+          0,
+          0.3975409836065574
+        ],
+        "debourrement_djc": 108,
+        "debourrement_travaux": "Observation — le chèvrefeuille débourre très tôt, parfois dès janvier–février en cas de redoux à Cazaux. Surveiller le gonflement des bourgeons opposés sur les tiges ligneuses. C'est le moment de la taille de structure : raccourcir les longues tiges sarmenteuses, éliminer les branches croisées, affiner la silhouette. Ne pas attendre : le bois cicatrise bien à froid.",
+        "feuillaison": [
+          0,
+          0.8114754098360656
+        ],
+        "feuillaison_djc": 209,
+        "feuillaison_travaux": "Observation — à l'apparition des paires de feuilles ovales vert sombre, reprendre les arrosages et introduire une fertilisation azotée légère. Vérifier la présence éventuelle de pucerons noirs (Aphis fabae), très fréquents sur les pousses tendres de chèvrefeuille. Repositionner progressivement en pleine lumière pour une ramification dense.",
+        "floraison": [
+          2,
+          0.4604904632152589
+        ],
+        "floraison_djc": 726,
+        "floraison_travaux": "Observation — les fleurs tubulées, très parfumées, apparaissent en bout de rameaux courts de l'année (mai–juillet, remontée possible en septembre). Ne pas pincer les apex floraux. Basculer vers un engrais à dominante P-K pour prolonger et intensifier la floraison. Arrosage régulier : le stress hydrique provoque la chute prématurée des boutons.",
+        "croissance": [
+          1,
+          1
+        ],
+        "croissance_djc": 512,
+        "croissance_travaux": "Observation — la croissance est rapide et exubérante ; pincer régulièrement après 2–3 paires de feuilles pour densifier la ramification secondaire et contenir le port lianescent. Rempotage tous les 2 ans en avril dans un substrat drainant (akadama 50 %, pouzzolane 30 %, humus 20 %). Racines robustes : taille racinaire modérée tolérée.",
+        "maturation": [
+          4,
+          1
+        ],
+        "maturation_djc": 1776,
+        "maturation_travaux": "Observation — les baies rouges translucides (Lonicera periclymenum) ou noires (Lonicera japonica) mûrissent en août–septembre. Décoratives mais toxiques : à noter pour un contexte familial. Laisser quelques grappes pour l'ornement ; retirer le reste pour ne pas épuiser l'arbre. Les baies attirent merles et fauvettes.",
+        "senescence": [
+          5,
+          0.17805755395683454
+        ],
+        "senescence_djc": 1991,
+        "senescence_travaux": "Observation — le jaunissement et la chute des feuilles interviennent en novembre–décembre chez Lonicera periclymenum ; Lonicera japonica peut conserver son feuillage jusqu'aux gelées. Réduire arrosages et fertilisation dès octobre. C'est la période idéale pour observer et photographier la structure ligneuse et l'écorce striée caractéristique.",
+        "dormance_travaux": "",
+        "semis": [
+          1,
+          0.431924882629108
+        ],
+        "semis_djc": 391,
+        "semis_travaux": "Observation — les graines nécessitent une stratification à froid (4°C, 4–6 semaines) avant semis. Semer en mars–avril en substrat humide à 18–20°C. Germination irrégulière sur 3–6 semaines. Croissance initiale lente ; la multiplication végétative reste préférable pour un résultat bonsaï rapide.",
+        "boutures": [
+          2,
+          0.1362397820163488
+        ],
+        "boutures_djc": 607,
+        "boutures_travaux": "Observation — prélever des boutures semi-ligneuses de 10–15 cm en juin–juillet, sur tiges de l'année partiellement aoûtées. Supprimer les 2 paires de feuilles inférieures, conserver 1–2 paires au sommet. Traiter à l'AIB 0,3 %. Planter en substrat sableux sous mini-serre à 20–22°C, mi-ombre. Enracinement rapide en 4–6 semaines ; taux de réussite excellent."
       },
       {
         "espece": "Ciste",
@@ -4596,7 +4652,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 618
+    "_modCount": 619
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
