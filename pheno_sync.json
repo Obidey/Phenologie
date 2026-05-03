@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777814926483,
-  "_date": "2026-05-03T13:28:46.483Z",
-  "_modCount": 869,
+  "_ts": 1777815034278,
+  "_date": "2026-05-03T13:30:34.278Z",
+  "_modCount": 870,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -1709,6 +1709,59 @@
         "boutures": null,
         "boutures_travaux": "Boutures semi-ligneuses juin avec hormone, mi-ombre, résultats corrects",
         "photo": ""
+      },
+      {
+        "_id": "mopt61fzmr0w",
+        "espece": "Erable du japon Marlo",
+        "url": "https://fr.wikipedia.org/wiki/Acer_palmatum",
+        "notes": "Caduc — Acer palmatum 'Marlo', cultivar nain à feuillage vert printanier virant au rouge-orangé flamboyant en automne. Port compact et lent, feuilles profondément lobées plus petites que l'espèce type : atout majeur pour la miniaturisation bonsaï. Sensible aux brûlures foliaires par soleil direct estival et aux vents desséchants. À Cazaux, mi-ombre impérative en juillet–août. Écorce lisse gris-vert, structure hivernale très graphique.",
+        "photo": "",
+        "debourrement": [
+          0,
+          0.8114754098360656
+        ],
+        "debourrement_djc": 209,
+        "debourrement_travaux": "Observation — les bourgeons rouge-brun gonflent et s'allongent en pointes caractéristiques. Stade critique : inspecter chaque apex pour détecter les bourgeons avortés ou desséchés par le gel hivernal. C'est le dernier moment pour une taille de structure avant la montée de sève ; couper franc au-dessus d'un bourgeon bien orienté. Appliquer une pâte cicatrisante sur toute coupe supérieure à 5 mm.",
+        "feuillaison": [
+          1,
+          0
+        ],
+        "feuillaison_djc": 299,
+        "feuillaison_travaux": "Observation — les jeunes feuilles émergent rougeâtres puis verdissent selon la luminosité. Dès l'étalement complet, reprendre une fertilisation douce à libération lente (ratio N modéré). Surveiller les pucerons lanigères et l'oïdium, fréquents sur les pousses tendres. Eviter tout choc thermique : ne pas sortir brutalement d'un abri hivernal sans acclimatation progressive.",
+        "floraison": [
+          1,
+          0.431924882629108
+        ],
+        "floraison_djc": 391,
+        "floraison_travaux": "Observation — petites fleurs rouges discrètes en corymbes pendants, apparaissant simultanément à la feuillaison (avril). Phase brève et peu décorative en bonsaï. Ne rien modifier aux pratiques culturales ; laisser les fleurs évoluer pour observer la nouaison des samaras caractéristiques si désiré, ou les supprimer pour économiser l'énergie de l'arbre.",
+        "croissance": [
+          1,
+          1
+        ],
+        "croissance_djc": 512,
+        "croissance_travaux": "Observation — la croissance est lente chez ce cultivar nain ; pincer avec parcimonie après 3–4 paires de feuilles pour ne pas épuiser l'arbre. Chez Marlo, privilégier la défoliation partielle en juin (sur sujets vigoureux uniquement) pour réduire la taille foliaire et favoriser une ramification fine. Arrosage copieux mais substrat drainant ; ne jamais laisser sécher complètement.",
+        "maturation": [
+          4,
+          0.48623853211009177
+        ],
+        "maturation_djc": 1608,
+        "maturation_travaux": "Observation — les samaras à ailes rosées mûrissent en août–septembre. Les retirer systématiquement sur les bonsaï pour concentrer l'énergie sur le développement racinaire et foliaire. Observer simultanément la qualité de l'aoûtement des nouvelles pousses : un bois bien lignifié indique une bonne santé pour l'entrée en dormance.",
+        "senescence": [
+          5,
+          0
+        ],
+        "senescence_djc": 1892,
+        "senescence_travaux": "Observation — la coloration automnale de 'Marlo' est particulièrement intense : orangé, rouge carmin, parfois pourpre selon l'amplitude thermique. Photographier la progression chromatique. Cesser toute fertilisation azotée dès septembre ; un apport P-K en octobre renforce la résistance hivernale. Réduire progressivement les arrosages sans jamais laisser le substrat se dessécher totalement.",
+        "dormance_travaux": "",
+        "semis": [
+          1,
+          0
+        ],
+        "semis_djc": 299,
+        "semis_travaux": "Observation — les samaras nécessitent une stratification froide et humide de 60–90 jours (réfrigérateur, 4°C). Semer en mars en substrat fin et frais à 15–18°C. La germination est irrégulière ; les semis de 'Marlo' ne reproduisent pas fidèlement le cultivar (variété végétative). Intérêt pédagogique uniquement ; pour conserver les caractères de 'Marlo', multiplier exclusivement par greffe.",
+        "boutures": null,
+        "boutures_djc": null,
+        "boutures_travaux": "Observation — les boutures d'Acer palmatum sont réputées difficiles et peu fiables (taux d'échec élevé, surtout sur cultivars nains comme 'Marlo'). Tentative possible en juin sur rameaux semi-aoûtés avec AIB concentré (0,8 %) et brumisation, mais sans garantie. La greffe en fente ou en écusson sur porte-greffe Acer palmatum de semis reste la méthode professionnelle recommandée pour multiplier ce cultivar."
       },
       {
         "espece": "Érable Kagiri-nishiki",
