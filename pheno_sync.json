@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777796142999,
-  "_date": "2026-05-03T08:15:42.999Z",
-  "_modCount": 864,
+  "_ts": 1777796164008,
+  "_date": "2026-05-03T08:16:04.008Z",
+  "_modCount": 865,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -265,19 +265,19 @@
           3,
           0.21487603305785125
         ],
-        "feuillaison_travaux": "Taille les premieres pousses, marsescence",
+        "feuillaison_travaux": "Taille les premieres pousses",
         "floraison_djc": 5087,
         "floraison": [
           10,
           0.24290220820189273
         ],
         "floraison_travaux": "Fleurs et fruits simultanés (spectaculaire), arrosage régulier",
-        "croissance_djc": 1892,
+        "croissance_djc": 1991,
         "croissance": [
           5,
-          0
+          0.17805755395683454
         ],
-        "croissance_travaux": "2eme taille des pousses de l'année, photo",
+        "croissance_travaux": "2eme taille des pousses de l'année",
         "maturation_djc": 3790,
         "maturation": [
           7,
@@ -605,7 +605,7 @@
           2,
           0.4604904632152589
         ],
-        "feuillaison_travaux": "Attention : galle = bouillie bx. attaque Styphanitis Pyriodesg (Nicotine)",
+        "feuillaison_travaux": "Attention : galle de l'azalée = bouillie bx. Insecticide sous les feuilles",
         "floraison_djc": 1892,
         "floraison": [
           5,
@@ -1098,62 +1098,6 @@
         "boutures_travaux": "Difficiles — semis glands préféré"
       },
       {
-        "_id": "mopf5evbup5n",
-        "espece": "chevrefeuille",
-        "url": "https://fr.wikipedia.org/wiki/Lonicera_periclymenum",
-        "notes": "Caduc à semi-persistant selon l'hiver — Lonicera japonica (persistant) ou Lonicera periclymenum (caduc), espèces les plus cultivées en bonsaï. Liane vigoureuse à écorce se desquamant avec l'âge, très décorative. Floraison parfumée blanc-crème à jaune. Excellente ramification, réponse remarquable à la taille. Supporte bien la contrainte racinaire ; idéal pour styles enroulés ou sur rocher.",
-        "photo": "",
-        "debourrement": [
-          0,
-          0.3975409836065574
-        ],
-        "debourrement_djc": 108,
-        "debourrement_travaux": "Observation — le chèvrefeuille débourre très tôt, parfois dès janvier–février en cas de redoux à Cazaux. Surveiller le gonflement des bourgeons opposés sur les tiges ligneuses. C'est le moment de la taille de structure : raccourcir les longues tiges sarmenteuses, éliminer les branches croisées, affiner la silhouette. Ne pas attendre : le bois cicatrise bien à froid.",
-        "feuillaison": [
-          0,
-          0.8114754098360656
-        ],
-        "feuillaison_djc": 209,
-        "feuillaison_travaux": "Observation — à l'apparition des paires de feuilles ovales vert sombre, reprendre les arrosages et introduire une fertilisation azotée légère. Vérifier la présence éventuelle de pucerons noirs (Aphis fabae), très fréquents sur les pousses tendres de chèvrefeuille. Repositionner progressivement en pleine lumière pour une ramification dense.",
-        "floraison": [
-          3,
-          1
-        ],
-        "floraison_djc": 1355,
-        "floraison_travaux": "Observation — les fleurs tubulées, très parfumées, apparaissent en bout de rameaux courts de l'année (mai–juillet, remontée possible en septembre). Ne pas pincer les apex floraux. Basculer vers un engrais à dominante P-K pour prolonger et intensifier la floraison. Arrosage régulier : le stress hydrique provoque la chute prématurée des boutons.",
-        "croissance": [
-          1,
-          1
-        ],
-        "croissance_djc": 512,
-        "croissance_travaux": "Observation — la croissance est rapide et exubérante ; pincer régulièrement après 2–3 paires de feuilles pour densifier la ramification secondaire et contenir le port lianescent. Rempotage tous les 2 ans en avril dans un substrat drainant (akadama 50 %, pouzzolane 30 %, humus 20 %). Racines robustes : taille racinaire modérée tolérée.",
-        "maturation": [
-          4,
-          1
-        ],
-        "maturation_djc": 1776,
-        "maturation_travaux": "Observation — les baies rouges translucides (Lonicera periclymenum) ou noires (Lonicera japonica) mûrissent en août–septembre. Décoratives mais toxiques : à noter pour un contexte familial. Laisser quelques grappes pour l'ornement ; retirer le reste pour ne pas épuiser l'arbre. Les baies attirent merles et fauvettes.",
-        "senescence": [
-          5,
-          0.17805755395683454
-        ],
-        "senescence_djc": 1991,
-        "senescence_travaux": "Observation — le jaunissement et la chute des feuilles interviennent en novembre–décembre chez Lonicera periclymenum ; Lonicera japonica peut conserver son feuillage jusqu'aux gelées. Réduire arrosages et fertilisation dès octobre. C'est la période idéale pour observer et photographier la structure ligneuse et l'écorce striée caractéristique.",
-        "dormance_travaux": "",
-        "semis": [
-          1,
-          0.431924882629108
-        ],
-        "semis_djc": 391,
-        "semis_travaux": "Observation — les graines nécessitent une stratification à froid (4°C, 4–6 semaines) avant semis. Semer en mars–avril en substrat humide à 18–20°C. Germination irrégulière sur 3–6 semaines. Croissance initiale lente ; la multiplication végétative reste préférable pour un résultat bonsaï rapide.",
-        "boutures": [
-          2,
-          0.1362397820163488
-        ],
-        "boutures_djc": 607,
-        "boutures_travaux": "Observation — prélever des boutures semi-ligneuses de 10–15 cm en juin–juillet, sur tiges de l'année partiellement aoûtées. Supprimer les 2 paires de feuilles inférieures, conserver 1–2 paires au sommet. Traiter à l'AIB 0,3 %. Planter en substrat sableux sous mini-serre à 20–22°C, mi-ombre. Enracinement rapide en 4–6 semaines ; taux de réussite excellent."
-      },
-      {
         "espece": "Ciste",
         "notes": "Persistant",
         "url": "https://fr.wikipedia.org/wiki/Ciste_(plante)",
@@ -1473,7 +1417,7 @@
           1
         ],
         "feuillaison_djc": 1355,
-        "feuillaison_travaux": "Observation — pincer les pousses à 2-3 nœuds ; l'apparition de cochenilles farineuses à l'aisselle des feuilles ; commencer la fertilisation azotée bi-mensuelle",
+        "feuillaison_travaux": "Observation — feuilles ovales luisantes vert foncé en développement ; pincer les pousses à 2-3 nœuds pour compacter la silhouette ; surveiller l'apparition de cochenilles farineuses à l'aisselle des feuilles ; commencer la fertilisation azotée bi-mensuelle",
         "floraison": [
           4,
           0.7339449541284404
@@ -1504,13 +1448,13 @@
           1
         ],
         "semis_djc": 1355,
-        "semis_travaux": "Observation — semis peu pratiqué (résultats lents et irréguliers)",
+        "semis_travaux": "Observation — semis peu pratiqué (résultats lents et irréguliers) ; utiliser graines fraîches à maturité ; substrat léger à 22-25°C sous mini-serre ; germination en 2-4 semaines ; floraison en bonsaï obtenue bien plus rapidement par bouture",
         "boutures": [
           4,
           0.7339449541284404
         ],
         "boutures_djc": 1689,
-        "boutures_travaux": "Observation — méthode privilégiée pour multiplier et conserver les caractères variétaux ; boutures apicales semi-ligneuses de 8-10 cm en juin-juillet ; attention au latex blanc irritant (gants obligatoires, laisser sécher la coupe 30 min) ; hormone de bouturage moyen, substrat tourbe-perlite,   floraison en bonsaï obtenue bien plus rapidement par bouture  22-25°C sous brumisatio ou sac plastique ; enracinement en 4-6 semaines"
+        "boutures_travaux": "Observation — méthode privilégiée pour multiplier et conserver les caractères variétaux ; boutures apicales semi-ligneuses de 8-10 cm en juin-juillet ; attention au latex blanc irritant (gants obligatoires, laisser sécher la coupe 30 min) ; hormone de bouturage moyen, substrat tourbe-perlite, 22-25°C sous brumisation ou sac plastique ; enracinement en 4-6 semaines"
       },
       {
         "espece": "Erable à giguere",
@@ -2690,16 +2634,16 @@
         "espece": "Jasmin d'Espagne",
         "notes": "Semi-persistant climat doux",
         "url": "https://fr.wikipedia.org/wiki/Jasminum_officinale",
-        "debourrement_djc": 1210,
+        "debourrement_djc": 924,
         "debourrement": [
-          3,
-          0.6005509641873278
+          2,
+          1
         ],
         "debourrement_travaux": "Arrosage + engrais en serre",
-        "feuillaison_djc": 1355,
+        "feuillaison_djc": 1210,
         "feuillaison": [
           3,
-          1
+          0.6005509641873278
         ],
         "feuillaison_travaux": "Feuilles persistantes, arrosage modéré, plein soleil",
         "floraison_djc": 1608,
@@ -3989,8 +3933,7 @@
         "boutures_djc": null,
         "boutures": null,
         "boutures_travaux": "Non applicable — greffe sur porte-greffe de même espèce préférée",
-        "photo": "",
-        "_hidden": true
+        "photo": ""
       },
       {
         "espece": "Pins  (Pinus parviflora)",
@@ -4172,59 +4115,6 @@
         "_hidden": true
       },
       {
-        "_id": "mopevhxsw5c7",
-        "espece": "Plumbago",
-        "url": "https://fr.wikipedia.org/wiki/Plumbago_auriculata",
-        "notes": "Persistant (semi-persistant sous climat tempéré frais) — Plumbago auriculata, arbuste à tiges souples sarmenteuses. Croissance vigoureuse en chaleur, floraison bleu azur spectaculaire et prolongée. Sensible au gel (−5°C), à protéger en hiver à Cazaux. Bonsaï de style informel ou semi-cascade ; feuillage léger, rameaux fins. Racines fragiles : rempoter avec précaution.",
-        "photo": "",
-        "debourrement": [
-          0,
-          0.8114754098360656
-        ],
-        "debourrement_djc": 209,
-        "debourrement_travaux": "Observation — surveiller le gonflement des bourgeons axillaires sur les tiges de l'année précédente. Dès les premiers signes, supprimer les rameaux grêles ou mal placés ; nettoyer les feuilles mortes hivernales. Ne pas tailler court : laisser 2–3 nœuds sur chaque tige pour assurer la reprise.",
-        "feuillaison": [
-          3,
-          0.21487603305785125
-        ],
-        "feuillaison_djc": 1070,
-        "feuillaison_travaux": "Observation — à l'apparition des jeunes feuilles vert tendre, reprendre les fertilisations azotées (ratio N élevé). Vérifier l'absence de pucerons et cochenilles qui colonisent volontiers les pousses tendres. Repositionner le bonsaï en plein soleil ; la lumière intense est indispensable à une floraison abondante.",
-        "floraison": [
-          3,
-          1
-        ],
-        "floraison_djc": 1355,
-        "floraison_travaux": "Observation — la floraison s'étale de juin à octobre ; les panicules bleu azur apparaissent en bout de pousse de l'année. Ne pas tailler les apex en cours de floraison. Basculer la fertilisation vers un engrais pauvre en azote (ratio P-K élevé) pour soutenir la production florale. Surveiller l'humidité du substrat : stress hydrique = chute des boutons.",
-        "croissance": [
-          2,
-          0.1362397820163488
-        ],
-        "croissance_djc": 607,
-        "croissance_travaux": "Observation — la croissance est rapide et continue de mai à septembre ; pincer régulièrement les nouvelles pousses après 4–5 internœuds pour densifier la ramification et maintenir la silhouette. Rempotage possible en début de croissance active (mai) dans un substrat bien drainant (akadama 60 %, pouzzolane 40 %). Arrosage soutenu par forte chaleur.",
-        "maturation": null,
-        "maturation_djc": null,
-        "maturation_travaux": "Observation — les fruits (akènes à calice persistant gluant) sont rarement produits en culture bonsaï ; phase non significative. Observer néanmoins la qualité de lignification des tiges : une bonne aoûtement conditionne la résistance hivernale.",
-        "senescence": [
-          10,
-          0
-        ],
-        "senescence_djc": 5010,
-        "senescence_travaux": "Observation — sous climat de Cazaux, le feuillage persiste souvent jusqu'aux premières gelées (Gelif-2°) (novembre–décembre). Réduire progressivement les arrosages et cesser la fertilisation azotée dès septembre. Préparer la protection hivernale (voile, abri non chauffé au-dessus de 0°C) avant les premières nuits froides.",
-        "dormance_travaux": "",
-        "semis": [
-          1,
-          1
-        ],
-        "semis_djc": 512,
-        "semis_travaux": "Observation — les semis sont peu pratiqués (germination capricieuse, croissance lente vers un bonsaï). Si tentative, semer à chaud (25°C) en mai sur substrat fin humide, à la lumière. Préférer boutures ou division de touffe pour la multiplication bonsaï.",
-        "boutures": [
-          2,
-          0.4604904632152589
-        ],
-        "boutures_djc": 726,
-        "boutures_travaux": "Observation — prélever des boutures semi-aoûtées de 8–12 cm sur les tiges de l'année en juin–juillet. Supprimer les feuilles inférieures, conserver 2–3 feuilles au sommet. Traiter à l'hormone d'enracinement IBA (0,3 %). Placer en mini-serre à 22–25°C, à mi-ombre. Repiquage en godet individuel dès enracinement confirmé (6–8 semaines)."
-      },
-      {
         "espece": "Poirier",
         "notes": "Caduc",
         "url": "https://fr.wikipedia.org/wiki/Poirier_commun",
@@ -4352,7 +4242,7 @@
           3,
           0.7713498622589532
         ],
-        "maturation_travaux": "Petits fruits jaunes acides, Tailler à 4 feuilles, couper les 2 premieres feuilles pour bourgeons à feuilles  l'année prochaine",
+        "maturation_travaux": "Petits fruits jaunes acides, limiter en bonsaï",
         "senescence_djc": 4772,
         "senescence": [
           9,
@@ -4653,7 +4543,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 864
+    "_modCount": 618
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
