@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777790907336,
-  "_date": "2026-05-03T06:48:27.336Z",
-  "_modCount": 848,
+  "_ts": 1777790934875,
+  "_date": "2026-05-03T06:48:54.875Z",
+  "_modCount": 849,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4943,7 +4943,12 @@
     "ko17_Romarin_croissance_2": true,
     "ko16_Jasmin_d_Espagne_debourrement_0": true,
     "ko17_Prunus_mume_maturation_2": true,
-    "ko18_Bananier_feuillaison_0": true
+    "ko18_Bananier_feuillaison_0": true,
+    "ko18_Pin_blanc_du_Japon_croissance_0": true,
+    "ko18_Pin_blanc_du_Japon_croissance_1": true,
+    "ko18_Dipladenia_feuillaison_0": true,
+    "ko18_Dipladenia_feuillaison_1": true,
+    "ko18_Dipladenia_feuillaison_2": true
   },
   "config": {
     "ville1": {
