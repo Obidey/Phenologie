@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777790732749,
-  "_date": "2026-05-03T06:45:32.749Z",
-  "_modCount": 845,
+  "_ts": 1777790828193,
+  "_date": "2026-05-03T06:47:08.193Z",
+  "_modCount": 846,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -1448,13 +1448,13 @@
           1
         ],
         "semis_djc": 1355,
-        "semis_travaux": "Observation — semis peu pratiqué (résultats lents et irréguliers) ; utiliser graines fraîches à maturité ; substrat léger à 22-25°C sous mini-serre ; germination en 2-4 semaines ; floraison en bonsaï obtenue bien plus rapidement par bouture",
+        "semis_travaux": "Observation — semis peu pratiqué (résultats lents et irréguliers)",
         "boutures": [
           4,
           0.7339449541284404
         ],
         "boutures_djc": 1689,
-        "boutures_travaux": "Observation — méthode privilégiée pour multiplier et conserver les caractères variétaux ; boutures apicales semi-ligneuses de 8-10 cm en juin-juillet ; attention au latex blanc irritant (gants obligatoires, laisser sécher la coupe 30 min) ; hormone de bouturage moyen, substrat tourbe-perlite, 22-25°C sous brumisation ou sac plastique ; enracinement en 4-6 semaines"
+        "boutures_travaux": "Observation — méthode privilégiée pour multiplier et conserver les caractères variétaux ; boutures apicales semi-ligneuses de 8-10 cm en juin-juillet ; attention au latex blanc irritant (gants obligatoires, laisser sécher la coupe 30 min) ; hormone de bouturage moyen, substrat tourbe-perlite,   floraison en bonsaï obtenue bien plus rapidement par bouture  22-25°C sous brumisatio ou sac plastique ; enracinement en 4-6 semaines"
       },
       {
         "espece": "Erable à giguere",
