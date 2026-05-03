@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777790879530,
-  "_date": "2026-05-03T06:47:59.530Z",
-  "_modCount": 847,
+  "_ts": 1777790907336,
+  "_date": "2026-05-03T06:48:27.336Z",
+  "_modCount": 848,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -3933,7 +3933,8 @@
         "boutures_djc": null,
         "boutures": null,
         "boutures_travaux": "Non applicable — greffe sur porte-greffe de même espèce préférée",
-        "photo": ""
+        "photo": "",
+        "_hidden": true
       },
       {
         "espece": "Pins  (Pinus parviflora)",
@@ -4543,7 +4544,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 622
+    "_modCount": 623
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
