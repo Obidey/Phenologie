@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777791035916,
-  "_date": "2026-05-03T06:50:35.916Z",
-  "_modCount": 854,
+  "_ts": 1777791278409,
+  "_date": "2026-05-03T06:54:38.409Z",
+  "_modCount": 855,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4117,7 +4117,7 @@
       },
       {
         "_id": "mopevhxsw5c7",
-        "espece": "plumbago",
+        "espece": "Plumbago",
         "url": "https://fr.wikipedia.org/wiki/Plumbago_auriculata",
         "notes": "Persistant (semi-persistant sous climat tempéré frais) — Plumbago auriculata, arbuste à tiges souples sarmenteuses. Croissance vigoureuse en chaleur, floraison bleu azur spectaculaire et prolongée. Sensible au gel (−5°C), à protéger en hiver à Cazaux. Bonsaï de style informel ou semi-cascade ; feuillage léger, rameaux fins. Racines fragiles : rempoter avec précaution.",
         "photo": "",
@@ -4128,16 +4128,16 @@
         "debourrement_djc": 209,
         "debourrement_travaux": "Observation — surveiller le gonflement des bourgeons axillaires sur les tiges de l'année précédente. Dès les premiers signes, supprimer les rameaux grêles ou mal placés ; nettoyer les feuilles mortes hivernales. Ne pas tailler court : laisser 2–3 nœuds sur chaque tige pour assurer la reprise.",
         "feuillaison": [
-          1,
-          0
+          3,
+          0.21487603305785125
         ],
-        "feuillaison_djc": 299,
+        "feuillaison_djc": 1070,
         "feuillaison_travaux": "Observation — à l'apparition des jeunes feuilles vert tendre, reprendre les fertilisations azotées (ratio N élevé). Vérifier l'absence de pucerons et cochenilles qui colonisent volontiers les pousses tendres. Repositionner le bonsaï en plein soleil ; la lumière intense est indispensable à une floraison abondante.",
         "floraison": [
-          2,
+          3,
           1
         ],
-        "floraison_djc": 924,
+        "floraison_djc": 1355,
         "floraison_travaux": "Observation — la floraison s'étale de juin à octobre ; les panicules bleu azur apparaissent en bout de pousse de l'année. Ne pas tailler les apex en cours de floraison. Basculer la fertilisation vers un engrais pauvre en azote (ratio P-K élevé) pour soutenir la production florale. Surveiller l'humidité du substrat : stress hydrique = chute des boutons.",
         "croissance": [
           2,
