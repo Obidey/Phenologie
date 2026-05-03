@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777790943762,
-  "_date": "2026-05-03T06:49:03.762Z",
-  "_modCount": 850,
+  "_ts": 1777790956309,
+  "_date": "2026-05-03T06:49:16.309Z",
+  "_modCount": 851,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4949,7 +4949,10 @@
     "ko18_Dipladenia_feuillaison_0": true,
     "ko18_Dipladenia_feuillaison_1": true,
     "ko18_Dipladenia_feuillaison_2": true,
-    "ko18_Dipladenia_semis_0": true
+    "ko18_Dipladenia_semis_0": true,
+    "ko18_Jasmin_d_Espagne_feuillaison_0": true,
+    "ko18_Jasmin_d_Espagne_feuillaison_1": true,
+    "ko18_Jasmin_d_Espagne_feuillaison_2": true
   },
   "config": {
     "ville1": {
