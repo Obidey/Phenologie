@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777790828193,
-  "_date": "2026-05-03T06:47:08.193Z",
-  "_modCount": 846,
+  "_ts": 1777790879530,
+  "_date": "2026-05-03T06:47:59.530Z",
+  "_modCount": 847,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -1417,7 +1417,7 @@
           1
         ],
         "feuillaison_djc": 1355,
-        "feuillaison_travaux": "Observation — feuilles ovales luisantes vert foncé en développement ; pincer les pousses à 2-3 nœuds pour compacter la silhouette ; surveiller l'apparition de cochenilles farineuses à l'aisselle des feuilles ; commencer la fertilisation azotée bi-mensuelle",
+        "feuillaison_travaux": "Observation — pincer les pousses à 2-3 nœuds ; l'apparition de cochenilles farineuses à l'aisselle des feuilles ; commencer la fertilisation azotée bi-mensuelle",
         "floraison": [
           4,
           0.7339449541284404
@@ -4543,7 +4543,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 621
+    "_modCount": 622
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
