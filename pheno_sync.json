@@ -1,10 +1,10 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777814463440,
-  "_date": "2026-05-03T13:21:03.440Z",
+  "_ts": 1777814643929,
+  "_date": "2026-05-03T13:24:03.929Z",
   "_modCount": 866,
-  "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
+  "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
       "0": "11-255°J",
@@ -4113,6 +4113,59 @@
         "boutures": null,
         "boutures_travaux": "Boutures ligneuses hiver, résultats bons",
         "_hidden": true
+      },
+      {
+        "_id": "mopsxo9hbr5t",
+        "espece": "Plumbago",
+        "url": "https://fr.wikipedia.org/wiki/Plumbago_auriculata",
+        "notes": "Persistant (semi-persistant sous climat tempéré frais) — Plumbago auriculata, arbuste à tiges souples sarmenteuses. Croissance vigoureuse en chaleur, floraison bleu azur spectaculaire et prolongée. Sensible au gel (−5°C), à protéger en hiver à Cazaux. Bonsaï de style informel ou semi-cascade ; feuillage léger, rameaux fins. Racines fragiles : rempoter avec précaution.",
+        "photo": "",
+        "debourrement": [
+          0,
+          0.8114754098360656
+        ],
+        "debourrement_djc": 209,
+        "debourrement_travaux": "Observation — surveiller le gonflement des bourgeons axillaires sur les tiges de l'année précédente. Dès les premiers signes, supprimer les rameaux grêles ou mal placés ; nettoyer les feuilles mortes hivernales. Ne pas tailler court : laisser 2–3 nœuds sur chaque tige pour assurer la reprise.",
+        "feuillaison": [
+          1,
+          0
+        ],
+        "feuillaison_djc": 299,
+        "feuillaison_travaux": "Observation — à l'apparition des jeunes feuilles vert tendre, reprendre les fertilisations azotées (ratio N élevé). Vérifier l'absence de pucerons et cochenilles qui colonisent volontiers les pousses tendres. Repositionner le bonsaï en plein soleil ; la lumière intense est indispensable à une floraison abondante.",
+        "floraison": [
+          2,
+          1
+        ],
+        "floraison_djc": 924,
+        "floraison_travaux": "Observation — la floraison s'étale de juin à octobre ; les panicules bleu azur apparaissent en bout de pousse de l'année. Ne pas tailler les apex en cours de floraison. Basculer la fertilisation vers un engrais pauvre en azote (ratio P-K élevé) pour soutenir la production florale. Surveiller l'humidité du substrat : stress hydrique = chute des boutons.",
+        "croissance": [
+          2,
+          0.1362397820163488
+        ],
+        "croissance_djc": 607,
+        "croissance_travaux": "Observation — la croissance est rapide et continue de mai à septembre ; pincer régulièrement les nouvelles pousses après 4–5 internœuds pour densifier la ramification et maintenir la silhouette. Rempotage possible en début de croissance active (mai) dans un substrat bien drainant (akadama 60 %, pouzzolane 40 %). Arrosage soutenu par forte chaleur.",
+        "maturation": null,
+        "maturation_djc": null,
+        "maturation_travaux": "Observation — les fruits (akènes à calice persistant gluant) sont rarement produits en culture bonsaï ; phase non significative. Observer néanmoins la qualité de lignification des tiges : une bonne aoûtement conditionne la résistance hivernale.",
+        "senescence": [
+          5,
+          0.5503597122302158
+        ],
+        "senescence_djc": 2198,
+        "senescence_travaux": "Observation — sous climat de Cazaux, le feuillage persiste souvent jusqu'aux premières gelées (novembre–décembre). Réduire progressivement les arrosages et cesser la fertilisation azotée dès septembre. Préparer la protection hivernale (voile, abri non chauffé au-dessus de 0°C) avant les premières nuits froides.",
+        "dormance_travaux": "",
+        "semis": [
+          1,
+          1
+        ],
+        "semis_djc": 512,
+        "semis_travaux": "Observation — les semis sont peu pratiqués (germination capricieuse, croissance lente vers un bonsaï). Si tentative, semer à chaud (25°C) en mai sur substrat fin humide, à la lumière. Préférer boutures ou division de touffe pour la multiplication bonsaï.",
+        "boutures": [
+          2,
+          0.4604904632152589
+        ],
+        "boutures_djc": 726,
+        "boutures_travaux": "Observation — prélever des boutures semi-aoûtées de 8–12 cm sur les tiges de l'année en juin–juillet. Supprimer les feuilles inférieures, conserver 2–3 feuilles au sommet. Traiter à l'hormone d'enracinement IBA (0,3 %). Placer en mini-serre à 22–25°C, à mi-ombre. Repiquage en godet individuel dès enracinement confirmé (6–8 semaines)."
       },
       {
         "espece": "Poirier",
