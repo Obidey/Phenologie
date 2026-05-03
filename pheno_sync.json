@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777791491034,
-  "_date": "2026-05-03T06:58:11.034Z",
-  "_modCount": 858,
+  "_ts": 1777791593872,
+  "_date": "2026-05-03T06:59:53.872Z",
+  "_modCount": 859,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -265,7 +265,7 @@
           3,
           0.21487603305785125
         ],
-        "feuillaison_travaux": "Taille les premieres pousses",
+        "feuillaison_travaux": "Taille les premieres pousses, marsescence",
         "floraison_djc": 5087,
         "floraison": [
           10,
@@ -4653,7 +4653,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 626
+    "_modCount": 627
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
