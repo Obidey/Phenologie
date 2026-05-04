@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777876895348,
-  "_date": "2026-05-04T06:41:35.348Z",
-  "_modCount": 880,
+  "_ts": 1777876958725,
+  "_date": "2026-05-04T06:42:38.725Z",
+  "_modCount": 881,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -3862,11 +3862,11 @@
           3,
           0.4132231404958678
         ],
-        "feuillaison_travaux": "Pinçage des bougies (réduire de moitié pour compacter le port)",
-        "floraison_djc": 1142,
+        "feuillaison_travaux": "Pinçage des bougies qui dépassent (réduire de moitié pour compacter le port)",
+        "floraison_djc": 992,
         "floraison": [
           3,
-          0.4132231404958678
+          0
         ],
         "floraison_travaux": "Pollinisation anémophile, noter la date de libération du pollen",
         "croissance_djc": 1272,
@@ -4714,7 +4714,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 622
+    "_modCount": 623
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
