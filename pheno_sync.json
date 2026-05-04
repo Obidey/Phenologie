@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777876864851,
-  "_date": "2026-05-04T06:41:04.851Z",
-  "_modCount": 879,
+  "_ts": 1777876895348,
+  "_date": "2026-05-04T06:41:35.348Z",
+  "_modCount": 880,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -3655,7 +3655,8 @@
         "boutures_djc": null,
         "boutures": null,
         "boutures_travaux": "Division massive rhizomes printemps, sections avec noeuds",
-        "photo": ""
+        "photo": "",
+        "_hidden": true
       },
       {
         "espece": "Phyllostachys vivax",
@@ -4713,7 +4714,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 621
+    "_modCount": 622
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
