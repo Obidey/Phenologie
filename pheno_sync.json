@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777876802893,
-  "_date": "2026-05-04T06:40:02.893Z",
-  "_modCount": 878,
+  "_ts": 1777876864851,
+  "_date": "2026-05-04T06:41:04.851Z",
+  "_modCount": 879,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4250,11 +4250,11 @@
         "feuillaison_djc": 299,
         "feuillaison_travaux": "Observation — à l'apparition des jeunes feuilles vert tendre, reprendre les fertilisations azotées (ratio N élevé). Vérifier l'absence de pucerons et cochenilles qui colonisent volontiers les pousses tendres. Repositionner le bonsaï en plein soleil ; la lumière intense est indispensable à une floraison abondante.",
         "floraison": [
-          2,
+          3,
           1
         ],
-        "floraison_djc": 924,
-        "floraison_travaux": "Observation — la floraison s'étale de juin à octobre ; les panicules bleu azur apparaissent en bout de pousse de l'année. Ne pas tailler les apex en cours de floraison. Basculer la fertilisation vers un engrais pauvre en azote (ratio P-K élevé) pour soutenir la production florale. Surveiller l'humidité du substrat : stress hydrique = chute des boutons.",
+        "floraison_djc": 1355,
+        "floraison_travaux": "Observation — la floraison s'étale de mai à octobre ; les panicules bleu azur apparaissent en bout de pousse de l'année. Ne pas tailler les apex en cours de floraison. Basculer la fertilisation vers un engrais pauvre en azote (ratio P-K élevé) pour soutenir la production florale. Surveiller l'humidité du substrat : stress hydrique = chute des boutons.",
         "croissance": [
           2,
           0.1362397820163488
