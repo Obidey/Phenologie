@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1777876744968,
-  "_date": "2026-05-04T06:39:04.968Z",
-  "_modCount": 877,
+  "_ts": 1777876802893,
+  "_date": "2026-05-04T06:40:02.893Z",
+  "_modCount": 878,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -1163,15 +1163,18 @@
           0.6566757493188011
         ],
         "debourrement_travaux": "Observation",
-        "feuillaison_djc": null,
-        "feuillaison": null,
+        "feuillaison_djc": 1272,
+        "feuillaison": [
+          3,
+          0.7713498622589532
+        ],
         "feuillaison_travaux": "Feuilles persistantes collantes, arrosage modéré, plein soleil",
         "floraison_djc": 1070,
         "floraison": [
           3,
           0.21487603305785125
         ],
-        "floraison_travaux": "Fleurs éphémères (1 jour), spectaculaires, substrat sec",
+        "floraison_travaux": "Fleurs éphémères (1 jour, rempotage après floraison substrat sec",
         "croissance_djc": 1991,
         "croissance": [
           5,
@@ -2603,22 +2606,25 @@
           2,
           0
         ],
-        "debourrement_travaux": "Taille légère — ne supprimer QUE les têtes sèches de l'an passé",
-        "feuillaison_djc": null,
-        "feuillaison": null,
-        "feuillaison_travaux": "Pinçage pousses non florales, arrosage eau de pluie, mi-ombre",
+        "debourrement_travaux": "Taille légère — ne supprimer QUE les têtes sèches de l'an passé - Bleuissant",
+        "feuillaison_djc": 1070,
+        "feuillaison": [
+          3,
+          0.21487603305785125
+        ],
+        "feuillaison_travaux": "Pinçage pousses non florales, arrosage eau de pluie, mi-ombre + Bleuissant",
         "floraison_djc": 1776,
         "floraison": [
           4,
           1
         ],
-        "floraison_travaux": "Ombelles spectaculaires, arrosage abondant, pas d'engrais",
+        "floraison_travaux": "Bleuissant",
         "croissance_djc": 2198,
         "croissance": [
           5,
           0.5503597122302158
         ],
-        "croissance_travaux": "Fertilisation pour acidophiles, eau de pluie obligatoire",
+        "croissance_travaux": "Fertilisation pour acidophiles, Bleuissant",
         "maturation_djc": 2998,
         "maturation": [
           6,
@@ -2636,7 +2642,8 @@
         "semis_travaux": "Graines très fines, substrat acide, germination lente",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures herbacées juin-juillet, eau de pluie, substrat acide, facile"
+        "boutures_travaux": "Boutures herbacées juin-juillet, eau de pluie, substrat acide, facile",
+        "photo": ""
       },
       {
         "espece": "Houx",
@@ -3654,12 +3661,12 @@
         "espece": "Phyllostachys vivax",
         "notes": "Persistant",
         "url": "https://fr.wikipedia.org/wiki/Phyllostachys_vivax",
-        "debourrement_djc": 668,
+        "debourrement_djc": 1355,
         "debourrement": [
-          2,
-          0.3024523160762943
+          3,
+          1
         ],
-        "debourrement_travaux": "Louchage, desherbant",
+        "debourrement_travaux": "Louchage, desherbantSelection des turions",
         "feuillaison_djc": null,
         "feuillaison": null,
         "feuillaison_travaux": "Arrosage abondant, fertilisation, espèce très vigoureuse",
@@ -3686,7 +3693,8 @@
         "semis_travaux": "Graines rares, semis immédiat",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Division massive rhizomes printemps, sections avec noeuds"
+        "boutures_travaux": "Division massive rhizomes printemps, sections avec noeuds",
+        "photo": ""
       },
       {
         "espece": "Pin blanc du Japon",
@@ -4705,7 +4713,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 876
+    "_modCount": 621
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
