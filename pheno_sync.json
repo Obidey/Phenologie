@@ -1,8 +1,8 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1778043443438,
-  "_date": "2026-05-06T04:57:23.438Z",
+  "_ts": 1778048021405,
+  "_date": "2026-05-06T06:13:41.405Z",
   "_modCount": 883,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
@@ -3696,6 +3696,59 @@
         "boutures": null,
         "boutures_travaux": "Division massive rhizomes printemps, sections avec noeuds",
         "photo": ""
+      },
+      {
+        "_id": "motnvrg1okww",
+        "espece": "Phylostachi meguro Cheku",
+        "url": "https://fr.wikipedia.org/wiki/Phyllostachys_nigra",
+        "notes": "Persistant — Bambou traçant (Phyllostachys nigra 'Meguro' ou cultivar proche). Chaume vert virant au noir lustré en 2e année. Port élancé, feuillage fin persistant toute l'année. Croissance rhizomateuse agressive ; en pot/bonsaï, contention racinaire stricte indispensable. Résistant au gel modéré (−15 °C), apprécie chaleur et humidité. Rare en bonsaï formel ; utilisé surtout en penjing ou composition forestière.",
+        "photo": "",
+        "debourrement": [
+          3,
+          1
+        ],
+        "debourrement_djc": 1355,
+        "debourrement_travaux": "Observation — Surveiller l'émergence des nouveaux chaumes (turions) au ras du substrat. Ne pas perturber le pot à cette période. Vérifier que le drainage est optimal pour éviter la stagnation qui favorise les pourritures basales.",
+        "feuillaison": [
+          0,
+          0.8114754098360656
+        ],
+        "feuillaison_djc": 209,
+        "feuillaison_travaux": "Observation — Les nouvelles feuilles se déploient sur les chaumes de l'année. C'est le moment d'évaluer la densité du feuillage. Aérer légèrement le houppier si l'ombre est trop dense pour favoriser l'ensoleillement des rameaux intérieurs.",
+        "floraison": null,
+        "floraison_djc": null,
+        "floraison_travaux": "Observation — La floraison est exceptionnelle et grégaire (tous les 60–120 ans) ; elle entraîne la mort de la plante. En bonsaï, si des fleurs apparaissent, documenter soigneusement et préparer un plan de sauvetage clonal par division rhizomateuse immédiate.",
+        "croissance": [
+          1,
+          0
+        ],
+        "croissance_djc": 299,
+        "croissance_travaux": "Observation — Phase d'élongation maximale des turions (jusqu'à plusieurs cm/jour). En bonsaï, pincer l'apex des nouveaux chaumes à la hauteur souhaitée avant que les entresuds ne se lignifient (délai 48–72 h après débourrement du nœud cible). Contrôler l'envahissement rhizomateux en soulevant légèrement la coupe.",
+        "maturation": [
+          3,
+          0.6005509641873278
+        ],
+        "maturation_djc": 1210,
+        "maturation_travaux": "Observation — Les chaumes de l'année commencent à se lignifier et à verdir. Pas de taille des chaumes à ce stade. Observer la coloration des gaines : leur chute progressive indique la maturation. Fertiliser modérément (NPK équilibré) pour soutenir le développement sans forcer la croissance hors saison.",
+        "senescence": [
+          4,
+          1
+        ],
+        "senescence_djc": 1776,
+        "senescence_travaux": "Observation — Jaunissement et chute des vieilles feuilles (renouvellement partiel normal). Retirer les feuilles mortes pour éviter les foyers fongiques. Identifier et couper au ras les chaumes âgés de 4–5 ans dont la vigueur diminue, pour favoriser les jeunes pousses.",
+        "dormance_travaux": "",
+        "semis": [
+          0,
+          0.8114754098360656
+        ],
+        "semis_djc": 209,
+        "semis_travaux": "Observation — Semis rarissime en pratique (floraison grégaire décennale). Si graines disponibles : semer immédiatement après récolte dans du sable humide à 20–22 °C. Levée en 1–2 semaines. Repiquer à 4–5 feuilles. En bonsaï, la multiplication végétative (division) est très largement préférée.",
+        "boutures": [
+          1,
+          0
+        ],
+        "boutures_djc": 299,
+        "boutures_travaux": "Observation — Diviser les rhizomes portant 2–3 nœuds dormants avec au moins un chaume. Couper nettement avec une scie ou sécateur désinfecté. Planter en pot profond avec substrat léger, maintenir à 18–22 °C et humidité constante. Éviter l'exposition directe intense jusqu'à reprise (4–6 semaines). Préférer la division en sortie de dormance (mars) pour maximiser le taux de reprise."
       },
       {
         "espece": "Pin blanc du Japon",
