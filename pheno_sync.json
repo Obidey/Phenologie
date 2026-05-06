@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1778048021405,
-  "_date": "2026-05-06T06:13:41.405Z",
-  "_modCount": 883,
+  "_ts": 1778048142775,
+  "_date": "2026-05-06T06:15:42.775Z",
+  "_modCount": 884,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -3584,6 +3584,59 @@
         "_hidden": true
       },
       {
+        "_id": "motnyd3av0sk",
+        "espece": "Phyllostachys atrovaginata",
+        "url": "https://fr.wikipedia.org/wiki/Phyllostachys_atrovaginata",
+        "notes": "Persistant — Bambou traçant à chaumes verts, rustique jusqu'à -20°C. Espèce odorante (parfum citronné des chaumes). Cycle végétatif continu sans dormance marquée mais ralentissement hivernal net. Floraison grégaire rare et létale (cycle ~60-120 ans). En bonsaï : sujet atypique, cultivé en bac profond pour rhizomes ; taille des chaumes surnuméraires indispensable.",
+        "photo": "",
+        "debourrement": [
+          3,
+          1
+        ],
+        "debourrement_djc": 1355,
+        "debourrement_travaux": "Observation — Surveiller l'émergence des premiers bourgeons de rhizomes (turions pointant hors du substrat) ; ne pas perturber le bac, toute intervention mécanique sur les rhizomes à ce stade brise les apex en croissance.",
+        "feuillaison": [
+          1,
+          0
+        ],
+        "feuillaison_djc": 299,
+        "feuillaison_travaux": "Observation — Les nouveaux chaumes portent leurs feuilles ; retirer les gaines culmicolles desséchées pour éviter pourriture et dépôts fongiques ; aérer la touffe en supprimant 1 chaume sur 3 si densité excessive.",
+        "floraison": null,
+        "floraison_djc": null,
+        "floraison_travaux": "Observation — Floraison grégaire imprévisible (une fois par siècle) ; si des épillets apparaissent sur un chaume isolé, le prélever immédiatement et surveiller la touffe ; une floraison généralisée entraîne le dépérissement total.",
+        "croissance": [
+          1,
+          0.431924882629108
+        ],
+        "croissance_djc": 391,
+        "croissance_travaux": "Observation — Phase de pousse maximale (chaumes télescopant en quelques semaines) ; apporter un engrais azoté équilibré (NPK 10-5-5) ; ne jamais pincer les chaumes en croissance active, leur hauteur définitive est fixée génétiquement dès le départ.",
+        "maturation": [
+          2,
+          0.6566757493188011
+        ],
+        "maturation_djc": 798,
+        "maturation_travaux": "Observation — Les chaumes lignifient et verdissent ; début du durcissement des entre-nœuds ; c'est le moment de sélectionner les chaumes à conserver pour la structure du bac et d'éliminer à la base ceux trop grêles ou mal placés.",
+        "senescence": [
+          3,
+          1
+        ],
+        "senescence_djc": 1355,
+        "senescence_travaux": "Observation — Jaunissement et chute des feuilles les plus anciennes (renouvellement foliaire normal, non pathologique) ; nettoyer le bac des feuilles tombées pour limiter les risques de pourriture au collet.",
+        "dormance_travaux": "",
+        "semis": [
+          1,
+          1
+        ],
+        "semis_djc": 512,
+        "semis_travaux": "Observation — Semis rarissime en culture (graines disponibles seulement après floraison grégaire) ; si tentative : semer en terrine humide à 20-22 °C, maintenir en serre froide ; germinaison capricieuse sur 3-6 semaines.",
+        "boutures": [
+          1,
+          0.431924882629108
+        ],
+        "boutures_djc": 391,
+        "boutures_travaux": "Observation — Prélever des sections de rhizomes avec au moins 2-3 nœuds et un bourgeon visible ; planter horizontalement à 5 cm de profondeur en substrat sablo-tourbeux drainant ; maintenir humide à l'ombre ; la division de touffe reste la méthode la plus fiable de multiplication."
+      },
+      {
         "espece": "Phyllostachys aurea Holochrysa",
         "notes": "Persistant",
         "url": "https://fr.wikipedia.org/wiki/Phyllostachys_aurea",
@@ -4767,7 +4820,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 623
+    "_modCount": 624
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
