@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1778053345737,
-  "_date": "2026-05-06T07:42:25.737Z",
-  "_modCount": 906,
+  "_ts": 1778053389990,
+  "_date": "2026-05-06T07:43:09.990Z",
+  "_modCount": 907,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -3832,7 +3832,7 @@
           0
         ],
         "croissance_djc": 299,
-        "croissance_travaux": "Observation — Phase d'élongation maximale des turions (jusqu'à plusieurs cm/jour). En bonsaï, pincer l'apex des nouveaux chaumes à la hauteur souhaitée avant que les entresuds ne se lignifient (délai 48–72 h après débourrement du nœud cible). Contrôler l'envahissement rhizomateux en soulevant légèrement la coupe.",
+        "croissance_travaux": "Observation — Phase d'élongation maximale des turions (jusqu'à plusieurs cm jour). En bonsaï pincer l'apex des nouveaux chaumes à la hauteur souhaitée avant que les entresuds ne se lignifient (délai 48–72 h après débourrement du nœud cible) Contrôler l'envahissement rhizomateux en soulevant légèrement la coupe.",
         "maturation": [
           3,
           0.6005509641873278
@@ -4885,7 +4885,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 630
+    "_modCount": 631
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
