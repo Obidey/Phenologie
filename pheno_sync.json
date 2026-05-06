@@ -1,10 +1,10 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1778052371002,
-  "_date": "2026-05-06T07:26:11.002Z",
-  "_modCount": 896,
-  "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
+  "_ts": 1778052390379,
+  "_date": "2026-05-06T07:26:30.379Z",
+  "_modCount": 895,
+  "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
       "0": "11-255°J",
@@ -1409,6 +1409,62 @@
         "boutures_djc": null,
         "boutures": null,
         "boutures_travaux": "Sections de tronc posées horizontalement sur substrat"
+      },
+      {
+        "_id": "motqhelj9z74",
+        "espece": "cynodon dactylon",
+        "url": "https://fr.wikipedia.org/wiki/Cynodon_dactylon",
+        "notes": "Persistant (en climat doux) / Semi-persistant. Graminée rhizomateuse et stolonifère à croissance estivale intense (C4). Dormance hivernale marquée à Cazaux dès que T < 10°C. Feuillage fin, vert-gris, port rampant. Utilisé en kusamono ou comme sujet de collection pour son comportement extrêmement thermophile et sa résistance à la sécheresse estivale.",
+        "photo": "",
+        "debourrement": [
+          1,
+          1
+        ],
+        "debourrement_djc": 512,
+        "debourrement_travaux": "Observation — Ko 5 (24-28 fév) ~500°J : surveiller les stolons et rhizomes ; les premières pousses verdissent à la base des tiges. Ne pas fertiliser encore. Retirer les parties nécrosées de l'hiver. Exposer en plein soleil dès que les gelées nocturnes s'espacent.",
+        "feuillaison": [
+          2,
+          0.4604904632152589
+        ],
+        "feuillaison_djc": 726,
+        "feuillaison_travaux": "Observation — Ko 9 (16-20 mars) ~700°J : étalement foliaire actif sur stolons. Reprendre les arrosages progressivement. Premier apport d'azote modéré. Vérifier que le substrat drainant est bien réchauffé avant d'intensifier.",
+        "floraison": [
+          5,
+          0.5503597122302158
+        ],
+        "floraison_djc": 2198,
+        "floraison_travaux": "Observation — Ko 27 (16-20 juin) ~2200°J : émission des épis caractéristiques en étoile digitée. En bonsaï/kusamono, pincer les hampes florales pour densifier le feuillage si l'effet gazon est recherché. Arrosage quotidien par forte chaleur estivale.",
+        "croissance": [
+          4,
+          0.24770642201834864
+        ],
+        "croissance_djc": 1530,
+        "croissance_travaux": "Observation — Ko 20 (11-15 mai) ~1500°J : phase de croissance maximale des stolons. Limiter l'extension par pincement ou coupe des stolons débordants. Fertilisation NPK équilibrée bimensuelle. Exposer en pleine lumière sans restriction.",
+        "maturation": [
+          7,
+          0.34841628959276016
+        ],
+        "maturation_djc": 3461,
+        "maturation_travaux": "Observation — Ko 38 (13-17 août) ~3500°J : feuillage dense et durci, stolons lignifiés en surface. Réduire la fertilisation azotée, favoriser le potassium pour préparer la dormance. C'est la période optimale pour la division et le rempotage d'urgence si nécessaire.",
+        "senescence": [
+          8,
+          1
+        ],
+        "senescence_djc": 4401,
+        "senescence_travaux": "Observation — Ko 47 (28 sept-2 oct) ~4400°J : jaunissement progressif et ralentissement net de la croissance quand les températures nocturnes descendent sous 10°C. Cesser la fertilisation. Réduire les arrosages. Le feuillage peut prendre des teintes cuivrées à Cazaux avant la dormance.",
+        "dormance_travaux": "",
+        "semis": [
+          3,
+          1
+        ],
+        "semis_djc": 1355,
+        "semis_travaux": "Observation — Ko 19 (6-10 mai) ~1400°J : semer en surface sur substrat sableux réchauffé (T sol > 18°C). Presser légèrement sans couvrir. Maintenir humide par brumisation. Germination rapide en 7-14 jours à Cazaux en plein soleil. Idéal pour créer de nouvelles compositions kusamono.",
+        "boutures": [
+          4,
+          1
+        ],
+        "boutures_djc": 1776,
+        "boutures_travaux": "Observation — Ko 23 (26-31 mai) ~1800°J : bouturage de stolons de 5-8 cm, nœuds enterrés sur substrat sableux. Reprise quasi garantie en pleine chaleur. Méthode préférentielle par rapport au semis pour conserver un clone particulier. Maintenir humide 10-15 jours jusqu'à l'enracinement visible."
       },
       {
         "espece": "Datura",
