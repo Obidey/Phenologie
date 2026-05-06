@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1778052764009,
-  "_date": "2026-05-06T07:32:44.009Z",
-  "_modCount": 897,
+  "_ts": 1778052805094,
+  "_date": "2026-05-06T07:33:25.094Z",
+  "_modCount": 898,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -1382,22 +1382,22 @@
         "feuillaison_djc": null,
         "feuillaison": null,
         "feuillaison_travaux": "Feuilles persistantes en touffe, arrosage régulier, lumière vive",
-        "floraison_djc": 2000,
+        "floraison_djc": 1272,
         "floraison": [
-          5,
-          0.19424460431654678
+          3,
+          0.7713498622589532
         ],
         "floraison_travaux": "Grandes panicules parfumées (plante adulte), arrosage abondant",
-        "croissance_djc": 2500,
+        "croissance_djc": 2448,
         "croissance": [
-          6,
-          0
+          5,
+          1
         ],
         "croissance_travaux": "Fertilisation équilibrée, plein soleil, substrat bien drainant",
-        "maturation_djc": 3500,
+        "maturation_djc": 3461,
         "maturation": [
           7,
-          0.4072398190045249
+          0.34841628959276016
         ],
         "maturation_travaux": "Baies bleues décoratifs, retirer tiges florales fanées",
         "senescence_djc": null,
@@ -1408,7 +1408,8 @@
         "semis_travaux": "Graines fraîches 20°C, germination 1-3 mois",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Sections de tronc posées horizontalement sur substrat"
+        "boutures_travaux": "Sections de tronc posées horizontalement sur substrat",
+        "photo": ""
       },
       {
         "_id": "motqhelj9z74",
