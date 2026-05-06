@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1778053004850,
-  "_date": "2026-05-06T07:36:44.850Z",
-  "_modCount": 900,
+  "_ts": 1778053035283,
+  "_date": "2026-05-06T07:37:15.283Z",
+  "_modCount": 901,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -5294,7 +5294,11 @@
     "ko18_Dipladenia_semis_0": true,
     "ko18_Jasmin_d_Espagne_feuillaison_0": true,
     "ko18_Jasmin_d_Espagne_feuillaison_1": true,
-    "ko18_Jasmin_d_Espagne_feuillaison_2": true
+    "ko18_Jasmin_d_Espagne_feuillaison_2": true,
+    "ko10_Pommier_du_Japon_floraison_0": true,
+    "ko10_Pommier_du_Japon_floraison_1": true,
+    "ko10_Pommier_du_Japon_floraison_2": true,
+    "ko10_Pommier_du_Japon_floraison_3": true
   },
   "config": {
     "ville1": {
