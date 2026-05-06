@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1778050449639,
-  "_date": "2026-05-06T06:54:09.639Z",
-  "_modCount": 887,
+  "_ts": 1778050491009,
+  "_date": "2026-05-06T06:54:51.009Z",
+  "_modCount": 888,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4438,53 +4438,6 @@
         "boutures": null,
         "boutures_travaux": "Boutures ligneuses hiver, résultats variables — greffe préférée",
         "_hidden": true
-      },
-      {
-        "espece": "Pommier du Japon",
-        "notes": "Caduc",
-        "url": "https://fr.wikipedia.org/wiki/Pommier_japonais",
-        "debourrement_djc": 798,
-        "debourrement": [
-          2,
-          0.6566757493188011
-        ],
-        "debourrement_travaux": "Observation",
-        "feuillaison_djc": 860,
-        "feuillaison": [
-          2,
-          0.8256130790190735
-        ],
-        "feuillaison_travaux": "Observation",
-        "floraison_djc": 860,
-        "floraison": [
-          2,
-          0.8256130790190735
-        ],
-        "floraison_travaux": "Floraison spectaculaire éphémère+ Taille après floraison impérativement",
-        "croissance_djc": 1530,
-        "croissance": [
-          4,
-          0.24770642201834864
-        ],
-        "croissance_travaux": "Fertilisation azotée, arrosage régulier, ligature souple",
-        "maturation_djc": 2448,
-        "maturation": [
-          5,
-          1
-        ],
-        "maturation_travaux": "Petites cerises noires, oiseaux attirés, retirer si épuisement",
-        "senescence_djc": 4772,
-        "senescence": [
-          9,
-          0.6359447004608295
-        ],
-        "senescence_travaux": "Couleurs automnales remarquables, taille après chute feuilles",
-        "semis_djc": null,
-        "semis": null,
-        "semis_travaux": "Noyaux stratifiés 8-12 sem. froid, semis printemps",
-        "boutures_djc": null,
-        "boutures": null,
-        "boutures_travaux": "Boutures vertes juin, hormone, difficiles — greffe préférée pour cultivars"
       },
       {
         "espece": "Prunus mume",
