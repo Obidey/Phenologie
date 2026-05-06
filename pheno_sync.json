@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1778053179099,
-  "_date": "2026-05-06T07:39:39.099Z",
-  "_modCount": 904,
+  "_ts": 1778053201477,
+  "_date": "2026-05-06T07:40:01.477Z",
+  "_modCount": 905,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -1382,22 +1382,22 @@
         "feuillaison_djc": null,
         "feuillaison": null,
         "feuillaison_travaux": "Feuilles persistantes en touffe, arrosage régulier, lumière vive",
-        "floraison_djc": 1272,
+        "floraison_djc": 2000,
         "floraison": [
-          3,
-          0.7713498622589532
+          5,
+          0.19424460431654678
         ],
         "floraison_travaux": "Grandes panicules parfumées (plante adulte), arrosage abondant",
-        "croissance_djc": 2448,
+        "croissance_djc": 2500,
         "croissance": [
-          5,
-          1
+          6,
+          0
         ],
         "croissance_travaux": "Fertilisation équilibrée, plein soleil, substrat bien drainant",
-        "maturation_djc": 3461,
+        "maturation_djc": 3500,
         "maturation": [
           7,
-          0.34841628959276016
+          0.4072398190045249
         ],
         "maturation_travaux": "Baies bleues décoratifs, retirer tiges florales fanées",
         "senescence_djc": null,
@@ -1408,8 +1408,7 @@
         "semis_travaux": "Graines fraîches 20°C, germination 1-3 mois",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Sections de tronc posées horizontalement sur substrat",
-        "photo": ""
+        "boutures_travaux": "Sections de tronc posées horizontalement sur substrat"
       },
       {
         "_id": "motqhelj9z74",
@@ -1527,7 +1526,7 @@
           0.6005509641873278
         ],
         "debourrement_djc": 1210,
-        "debourrement_travaux": "Observation — reprise des bourgeons axillaires après hivernage ; sortir progressivement à l'abri du vent dès 15°C la nuit ; taille de nettoyage sur bois mort hivernal ; rempotage si racines sortent du pot, substrat drainant riche (terreau + perlite 30%)",
+        "debourrement_travaux": "Observation — reprise des bourgeons axillaires après hivernage  sortir progressivement à l'abri du vent dès 15°C la nuit  taille de nettoyage sur bois mort hivernal  rempotage si racines sortent du pot substrat drainant riche (terreau + perlite 30%)",
         "feuillaison": [
           3,
           1
@@ -4886,7 +4885,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 902
+    "_modCount": 630
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
