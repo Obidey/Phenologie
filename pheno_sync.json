@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1778098116707,
-  "_date": "2026-05-06T20:08:36.707Z",
-  "_modCount": 929,
+  "_ts": 1778098314822,
+  "_date": "2026-05-06T20:11:54.822Z",
+  "_modCount": 930,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -777,7 +777,8 @@
           2,
           0.6566757493188011
         ],
-        "boutures_travaux": "Boutures semi-ligneuses avec hormone +25°C"
+        "boutures_travaux": "Boutures semi-ligneuses avec hormone +25°C",
+        "photo": ""
       },
       {
         "espece": "Bouleau",
@@ -4886,7 +4887,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 635
+    "_modCount": 636
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
