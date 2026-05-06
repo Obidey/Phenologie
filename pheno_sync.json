@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1778054300286,
-  "_date": "2026-05-06T07:58:20.286Z",
-  "_modCount": 915,
+  "_ts": 1778054327437,
+  "_date": "2026-05-06T07:58:47.437Z",
+  "_modCount": 916,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -114,7 +114,8 @@
         "semis_travaux": "Graines scarifiées eau chaude 24h, semis printemps, germination rapide",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses été, hormone, substrat drainant"
+        "boutures_travaux": "Boutures semi-ligneuses été, hormone, substrat drainant",
+        "photo": ""
       },
       {
         "espece": "Acacia faux robinier",
