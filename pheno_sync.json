@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1778051771904,
-  "_date": "2026-05-06T07:16:11.904Z",
-  "_modCount": 893,
+  "_ts": 1778051821190,
+  "_date": "2026-05-06T07:17:01.190Z",
+  "_modCount": 894,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -4438,6 +4438,62 @@
         "boutures": null,
         "boutures_travaux": "Boutures ligneuses hiver, résultats variables — greffe préférée",
         "_hidden": true
+      },
+      {
+        "_id": "motq57ep0o6q",
+        "espece": "Pommier du Japon",
+        "url": "https://fr.wikipedia.org/wiki/Chaenomeles_speciosa",
+        "notes": "Caduc. Chaenomeles speciosa ou C. japonica — arbuste caduc à floraison spectaculaire précoce, avant ou avec les premières feuilles. Très utilisé en bonsaï pour ses fleurs rouge-orangé vif, ses petits fruits décoratifs jaune-vert et son bois tortueux naturel. Excellente rusticité (−20°C), s'adapte parfaitement au climat de Cazaux. Épines présentes sur les rameaux — manipuler avec précaution. Fruits non comestibles mais décoratifs persistant en automne.",
+        "photo": "",
+        "debourrement": [
+          0,
+          0.3975409836065574
+        ],
+        "debourrement_djc": 108,
+        "debourrement_travaux": "Observation — Ko 67–68 (janvier) : surveiller le gonflement des bourgeons floraux rouge vif. Sortir progressivement de l'abri froid. Ne pas rempotter avant que les bourgeons floraux soient bien visibles. Vérifier l'humidité du substrat après l'hiver.",
+        "feuillaison": [
+          2,
+          1
+        ],
+        "feuillaison_djc": 924,
+        "feuillaison_travaux": "Observation — Ko 12–13 (fin mars–début avril) : les feuilles apparaissent pendant ou après la floraison. Reprendre les arrosages réguliers. Pincer les pousses végétatives trop vigoureuses dès 3–4 feuilles. Eviter tout engrais azoté fort avant la fin de floraison.",
+        "floraison": [
+          2,
+          0.6566757493188011
+        ],
+        "floraison_djc": 798,
+        "floraison_travaux": "Observation — Ko 10 (~25 mars, 798°J) : floraison spectaculaire, souvent avant les feuilles. Aucune taille ni rempotage pendant cette phase. Exposer en plein soleil. Si gel < −5°C annoncé, rentrer temporairement sous abri froid. Noter la vigueur de chaque branche en vue de la taille post-floraison.",
+        "croissance": [
+          3,
+          0.6005509641873278
+        ],
+        "croissance_djc": 1210,
+        "croissance_travaux": "Observation — Ko 16 (20–24 avril, ~1210°J) : phase clé de travail. Tailler les rameaux ayant fleuri en laissant 2–3 bourgeons foliaires à la base. Pincer toutes les 2–3 semaines pour densifier la ramification. Fertilisation équilibrée NPK, puis plus azotée en mai.",
+        "maturation": [
+          5,
+          1
+        ],
+        "maturation_djc": 2448,
+        "maturation_travaux": "Observation — Ko 28–29 (fin juin, ~2400–2500°J) : fruits grossissants virant au jaune-vert. Réduire l'azote, passer à un engrais riche en P-K pour favoriser la lignification et la mise à fleurs suivante. Maintenir l'arrosage régulier.",
+        "senescence": [
+          9,
+          0.4308755760368664
+        ],
+        "senescence_djc": 4683,
+        "senescence_travaux": "Observation — Ko 51–52 (octobre, ~4700°J) : jaunissement et chute progressive des feuilles. Les fruits persistent souvent après le feuillage — effet décoratif automnal à conserver. Stopper toute fertilisation. Observer la silhouette nue pour planifier la taille hivernale.",
+        "dormance_travaux": "",
+        "semis": [
+          3,
+          0
+        ],
+        "semis_djc": 992,
+        "semis_travaux": "Observation — Ko 13 (début avril, ~1000°J) : semer après stratification froide obligatoire (60–90 jours à 4°C). Substrat léger et drainant. Germination lente et irrégulière. Méthode peu utilisée en bonsaï — préférer boutures ou marcottage.",
+        "boutures": [
+          5,
+          0.17805755395683454
+        ],
+        "boutures_djc": 1991,
+        "boutures_travaux": "Observation — Ko 25–26 (juin, ~2000°J) : boutures semi-aoûtées sur rameaux de l'année après la première pousse. Segments de 8–12 cm avec talon, hormone AIB 3000 ppm, substrat sable + perlite 50/50. Sous mini-serre en mi-ombre. Enracinement en 6–10 semaines."
       },
       {
         "espece": "Prunus mume",
