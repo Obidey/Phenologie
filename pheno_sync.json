@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1778429728564,
-  "_date": "2026-05-10T16:15:28.564Z",
-  "_modCount": 999,
+  "_ts": 1778429778027,
+  "_date": "2026-05-10T16:16:18.027Z",
+  "_modCount": 1000,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -3830,10 +3830,10 @@
         "floraison_djc": null,
         "floraison_travaux": "Observation — La floraison est exceptionnelle et grégaire (tous les 60–120 ans) elle entraîne la mort de la plante En bonsaï, si des fleurs apparaissent, documenter soigneusement et préparer un plan de sauvetage clonal par division rhizomateuse immédiate.",
         "croissance": [
-          1,
-          0
+          3,
+          1
         ],
-        "croissance_djc": 299,
+        "croissance_djc": 1355,
         "croissance_travaux": "Observation — Phase d'élongation maximale des turions (jusqu'à plusieurs cm jour). En bonsaï pincer l'apex des nouveaux chaumes à la hauteur souhaitée avant que les entresuds ne se lignifient (délai 48–72 h après débourrement du nœud cible) Contrôler l'envahissement rhizomateux en soulevant légèrement la coupe.",
         "maturation": [
           3,
@@ -4887,7 +4887,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 640
+    "_modCount": 641
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
@@ -5312,7 +5312,11 @@
     "ko9_cynodon_dactylon_feuillaison_0": true,
     "ko1_Plumbago_feuillaison_0": true,
     "ko3_Chevrefeuille_semis_0": true,
-    "ko5_cynodon_dactylon_debourrement_0": true
+    "ko5_cynodon_dactylon_debourrement_0": true,
+    "ko5_Plumbago_semis_0": true,
+    "ko1_Erable_du_japon_Marlo_feuillaison_0": true,
+    "ko1_Erable_du_japon_Marlo_semis_0": true,
+    "ko1_Phyllostachys_atrovaginata_feuillaison_0": true
   },
   "config": {
     "ville1": {
