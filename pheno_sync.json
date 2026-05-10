@@ -1,10 +1,10 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1778410992199,
-  "_date": "2026-05-10T11:03:12.199Z",
+  "_ts": 1778417230160,
+  "_date": "2026-05-10T12:47:10.160Z",
   "_modCount": 993,
-  "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
+  "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
       "0": "11-255°J",
