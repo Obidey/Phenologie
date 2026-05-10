@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1778429421468,
-  "_date": "2026-05-10T16:10:21.468Z",
-  "_modCount": 994,
+  "_ts": 1778429429869,
+  "_date": "2026-05-10T16:10:29.869Z",
+  "_modCount": 995,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -606,7 +606,7 @@
           2,
           0.4604904632152589
         ],
-        "feuillaison_travaux": "Attention : galle de l'azalée = bouillie bx. Insecticide sous les feuilles",
+        "feuillaison_travaux": "Attention : galle de l'azalée = bouillie bx interdite . Insecticide sous les feuilles 0,5 % (5 ml/L nicotine)",
         "floraison_djc": 1892,
         "floraison": [
           5,
@@ -4443,10 +4443,10 @@
         "semis_djc": 512,
         "semis_travaux": "Observation — les semis sont peu pratiqués (germination capricieuse, croissance lente vers un bonsaï). Si tentative, semer à chaud (25°C) en mai sur substrat fin humide, à la lumière. Préférer boutures ou division de touffe pour la multiplication bonsaï.",
         "boutures": [
-          2,
-          0.4604904632152589
+          5,
+          1
         ],
-        "boutures_djc": 726,
+        "boutures_djc": 2448,
         "boutures_travaux": "Observation — prélever des boutures semi-aoûtées de 8–12 cm sur les tiges de l'année en juin–juillet. Supprimer les feuilles inférieures, conserver 2–3 feuilles au sommet. Traiter à l'hormone d'enracinement IBA (0,3 %). Placer en mini-serre à 22–25°C, à mi-ombre. Repiquage en godet individuel dès enracinement confirmé (6–8 semaines)."
       },
       {
@@ -4887,7 +4887,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 637
+    "_modCount": 638
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
