@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1778429482385,
-  "_date": "2026-05-10T16:11:22.385Z",
-  "_modCount": 996,
+  "_ts": 1778429690082,
+  "_date": "2026-05-10T16:14:50.082Z",
+  "_modCount": 997,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -3663,10 +3663,10 @@
         "floraison_djc": null,
         "floraison_travaux": "Observation — Floraison grégaire imprévisible (une fois par siècle) ; si des épillets apparaissent sur un chaume isolé, le prélever immédiatement et surveiller la touffe ; une floraison généralisée entraîne le dépérissement total.",
         "croissance": [
-          1,
-          0.431924882629108
+          4,
+          0
         ],
-        "croissance_djc": 391,
+        "croissance_djc": 1449,
         "croissance_travaux": "Observation — Phase de pousse maximale (chaumes télescopant en quelques semaines) ; apporter un engrais azoté équilibré (NPK 10-5-5) ; ne jamais pincer les chaumes en croissance active, leur hauteur définitive est fixée génétiquement dès le départ.",
         "maturation": [
           2,
@@ -4887,7 +4887,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 638
+    "_modCount": 639
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
@@ -5310,7 +5310,8 @@
     "ko9_Azal_es_Satsuki__Japon__feuillaison_0": true,
     "ko9_Chevrefeuille_floraison_0": true,
     "ko9_cynodon_dactylon_feuillaison_0": true,
-    "ko1_Plumbago_feuillaison_0": true
+    "ko1_Plumbago_feuillaison_0": true,
+    "ko3_Chevrefeuille_semis_0": true
   },
   "config": {
     "ville1": {
