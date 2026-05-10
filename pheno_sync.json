@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1778429875887,
-  "_date": "2026-05-10T16:17:55.887Z",
-  "_modCount": 1002,
+  "_ts": 1778430089103,
+  "_date": "2026-05-10T16:21:29.103Z",
+  "_modCount": 1003,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -2730,7 +2730,7 @@
           4,
           0
         ],
-        "croissance_travaux": "Observation",
+        "croissance_travaux": "Observation + Taille en nuage",
         "maturation_djc": 4496,
         "maturation": [
           9,
@@ -5322,7 +5322,19 @@
     "ko3_Erable_du_japon_Marlo_floraison_0": true,
     "ko3_Phyllostachys_atrovaginata_boutures_0": true,
     "ko5_Erable_du_japon_Marlo_croissance_0": true,
-    "ko5_Phyllostachys_atrovaginata_semis_0": true
+    "ko5_Phyllostachys_atrovaginata_semis_0": true,
+    "ko10_Phyllostachys_atrovaginata_maturation_0": true,
+    "ko11_Chevrefeuille_semis_0": true,
+    "ko12_Charme__Carpinus_betulus__feuillaison_0": true,
+    "ko12_Pommier_du_Japon_feuillaison_0": true,
+    "ko13_Pin_noir_du_Japon_floraison_0": true,
+    "ko16_Dipladenia_debourrement_0": true,
+    "ko16_Phylostachi_meguro_Cheku_maturation_0": true,
+    "ko17_Ciste_feuillaison_0": true,
+    "ko18_cynodon_dactylon_semis_0": true,
+    "ko18_Phyllostachys_atrovaginata_debourrement_0": true,
+    "ko18_Phyllostachys_atrovaginata_senescence_0": true,
+    "ko18_Pin_sylvestre_floraison_0": true
   },
   "config": {
     "ville1": {
