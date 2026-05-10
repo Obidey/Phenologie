@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1778429429869,
-  "_date": "2026-05-10T16:10:29.869Z",
-  "_modCount": 995,
+  "_ts": 1778429482385,
+  "_date": "2026-05-10T16:11:22.385Z",
+  "_modCount": 996,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -1143,10 +1143,10 @@
         "senescence_travaux": "Observation — le jaunissement et la chute des feuilles interviennent en novembre–décembre chez Lonicera periclymenum ; Lonicera japonica peut conserver son feuillage jusqu'aux gelées. Réduire arrosages et fertilisation dès octobre. C'est la période idéale pour observer et photographier la structure ligneuse et l'écorce striée caractéristique.",
         "dormance_travaux": "",
         "semis": [
-          1,
-          0.431924882629108
+          2,
+          0.8256130790190735
         ],
-        "semis_djc": 391,
+        "semis_djc": 860,
         "semis_travaux": "Observation — les graines nécessitent une stratification à froid (4°C, 4–6 semaines) avant semis. Semer en mars–avril en substrat humide à 18–20°C. Germination irrégulière sur 3–6 semaines. Croissance initiale lente ; la multiplication végétative reste préférable pour un résultat bonsaï rapide.",
         "boutures": [
           2,
@@ -5309,7 +5309,8 @@
     "ko15_Pin_noir_du_Japon_feuillaison_0": true,
     "ko9_Azal_es_Satsuki__Japon__feuillaison_0": true,
     "ko9_Chevrefeuille_floraison_0": true,
-    "ko9_cynodon_dactylon_feuillaison_0": true
+    "ko9_cynodon_dactylon_feuillaison_0": true,
+    "ko1_Plumbago_feuillaison_0": true
   },
   "config": {
     "ville1": {
