@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1778429690082,
-  "_date": "2026-05-10T16:14:50.082Z",
-  "_modCount": 997,
+  "_ts": 1778429721367,
+  "_date": "2026-05-10T16:15:21.367Z",
+  "_modCount": 998,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -1124,10 +1124,10 @@
         "floraison_djc": 726,
         "floraison_travaux": "Observation — les fleurs tubulées, très parfumées, apparaissent en bout de rameaux courts de l'année (mai–juillet, remontée possible en septembre). Ne pas pincer les apex floraux. Basculer vers un engrais à dominante P-K pour prolonger et intensifier la floraison. Arrosage régulier : le stress hydrique provoque la chute prématurée des boutons.",
         "croissance": [
-          1,
-          1
+          3,
+          0.7713498622589532
         ],
-        "croissance_djc": 512,
+        "croissance_djc": 1272,
         "croissance_travaux": "Observation — la croissance est rapide et exubérante ; pincer régulièrement après 2–3 paires de feuilles pour densifier la ramification secondaire et contenir le port lianescent. Rempotage tous les 2 ans en avril dans un substrat drainant (akadama 50 %, pouzzolane 30 %, humus 20 %). Racines robustes : taille racinaire modérée tolérée.",
         "maturation": [
           4,
@@ -4887,7 +4887,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 639
+    "_modCount": 640
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
