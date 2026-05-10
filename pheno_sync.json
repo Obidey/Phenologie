@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1778429778027,
-  "_date": "2026-05-10T16:16:18.027Z",
-  "_modCount": 1000,
+  "_ts": 1778429864943,
+  "_date": "2026-05-10T16:17:44.943Z",
+  "_modCount": 1001,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -1149,10 +1149,10 @@
         "semis_djc": 860,
         "semis_travaux": "Observation — les graines nécessitent une stratification à froid (4°C, 4–6 semaines) avant semis. Semer en mars–avril en substrat humide à 18–20°C. Germination irrégulière sur 3–6 semaines. Croissance initiale lente ; la multiplication végétative reste préférable pour un résultat bonsaï rapide.",
         "boutures": [
-          2,
-          0.1362397820163488
+          5,
+          1
         ],
-        "boutures_djc": 607,
+        "boutures_djc": 2448,
         "boutures_travaux": "Observation — prélever des boutures semi-ligneuses de 10–15 cm en juin–juillet, sur tiges de l'année partiellement aoûtées. Supprimer les 2 paires de feuilles inférieures, conserver 1–2 paires au sommet. Traiter à l'AIB 0,3 %. Planter en substrat sableux sous mini-serre à 20–22°C, mi-ombre. Enracinement rapide en 4–6 semaines ; taux de réussite excellent."
       },
       {
@@ -4887,7 +4887,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 641
+    "_modCount": 642
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
@@ -5316,7 +5316,13 @@
     "ko5_Plumbago_semis_0": true,
     "ko1_Erable_du_japon_Marlo_feuillaison_0": true,
     "ko1_Erable_du_japon_Marlo_semis_0": true,
-    "ko1_Phyllostachys_atrovaginata_feuillaison_0": true
+    "ko1_Phyllostachys_atrovaginata_feuillaison_0": true,
+    "ko1_Phylostachi_meguro_Cheku_croissance_0": true,
+    "ko1_Phylostachi_meguro_Cheku_boutures_0": true,
+    "ko3_Erable_du_japon_Marlo_floraison_0": true,
+    "ko3_Phyllostachys_atrovaginata_boutures_0": true,
+    "ko5_Erable_du_japon_Marlo_croissance_0": true,
+    "ko5_Phyllostachys_atrovaginata_semis_0": true
   },
   "config": {
     "ville1": {
