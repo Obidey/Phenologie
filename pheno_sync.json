@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1778429721367,
-  "_date": "2026-05-10T16:15:21.367Z",
-  "_modCount": 998,
+  "_ts": 1778429728564,
+  "_date": "2026-05-10T16:15:28.564Z",
+  "_modCount": 999,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -5311,7 +5311,8 @@
     "ko9_Chevrefeuille_floraison_0": true,
     "ko9_cynodon_dactylon_feuillaison_0": true,
     "ko1_Plumbago_feuillaison_0": true,
-    "ko3_Chevrefeuille_semis_0": true
+    "ko3_Chevrefeuille_semis_0": true,
+    "ko5_cynodon_dactylon_debourrement_0": true
   },
   "config": {
     "ville1": {
