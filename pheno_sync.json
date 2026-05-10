@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1778429374290,
-  "_date": "2026-05-10T16:09:34.290Z",
-  "_modCount": 993,
+  "_ts": 1778429421468,
+  "_date": "2026-05-10T16:10:21.468Z",
+  "_modCount": 994,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -5306,7 +5306,10 @@
     "ko14_Hortensia_feuillaison_1": true,
     "ko14_Hortensia_feuillaison_2": true,
     "ko14_Phyllostachys_aurea_Holochrysa_debourrement_1": true,
-    "ko15_Pin_noir_du_Japon_feuillaison_0": true
+    "ko15_Pin_noir_du_Japon_feuillaison_0": true,
+    "ko9_Azal_es_Satsuki__Japon__feuillaison_0": true,
+    "ko9_Chevrefeuille_floraison_0": true,
+    "ko9_cynodon_dactylon_feuillaison_0": true
   },
   "config": {
     "ville1": {
