@@ -1,10 +1,10 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1778478296485,
-  "_date": "2026-05-11T05:44:56.485Z",
-  "_modCount": 1012,
-  "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
+  "_ts": 1778478419667,
+  "_date": "2026-05-11T05:46:59.667Z",
+  "_modCount": 1009,
+  "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
       "0": "11-255°J",
@@ -2942,7 +2942,7 @@
           2,
           0
         ],
-        "debourrement_travaux": "Rempotage si nécessaire (tous 3-5 ans) + substrat drainant +soleil + eau",
+        "debourrement_travaux": "Rempotage si nécessaire (tous 3-5 ans) + substrat drainant +soleil",
         "feuillaison_djc": 726,
         "feuillaison": [
           2,
@@ -2972,8 +2972,7 @@
         "semis_travaux": "Graines stratifiées chaud 3 mois + froid 3 mois, germination lente",
         "boutures_djc": null,
         "boutures": null,
-        "boutures_travaux": "Boutures semi-ligneuses été avec hormone, résultats corrects",
-        "photo": ""
+        "boutures_travaux": "Boutures semi-ligneuses été avec hormone, résultats corrects"
       },
       {
         "espece": "Juniperus rigida",
@@ -5335,7 +5334,8 @@
     "ko18_cynodon_dactylon_semis_0": true,
     "ko18_Phyllostachys_atrovaginata_debourrement_0": true,
     "ko18_Phyllostachys_atrovaginata_senescence_0": true,
-    "ko18_Pin_sylvestre_floraison_0": true
+    "ko18_Pin_sylvestre_floraison_0": true,
+    "ko3_Phyllostachys_atrovaginata_croissance_0": true
   },
   "config": {
     "ville1": {
