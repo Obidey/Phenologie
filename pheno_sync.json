@@ -1,10 +1,10 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1778479308128,
-  "_date": "2026-05-11T06:01:48.128Z",
+  "_ts": 1778485339898,
+  "_date": "2026-05-11T07:42:19.898Z",
   "_modCount": 1012,
-  "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
+  "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
       "0": "11-255°J",
@@ -5349,7 +5349,26 @@
       "lat": "47.5473",
       "lon": "0.8861",
       "url": "",
-      "active": false
+      "active": true
     }
-  }
+  },
+  "gauge_labels": null,
+  "annual_gauge_labels": [
+    "Dormance / Cognassier Japon",
+    "Mimosa / Prunus mume fleurissent",
+    "Les pruneliers fleurissent",
+    "Érables / Arbre de Judée débourre",
+    "Charme / Frêne / Chêne feuillaison",
+    "Chêne / Azalées floraison",
+    "Charme / Frêne",
+    "Jasmin/accacia/ Bougainvillier",
+    "Bambous croissance explosive",
+    "Hibiscus / Hortensia floraison",
+    "Kumquat / Citron véraison",
+    "Grenadier / Chêne vert maturation",
+    "Érables rougissent / Glands mûrs",
+    "Chute des feuilles / Arbousier fleurit",
+    "Lierre fructifie / Sénescence",
+    "Fin de cycle / Retour dormance"
+  ]
 }
