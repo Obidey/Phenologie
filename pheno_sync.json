@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1778505450440,
-  "_date": "2026-05-11T13:17:30.440Z",
-  "_modCount": 1026,
+  "_ts": 1778505499018,
+  "_date": "2026-05-11T13:18:19.018Z",
+  "_modCount": 1027,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -118,7 +118,7 @@
         "photo": ""
       },
       {
-        "espece": "Acacia faux robinier 2",
+        "espece": "Acacia faux robinier 3",
         "notes": "Caduc",
         "url": "https://fr.wikipedia.org/wiki/Robinier_faux-acacia",
         "debourrement_djc": 726,
@@ -2942,7 +2942,7 @@
           2,
           0
         ],
-        "debourrement_travaux": "Rempotage si nécessaire (tous 3-5 ans) + substrat drainant +soleil + eau bis",
+        "debourrement_travaux": "Rempotage si nécessaire (tous 3-5 ans) + substrat drainant +soleil + eau",
         "feuillaison_djc": 726,
         "feuillaison": [
           2,
@@ -4888,7 +4888,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 1019
+    "_modCount": 643
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
