@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1778485339898,
-  "_date": "2026-05-11T07:42:19.898Z",
-  "_modCount": 1012,
+  "_ts": 1778485411200,
+  "_date": "2026-05-11T07:43:31.200Z",
+  "_modCount": 1013,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -4887,7 +4887,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 643
+    "_modCount": 1013
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
@@ -5359,7 +5359,7 @@
     "Les pruneliers fleurissent",
     "Érables / Arbre de Judée débourre",
     "Charme / Frêne / Chêne feuillaison",
-    "Chêne / Azalées floraison",
+    "Chêne / TSUTSUJI floraison",
     "Charme / Frêne",
     "Jasmin/accacia/ Bougainvillier",
     "Bambous croissance explosive",
