@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1778430174700,
-  "_date": "2026-05-10T16:22:54.700Z",
-  "_modCount": 1006,
+  "_ts": 1778477566911,
+  "_date": "2026-05-11T05:32:46.911Z",
+  "_modCount": 1007,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {
@@ -4887,7 +4887,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 642
+    "_modCount": 643
   },
   "checklist": {
     "ko1_Cognassier_du_Japon_(Chaenomeles)_floraison_0": true,
