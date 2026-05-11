@@ -1,10 +1,10 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1778477666643,
-  "_date": "2026-05-11T05:34:26.643Z",
+  "_ts": 1778478084076,
+  "_date": "2026-05-11T05:41:24.076Z",
   "_modCount": 1008,
-  "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
+  "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
       "0": "11-255°J",
@@ -5334,7 +5334,8 @@
     "ko18_cynodon_dactylon_semis_0": true,
     "ko18_Phyllostachys_atrovaginata_debourrement_0": true,
     "ko18_Phyllostachys_atrovaginata_senescence_0": true,
-    "ko18_Pin_sylvestre_floraison_0": true
+    "ko18_Pin_sylvestre_floraison_0": true,
+    "ko3_Phyllostachys_atrovaginata_croissance_0": true
   },
   "config": {
     "ville1": {
