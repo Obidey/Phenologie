@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1778562479067,
-  "_date": "2026-05-12T05:07:59.067Z",
-  "_modCount": 1030,
+  "_ts": 1778562588637,
+  "_date": "2026-05-12T05:09:48.637Z",
+  "_modCount": 1031,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {
@@ -118,7 +118,7 @@
         "photo": ""
       },
       {
-        "espece": "Acacia faux robinier 3",
+        "espece": "Acacia faux robinier 3a",
         "notes": "Caduc",
         "url": "https://fr.wikipedia.org/wiki/Robinier_faux-acacia",
         "debourrement_djc": 726,
