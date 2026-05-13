@@ -1,13 +1,66 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1778654947010,
-  "_date": "2026-05-13T06:49:07.010Z",
-  "_modCount": 1083,
+  "_ts": 1778654957695,
+  "_date": "2026-05-13T06:49:17.695Z",
+  "_modCount": 1084,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {},
     "especes": [
+      {
+        "_id": "mp3p8iirjdep",
+        "espece": "Pin noir du japon",
+        "url": "https://fr.wikipedia.org/wiki/Pinus_thunbergii",
+        "notes": "Persistant. Pinus thunbergii : conifère à aiguilles persistantes groupées par 2, vert foncé brillant, rigides et piquantes. Écorce gris foncé se fissurant avec l'âge. Espèce emblématique du bonsaï japonais, très prisée pour sa robustesse et sa réponse exceptionnelle aux techniques de pinçage des chandelles (méthode des 2 flush). Supporte bien la chaleur estivale de Cazaux et les hivers doux landais. Technique spécifique : suppression totale des chandelles en été (méthode Tanaka) pour induire un second débourrement automnal aux aiguilles plus courtes.",
+        "photo": "",
+        "debourrement": [
+          2,
+          0.1362397820163488
+        ],
+        "debourrement_djc": 607,
+        "debourrement_travaux": "Observation — Ko 7 (6-10 mars) ~600°J : gonflement visible des bourgeons blancs caractéristiques (bourgeons argentés très distinctifs). Les écailles s'écartent et la base des chandelles commence à pointer. Signal de fin de rempotage : toute intervention racinaire doit être terminée avant ce stade. Reprendre les arrosages normaux.",
+        "feuillaison": [
+          2,
+          0.6566757493188011
+        ],
+        "feuillaison_djc": 798,
+        "feuillaison_travaux": "Observation — Ko 10 (21-25 mars) ~800°J : émergence des nouvelles aiguilles hors de la gaine des chandelles en cours d'élongation. Observer la vigueur relative de chaque chandelle et de chaque zone (apex vs branches basses). Ne pas intervenir encore : laisser les chandelles s'allonger pleinement pour maximiser l'énergie foliaire disponible avant pinçage.",
+        "floraison": [
+          2,
+          1
+        ],
+        "floraison_djc": 924,
+        "floraison_travaux": "Observation — Ko 11 (26-30 mars) ~900°J : apparition des cônes mâles jaune soufre à la base des nouvelles pousses et des minuscules cônes femelles rouges en position apicale. Retirer manuellement les cônes mâles en excès pour économiser l'énergie de l'arbre. Si la fructification n'est pas recherchée, éliminer également les cônes femelles dès ce stade.",
+        "croissance": [
+          3,
+          0.21487603305785125
+        ],
+        "croissance_djc": 1070,
+        "croissance_travaux": "Observation — Ko 14 (10-14 avr) ~1100°J : élongation maximale des chandelles du premier flush. C'est le moment clé du pinçage printanier : pincer les chandelles vigoureuses (apex, branches hautes) à 1/3 de leur longueur, laisser les chandelles faibles (branches basses, intérieur) s'allonger davantage. Supprimer les chandelles surnuméraires (>2 par nœud). Fertilisation équilibrée NPK.",
+        "maturation": [
+          5,
+          0.5503597122302158
+        ],
+        "maturation_djc": 2198,
+        "maturation_travaux": "Observation — Ko 27 (16-20 juin) ~2200°J : aiguilles du premier flush entièrement développées et lignifiées. Sur les sujets vigoureux, c'est la fenêtre de la technique du double flush (méthode Tanaka) : supprimer intégralement toutes les chandelles du premier flush à leur base pour forcer un second débourrement en août-septembre aux aiguilles plus courtes. Réserver aux arbres en pleine santé.",
+        "senescence": [
+          8,
+          1
+        ],
+        "senescence_djc": 4401,
+        "senescence_travaux": "Observation — Ko 47 (28 sept-2 oct) ~4400°J : jaunissement et chute naturelle des aiguilles de 3 ans (les plus internes et basales). Phénomène normal et signe de bonne santé. Profiter de cette clarification du feuillage pour évaluer la ramification interne. Début de la période favorable à la ligature : le bois est encore souple avant les froids.",
+        "dormance_travaux": "",
+        "semis": [
+          2,
+          0.4604904632152589
+        ],
+        "semis_djc": 726,
+        "semis_travaux": "Observation — Ko 9 (16-20 mars) ~700°J : semis en plein air à Cazaux dès que les températures nocturnes dépassent 8°C régulièrement. Stratification à froid humide (4°C, 3-4 semaines) recommandée. Substrat : mélange akadama fine/sable de rivière/pouzzolane. Trempage des graines 24h avant semis. Germination en 2-3 semaines. P. thunbergii est plus facile que P. sylvestris au semis.",
+        "boutures": null,
+        "boutures_djc": null,
+        "boutures_travaux": "Observation — bouturage non applicable pour Pinus thunbergii : comme tous les pins à 2 aiguilles, l'enracinement bouturé est pratiquement impossible. Reproduction par semis exclusivement, ou greffage en placage (P. thunbergii sur P. thunbergii) au Ko 8-9 (mars) ~650-700°J. P. thunbergii est lui-même fréquemment utilisé comme porte-greffe pour d'autres pins difficiles à semer."
+      },
       {
         "_id": "mp3ov9ex07q3",
         "espece": "pin sylvestre",
@@ -63,7 +116,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 1083
+    "_modCount": 1
   },
   "checklist": {},
   "config": {
