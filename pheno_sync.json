@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1778657722855,
-  "_date": "2026-05-13T07:35:22.855Z",
-  "_modCount": 1097,
+  "_ts": 1778657775611,
+  "_date": "2026-05-13T07:36:15.611Z",
+  "_modCount": 1098,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -86,10 +86,10 @@
         "floraison_djc": 798,
         "floraison_travaux": "Observation — Ko 10 (21-25 mars) ~800°J : apparition des cônes pollinifères mâles (jaunes, à la base des nouvelles pousses) et des petits cônes femelles rougeâtres au sommet. Retirer les fleurs mâles à la main pour préserver l'énergie de l'arbre si la fructification n'est pas souhaitée. Bonne période pour observer la structure sans feuillage dense.",
         "croissance": [
-          3,
-          0
+          4,
+          0.24770642201834864
         ],
-        "croissance_djc": 992,
+        "croissance_djc": 1530,
         "croissance_travaux": "Observation — Ko 13 (5-9 avr) ~1000°J : élongation maximale des chandelles en cours. Intervenir sur le pinçage des chandelles vigoureuses si non encore fait. Supprimer les chandelles en excès (3+ par nœud, ne garder que 2). Fertilisation azotée modérée pour soutenir la croissance sans excès.",
         "maturation": [
           4,
@@ -116,7 +116,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 2
+    "_modCount": 3
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
