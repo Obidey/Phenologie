@@ -1,156 +1,19 @@
 {
   "_type": "pheno_sync",
-  "_version": "v20",
-  "_ts": 1778655072549,
-  "_date": "2026-05-13T06:51:12.549Z",
-  "_modCount": 1088,
-  "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
+  "_ts": 1778653390950,
+  "_modCount": 0,
+  "_device": "reset-manuel",
   "data": {
     "bornes": {},
-    "especes": [
-      {
-        "_id": "mp3p8iirjdep",
-        "espece": "Pin noir du japon",
-        "url": "https://fr.wikipedia.org/wiki/Pinus_thunbergii",
-        "notes": "Persistant. Pinus thunbergii : conifère à aiguilles persistantes groupées par 2, vert foncé brillant, rigides et piquantes. Écorce gris foncé se fissurant avec l'âge. Espèce emblématique du bonsaï japonais, très prisée pour sa robustesse et sa réponse exceptionnelle aux techniques de pinçage des chandelles (méthode des 2 flush). Supporte bien la chaleur estivale de Cazaux et les hivers doux landais. Technique spécifique : suppression totale des chandelles en été (méthode Tanaka) pour induire un second débourrement automnal aux aiguilles plus courtes.",
-        "photo": "",
-        "debourrement": [
-          2,
-          0.1362397820163488
-        ],
-        "debourrement_djc": 607,
-        "debourrement_travaux": "Observation — Ko 7 (6-10 mars) ~600°J : gonflement visible des bourgeons blancs caractéristiques (bourgeons argentés très distinctifs). Les écailles s'écartent et la base des chandelles commence à pointer. Signal de fin de rempotage : toute intervention racinaire doit être terminée avant ce stade. Reprendre les arrosages normaux.",
-        "feuillaison": [
-          2,
-          0.6566757493188011
-        ],
-        "feuillaison_djc": 798,
-        "feuillaison_travaux": "Observation — Ko 10 (21-25 mars) ~800°J : émergence des nouvelles aiguilles hors de la gaine des chandelles en cours d'élongation. Observer la vigueur relative de chaque chandelle et de chaque zone (apex vs branches basses). Ne pas intervenir encore : laisser les chandelles s'allonger pleinement pour maximiser l'énergie foliaire disponible avant pinçage.",
-        "floraison": [
-          2,
-          1
-        ],
-        "floraison_djc": 924,
-        "floraison_travaux": "Observation — Ko 11 (26-30 mars) ~900°J : apparition des cônes mâles jaune soufre à la base des nouvelles pousses et des minuscules cônes femelles rouges en position apicale. Retirer manuellement les cônes mâles en excès pour économiser l'énergie de l'arbre. Si la fructification n'est pas recherchée, éliminer également les cônes femelles dès ce stade.",
-        "croissance": [
-          3,
-          0.21487603305785125
-        ],
-        "croissance_djc": 1070,
-        "croissance_travaux": "Observation — Ko 14 (10-14 avr) ~1100°J : élongation maximale des chandelles du premier flush. C'est le moment clé du pinçage printanier : pincer les chandelles vigoureuses (apex, branches hautes) à 1/3 de leur longueur, laisser les chandelles faibles (branches basses, intérieur) s'allonger davantage. Supprimer les chandelles surnuméraires (>2 par nœud). Fertilisation équilibrée NPK.",
-        "maturation": [
-          5,
-          0.5503597122302158
-        ],
-        "maturation_djc": 2198,
-        "maturation_travaux": "Observation — Ko 27 (16-20 juin) ~2200°J : aiguilles du premier flush entièrement développées et lignifiées. Sur les sujets vigoureux, c'est la fenêtre de la technique du double flush (méthode Tanaka) : supprimer intégralement toutes les chandelles du premier flush à leur base pour forcer un second débourrement en août-septembre aux aiguilles plus courtes. Réserver aux arbres en pleine santé.",
-        "senescence": [
-          8,
-          1
-        ],
-        "senescence_djc": 4401,
-        "senescence_travaux": "Observation — Ko 47 (28 sept-2 oct) ~4400°J : jaunissement et chute naturelle des aiguilles de 3 ans (les plus internes et basales). Phénomène normal et signe de bonne santé. Profiter de cette clarification du feuillage pour évaluer la ramification interne. Début de la période favorable à la ligature : le bois est encore souple avant les froids.",
-        "dormance_travaux": "",
-        "semis": [
-          2,
-          0.4604904632152589
-        ],
-        "semis_djc": 726,
-        "semis_travaux": "Observation — Ko 9 (16-20 mars) ~700°J : semis en plein air à Cazaux dès que les températures nocturnes dépassent 8°C régulièrement. Stratification à froid humide (4°C, 3-4 semaines) recommandée. Substrat : mélange akadama fine/sable de rivière/pouzzolane. Trempage des graines 24h avant semis. Germination en 2-3 semaines. P. thunbergii est plus facile que P. sylvestris au semis.",
-        "boutures": null,
-        "boutures_djc": null,
-        "boutures_travaux": "Observation — bouturage non applicable pour Pinus thunbergii : comme tous les pins à 2 aiguilles, l'enracinement bouturé est pratiquement impossible. Reproduction par semis exclusivement, ou greffage en placage (P. thunbergii sur P. thunbergii) au Ko 8-9 (mars) ~650-700°J. P. thunbergii est lui-même fréquemment utilisé comme porte-greffe pour d'autres pins difficiles à semer."
-      },
-      {
-        "_id": "mp3ov9ex07q3",
-        "espece": "pin sylvestre",
-        "url": "https://fr.wikipedia.org/wiki/Pinus_sylvestris",
-        "notes": "Persistant. Pinus sylvestris : conifère à aiguilles persistantes groupées par 2, bleutées à vert-gris. Écorce orangée caractéristique sur le haut du tronc. Croissance lente, excellent bonsaï de style literati ou droit formel. Nécessite un suivi précis du débourrement des chandelles pour la maîtrise de l'allongement. Sensible à l'excès d'humidité racinaire. Climat de Cazaux (Landes girondines) favorable : hivers doux, étés chauds et lumineux.",
-        "photo": "",
-        "debourrement": [
-          1,
-          1
-        ],
-        "debourrement_djc": 512,
-        "debourrement_travaux": "Observation — Ko 5 (24-28 fév) ~500°J : surveiller le gonflement des chandelles hivernales. Dès que les bourgeons s'allongent et que les écailles s'écartent, c'est le signal de reprise végétative. Ne pas rempotter après ce stade. Arrosage à reprendre progressivement.",
-        "feuillaison": [
-          2,
-          0.4604904632152589
-        ],
-        "feuillaison_djc": 726,
-        "feuillaison_travaux": "Observation — Ko 9 (16-20 mars) ~700°J : les nouvelles aiguilles commencent à sortir de la gaine. C'est le moment d'évaluer la vigueur par chandelle. Pinçage possible dès que les chandelles ont atteint 50-80 % de leur élongation maximale estimée : pincer à 1/3-1/2 pour équilibrer la vigueur.",
-        "floraison": [
-          2,
-          0.6566757493188011
-        ],
-        "floraison_djc": 798,
-        "floraison_travaux": "Observation — Ko 10 (21-25 mars) ~800°J : apparition des cônes pollinifères mâles (jaunes, à la base des nouvelles pousses) et des petits cônes femelles rougeâtres au sommet. Retirer les fleurs mâles à la main pour préserver l'énergie de l'arbre si la fructification n'est pas souhaitée. Bonne période pour observer la structure sans feuillage dense.",
-        "croissance": [
-          3,
-          0
-        ],
-        "croissance_djc": 992,
-        "croissance_travaux": "Observation — Ko 13 (5-9 avr) ~1000°J : élongation maximale des chandelles en cours. Intervenir sur le pinçage des chandelles vigoureuses si non encore fait. Supprimer les chandelles en excès (3+ par nœud, ne garder que 2). Fertilisation azotée modérée pour soutenir la croissance sans excès.",
-        "maturation": [
-          4,
-          0.24770642201834864
-        ],
-        "maturation_djc": 1530,
-        "maturation_travaux": "Observation — Ko 39 (18-22 août) ~3500°J : les cônes de l'année précédente arrivent à maturité complète (verts virant au brun). Les aiguilles de l'année sont désormais entièrement développées et lignifiées. Bon moment pour évaluer la densité du feuillage et commencer l'effeuillaison partielle des aiguilles âgées (défoliation sélective des vieilles aiguilles à la pince).",
-        "senescence": [
-          9,
-          0
-        ],
-        "senescence_djc": 4496,
-        "senescence_travaux": "Observation — Ko 47 (28 sept-2 oct) ~4400°J : jaunissement et chute naturelle des aiguilles de 2-3 ans (les plus internes). Phénomène normal : ne pas confondre avec une maladie. Profiter de cette transparence accrue pour affiner la structure, ligaturер les branches avant durcissement hivernal. Réduire progressivement les arrosages.",
-        "dormance_travaux": "",
-        "semis": [
-          2,
-          0.4604904632152589
-        ],
-        "semis_djc": 726,
-        "semis_travaux": "Observation — Ko 9 (16-20 mars) ~700°J : semer en terrine sous abri léger ou en plein air à Cazaux, températures nocturnes suffisantes. Stratification à froid (4°C, 4 semaines) recommandée au préalable. Substrat drainant : mélange akadama/sable/tourbe. Germination en 2-3 semaines. Croissance lente : compter 5-8 ans avant première mise en forme.",
-        "boutures": null,
-        "boutures_djc": null,
-        "boutures_travaux": "Observation — bouturage non recommandé pour Pinus sylvestris : taux d'enracinement quasi nul sur les conifères à aiguilles groupées par 2. Privilégier le semis ou le greffage (greffage en placage sur P. thunbergii au Ko 8-9, ~650-700°J, avant débourrement complet du porte-greffe)."
-      }
-    ],
+    "especes": [],
     "_version": "v20",
-    "_modCount": 1
+    "_modCount": 0
   },
   "checklist": {},
   "config": {
-    "ville1": {
-      "nom": "Cazaux",
-      "lat": "44.497",
-      "lon": "-1.164",
-      "url": "https://www.meteoblue.com/it/tempo/webcams/cazaux_francia_3028068"
-    },
-    "ville2": {
-      "nom": "Villedômer",
-      "lat": "47.5473",
-      "lon": "0.8861",
-      "url": "",
-      "active": true
-    }
+    "ville1": "",
+    "ville2": ""
   },
   "gauge_labels": null,
-  "annual_gauge_labels": [
-    "Dormance / Cognassier Japon",
-    "Mimosa / Prunus mume fleurissent",
-    "Les pruneliers fleurissent",
-    "Érables / Arbre de Judée débourre",
-    "Charme / Frêne / Chêne feuillaison",
-    "Chêne / TSUTSUJI floraison",
-    "Charme / Frêne",
-    "Jasmin/accacia/ Bougainvillier",
-    "Bambous croissance explosive",
-    "Hibiscus / Hortensia floraison",
-    "Kumquat / Citron véraison",
-    "Grenadier / Chêne vert maturation",
-    "Érables rougissent / Glands mûrs",
-    "Chute des feuilles / Arbousier fleurit",
-    "Lierre fructifie / Sénescence",
-    "Fin de cycle / Retour dormance"
-  ]
+  "annual_gauge_labels": null
 }
