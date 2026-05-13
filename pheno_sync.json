@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1778657703500,
-  "_date": "2026-05-13T07:35:03.500Z",
-  "_modCount": 1096,
+  "_ts": 1778657722855,
+  "_date": "2026-05-13T07:35:22.855Z",
+  "_modCount": 1097,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -113,45 +113,10 @@
         "boutures": null,
         "boutures_djc": null,
         "boutures_travaux": "Observation — bouturage non recommandé pour Pinus sylvestris : taux d'enracinement quasi nul sur les conifères à aiguilles groupées par 2. Privilégier le semis ou le greffage (greffage en placage sur P. thunbergii au Ko 8-9, ~650-700°J, avant débourrement complet du porte-greffe)."
-      },
-      {
-        "_id": "mp3pzwy01nck",
-        "espece": "Test",
-        "url": "",
-        "notes": "",
-        "photo": "",
-        "debourrement": [
-          4,
-          0.24770642201834864
-        ],
-        "debourrement_djc": 1530,
-        "debourrement_travaux": "Test",
-        "feuillaison": null,
-        "feuillaison_djc": null,
-        "feuillaison_travaux": "",
-        "floraison": null,
-        "floraison_djc": null,
-        "floraison_travaux": "",
-        "croissance": null,
-        "croissance_djc": null,
-        "croissance_travaux": "",
-        "maturation": null,
-        "maturation_djc": null,
-        "maturation_travaux": "",
-        "senescence": null,
-        "senescence_djc": null,
-        "senescence_travaux": "",
-        "dormance_travaux": "",
-        "semis": null,
-        "semis_djc": null,
-        "semis_travaux": "",
-        "boutures": null,
-        "boutures_djc": null,
-        "boutures_travaux": ""
       }
     ],
     "_version": "v20",
-    "_modCount": 1
+    "_modCount": 2
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
