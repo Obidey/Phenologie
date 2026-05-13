@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1778654347874,
-  "_date": "2026-05-13T06:39:07.874Z",
-  "_modCount": 1073,
+  "_ts": 1778654409330,
+  "_date": "2026-05-13T06:40:09.330Z",
+  "_modCount": 1074,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {},
@@ -39,10 +39,10 @@
         "croissance_djc": 992,
         "croissance_travaux": "Observation — Ko 13 (5-9 avr) ~1000°J : élongation maximale des chandelles en cours. Intervenir sur le pinçage des chandelles vigoureuses si non encore fait. Supprimer les chandelles en excès (3+ par nœud, ne garder que 2). Fertilisation azotée modérée pour soutenir la croissance sans excès.",
         "maturation": [
-          7,
-          0.34841628959276016
+          4,
+          0.24770642201834864
         ],
-        "maturation_djc": 3461,
+        "maturation_djc": 1530,
         "maturation_travaux": "Observation — Ko 39 (18-22 août) ~3500°J : les cônes de l'année précédente arrivent à maturité complète (verts virant au brun). Les aiguilles de l'année sont désormais entièrement développées et lignifiées. Bon moment pour évaluer la densité du feuillage et commencer l'effeuillaison partielle des aiguilles âgées (défoliation sélective des vieilles aiguilles à la pince).",
         "senescence": [
           9,
