@@ -1,10 +1,10 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1778742338122,
-  "_date": "2026-05-14T07:05:38.122Z",
+  "_ts": 1778742410152,
+  "_date": "2026-05-14T07:06:50.152Z",
   "_modCount": 1120,
-  "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
+  "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {},
     "especes": [
@@ -523,7 +523,7 @@
     "ko50_Zuisho_maturation_0": false,
     "ko53_Zuisho_senescence_0": false,
     "ko3_Zuisho_semis_0": true,
-    "ko20_Pin_Sylvestre_maturation_0": true
+    "ko20_Pin_Sylvestre_maturation_0": false
   },
   "config": {
     "ville1": {
