@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1778778938398,
-  "_date": "2026-05-14T17:15:38.398Z",
-  "_modCount": 1131,
+  "_ts": 1778778947662,
+  "_date": "2026-05-14T17:15:47.662Z",
+  "_modCount": 1132,
   "_device": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHT",
   "data": {
     "bornes": {},
@@ -524,7 +524,7 @@
     "ko53_Zuisho_senescence_0": false,
     "ko3_Zuisho_semis_0": true,
     "ko20_Pin_Sylvestre_maturation_0": true,
-    "ko20_Pin_Sylvestre_croissance_0": true
+    "ko20_Pin_Sylvestre_croissance_0": false
   },
   "config": {
     "ville1": {
