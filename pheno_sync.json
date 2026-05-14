@@ -1,8 +1,8 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1778742849259,
-  "_date": "2026-05-14T07:14:09.259Z",
+  "_ts": 1778778654710,
+  "_date": "2026-05-14T17:10:54.710Z",
   "_modCount": 1128,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
@@ -523,7 +523,8 @@
     "ko50_Zuisho_maturation_0": false,
     "ko53_Zuisho_senescence_0": false,
     "ko3_Zuisho_semis_0": true,
-    "ko20_Pin_Sylvestre_maturation_0": true
+    "ko20_Pin_Sylvestre_maturation_0": true,
+    "ko20_Pin_Sylvestre_croissance_0": true
   },
   "config": {
     "ville1": {
