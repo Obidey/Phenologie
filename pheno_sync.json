@@ -1,13 +1,69 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1778916828849,
-  "_date": "2026-05-16T07:33:48.849Z",
+  "_ts": 1778995925492,
+  "_date": "2026-05-17T05:32:05.492Z",
   "_modCount": 1142,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
     "especes": [
+      {
+        "_id": "mp9c8mye7n94",
+        "espece": "Acer Shaina",
+        "url": "https://fr.wikipedia.org/wiki/Acer_palmatum",
+        "notes": "Caduc. Acer palmatum cultivar nain à feuillage rouge-pourpre persistant toute la saison. Croissance très lente, entrenœuds courts naturellement — idéal bonsaï. Sensible aux brûlures foliaires en plein été méridional ; mi-ombre indispensable à Cazaux de juin à août. Résistance au gel correcte jusqu'à -10°C mais les bourgeons débourrant tôt sont vulnérables aux gelées tardives de mars.",
+        "photo": "",
+        "debourrement": [
+          2,
+          0.1362397820163488
+        ],
+        "debourrement_djc": 607,
+        "debourrement_travaux": "Observation — Ko 7 (6-10 mars) ~607°J : surveiller le gonflement et le rougissement des bourgeons apicaux. Dès l'éclatement des premières écailles, stopper tout rempotage racinaire invasif. Protéger si gel nocturne annoncé (voile P17). Ne pas fertiliser avant débourrement confirmé.",
+        "feuillaison": [
+          2,
+          0.6566757493188011
+        ],
+        "feuillaison_djc": 798,
+        "feuillaison_travaux": "Observation — Ko 10 (21-25 mars) ~798°J : déploiement des premières feuilles rouge-pourpre. Positionner l'arbre en lumière tamisée du matin. Première fertilisation azotée douce (NPK 12-6-6 ou organique). Pincer les pousses à 1-2 entre-nœuds dès 4-5 feuilles pour densifier le rameau.",
+        "floraison": [
+          2,
+          1
+        ],
+        "floraison_djc": 924,
+        "floraison_travaux": "Observation — Ko 12 (31 mars-4 avr) ~924°J : petites fleurs rougeâtres en corymbes peu ornementales. Chez Shaina en culture bonsaï, couper les inflorescences pour économiser l'énergie vers la ramification. Observer la nouaison si production de samares souhaitée pour semis.",
+        "croissance": [
+          3,
+          1
+        ],
+        "croissance_djc": 1355,
+        "croissance_travaux": "Observation — Ko 18 (30 avr-5 mai) ~1355°J : phase de croissance active des rameaux secondaires. Pinçage continu en taille verte toutes les 2-3 semaines jusqu'au Ko 22. Fertiliser en équilibré (NPK 6-6-6) bi-mensuel. Vérifier l'arrosage quotidien — les pots bonsaï sèchent vite à Cazaux avec le vent marin.",
+        "maturation": [
+          6,
+          0.7768014059753954
+        ],
+        "maturation_djc": 2998,
+        "maturation_travaux": "Observation — Ko 34 (23-28 juil) ~2998°J : feuillage durci, couleur rouge-bordeaux stable. Réduire la fertilisation azotée, passer en engrais de fin de saison (NPK 0-10-10 ou organique pauvre en N). Stopper le pinçage. Ombre partielle impérative — températures >35°C fréquentes à Cazaux en juillet.",
+        "senescence": [
+          8,
+          1
+        ],
+        "senescence_djc": 4401,
+        "senescence_travaux": "Observation — Ko 47 (28 sept-2 oct) ~4401°J : virage colorimétrique vers l'orange, le rouge vif et le cramoisi — spectaculaire sur Shaina. Période idéale pour les photos et l'évaluation de la silhouette nue à venir. Dernière fertilisation potassique légère. Ne pas arroser en excès pour accélérer la mise en dormance.",
+        "dormance_travaux": "",
+        "semis": [
+          1,
+          1
+        ],
+        "semis_djc": 512,
+        "semis_travaux": "Observation — Ko 6 (1-5 mars) ~557°J : stratifier les samares à froid humide 60-90 jours avant (dès Ko 66-67 en janvier). Semer en terrine drainante sous abri dès que risque de gel <0°C écarté. Germination attendue entre Ko 7 et Ko 10. Note : Shaina étant un cultivar, les semis ne reproduisent pas fidèlement — préférer le greffage.",
+        "boutures": [
+          4,
+          0.24770642201834864
+        ],
+        "boutures_djc": 1530,
+        "boutures_travaux": "Observation — Ko 19 (6-10 mai) ~1449°J : boutures semi-aoûtées sur pousses de l'année, 8-12 cm, 2-3 entre-nœuds. Couper la moitié des feuilles, tremper la base 30s dans l'AIB 3000 ppm, planter en substrat sable+perlite 50/50 sous brumisation ou sac plastique. Taux de reprise modéré sur Shaina (~40%) — multiplier les essais. Résultats visibles Ko 24-25."
+      },
       {
         "_id": "mp3qtt4nrmkv",
         "espece": "Pin noir du Japon",
