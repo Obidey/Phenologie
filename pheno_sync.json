@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1779087875832,
-  "_date": "2026-05-18T07:04:35.832Z",
-  "_modCount": 1153,
+  "_ts": 1779088105061,
+  "_date": "2026-05-18T07:08:25.061Z",
+  "_modCount": 1154,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {},
@@ -221,7 +221,14 @@
         "semis_travaux": "",
         "boutures": null,
         "boutures_djc": null,
-        "boutures_travaux": ""
+        "boutures_travaux": "",
+        "dormance_djc": 5223,
+        "dormance": [
+          10,
+          0.6719242902208202
+        ],
+        "notes_perso": "3/4kanuma 1/4 pumice vs l’inverse ;)\n\nPlante basale not atopic \nRajouter vinaigre \nVariété ?\nMi ombre \nVoile ombrage \nSi abouti floraison taille apres 80% de la floraison rempotage tous les 3 ans enlever gourmand  autour du bourgeon floral \nTaille drastique = compacité \nSi besoin de force rempotage en mars et on enlève les fleurs \nAlgami (?) avant  en octobre => mars avril (potasse) et après la floraison azote jamais d’engrais pendant la floraison engrais organique \nPot profond vigilant sur le chevelu \nGranulométrie grosse = grosse pousse (80% Pumice 20% Kanuma ou l'inverse dixit Lebecot)\nCharbon  => 10%\nBouture et rempotage très vite en juin avec la lune\nMultisec et purin d’ail tous les 15 jours \nPoudre de cannelle si problème de racine \nPas de cuivre\nPousse en juin et fin août \nFumagine \nAliette en espagne \nTsutsuji\nComptoir des fleurs oligo \nMarcote en dent de scie",
+        "erreurs_fatales": "Plante basale : Le dépérissement de la cime (Die-back)\nC'est le risque majeur. La sève circule plus volontiers dans les branches basses de la Satsuki que dans sa tête.\n\nLe risque : Si vous taillez la tête trop sévèrement (surtout après la floraison ou en plein été), l'arbre peut tout simplement abandonner la zone. Le bourgeonnement en retrait sur le vieux bois est beaucoup plus capricieux en haut qu'en bas. Vous risquez de vous retrouver avec une cime morte qui sèche jusqu'au tronc principal.\nLa parade : Laissez toujours un tire-sève (un rameau avec des feuilles actives) à l'extrémité de la zone taillée pour maintenir le flux de sève"
       }
     ],
     "_version": "v20",
