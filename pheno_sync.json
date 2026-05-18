@@ -1,10 +1,10 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1779080851077,
-  "_date": "2026-05-18T05:07:31.077Z",
+  "_ts": 1779085454826,
+  "_date": "2026-05-18T06:24:14.826Z",
   "_modCount": 1146,
-  "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
+  "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {},
     "especes": [
@@ -172,6 +172,56 @@
         ],
         "boutures_djc": 1530,
         "boutures_travaux": "Observation — bouturage non recommandé pour Pinus sylvestris : taux d'enracinement quasi nul sur les conifères à aiguilles groupées par 2. Privilégier le semis ou le greffage (greffage en placage sur P. thunbergii au Ko 8-9, ~650-700°J, avant débourrement complet du porte-greffe)."
+      },
+      {
+        "_id": "mpatjlfiwdam",
+        "espece": "Satsuki",
+        "url": "https://fr.wikipedia.org/wiki/Rhododendron_indicum",
+        "notes": "Semi-persistant (garde ses feuilles sauf hiver rigoureux), famille Ericaceae, Rhododendron indicum et hybrides. Espèce basalement dominante — branches basses à favoriser. Substrat acide impératif : Kanuma pur ou mélange Kanuma/Akadama. Floraison tardive (mai-juin) sur bois de l'année précédente : ne jamais tailler après juillet sous peine de supprimer les bourgeons floraux. Branches très cassantes, fil aluminium obligatoire.",
+        "photo": "",
+        "debourrement": [
+          2,
+          0.1362397820163488
+        ],
+        "debourrement_djc": 607,
+        "debourrement_travaux": "Observation — Ko 7 (6-10 mars) ~600°J : gonflement des bourgeons foliaires, écailles s'écartent légèrement sur les pousses basales.\nMebana (sélection bourgeons) — conserver 2 bourgeons par emplacement (un de chaque côté), éliminer les excédentaires à la main.\nHarigane-kake (ligature) — poser la ligature aluminium avant que les pousses ne durcissent ; rameaux encore souples en cette période.\nFertilisation : engrais acide rhododendron liquide, NPK 7-3-5, EC 0,8-1,0 mS/cm, pH 4,5-5,5 (eau de pluie de préférence).\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/azalea",
+        "feuillaison": [
+          2,
+          1
+        ],
+        "feuillaison_djc": 924,
+        "feuillaison_travaux": "Observation — Ko 11 (26-30 mars) ~860°J : débourrement complet, feuilles naissantes vert tendre sur toutes les pousses.\nMebana (sélection bourgeons) — affiner la sélection si des bourgeons supplémentaires ont échappé à la première passe.\nUekae (rempotage) — fenêtre possible avant ouverture complète des fleurs si l'arbre n'a pas fleuri depuis 3-4 ans ; substrat : Kanuma 70 % / Akadama 30 %, pH 4,5-5,5, drainage excellent. Supprimer tous les boutons floraux l'année du rempotage.\nFertilisation : NPK 7-3-5 liquide hebdomadaire, pH eau 4,5-5,5.\nSource : Bonsai4Me — https://bonsai4me.com/speciesguides/a-care-calendar-for-satsuki-azalea-bonsai/",
+        "floraison": [
+          4,
+          0.24770642201834864
+        ],
+        "floraison_djc": 1530,
+        "floraison_travaux": "Observation — Ko 20 (11-15 mai) ~1530°J : ouverture des fleurs, pic floral caractéristique de Cazaux fin mai. Durée 3-4 semaines selon cultivar.\nProtéger de la pluie et du soleil direct en pleine journée pour prolonger la floraison.\nSuspendre toute fertilisation pendant la floraison.\nRetirer les fleurs fanées et ovaires à la main au fur et à mesure (évite épuisement et favorise la pousse post-floraison).\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/azalea",
+        "croissance": [
+          4,
+          1
+        ],
+        "croissance_djc": 1776,
+        "croissance_travaux": "Observation — Ko 23 (26-31 mai) ~1776°J : second jet de croissance vigoureux post-floraison, pousses s'allongent rapidement depuis la base des anciens boutons.\nMetsumi (pincement) — ramener chaque pousse à 2 paires de feuilles dès qu'elle atteint 3-4 paires ; opération à répéter toutes les 2-3 semaines jusqu'à fin juin.\nSentai (taille de structure) — toute taille structurelle doit être terminée avant Ko 25 (10 juin) ~1991°J, date limite avant initiation des boutons floraux de l'année suivante.\nHarigane-kake (ligature) — reposer ou ajuster les ligatures sur rameaux en croissance ; surveiller les marques.\nToriki (marcottage aérien) — Ko 23-28 : période optimale, sève active.\nFertilisation : NPK 7-3-5 hebdomadaire jusqu'à fin juin, puis basculer vers NPK 0-10-10 pour induire les boutons floraux (juillet-août).\nSource : Bonsai Mirai — https://bonsaimirai.com/species/satsuki-azalea-bonsai",
+        "maturation": [
+          7,
+          0
+        ],
+        "maturation_djc": 3230,
+        "maturation_travaux": "Observation — Ko 36 (3-7 aout) ~3230°J : boutons floraux de la prochaine saison en cours de formation sur les pousses de l'année. Croissance ralentit, feuilles durcissent.\nAucune taille ni ligature sur rameaux portant des boutons différenciés.\nOmbrage partiel recommandé si T° > 30°C (voile 30 %).\nFertilisation : NPK 0-10-10, EC 0,8-1,0 mS/cm, pH 4,5-5,5 ; favorise la maturation des boutons et le durcissement des rameaux.\nSource : Bonsai4Me — https://bonsai4me.com/speciesguides/a-care-calendar-for-satsuki-azalea-bonsai/",
+        "senescence": [
+          9,
+          0
+        ],
+        "senescence_djc": 4496,
+        "senescence_travaux": "Observation — Ko 47 (28 sept-2 oct) ~4401°J : arrêt de la croissance végétative, quelques feuilles anciennes jaunissent et tombent (phénomène normal). Boutons floraux visibles et bien formés.\nFertilisation : NPK 3-8-8 organique granulé, dose réduite, dernière application avant Ko 55 (nov) ; stopper l'azote pour durcir les tissus avant l'hiver.\nProtection anti-mildiou et anti-acariens préventive si automne humide.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/azalea",
+        "dormance_travaux": "",
+        "semis": null,
+        "semis_djc": null,
+        "semis_travaux": "",
+        "boutures": null,
+        "boutures_djc": null,
+        "boutures_travaux": ""
       }
     ],
     "_version": "v20",
