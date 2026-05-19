@@ -1,10 +1,10 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1779091698057,
-  "_date": "2026-05-18T08:08:18.057Z",
+  "_ts": 1779171607299,
+  "_date": "2026-05-19T06:20:07.299Z",
   "_modCount": 1168,
-  "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
+  "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {},
     "especes": [
@@ -229,6 +229,54 @@
         ],
         "notes_perso": "3/4kanuma 1/4 pumice vs l’inverse ;)\n\nPlante basale not atopic \nRajouter vinaigre \nVariété ?\nMi ombre \nVoile ombrage \nSi abouti floraison taille apres 80% de la floraison rempotage tous les 3 ans enlever gourmand  autour du bourgeon floral \nTaille drastique = compacité \nSi besoin de force rempotage en mars et on enlève les fleurs \nAlgami (?) avant  en octobre => mars avril (potasse) et après la floraison azote jamais d’engrais pendant la floraison engrais organique \nPot profond vigilant sur le chevelu \nGranulométrie grosse = grosse pousse (80% Pumice 20% Kanuma ou l'inverse dixit Lebecot)\nCharbon  => 10%\nBouture et rempotage très vite en juin avec la lune\nMultisec et purin d’ail tous les 15 jours \nPoudre de cannelle si problème de racine \nPas de cuivre\nPousse en juin et fin août \nFumagine \nAliette en espagne \nTsutsuji\nComptoir des fleurs oligo \nMarcote en dent de scie",
         "erreurs_fatales": "Plante basale : Le dépérissement de la cime (Die-back)\nC'est le risque majeur. La sève circule plus volontiers dans les branches basses de la Satsuki que dans sa tête.\n\nLe risque : Si vous taillez la tête trop sévèrement (surtout après la floraison ou en plein été), l'arbre peut tout simplement abandonner la zone. Le bourgeonnement en retrait sur le vieux bois est beaucoup plus capricieux en haut qu'en bas. Vous risquez de vous retrouver avec une cime morte qui sèche jusqu'au tronc principal.\nLa parade : Laissez toujours un tire-sève (un rameau avec des feuilles actives) à l'extrémité de la zone taillée pour maintenir le flux de sève"
+      },
+      {
+        "_id": "mpc8u3wjwal8",
+        "espece": "Zuisho",
+        "url": "https://fr.wikipedia.org/wiki/Pinus_parviflora",
+        "notes": "Persistant, Pinaceae. Cultivar nain de Pinus parviflora (pin blanc du Japon). Aiguilles courtes, tordues, bleutées — très prisé en bonsaï pour sa ramification dense et sa croissance lente. Sensible à l'excès d'humidité racinaire. Ne supporte pas la taille sur vieux bois sans aiguilles.",
+        "photo": "",
+        "debourrement": [
+          2,
+          0.1362397820163488
+        ],
+        "debourrement_djc": 607,
+        "debourrement_travaux": "Observation — Ko 7 (6-10 mars) ~600°J : gonflement des bourgeons apicaux, écailles s'écartent, pointe blanche visible.\nMebana (sélection bourgeons) — éliminer les bourgeons surnuméraires (>2 par verticille) avant élongation des chandelles.\nHarigane-kake (ligature) — dernière fenêtre avant reprise de sève pour poser ou corriger les ligatures sur branches secondaires.\nFertilisation : NPK 5-5-5 organique, reprise progressive, pH 5,5-6,5.\nUekae (rempotage) — Ko 6-8 (1-15 mars) en sortie de dormance, juste avant le gonflement des bourgeons. Substrat : 70% akadama grossier + 30% pouzzolane, \nSource : Bonsai Tonight — https://bonsaitonight.com/2011/03/28/the-zuisho-white-pine/",
+        "feuillaison": null,
+        "feuillaison_djc": null,
+        "feuillaison_travaux": "",
+        "floraison": [
+          2,
+          0.6566757493188011
+        ],
+        "floraison_djc": 798,
+        "floraison_travaux": "Observation — Ko 10 (21-25 mars) ~800°J : apparition des fleurs mâles (cônes polliniques jaunes à la base des chandelles) et femelles (petits cônes roses aux apex).\nAucune intervention technique sur les organes floraux en bonsaï de collection.\nFertilisation : NPK 5-5-5 organique, maintenir apports modérés.\nSource : Bonsai Tonight — https://bonsaitonight.com/2011/03/28/the-zuisho-white-pine/",
+        "croissance": [
+          2,
+          1
+        ],
+        "croissance_djc": 924,
+        "croissance_travaux": "Observation — Ko 12 (31 mars-4 avr) ~900°J : élongation active des chandelles, croissance lente caractéristique du cultivar.\nMekiri (taille chandelles) — couper les chandelles à 1/3-1/2 de leur longueur finale quand elles atteignent 3-5 cm, avant ouverture des aiguilles. Couper les plus vigoureuses en premier (7-10 jours avant les faibles) pour équilibrer la vigueur.\nMebana (sélection bourgeons) — après mekiri, supprimer les bourgeons adventifs indésirables à la base des chandelles coupées.\nHarigane-kake (ligature) — poser les ligatures sur les nouvelles pousses ligneuses de l'année précédente avant que les aiguilles n'entravent l'accès.\nFertilisation : NPK 10-6-6, EC 0,8-1,2 mS/cm, pH 5,5-6,5.\nSource : Bonsai Tonight — https://bonsaitonight.com/2022/04/04/managing-zuisho-white-pine-candles/",
+        "maturation": [
+          5,
+          0.5503597122302158
+        ],
+        "maturation_djc": 2198,
+        "maturation_travaux": "Observation — Ko 27 (16-20 juin) ~2200°J : aiguilles de l'année pleinement développées, chandelles lignifiées, bourgeons terminaux formés.\nHazukashi (désaiguillage) — retirer les vieilles aiguilles (2-3 ans) à la main sur les branches intérieures pour améliorer la lumière et la ramification.\nFertilisation : NPK 6-6-6 équilibré, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/japanese-white-pine",
+        "senescence": [
+          9,
+          0
+        ],
+        "senescence_djc": 4496,
+        "senescence_travaux": "Observation — Ko 49 (8-12 oct) ~4600°J : jaunissement et chute naturelle des aiguilles les plus âgées (3e année), processus normal.\nHazukashi (désaiguillage) — compléter le nettoyage des vieilles aiguilles si non fait en juin-juillet, avant l'hiver.\nSentai (taille de structure) — taille légère de silhouette acceptable si l'arbre est vigoureux, coupes sur bois portant des aiguilles.\nFertilisation : NPK 3-6-9 ou 0-10-10, favoriser la maturation des tissus, stopper avant les gelées.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/japanese-white-pine",
+        "dormance_travaux": "Observation — Ko 66-72 (jan-3 fev) : repos végétatif complet, bourgeons fermés, métabolisme minimal.\nUekae (rempotage) — Ko 6-8 (1-15 mars) en sortie de dormance, juste avant le gonflement des bourgeons. Substrat : 70% akadama grossier + 30% pouzzolane, pH 5,5-6,0, drainage excellent. Cycle : tous les 4-6 ans sur arbres matures.\nHarigane-kake (ligature) — poser ou corriger en fin de dormance (Ko 6-7) sur bois de l'année précédente, avant que la sève ne reprenne.\nProtection hivernale : hors gel (>-5°C à Cazaux), protéger des gelées prolongées sous -8°C en serre froide non chauffée. Ne pas chauffer.\nFertilisation : arrêt total novembre-février.\nSource : Bonsai Tonight — https://bonsaitonight.com/2011/03/28/the-zuisho-white-pine/",
+        "notes_perso": "",
+        "erreurs_fatales": "",
+        "dormance_djc": 5223,
+        "dormance": [
+          10,
+          0.6719242902208202
+        ]
       }
     ],
     "_version": "v20",
