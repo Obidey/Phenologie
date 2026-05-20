@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1779257723850,
-  "_date": "2026-05-20T06:15:23.850Z",
-  "_modCount": 1184,
+  "_ts": 1779258005346,
+  "_date": "2026-05-20T06:20:05.346Z",
+  "_modCount": 1185,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -63,6 +63,53 @@
         ],
         "boutures_djc": 1530,
         "boutures_travaux": "Observation — Ko 19 (6-10 mai) ~1449°J : boutures semi-aoûtées sur pousses de l'année, 8-12 cm, 2-3 entre-nœuds. Couper la moitié des feuilles, tremper la base 30s dans l'AIB 3000 ppm, planter en substrat sable+perlite 50/50 sous brumisation ou sac plastique. Taux de reprise modéré sur Shaina (~40%) — multiplier les essais. Résultats visibles Ko 24-25."
+      },
+      {
+        "_id": "mpdo9x1vdfo9",
+        "espece": "Goyomatsu",
+        "url": "https://fr.wikipedia.org/wiki/Pinus_parviflora",
+        "notes": "Persistant, Pinaceae. Cultivar nain de Pinus parviflora (pin blanc du Japon). Aiguilles courtes, tordues, bleutées — très prisé en bonsaï pour sa ramification dense et sa croissance lente. Racines parmi les plus délicates des conifères (ABE). Substrat recommandé par ABE : 70% akadama + 30% kiryu. Ne supporte pas la défoliation simultanée au pincement.",
+        "photo": "",
+        "debourrement": [
+          2,
+          0.1362397820163488
+        ],
+        "debourrement_djc": 607,
+        "debourrement_travaux": "Observation — Ko 7 (6-10 mars) ~600°J : gonflement des bourgeons apicaux, écailles s'écartent, pointe blanche visible.\nMebana (sélection bourgeons) — éliminer les bourgeons surnuméraires (>2 par verticille) avant élongation. Quand 7 ou 8 chandelles sortent du même point, supprimer les plus vigoureuses et conserver 3-4 des plus faibles (ABE, chap. 6.1).\nHarigane-kake (ligature) — dernière fenêtre avant reprise de sève pour poser ou corriger les ligatures sur branches secondaires. Retirer avant marquage : ne pas laisser plus de 2-3 ans (ABE).\nFertilisation : tourteau organique (ABURAKASU) faible dose — le Pin pentaphylla n'a besoin que d'aiguilles d'un vert intense, pas de croissance forcée (ABE, p. 49).\nSource : ABE Kurakichi, Les Pins en Bonsaï, chap. 6 — https://fr.wikipedia.org/wiki/Pinus_parviflora",
+        "feuillaison": null,
+        "feuillaison_djc": null,
+        "feuillaison_travaux": "",
+        "floraison": [
+          2,
+          0.6566757493188011
+        ],
+        "floraison_djc": 798,
+        "floraison_travaux": "Observation — Ko 10 (21-25 mars) ~800°J : apparition des cônes polliniques jaunes à la base des chandelles, cônes femelles roses aux apex.\nAucune intervention sur les organes floraux.\nFertilisation : tourteau organique faible dose, maintenir apports modérés.\nSource : ABE Kurakichi, Les Pins en Bonsaï — https://fr.wikipedia.org/wiki/Pinus_parviflora",
+        "croissance": [
+          2,
+          1
+        ],
+        "croissance_djc": 924,
+        "croissance_travaux": "Observation — Ko 12-15 (31 mars-19 avr) ~900-1100°J : élongation active des chandelles. Croissance lente caractéristique du cultivar Zuisho.\nMekiri (pincement chandelles) — pincer quand les aiguilles naissantes atteignent 1-2 mm (fin avril-début mai à Cazaux). Laisser 3-4 aiguilles ; ne jamais couper sous les aiguilles, sinon aucun bourgeon ne sortira. Pincer les chandelles vigoureuses en premier pour équilibrer (ABE, chap. 6.1). Ne pas pratiquer la défoliation simultanément au pincement : risque de bourgeons absents ou désordonnés sur le Pin pentaphylla (ABE, chap. 6.3).\nMebana (sélection bourgeons) — après pincement, supprimer les bourgeons adventifs indésirables.\nHarigane-kake (ligature) — poser sur les nouvelles pousses ligneuses avant que les aiguilles n'entravent l'accès. Pendant la période de croissance des bourgeons, arroser moins souvent pour freiner le développement (ABE, chap. mini-bonsaï).\nFertilisation : tourteau organique (ABURAKASU) dose modérée — éviter tout excès : racines qui pourrissent, aiguilles qui jaunissent (ABE, p. 49).\nSource : ABE Kurakichi, Les Pins en Bonsaï, chap. 6.1 et 6.3 — https://fr.wikipedia.org/wiki/Pinus_parviflora",
+        "maturation": [
+          5,
+          0.5503597122302158
+        ],
+        "maturation_djc": 2198,
+        "maturation_travaux": "Observation — Ko 27 (16-20 juin) ~2200°J : aiguilles de l'année pleinement développées, chandelles lignifiées, bourgeons terminaux formés.\nHazukashi (désaiguillage) — défoliation des nouvelles pousses : détacher les aiguilles de leur gaine quand elles sont bien développées, dans le mois de juin. Ne laisser aucune aiguille sur les rameaux traités sinon les nouveaux bourgeons ne sortiraient pas. Laisser les vieilles aiguilles, enlever toutes les nouvelles (ABE, chap. 6.3). Les bourgeons sortiront l'année suivante.\nFertilisation : engrais léger en août, un peu d'engrais liquide ou tourteau (ABURAKASU) — une seule application (ABE, p. semis ligne 2181).\nSource : ABE Kurakichi, Les Pins en Bonsaï, chap. 6.3 — https://fr.wikipedia.org/wiki/Pinus_parviflora",
+        "senescence": [
+          9,
+          0
+        ],
+        "senescence_djc": 4496,
+        "senescence_travaux": "Observation — Ko 49 (8-12 oct) ~4600°J : jaunissement et chute naturelle des aiguilles de 3e année, phénomène normal.\nHazukashi (désaiguillage) — compléter le nettoyage des vieilles aiguilles pour améliorer la lumière vers les branches intérieures.\nSentai (taille de structure) — taille légère de silhouette sur bois portant des aiguilles. Toute taille en automne entraîne une action au printemps suivant (ABE). Ne pas tailler après l'équinoxe d'automne si rempotage envisagé : l'arbre ne pourrait pas former de nouvelles racines avant l'hiver (ABE, chap. 2.1).\nFertilisation : engrais à base de tourteau en automne pour la première année après rempotage (ABE, chap. semis). Arrêt progressif avant les gelées.\nSource : ABE Kurakichi, Les Pins en Bonsaï, chap. 2.1 et 6 — https://fr.wikipedia.org/wiki/Pinus_parviflora",
+        "dormance_travaux": "",
+        "semis": null,
+        "semis_djc": null,
+        "semis_travaux": "",
+        "boutures": null,
+        "boutures_djc": null,
+        "boutures_travaux": ""
       },
       {
         "_id": "mp3qtt4nrmkv",
