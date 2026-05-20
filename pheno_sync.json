@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1779265621881,
-  "_date": "2026-05-20T08:27:01.881Z",
-  "_modCount": 1197,
+  "_ts": 1779265813898,
+  "_date": "2026-05-20T08:30:13.898Z",
+  "_modCount": 1198,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -110,6 +110,57 @@
         "boutures": null,
         "boutures_djc": null,
         "boutures_travaux": ""
+      },
+      {
+        "_id": "mpdsxa5hqvys",
+        "espece": "Kuromatsu",
+        "url": "https://fr.wikipedia.org/wiki/Pinus_thunbergii",
+        "notes": "Persistant, Pinaceae, pin noir du Japon (Pinus thunbergii). Bonsaï emblématique du style japonais — travail en deux temps (mekiri + mebana) indispensable pour ramifier et réduire les aiguilles. Vigueur forte, supporte la chaleur et la sécheresse du climat landais.",
+        "photo": "",
+        "debourrement": [
+          2,
+          0.1362397820163488
+        ],
+        "debourrement_djc": 607,
+        "debourrement_travaux": "Observation — Ko 7 (6-10 mars) ~600°J : bourgeons (chandelles) gonflent, écailles s'écartent, pointe verte apparaît.\nMebana (sélection bourgeons) — supprimer les chandelles surnuméraires sur chaque verticille, ne conserver que 2-3 par rameau selon l'objectif de structure.\nHarigane-kake (ligature) — poser les ligatures avant allongement complet des chandelles ; le bois est encore souple.\nFertilisation : NPK 0-10-10 ou 3-6-6, apport azoté minimal pour ne pas forcer l'élongation, EC 0,8-1,2 mS/cm, pH 5,5-6,5.\nSource : Bonsai Tonight (Jonas Dupuich) — https://bonsaitonight.com/2013/03/14/black-pine-candle-selection/",
+        "feuillaison": [
+          1,
+          1
+        ],
+        "feuillaison_djc": 512,
+        "feuillaison_travaux": "Uekae (rempotage) — Ko 4-6 (19 fév-5 mars) ~500°J, juste avant gonflement des chandelles, tous les 3-5 ans selon vigueur. Substrat : 70% akadama gros grain (3-6 mm) + 20% pouzzolane + 10% kiryu ou sable de rivière lavé ; pH cible 5,5-6,0 ; drainage excellent indispensable. Réduire les racines d'un tiers maximum.\"",
+        "floraison": [
+          2,
+          0.4604904632152589
+        ],
+        "floraison_djc": 726,
+        "floraison_travaux": "Observation — Ko 8 (11-15 mars) ~700°J : chatons mâles (jaune) et cônes femelles (rouges) apparaissent en base de chandelles.\nAucune intervention technique spécifique — laisser la pollinisation s'effectuer.\nFertilisation : maintenir NPK 3-6-6, EC 0,8-1,2 mS/cm.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/black-pine",
+        "croissance": [
+          2,
+          1
+        ],
+        "croissance_djc": 924,
+        "croissance_travaux": "Observation — Ko 11 (26-30 mars) ~900°J : chandelles s'allongent, aiguilles commencent à s'ouvrir à l'apex.\nHarigane-kake (ligature) — surveiller les marques, retirer ou reposer avant strangulation sur les rameaux en croissance rapide.\nFertilisation : augmenter l'azote — NPK 10-6-6, EC 1,2-1,8 mS/cm, pH 5,5-6,5.\nSource : Bonsai Tonight — https://bonsaitonight.com/2016/04/19/black-pine-spring-growth/",
+        "maturation": [
+          5,
+          0.7517985611510791
+        ],
+        "maturation_djc": 2310,
+        "maturation_travaux": "Observation — Ko 20 (11-15 mai) ~1500°J : chandelles pleinement allongées, aiguilles de l'année déployées, croissance de printemps achevée.\nMekiri (taille chandelles) — couper toutes les chandelles à leur base entre Ko 20-22 (11-25 mai) pour forcer une deuxième poussée d'été aux aiguilles plus courtes. Couper en une seule session sur les sujets vigoureux ; échelonner sur 2 semaines sur les sujets faibles (commencer par les branches les plus vigoureuses).\nHazukashi (désaiguillage) — non pratiqué à cette saison sur kuromatsu ; réservé à l'automne.\nFertilisation : réduire l'azote après mekiri — NPK 3-6-6, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Bonsai Tonight — https://bonsaitonight.com/2017/05/23/timing-black-pine-decandling/",
+        "senescence": [
+          9,
+          0
+        ],
+        "senescence_djc": 4496,
+        "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4300°J : aiguilles de l'année N-1 jaunissent et tombent naturellement ; deuxième pousse de l'été mature.\nHazukashi (désaiguillage) — Ko 46-52 (sept-oct) : retirer les vieilles aiguilles (N-1) à la main ou aux ciseaux, en conserver 6-10 paires par rameau terminal. Améliore la pénétration de la lumière et la ramification interne.\nMebana (sélection bourgeons) — après désaiguillage, identifier et supprimer les bourgeons excédentaires sur chaque rameau : conserver 2 bourgeons par terminaison.\nSentai (taille de structure) — supprimer les branches inverses, croisées ou superposées une fois le feuillage éclairci.\nFertilisation : NPK 3-10-10 pour durcir les nouvelles pousses avant l'hiver, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Bonsai Tonight — https://bonsaitonight.com/2013/10/07/fall-black-pine-work/",
+        "dormance_travaux": "Observation — Ko 60-72 (déc-fev) : végétation au repos, bourgeons dormants.\nUekae (rempotage) — Ko 6-8 (1-15 mars) juste avant débourrement, tous les 3-5 ans selon vigueur.     Substrat : 70% akadama gros grain (3-6 mm) + 20% pouzzolane + 10% kiryusable de rivière lavé ; pH cible 5,5-6,0 ; drainage excellent indispensable. Réduire les racines d'un tiers maximum.\nHarigane-kake (ligature) — période favorable pour poser ou corriger les ligatures structurelles sur les branches principales ; le bois est visible et la sève au repos limite les cicatrices.\nSentai (taille de structure) — coupes importantes possibles en janvier-février avant montée de sève ; les plaies cicatrisent à la reprise de végétation.\nFertilisation : aucun apport de novembre à fin janvier.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/black-pine",
+        "notes_perso": "",
+        "erreurs_fatales": "Relecture métier :\n\n**1. Mekiri en Ko 20-22 (11-25 mai)** — erreur fatale. Le mekiri sur kuromatsu se fait en **juin-juillet** au Japon. À Cazaux, la chaleur avance le calendrier mais pas à mai. Les chandelles de printemps doivent être **complètement lignifiées** avant coupe. Ko 20 (~1500°J) elles sont à peine déployées. Fenêtre correcte : **Ko 24-28 (juin)** ~1900-2300°J.\n\n**2. Mebana au débourrement (Ko 7)** — erreur fatale. La sélection des bourgeons/chandelles se fait **après** apparition complète, pas au gonflement. Ko 7 est trop tôt — les chandelles ne sont pas encore dénombrables avec précision. Fenêtre correcte : **Ko 9-10 (mi-mars)** ~700-800°J quand toutes les chandelles sont visibles et comparables en vigueur.\n\n**3. Mebana en automne couplé à Hazukashi** — usage du terme incorrect. En automne on parle de **sélection des bourgeons terminaux** après désaiguillage, ce qui est juste dans le fond, mais `mebana` désigne strictement la sélection printanière des chandelles. Terme correct pour l'automne : **méthode de sélection des bourgeons (mitoméo / budding selection)** — `mebana` en automne est une confusion terminologique, pas fatale mais inexacte.\n\n**Correction prioritaire : mekiri_djc → 2000, ancré Ko 25-26 (juin).**",
+        "dormance_djc": 5223,
+        "dormance": [
+          10,
+          0.6719242902208202
+        ]
       },
       {
         "_id": "mp3qtt4nrmkv",
