@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1779414209145,
-  "_date": "2026-05-22T01:43:29.145Z",
-  "_modCount": 1225,
+  "_ts": 1779414211691,
+  "_date": "2026-05-22T01:43:31.691Z",
+  "_modCount": 1226,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {},
@@ -65,97 +65,50 @@
         "boutures_travaux": "Observation — Ko 19 (6-10 mai) ~1449°J : boutures semi-aoûtées sur pousses de l'année, 8-12 cm, 2-3 entre-nœuds. Couper la moitié des feuilles, tremper la base 30s dans l'AIB 3000 ppm, planter en substrat sable+perlite 50/50 sous brumisation ou sac plastique. Taux de reprise modéré sur Shaina (~40%) — multiplier les essais. Résultats visibles Ko 24-25."
       },
       {
-        "_id": "mpdo9x1vdfo9",
-        "espece": "Goyomatsu",
-        "url": "https://fr.wikipedia.org/wiki/Pinus_parviflora",
-        "notes": "Persistant, Pinaceae. Cultivar nain de Pinus parviflora (pin blanc du Japon). Aiguilles courtes, tordues, bleutées — très prisé en bonsaï pour sa ramification dense et sa croissance lente. Racines parmi les plus délicates des conifères (ABE). Substrat recommandé par ABE : 70% akadama + 30% kiryu. Ne supporte pas la défoliation simultanée au pincement.",
+        "_id": "mpf3c5tjyodv",
+        "espece": "Juniperus Chinensis",
+        "url": "https://fr.wikipedia.org/wiki/Juniperus_chinensis",
+        "notes": "Persistant, Cupressaceae (Juniperus chinensis). Feuillage mixte écailleux (adulte) et aciculaire (juvénile) selon la variété. Bonsäï majeur de la tradition japonaise — Shimpaku (J. chinensis var. sargentii) est la référence absolue. Deadwood (shari/jin) très valorisé. Ne jamais rempoter et tailler structurellement la même année.",
         "photo": "",
         "debourrement": [
-          2,
-          0.1362397820163488
-        ],
-        "debourrement_djc": 607,
-        "debourrement_travaux": "Observation — Ko 7 (6-10 mars) ~600°J : gonflement des bourgeons apicaux, écailles s'écartent, pointe blanche visible.\nMebana (sélection bourgeons) — éliminer les bourgeons surnuméraires (>2 par verticille) avant élongation. Quand 7 ou 8 chandelles sortent du même point, supprimer les plus vigoureuses et conserver 3-4 des plus faibles (ABE, chap. 6.1).\nHarigane-kake (ligature) — dernière fenêtre avant reprise de sève pour poser ou corriger les ligatures sur branches secondaires. Retirer avant marquage : ne pas laisser plus de 2-3 ans (ABE).\nFertilisation : tourteau organique (ABURAKASU) faible dose — le Pin pentaphylla n'a besoin que d'aiguilles d'un vert intense, pas de croissance forcée (ABE, p. 49).\nSource : ABE Kurakichi, Les Pins en Bonsaï, chap. 6 — https://fr.wikipedia.org/wiki/Pinus_parviflora",
-        "feuillaison": null,
-        "feuillaison_djc": null,
-        "feuillaison_travaux": "",
-        "floraison": [
-          2,
-          0.6566757493188011
-        ],
-        "floraison_djc": 798,
-        "floraison_travaux": "Observation — Ko 10 (21-25 mars) ~800°J : apparition des cônes polliniques jaunes à la base des chandelles, cônes femelles roses aux apex.\nAucune intervention sur les organes floraux.\nFertilisation : tourteau organique faible dose, maintenir apports modérés.\nSource : ABE Kurakichi, Les Pins en Bonsaï — https://fr.wikipedia.org/wiki/Pinus_parviflora",
-        "croissance": [
-          2,
-          1
-        ],
-        "croissance_djc": 924,
-        "croissance_travaux": "Observation — Ko 12-15 (31 mars-19 avr) ~900-1100°J : élongation active des chandelles. Croissance lente caractéristique du cultivar Zuisho.\nMekiri (pincement chandelles) — pincer quand les aiguilles naissantes atteignent 1-2 mm (fin avril-début mai à Cazaux). Laisser 3-4 aiguilles ; ne jamais couper sous les aiguilles, sinon aucun bourgeon ne sortira. Pincer les chandelles vigoureuses en premier pour équilibrer (ABE, chap. 6.1). Ne pas pratiquer la défoliation simultanément au pincement : risque de bourgeons absents ou désordonnés sur le Pin pentaphylla (ABE, chap. 6.3).\nMebana (sélection bourgeons) — après pincement, supprimer les bourgeons adventifs indésirables.\nHarigane-kake (ligature) — poser sur les nouvelles pousses ligneuses avant que les aiguilles n'entravent l'accès. Pendant la période de croissance des bourgeons, arroser moins souvent pour freiner le développement (ABE, chap. mini-bonsaï).\nFertilisation : tourteau organique (ABURAKASU) dose modérée — éviter tout excès : racines qui pourrissent, aiguilles qui jaunissent (ABE, p. 49).\nSource : ABE Kurakichi, Les Pins en Bonsaï, chap. 6.1 et 6.3 — https://fr.wikipedia.org/wiki/Pinus_parviflora",
-        "maturation": [
-          5,
-          0.5503597122302158
-        ],
-        "maturation_djc": 2198,
-        "maturation_travaux": "Observation — Ko 27 (16-20 juin) ~2200°J : aiguilles de l'année pleinement développées, chandelles lignifiées, bourgeons terminaux formés.\nHazukashi (désaiguillage) — défoliation des nouvelles pousses : détacher les aiguilles de leur gaine quand elles sont bien développées, dans le mois de juin. Ne laisser aucune aiguille sur les rameaux traités sinon les nouveaux bourgeons ne sortiraient pas. Laisser les vieilles aiguilles, enlever toutes les nouvelles (ABE, chap. 6.3). Les bourgeons sortiront l'année suivante.\nFertilisation : engrais léger en août, un peu d'engrais liquide ou tourteau (ABURAKASU) — une seule application (ABE, p. semis ligne 2181).\nSource : ABE Kurakichi, Les Pins en Bonsaï, chap. 6.3 — https://fr.wikipedia.org/wiki/Pinus_parviflora",
-        "senescence": [
-          9,
-          0
-        ],
-        "senescence_djc": 4496,
-        "senescence_travaux": "Observation — Ko 49 (8-12 oct) ~4600°J : jaunissement et chute naturelle des aiguilles de 3e année, phénomène normal.\nHazukashi (désaiguillage) — compléter le nettoyage des vieilles aiguilles pour améliorer la lumière vers les branches intérieures.\nSentai (taille de structure) — taille légère de silhouette sur bois portant des aiguilles. Toute taille en automne entraîne une action au printemps suivant (ABE). Ne pas tailler après l'équinoxe d'automne si rempotage envisagé : l'arbre ne pourrait pas former de nouvelles racines avant l'hiver (ABE, chap. 2.1).\nFertilisation : engrais à base de tourteau en automne pour la première année après rempotage (ABE, chap. semis). Arrêt progressif avant les gelées.\nSource : ABE Kurakichi, Les Pins en Bonsaï, chap. 2.1 et 6 — https://fr.wikipedia.org/wiki/Pinus_parviflora",
-        "dormance_travaux": "",
-        "semis": null,
-        "semis_djc": null,
-        "semis_travaux": "",
-        "boutures": null,
-        "boutures_djc": null,
-        "boutures_travaux": ""
-      },
-      {
-        "_id": "mpdsxa5hqvys",
-        "espece": "Kuromatsu",
-        "url": "https://fr.wikipedia.org/wiki/Pinus_thunbergii",
-        "notes": "Persistant, Pinaceae, pin noir du Japon (Pinus thunbergii). Bonsaï emblématique du style japonais — travail en deux temps (mekiri + mebana) indispensable pour ramifier et réduire les aiguilles. Vigueur forte, supporte la chaleur et la sécheresse du climat landais.",
-        "photo": "",
-        "debourrement": [
-          2,
-          0.1362397820163488
-        ],
-        "debourrement_djc": 607,
-        "debourrement_travaux": "Observation — Ko 7 (6-10 mars) ~600°J : bourgeons (chandelles) gonflent, écailles s'écartent, pointe verte apparaît.\nMebana (sélection bourgeons) — supprimer les chandelles surnuméraires sur chaque verticille, ne conserver que 2-3 par rameau selon l'objectif de structure.\nHarigane-kake (ligature) — poser les ligatures avant allongement complet des chandelles ; le bois est encore souple.\nFertilisation : NPK 0-10-10 ou 3-6-6, apport azoté minimal pour ne pas forcer l'élongation, EC 0,8-1,2 mS/cm, pH 5,5-6,5.\nSource : Bonsai Tonight (Jonas Dupuich) — https://bonsaitonight.com/2013/03/14/black-pine-candle-selection/",
-        "feuillaison": [
           1,
           1
         ],
-        "feuillaison_djc": 512,
-        "feuillaison_travaux": "Uekae (rempotage) — Ko 4-6 (19 fév-5 mars) ~500°J, juste avant gonflement des chandelles, tous les 3-5 ans selon vigueur. Substrat : 70% akadama gros grain (3-6 mm) + 20% pouzzolane + 10% kiryu ou sable de rivière lavé ; pH cible 5,5-6,0 ; drainage excellent indispensable. Réduire les racines d'un tiers maximum.\"",
-        "floraison": [
-          2,
-          0.4604904632152589
+        "debourrement_djc": 512,
+        "debourrement_travaux": "Observation — Ko 5 (24-28 fév) ~500°J : nouvelles pousses écailleuses vert vif aux apex, reprise visible.\nHarigane-kake (ligature) — poser les ligatures structurelles avant allongement des pousses ; le bois est encore souple.\nFertilisation : NPK 3-6-6, EC 0,8-1,2 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/juniper",
+        "feuillaison": [
+          1,
+          0.7276995305164319
         ],
-        "floraison_djc": 726,
-        "floraison_travaux": "Observation — Ko 8 (11-15 mars) ~700°J : chatons mâles (jaune) et cônes femelles (rouges) apparaissent en base de chandelles.\nAucune intervention technique spécifique — laisser la pollinisation s'effectuer.\nFertilisation : maintenir NPK 3-6-6, EC 0,8-1,2 mS/cm.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/black-pine",
+        "feuillaison_djc": 454,
+        "feuillaison_travaux": "Uekae (rempotage) — Ko 4-6 (19 fév-5 mars) ~450-560°J, juste avant reprise végétative, tous les 3-4 ans. Substrat : 60% akadama (3-6 mm) + 30% pouzzolane + 10% sable de rivière lavé ; pH cible 5,5-6,5 ; drainage rapide impératif. Ne pas rempoter la même année qu'une taille de structure importante.",
+        "floraison": [
+          1,
+          0.431924882629108
+        ],
+        "floraison_djc": 391,
+        "floraison_travaux": "Observation — Ko 4 (19-23 fév) ~400°J : chatons mâles jaunes, cônes femelles bleu-vert discrets, pollinisation avant reprise végétative.\nAucune intervention technique — laisser la pollinisation s'effectuer.\nFertilisation : aucun apport avant reprise végétative confirmée.\nSource : Tela Botanica — https://www.tela-botanica.org/bdtfx-nn-34185",
         "croissance": [
           2,
-          1
+          0.6566757493188011
         ],
-        "croissance_djc": 924,
-        "croissance_travaux": "Observation — Ko 11 (26-30 mars) ~900°J : chandelles s'allongent, aiguilles commencent à s'ouvrir à l'apex.\nHarigane-kake (ligature) — surveiller les marques, retirer ou reposer avant strangulation sur les rameaux en croissance rapide.\nFertilisation : augmenter l'azote — NPK 10-6-6, EC 1,2-1,8 mS/cm, pH 5,5-6,5.\nSource : Bonsai Tonight — https://bonsaitonight.com/2016/04/19/black-pine-spring-growth/",
+        "croissance_djc": 798,
+        "croissance_travaux": "Observation — Ko 10 (21-25 mars) ~800°J : pousses s'allongent activement sur tous les apex.\nMetsumi (pincement) — pincer entre le pouce et l'index (jamais aux ciseaux sur feuillage écailleux) dès 1-2 cm d'allongement, toutes les 3-4 semaines jusqu'à Ko 34 (fin juillet).\nHarigane-kake (ligature) — surveiller les marques ; reposer avant strangulation sur rameaux en croissance rapide.\nToriki (marcottage aérien) — Ko 10-18 (mars-fin avr) période optimale sur grosses branches ; anneler sur 2-3 cm, envelopper de sphaigne humide sous film opaque ; sevrage après 8-12 semaines.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Bonsai Tonight — https://bonsaitonight.com/2014/04/01/pinching-junipers/",
         "maturation": [
           5,
-          0.7517985611510791
+          0.17805755395683454
         ],
-        "maturation_djc": 2310,
-        "maturation_travaux": "Observation — Ko 20 (11-15 mai) ~1500°J : chandelles pleinement allongées, aiguilles de l'année déployées, croissance de printemps achevée.\nMekiri (taille chandelles) — couper toutes les chandelles à leur base entre Ko 20-22 (11-25 mai) pour forcer une deuxième poussée d'été aux aiguilles plus courtes. Couper en une seule session sur les sujets vigoureux ; échelonner sur 2 semaines sur les sujets faibles (commencer par les branches les plus vigoureuses).\nHazukashi (désaiguillage) — non pratiqué à cette saison sur kuromatsu ; réservé à l'automne.\nFertilisation : réduire l'azote après mekiri — NPK 3-6-6, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Bonsai Tonight — https://bonsaitonight.com/2017/05/23/timing-black-pine-decandling/",
+        "maturation_djc": 1991,
+        "maturation_travaux": "Observation — Ko 25 (6-10 juin) ~2000°J : croissance ralentit, pousses de printemps lignifiées.\nSentai (taille de structure) — éclaircissement léger uniquement (branches fines, feuillage surpeuplant l'intérieur) ; réserver les coupes importantes à la dormance ou début de printemps.\nHarigane-kake (ligature) — retirer toutes les ligatures posées au printemps avant strangulation.\nFertilisation : NPK 6-6-6, EC 1,0-1,2 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/juniper",
         "senescence": [
-          9,
-          0
+          8,
+          0.7612732095490716
         ],
-        "senescence_djc": 4496,
-        "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4300°J : aiguilles de l'année N-1 jaunissent et tombent naturellement ; deuxième pousse de l'été mature.\nHazukashi (désaiguillage) — Ko 46-52 (sept-oct) : retirer les vieilles aiguilles (N-1) à la main ou aux ciseaux, en conserver 6-10 paires par rameau terminal. Améliore la pénétration de la lumière et la ramification interne.\nMebana (sélection bourgeons) — après désaiguillage, identifier et supprimer les bourgeons excédentaires sur chaque rameau : conserver 2 bourgeons par terminaison.\nSentai (taille de structure) — supprimer les branches inverses, croisées ou superposées une fois le feuillage éclairci.\nFertilisation : NPK 3-10-10 pour durcir les nouvelles pousses avant l'hiver, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Bonsai Tonight — https://bonsaitonight.com/2013/10/07/fall-black-pine-work/",
-        "dormance_travaux": "Observation — Ko 60-72 (déc-fev) : végétation au repos, bourgeons dormants.\nUekae (rempotage) — Ko 6-8 (1-15 mars) juste avant débourrement, tous les 3-5 ans selon vigueur.     Substrat : 70% akadama gros grain (3-6 mm) + 20% pouzzolane + 10% kiryusable de rivière lavé ; pH cible 5,5-6,0 ; drainage excellent indispensable. Réduire les racines d'un tiers maximum.\nHarigane-kake (ligature) — période favorable pour poser ou corriger les ligatures structurelles sur les branches principales ; le bois est visible et la sève au repos limite les cicatrices.\nSentai (taille de structure) — coupes importantes possibles en janvier-février avant montée de sève ; les plaies cicatrisent à la reprise de végétation.\nFertilisation : aucun apport de novembre à fin janvier.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/black-pine",
-        "notes_perso": "",
-        "erreurs_fatales": "Relecture métier :\n\n**1. Mekiri en Ko 20-22 (11-25 mai)** — erreur fatale. Le mekiri sur kuromatsu se fait en **juin-juillet** au Japon. À Cazaux, la chaleur avance le calendrier mais pas à mai. Les chandelles de printemps doivent être **complètement lignifiées** avant coupe. Ko 20 (~1500°J) elles sont à peine déployées. Fenêtre correcte : **Ko 24-28 (juin)** ~1900-2300°J.\n\n**2. Mebana au débourrement (Ko 7)** — erreur fatale. La sélection des bourgeons/chandelles se fait **après** apparition complète, pas au gonflement. Ko 7 est trop tôt — les chandelles ne sont pas encore dénombrables avec précision. Fenêtre correcte : **Ko 9-10 (mi-mars)** ~700-800°J quand toutes les chandelles sont visibles et comparables en vigueur.\n\n**3. Mebana en automne couplé à Hazukashi** — usage du terme incorrect. En automne on parle de **sélection des bourgeons terminaux** après désaiguillage, ce qui est juste dans le fond, mais `mebana` désigne strictement la sélection printanière des chandelles. Terme correct pour l'automne : **méthode de sélection des bourgeons (mitoméo / budding selection)** — `mebana` en automne est une confusion terminologique, pas fatale mais inexacte.\n\n**Correction prioritaire : mekiri_djc → 2000, ancré Ko 25-26 (juin).**",
+        "senescence_djc": 4311,
+        "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4300°J : feuillage interne jaunit et tombe naturellement, croissance estivale achevée.\nNettoyage du feuillage interne mort — retirer à la main le feuillage mort interne pour améliorer la circulation d'air et la pénétration lumineuse ; ne jamais couper le feuillage écailleux vivant aux ciseaux.\nFertilisation : NPK 3-10-10, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Bonsai Tonight — https://bonsaitonight.com/2019/09/17/fall-juniper-work/",
+        "dormance_travaux": "Observation — Ko 60-72 (déc-fév) : croissance nulle, feuillage peut bronzer légèrement par le froid (réversible).\nUekae (rempotage) — Ko 4-6 (19 fév-5 mars) ~450-560°J, juste avant reprise végétative, tous les 3-4 ans. Substrat : 60% akadama (3-6 mm) + 30% pouzzolane + 10% sable de rivière lavé ; pH cible 5,5-6,5 ; drainage rapide impératif. Ne pas rempoter la même année qu'une taille de structure importante.\nSentai (taille de structure) — coupes majeures en jan-fév uniquement si l'arbre n'est pas rempôté cette saison.\nFertilisation : aucun apport de novembre à fin janvier.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/juniper",
+        "notes_perso": "Les variétés Shimpaku (sargentii) ont un feuillage 100% écailleux adulte, les formes à feuillage juvénile aciculaire persistant (ex. 'Stricta') sont souvent des sujets mal conduits. Le feuillage juvénile aciculaire sur *J. chinensis* est un signal de stress ou de mauvaise conduite, pas une caractéristique variétale stable (sauf rares cultivars fixés).\n\n**Pourquoi le feuillage reste juvénile :**\n**Feuillage juvénile aciculaire persistant sur *J. chinensis* — signal de mauvaise conduite**\n\nLe feuillage juvénile aciculaire piquant n'est pas une caractéristique variétale stable (sauf cultivars fixés). Sur un sujet normalement conduit, le feuillage adulte écailleux s'installe progressivement et se maintient.\n\n**Pourquoi le feuillage reste juvénile :**\n\n- **Taille dans le vieux bois nu** — les bourgeons adventifs qui repoussent après une coupe sévère sans feuillage résiduel sont toujours de type juvénile. C'est la cause principale.\n- **Stress physiologique sévère** — racines asphyxiées, substrat mal drainé, stress hydrique prolongé ; l'arbre bascule en mode survie et régresse vers une croissance primaire.\n\n**Retour au feuillage adulte écailleux :**\n\n- Stabiliser d'abord les conditions culturales (substrat, arrosage, fertilisation).\n- Ne jamais couper dans le vieux bois nu — toujours conserver du feuillage résiduel en aval de chaque coupe.\n- Pincement doux aux doigts dès la reprise pour densifier sans stresser.\n- Compter 2-3 saisons de conduite correcte avant retour complet au feuillage écailleux.\n\n**Cultivar 'Stricta'** — feuillage aciculaire génétiquement fixé, ne reviendra jamais écailleux. Acceptable en bonsäï d'apprentissage, déconseillé pour un arbre de qualité.\n\n**Cultivar 'Stricta'** — cas particulier : feuillage aciculaire génétiquement fixé, ne reviendra jamais écailleux. Sujet acceptable en bonsäï d'apprentissage, déconseillé pour développer un arbre de qualité.",
+        "erreurs_fatales": "**Erreurs à éviter sur *J. chinensis* en bonsäï**\n\n**Taille**\n- Couper dans le vieux bois sans feuillage résiduel en aval — repousse en aciculaire ou pas de repousse du tout.\n- Taille structurelle importante la même année que le rempotage — double stress fatal.\n- Utiliser des ciseaux sur le feuillage écailleux — brunit les coupes, cicatrisation nulle.\n\n**Rempotage**\n- Rempoter hors fenêtre Ko 4-6 — en pleine croissance ou en été, taux de survie très faible.\n- Substrat trop organique ou mal drainant — asphyxie racinaire, premier facteur de régression foliaire.\n- Réduire les racines de plus d'un tiers en une seule fois.\n\n**Arrosage**\n- Laisser le substrat sécher complètement — les junipérus ne récupèrent pas d'un stress hydrique sévère.\n- Arroser en excès en dormance — pourriture racinaire silencieuse.\n\n**Fertilisation**\n- Apport azoté fort (NPK type 10-6-6) en automne — pousse tardive non aoûtée, sensible au gel.\n- Fertiliser un arbre stressé ou fraîchement rempôté — brûlure racinaire.\n\n**Exposition**\n- Hiverner en intérieur — *J. chinensis* est un persistant plein air, il dégénère sans dormance froide.\n- Exposition au vent desséchant en été sans ombrage partiel à Cazaux — coup de chaleur sur feuillage écailleux irréversible.",
         "dormance_djc": 5223,
         "dormance": [
           10,
@@ -270,6 +223,57 @@
         ],
         "boutures_djc": 1530,
         "boutures_travaux": "Observation — bouturage non recommandé pour Pinus sylvestris : taux d'enracinement quasi nul sur les conifères à aiguilles groupées par 2. Privilégier le semis ou le greffage (greffage en placage sur P. thunbergii au Ko 8-9, ~650-700°J, avant débourrement complet du porte-greffe)."
+      },
+      {
+        "_id": "mpf2nytpdw63",
+        "espece": "Sabine",
+        "url": "https://fr.wikipedia.org/wiki/Juniperus_sabina",
+        "notes": "Persistant, Cupressaceae (Juniperus sabina). Genévrier rampant à feuillage écailleux (adulte) ou aciculaire (juvénile). Bonsaï de style naturel — deadwood (shari/jin) très apprécié. Résistant à la sécheresse, idéal pour le climat landais. Ne jamais rempoter et tailler structurellement la même année.",
+        "photo": "",
+        "debourrement": [
+          1,
+          1
+        ],
+        "debourrement_djc": 512,
+        "debourrement_travaux": "Observation — Ko 5 (24-28 fév) ~500°J : reprise de croissance visible, nouvelles écailles vert vif aux apex.\nHarigane-kake (ligature) — poser les ligatures structurelles avant allongement des pousses ; le bois est encore souple et les marques moins risquées.\nFertilisation : NPK 3-6-6, EC 0,8-1,2 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/juniper",
+        "feuillaison": [
+          3,
+          1
+        ],
+        "feuillaison_djc": 1355,
+        "feuillaison_travaux": "Metsumi (pincement) — pincer les apex entre le pouce et l'index (jamais aux ciseaux sur feuillage écailleux) dès 1-2 cm d'allongement, toutes les 3-4 semaines jusqu'en août.  \nToriki (marcottage aérien) — Ko 10-18 (mars-fin avr) période optimale sur grosses branches ; anneler l'écorce sur 2-3 cm, envelopper de sphaigne humide sous film plastique opaque ; sevrage après 8-12 semaines quand les racines traversent la sphaigne.",
+        "floraison": [
+          1,
+          0.431924882629108
+        ],
+        "floraison_djc": 391,
+        "floraison_travaux": "Observation — Ko 4 (19-23 fév) ~400°J : chatons mâles jaunes apparaissent, pollinisation rapide avant reprise végétative.\nAucune intervention technique — laisser la pollinisation s'effectuer.\nFertilisation : aucun apport avant reprise végétative confirmée.\nSource : Flora Gallica — https://www.tela-botanica.org/bdtfx-nn-34174",
+        "croissance": [
+          2,
+          0.6566757493188011
+        ],
+        "croissance_djc": 798,
+        "croissance_travaux": "Observation — Ko 10 (21-25 mars) ~800°J : pousses s'allongent activement, feuillage dense aux extrémités.\nMetsumi (pincement) — pincer les apex entre le pouce et l'index (jamais aux ciseaux sur feuillage écailleux) dès 1-2 cm d'allongement, toutes les 3-4 semaines jusqu'en août.\nHarigane-kake (ligature) — surveiller les marques, reposer sur rameaux en croissance rapide.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Bonsai Tonight — https://bonsaitonight.com/2014/04/01/pinching-junipers/",
+        "maturation": [
+          5,
+          0.17805755395683454
+        ],
+        "maturation_djc": 1991,
+        "maturation_travaux": "Observation — Ko 25 (6-10 juin) ~2000°J : croissance ralentit, pousses de printemps lignifiées.\ntaille légère d'éclaircissement seulement en juin, réserver les coupes importantes à la dormance.\nHarigane-kake (ligature) — retirer toutes les ligatures posées au printemps avant strangulation.\nFertilisation : NPK 6-6-6 équilibré, EC 1,0-1,2 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/juniper",
+        "senescence": [
+          8,
+          0.7612732095490716
+        ],
+        "senescence_djc": 4311,
+        "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4300°J : feuillage interne jaunit et tombe naturellement, croissance estivale achevée.\nHazukashi (désaiguillage) — retirer à la main le feuillage mort interne pour améliorer la circulation d'air et la pénétration lumineuse ; ne jamais couper avec des ciseaux le feuillage écailleux vivant.\nFertilisation : NPK 3-10-10 pour durcir les pousses avant l'hiver, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Bonsai Tonight — https://bonsaitonight.com/2019/09/17/fall-juniper-work/",
+        "dormance_travaux": "Observation — Ko 60-72 (déc-fév) : croissance nulle, feuillage peut brunir légèrement par le froid (réversible).\nUekae (rempotage) — Ko 4-6 (19 fév-5 mars) ~450-560°J, juste avant reprise végétative, tous les 3-4 ans. Substrat : 60% akadama (3-6 mm) + 30% pouzzolane + 10% sable de rivière lavé ; pH cible 5,5-6,5 ; drainage rapide impératif. Ne pas rempoter la même année qu'une taille de structure importante.\nSentai (taille de structure) — coupes majeures en jan-fév uniquement si l'arbre n'est pas rempôté cette saison.\nFertilisation : aucun apport de novembre à fin janvier.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/juniper",
+        "notes_perso": "Points de vigilance \nPas de mekiri ni mebana — non applicables aux genévriers.\nfloraison_djc avant debourrement_djc — cohérent : J. sabina fleurit tôt, avant la reprise végétative visible.\nfeuillaison null — persistant sans phase distincte.\nPincement aux doigts explicitement spécifié — règle métier critique pour les junipérus à feuillage écailleux.",
+        "erreurs_fatales": "1. floraison_djc: 400 avant debourrement_djc: 500 — séquence correcte pour J. sabina, pas d'erreur.\n2. Pincement (Metsumi) \"toutes les 3-4 semaines jusqu'en août\" — erreur fatale. Sur junipérus, arrêter le pincement fin juillet au plus tard. Pincer en août empêche la maturation des pousses et affaiblit l'arbre avant l'hiver. Fenêtre correcte : Ko 10-35 (mars-début août), arrêt Ko 34-35 (~fin juillet).\n3. Sentai en maturation Ko 25 \"coupes importantes tolérées jusqu'à mi-juillet\" — erreur fatale. Les coupes importantes sur junipérus se font en dehors de la pleine croissance estivale. La fenêtre correcte est hiver/début printemps ou fin été/automne. En juin en pleine croissance, les grosses coupes stressent excessivement l'arbre et peuvent provoquer des dépérissements. Reformuler : taille légère d'éclaircissement seulement en juin, réserver les coupes importantes à la dormance.\n4. Hazukashi en sénescence — terme utilisé pour retirer le feuillage mort interne. Techniquement acceptable dans l'esprit mais hazukashi désigne strictement le désaiguillage des conifères à aiguilles (pins, épicéas). Pour un junipérus à écailles, le terme correct est simplement \"nettoyage du feuillage interne mort\" — pas hazukashi. Erreur terminologique, pas fatale mais inexacte comme pour mebana sur Kuromatsu.\nCorrections prioritaires : arrêt Metsumi fin juillet (Ko 34) + supprimer \"coupes importantes\" de la phase maturation juin.",
+        "dormance_djc": 5223,
+        "dormance": [
+          10,
+          0.6719242902208202
+        ]
       },
       {
         "_id": "mpatjlfiwdam",
