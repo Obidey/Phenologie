@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1779545251681,
-  "_date": "2026-05-23T14:07:31.681Z",
-  "_modCount": 1229,
+  "_ts": 1779545260726,
+  "_date": "2026-05-23T14:07:40.726Z",
+  "_modCount": 1230,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {},
@@ -63,6 +63,57 @@
         ],
         "boutures_djc": 1530,
         "boutures_travaux": "Observation — Ko 19 (6-10 mai) ~1449°J : boutures semi-aoûtées sur pousses de l'année, 8-12 cm, 2-3 entre-nœuds. Couper la moitié des feuilles, tremper la base 30s dans l'AIB 3000 ppm, planter en substrat sable+perlite 50/50 sous brumisation ou sac plastique. Taux de reprise modéré sur Shaina (~40%) — multiplier les essais. Résultats visibles Ko 24-25."
+      },
+      {
+        "_id": "mpifasqfteyj",
+        "espece": "Cognassier du Japon",
+        "url": "https://fr.wikipedia.org/wiki/Chaenomeles_speciosa",
+        "notes": "Caduc, famille Rosaceae. Floraison avant feuillaison (parfois dès janvier). Épines à gérer. Très apprécié en bonsaï (Chojubai). Fruits jaunes ornementaux. Nécessite un froid hivernal pour fleurir abondamment. Rejets racinaires fréquents à supprimer.",
+        "photo": "",
+        "debourrement": [
+          1,
+          0.431924882629108
+        ],
+        "debourrement_djc": 391,
+        "debourrement_travaux": "Observation — Ko 3 (14-18 fév) ~400°J : gonflement des bourgeons floraux sur vieux bois, avant tout feuillage.\nMebana (sélection bourgeons) — supprimer les bourgeons en excès sur les branches surpeuplées pour favoriser des fleurs bien espacées.\nHarigane-kake (ligature) — poser les ligatures sur les branches avant gonflement complet ; retirer avant que l'écorce ne marque.\nFertilisation : PAS de fertilisation avant la fin de floraison — toute application azotée à ce stade stoppe la floraison.\nSource : Bonsai4Me — http://www.bonsai4me.com/SpeciesGuide/Chaenomeles.html",
+        "feuillaison": [
+          2,
+          0.4604904632152589
+        ],
+        "feuillaison_djc": 726,
+        "feuillaison_travaux": "Observation — Ko 8 (11-15 mars) ~700°J : débourrement foliaire après la floraison, feuilles émergent rouge-bronze puis vert luisant.\nUekae (rempotage) — rempotage possible immédiatement après la floraison si non fait en automne ; substrat : 60% akadama / 30% pouzzolane / 10% humus, pH 6,0-6,5, très drainant.\nHarigane-kake (ligature) — poser ou ajuster les ligatures sur les nouvelles pousses encore souples.\nFertilisation : début de fertilisation équilibrée après la chute complète des fleurs. NPK 6-6-6, EC 0,8-1,2 mS/cm, pH 6,0-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/flowering-quince",
+        "floraison": [
+          1,
+          0
+        ],
+        "floraison_djc": 299,
+        "floraison_travaux": "Observation — Ko 3-8 (14 fév – 15 mars) ~400-700°J : floraison avant feuillaison, pétales rouge/rose/blanc selon cultivar. Phase longue possible jusqu'à Ko 10.\nLimiter les fruits en formation sur bonsaï jeunes : pincer les fleurs fanées sauf 2-3 fruits pour ne pas épuiser l'arbre.\nFertilisation : aucune pendant la floraison.\nSource : Bonsai BCI — https://www.bonsai-bci.com/index.php/by-common-name/deciduous-flowering/582-chaenomeles-sp",
+        "croissance": [
+          3,
+          0
+        ],
+        "croissance_djc": 992,
+        "croissance_travaux": "Observation — Ko 13 (5-9 avr) ~1000°J : croissance végétative active, pousses s'allongent rapidement.\nMetsumi (pincement) — pincer à 1-2 feuilles dès que la pousse atteint 5-7 feuilles ; répéter toutes les 2-3 semaines. Attention : ne pas pincer trop tôt les pousses destinées à former des éperons floraux.\nSentai (taille de structure) — taille de structure uniquement si nécessaire, immédiatement après floraison (Ko 8-12).\nSupprimer les rejets racinaires à la base dès leur apparition.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 6,0-6,5.\nSource : Swindon Bonsai — https://swindon-bonsai.co.uk/2014/04/06/chaenomeles-as-bonsai/",
+        "maturation": [
+          7,
+          0.6953242835595776
+        ],
+        "maturation_djc": 3691,
+        "maturation_travaux": "Observation — Ko 39 (18-22 août) ~3600°J : fruits en grossissement, jaunes à maturité en automne. Feuilles vert foncé luisant.\nLimiter à 2-3 fruits par bonsaï pour ne pas épuiser l'arbre ; retirer les fruits surnuméraires.\nFertilisation : basculer vers NPK 6-10-10 pour préparer la dormance et durcir les rameaux, EC 0,8-1,0 mS/cm.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/flowering-quince",
+        "senescence": [
+          8,
+          1
+        ],
+        "senescence_djc": 4401,
+        "senescence_travaux": "Observation — Ko 47 (28 sept – 2 oct) ~4400°J : jaunissement et chute des feuilles (souvent sans couleur automnale marquée, chute verte possible).\nSentai (taille de structure) — taille de structure et raccourcissement des pousses de l'année à 1-2 nœuds pour initier les éperons floraux de la saison suivante.\nUekae (rempotage) — période privilégiée pour le rempotage bisannuel ; substrat identique à la feuillaison.\nFertilisation : arrêt progressif, dernière application NPK 0-6-10.\nSource : Bonsai4Me — http://www.bonsai4me.com/SpeciesGuide/Chaenomeles.html",
+        "dormance_travaux": "Observation — Ko 56-72 (nov – fév) : repos végétatif, bourgeons floraux visibles sur vieux bois. Froid indispensable pour une floraison abondante ; ne pas rentrer en serre chauffée.\nHarigane-kake (ligature) — poser les ligatures de structure sur bois nu, bien visible ; surveiller dès Ko 3.\nProtéger des gelées sous -5°C (tuer les bourgeons floraux) sans supprimer le froid.\nFertilisation : aucune.\nSource : Ma-Ke Bonsai — http://guide.makebonsai.com/bonsai_species_guide_training.asp?SpeciesID=5001",
+        "notes_perso": "",
+        "erreurs_fatales": "",
+        "dormance_djc": 5223,
+        "dormance": [
+          10,
+          0.6719242902208202
+        ]
       },
       {
         "_id": "mpf3c5tjyodv",
