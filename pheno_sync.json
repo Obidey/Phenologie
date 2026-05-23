@@ -1,10 +1,10 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1779546180036,
-  "_date": "2026-05-23T14:23:00.036Z",
+  "_ts": 1779546462119,
+  "_date": "2026-05-23T14:27:42.119Z",
   "_modCount": 1233,
-  "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
+  "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {},
     "especes": [
@@ -160,6 +160,57 @@
         "dormance_travaux": "Observation — Ko 60-72 (déc-fév) : croissance nulle, feuillage peut bronzer légèrement par le froid (réversible).\nUekae (rempotage) — Ko 4-6 (19 fév-5 mars) ~450-560°J, juste avant reprise végétative, tous les 3-4 ans. Substrat : 60% akadama (3-6 mm) + 30% pouzzolane + 10% sable de rivière lavé ; pH cible 5,5-6,5 ; drainage rapide impératif. Ne pas rempoter la même année qu'une taille de structure importante.\nSentai (taille de structure) — coupes majeures en jan-fév uniquement si l'arbre n'est pas rempôté cette saison.\nFertilisation : aucun apport de novembre à fin janvier.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/juniper",
         "notes_perso": "Les variétés Shimpaku (sargentii) ont un feuillage 100% écailleux adulte, les formes à feuillage juvénile aciculaire persistant (ex. 'Stricta') sont souvent des sujets mal conduits. Le feuillage juvénile aciculaire sur *J. chinensis* est un signal de stress ou de mauvaise conduite, pas une caractéristique variétale stable (sauf rares cultivars fixés).\n\n**Pourquoi le feuillage reste juvénile :**\n**Feuillage juvénile aciculaire persistant sur *J. chinensis* — signal de mauvaise conduite**\n\nLe feuillage juvénile aciculaire piquant n'est pas une caractéristique variétale stable (sauf cultivars fixés). Sur un sujet normalement conduit, le feuillage adulte écailleux s'installe progressivement et se maintient.\n\n**Pourquoi le feuillage reste juvénile :**\n\n- **Taille dans le vieux bois nu** — les bourgeons adventifs qui repoussent après une coupe sévère sans feuillage résiduel sont toujours de type juvénile. C'est la cause principale.\n- **Stress physiologique sévère** — racines asphyxiées, substrat mal drainé, stress hydrique prolongé ; l'arbre bascule en mode survie et régresse vers une croissance primaire.\n\n**Retour au feuillage adulte écailleux :**\n\n- Stabiliser d'abord les conditions culturales (substrat, arrosage, fertilisation).\n- Ne jamais couper dans le vieux bois nu — toujours conserver du feuillage résiduel en aval de chaque coupe.\n- Pincement doux aux doigts dès la reprise pour densifier sans stresser.\n- Compter 2-3 saisons de conduite correcte avant retour complet au feuillage écailleux.\n\n**Cultivar 'Stricta'** — feuillage aciculaire génétiquement fixé, ne reviendra jamais écailleux. Acceptable en bonsäï d'apprentissage, déconseillé pour un arbre de qualité.\n\n**Cultivar 'Stricta'** — cas particulier : feuillage aciculaire génétiquement fixé, ne reviendra jamais écailleux. Sujet acceptable en bonsäï d'apprentissage, déconseillé pour développer un arbre de qualité.",
         "erreurs_fatales": "**Erreurs à éviter sur *J. chinensis* en bonsäï**\n\n**Taille**\n- Couper dans le vieux bois sans feuillage résiduel en aval — repousse en aciculaire ou pas de repousse du tout.\n- Taille structurelle importante la même année que le rempotage — double stress fatal.\n- Utiliser des ciseaux sur le feuillage écailleux — brunit les coupes, cicatrisation nulle.\n\n**Rempotage**\n- Rempoter hors fenêtre Ko 4-6 — en pleine croissance ou en été, taux de survie très faible.\n- Substrat trop organique ou mal drainant — asphyxie racinaire, premier facteur de régression foliaire.\n- Réduire les racines de plus d'un tiers en une seule fois.\n\n**Arrosage**\n- Laisser le substrat sécher complètement — les junipérus ne récupèrent pas d'un stress hydrique sévère.\n- Arroser en excès en dormance — pourriture racinaire silencieuse.\n\n**Fertilisation**\n- Apport azoté fort (NPK type 10-6-6) en automne — pousse tardive non aoûtée, sensible au gel.\n- Fertiliser un arbre stressé ou fraîchement rempôté — brûlure racinaire.\n\n**Exposition**\n- Hiverner en intérieur — *J. chinensis* est un persistant plein air, il dégénère sans dormance froide.\n- Exposition au vent desséchant en été sans ombrage partiel à Cazaux — coup de chaleur sur feuillage écailleux irréversible.",
+        "dormance_djc": 5223,
+        "dormance": [
+          10,
+          0.6719242902208202
+        ]
+      },
+      {
+        "_id": "mpig0jqgw1v4",
+        "espece": "Mume (Abricotier du japon",
+        "url": "https://fr.wikipedia.org/wiki/Prunus_mume",
+        "notes": "Caduc, Rosaceae (Prunoideae). Floraison hivernale sur bois nu, avant toute feuillaison — particularité majeure pour la gestion bonsäï. Très apprécié pour la floraison précoce et le parfum. Supporte la taille sévère après floraison. Sensible à la chlorose sur substrat trop calcaire.",
+        "photo": "",
+        "debourrement": [
+          2,
+          0.1362397820163488
+        ],
+        "debourrement_djc": 607,
+        "debourrement_travaux": "Observation — Ko 7-8 (6-15 mars) ~607-668°J : gonflement et ouverture des bourgeons foliaires après floraison. Phase critique pour la taille et le rempotage.\nSentai (taille de structure) — tailler immédiatement après la chute des fleurs (Ko 72-2, ~255-339°J), avant ce débourrement. Raccourcir les pousses de l'année à 2-3 bourgeons.\nUekae (rempotage) — Ko 6-8 (~557-668°J), racines taillées d'un tiers. Substrat : akadama 60% + kiryu 30% + compost bonsäï 10%, pH 6,0-6,5, drainage excellent.\nHarigane-kake (ligature) — poser les ligatures sur les rameaux avant élongation, bois encore souple.\nFertilisation : NPK 0-10-10 au débourrement pour favoriser l'enracinement post-rempotage.\nSource : Bonsai Tonight — https://bonsaitonight.com/2012/01/13/repotting-japanese-apricot/",
+        "feuillaison": [
+          2,
+          1
+        ],
+        "feuillaison_djc": 924,
+        "feuillaison_travaux": "Observation — Ko 11-12 (26 mars-4 avr) ~860-924°J : feuilles étalées, limbe pleinement développé.\nMetsumi (pincement) — pincer les pousses dès 3-4 paires de feuilles pour densifier la ramification.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-6,5. Reprendre la fertilisation azotée pour la croissance.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/japanese-apricot",
+        "floraison": [
+          0,
+          0.3975409836065574
+        ],
+        "floraison_djc": 108,
+        "floraison_travaux": "Observation — Ko 67-71 (6 jan-29 jan) ~66-209°J : floraison sur bois nu, avant toute feuillaison. Fleurs simples à doubles, blanc rosé à rouge vif selon cultivar.\nMebana (sélection bourgeons) — éliminer les bourgeons floraux en excès sur les rameaux faibles pour ne pas épuiser l'arbre.\nFertilisation : aucune pendant la floraison.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/japanese-apricot",
+        "croissance": [
+          3,
+          0
+        ],
+        "croissance_djc": 992,
+        "croissance_travaux": "Observation — Ko 13-25 (5 avr-10 juin) ~992-1991°J : forte poussée végétative, entre-nœuds s'allongent rapidement.\nMetsumi (pincement) — toutes les 2-3 semaines sur pousses de 3-4 paires de feuilles, maintenir la silhouette.\nHarigane-kake (ligature) — surveiller les marques, reposer si nécessaire sur nouveaux rameaux en croissance.\nToriki (marcottage aérien) — Ko 14-20 (avr-mai) période optimale, sève en plein mouvement.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, arrosages fréquents par chaleur girondine.\nSource : Esprit Bonsai — https://www.espritbonsai.com/fr/content/37-abricotier-japonais-bonsai",
+        "maturation": [
+          7,
+          0.6953242835595776
+        ],
+        "maturation_djc": 3691,
+        "maturation_travaux": "Observation — Ko 40-48 (23 août-7 oct) ~3691-4496°J : aoûtement des rameaux, bois se lignifie. Maturation des fruits (drupes jaune-vert) si présents.\nSentai (taille de structure) — taille légère de rectification de silhouette en fin d'aoûtement (Ko 47-48).\nFertilisation : NPK 3-8-8, réduire l'azote, favoriser la maturation et les réserves pour la floraison hivernale. EC 0,8-1,2 mS/cm.\nSource : Association Française Bonsai — https://www.afbonsai.com/prunus-mume",
+        "senescence": [
+          9,
+          1
+        ],
+        "senescence_djc": 4930,
+        "senescence_travaux": "Observation — Ko 52-60 (23 oct-6 déc) ~4854-5382°J : jaunissement et chute des feuilles. L'arbre entre en dormance apparente mais prépare ses bourgeons floraux.\nHarigane-kake (ligature) — poser les ligatures de structure après chute des feuilles, silhouette visible. Utiliser fil d'aluminium, surveiller sur bois jeune.\nFertilisation : arrêter toute fertilisation à la sénescence.\nSource : Bonsai Tonight — https://bonsaitonight.com/tag/japanese-apricot/",
+        "dormance_travaux": "Observation — Ko 60-66 (2 déc-5 jan) ~5382-11°J : dormance courte, chevauchant avec l'initiation florale. À Cazaux (hivers doux), les bourgeons floraux s'ouvrent dès Ko 67 (6 jan). Pas de phase de dormance franche distincte de la floraison.\nProtection : abriter des gelées inférieures à -10°C ; à Cazaux le risque est faible mais surveiller les gelées tardives sur fleurs ouvertes.\nFertilisation : aucune.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/japanese-apricot",
+        "notes_perso": "",
+        "erreurs_fatales": "",
         "dormance_djc": 5223,
         "dormance": [
           10,
