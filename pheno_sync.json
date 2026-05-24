@@ -1,10 +1,10 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1779548507764,
-  "_date": "2026-05-23T15:01:47.764Z",
+  "_ts": 1779618412991,
+  "_date": "2026-05-24T10:26:52.991Z",
   "_modCount": 1240,
-  "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
+  "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
     "especes": [
@@ -63,6 +63,54 @@
         ],
         "boutures_djc": 1530,
         "boutures_travaux": "Observation — Ko 19 (6-10 mai) ~1449°J : boutures semi-aoûtées sur pousses de l'année, 8-12 cm, 2-3 entre-nœuds. Couper la moitié des feuilles, tremper la base 30s dans l'AIB 3000 ppm, planter en substrat sable+perlite 50/50 sous brumisation ou sac plastique. Taux de reprise modéré sur Shaina (~40%) — multiplier les essais. Résultats visibles Ko 24-25."
+      },
+      {
+        "_id": "mpjmupd2f9e4",
+        "espece": "Bougainvillier 'Imperial Thaï Delight'",
+        "url": "https://fr.wikipedia.org/wiki/Bougainvillea_spectabilis",
+        "notes": "Semi-persistant à persistant selon hivernage, famille Nyctaginaceae. Bougainvillea spectabilis cv. 'Imperial Thai Delight'. Feuilles panachées vert-crème, bractées rose-magenta. Espèce tropicale à hiverner hors-gel à Cazaux (serre froide mini 5°C). Floraison sur bois de l'année précédente — ne pas tailler en automne. Très utilisé en bonsaï tropical.",
+        "photo": "",
+        "debourrement": null,
+        "debourrement_djc": null,
+        "debourrement_travaux": "",
+        "feuillaison": [
+          3,
+          0.21487603305785125
+        ],
+        "feuillaison_djc": 1070,
+        "feuillaison_travaux": "Observation — Ko 15 (15-19 avr) ~1142°J : reprise végétative à la sortie hivernage, nouvelles feuilles panachées.\nUekae (rempotage) — rempotage à la reprise, tous les 2-3 ans.     (JL = Pumicekadama, 30% Pumice, 20% sable grossier. (JL = Pumice + charbon + Ecorce de pin compostée + terre volcanique…. ) pH 5,5-6,5, drainage impératif — le Bougainvillier craint l'excès d'eau.\nHarigane-kake (ligature) — poser le fil sur les nouvelles pousses encore souples.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-6,5. Reprendre la fertilisation à la sortie hivernage.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
+        "floraison": [
+          4,
+          1
+        ],
+        "floraison_djc": 1776,
+        "floraison_travaux": "Observation — Ko 23 (26-31 mai) ~1776°J : bractées rose-magenta sur le bois de l'année précédente. Floraison déclenchée par stress hydrique léger.\nMebana (sélection bourgeons) — conserver les rameaux florifères, éliminer les gourmands basaux.\nFertilisation : NPK 4-10-10, EC 0,8-1,0 mS/cm, pH 5,5-6,5. Favoriser la floraison avec un engrais pauvre en azote.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
+        "croissance": [
+          5,
+          0.5503597122302158
+        ],
+        "croissance_djc": 2198,
+        "croissance_travaux": "Observation — Ko 27 (16-20 juin) ~2198°J : croissance active, pousses longues et vigoureuses après floraison.\nSentai (taille de structure) — taille de rectification après floraison, conserver 2-3 paires de feuilles sur chaque pousse.\nMetsumi (pincement) — pincement régulier pour densifier la ramification et induire une seconde floraison.\nHarigane-kake (ligature) — ligature des rameaux en croissance, attention aux épines.\nToriki (marcottage aérien) — Ko 27-35 période optimale, sève active.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
+        "maturation": [
+          7,
+          0.521870286576169
+        ],
+        "maturation_djc": 3576,
+        "maturation_travaux": "Observation — Ko 39 (18-22 août) ~3576°J : croissance ralentit, bois se lignifie. Possible seconde vague de floraison si pincement pratiqué en juin.\nSentai (taille de structure) — taille légère de rectification, laisser les rameaux florifères pour l'automne.\nFertilisation : NPK 4-10-10, EC 0,8-1,0 mS/cm, pH 5,5-6,5. Durcir les tissus avant hivernage.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
+        "senescence": [
+          8,
+          1
+        ],
+        "senescence_djc": 4401,
+        "senescence_travaux": "Observation — Ko 47 (28 sept-2 oct) ~4401°J : ralentissement marqué, feuilles pâlissent légèrement. Rentrer en serre avant les premières gelées (seuil critique : 5°C).\nFertilisation : arrêt complet de la fertilisation azotée. Dernière application Ko 48 maximum.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
+        "dormance_travaux": "Observation — Ko 57 (17-21 nov) ~5223°J : repos en serre froide (5-10°C), arrosages très espacés, feuilles partiellement tombées.\nSentai (taille de structure) — taille de structure en fin de dormance (Ko 3-4), avant la reprise. Ne jamais tailler en automne — la floraison se forme sur le bois de l'année.\nFertilisation : aucune en dormance. Reprendre à la sortie hivernage.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
+        "notes_perso": "Uekae (rempotage) — rempotage à la reprise, tous les 2-3 ans.     (JL = pumice + charbon + Ecorce de pin compostée + terre volcanique…. )",
+        "erreurs_fatales": "",
+        "dormance_djc": 5223,
+        "dormance": [
+          10,
+          0.6719242902208202
+        ]
       },
       {
         "_id": "mpifasqfteyj",
