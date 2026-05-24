@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1779618954214,
-  "_date": "2026-05-24T10:35:54.214Z",
-  "_modCount": 1244,
+  "_ts": 1779619067494,
+  "_date": "2026-05-24T10:37:47.494Z",
+  "_modCount": 1245,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -106,6 +106,54 @@
         "dormance_travaux": "Observation — Ko 57 (17-21 nov) ~5223°J : repos en serre froide (5-10°C), arrosages très espacés, feuilles partiellement tombées.\nSentai (taille de structure) — taille de structure en fin de dormance (Ko 3-4), avant la reprise. Ne jamais tailler en automne — la floraison se forme sur le bois de l'année.\nFertilisation : aucune en dormance. Reprendre à la sortie hivernage.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
         "notes_perso": "Uekae (rempotage) — rempotage à la reprise, tous les 2-3 ans.     (JL = pumice + charbon + Ecorce de pin compostée + terre volcanique…. )",
         "erreurs_fatales": "variété à bractées blanches se teintant de rose. Bien poussant. Port naturellement retombant. À palisser ou tuteurer pour l'utiliser en grimpant. Non rustique\n\nFloraison : avril-septembre\nRusticité : 1°C\nSol : riche et drainé\nUtilisations : bac, pot, jardinière, massif, mur",
+        "dormance_djc": 5223,
+        "dormance": [
+          10,
+          0.6719242902208202
+        ]
+      },
+      {
+        "_id": "mpjn8qe4fbc6",
+        "espece": "Bougainvillier specto-glabra 'Violet de Mèze®'",
+        "url": "https://fr.wikipedia.org/wiki/Bougainvillea",
+        "notes": "Semi-persistant à persistant selon hivernage, famille Nyctaginaceae. Bougainvillea spectoglabra 'Violet de Mèze®'. Hybride interspecifique (B. spectabilis × B. glabra), bractées violet-magenta intenses, feuilles vert sombre sans épines marquées. Espèce tropicale à hiverner hors-gel à Cazaux (serre froide mini 5°C). Floraison remontante sur bois aoûté — ne pas tailler en automne. Plus vigoureuse et florifère que B. spectabilis seule.",
+        "photo": "",
+        "debourrement": null,
+        "debourrement_djc": null,
+        "debourrement_travaux": "",
+        "feuillaison": [
+          3,
+          0.21487603305785125
+        ],
+        "feuillaison_djc": 1070,
+        "feuillaison_travaux": "Observation — Ko 15 (15-19 avr) ~1142°J : reprise végétative après hivernage, débourrement des bourgeons axillaires, nouvelles feuilles vert sombre luisant.\nUekae (rempotage) — tous les 2 ans à la reprise. Substrat : 50% Akadama, 30% Pumice, 20% sable grossier. pH 5,5-6,5, drainage absolu — la pourriture racinaire est le risque majeur.\nHarigane-kake (ligature) — poser le fil aluminium sur les nouvelles pousses encore souples.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-6,5. Reprendre progressivement à la sortie hivernage.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
+        "floraison": [
+          4,
+          1
+        ],
+        "floraison_djc": 1776,
+        "floraison_travaux": "Observation — Ko 23 (26-31 mai) ~1776°J : bractées violet-magenta sur le bois aoûté de l'année précédente. Floraison déclenchée par stress hydrique contrôlé (réduire arrosage 10 jours avant).\nMebana (sélection bourgeons) — conserver les rameaux florifères, supprimer les gourmands basaux vigoureux qui épuisent la plante.\nFertilisation : NPK 4-10-10, EC 0,8-1,0 mS/cm, pH 5,5-6,5. Azote réduit pour prolonger la floraison.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
+        "croissance": [
+          5,
+          0.5503597122302158
+        ],
+        "croissance_djc": 2198,
+        "croissance_travaux": "Observation — Ko 27 (16-20 juin) ~2198°J : croissance très active après floraison, pousses longues et vigoureuses caractéristiques de l'hybride.\nSentai (taille de structure) — taille après floraison, conserver 2-3 paires de feuilles par pousse pour induire ramification et seconde floraison.\nMetsumi (pincement) — pincement régulier toutes les 3 semaines. La taille répétée est la clé de la floraison remontante.\nHarigane-kake (ligature) — ligature des rameaux en croissance, attention aux jeunes tiges qui lignifient vite.\nToriki (marcottage aérien) — Ko 27-35 période optimale.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
+        "maturation": [
+          7,
+          0.521870286576169
+        ],
+        "maturation_djc": 3576,
+        "maturation_travaux": "Observation — Ko 39 (18-22 août) ~3576°J : aoûtement du bois, possible seconde vague de bractées si pincement pratiqué en juin-juillet. Croissance ralentit.\nSentai (taille de structure) — taille légère uniquement, conserver le bois aoûté porteur de bourgeons florifères.\nFertilisation : NPK 4-10-10, EC 0,8-1,0 mS/cm, pH 5,5-6,5. Durcir les tissus pour l'hivernage.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
+        "senescence": [
+          8,
+          1
+        ],
+        "senescence_djc": 4401,
+        "senescence_travaux": "Observation — Ko 47 (28 sept-2 oct) ~4401°J : ralentissement net, feuilles pâlissent. Rentrer en serre avant 8°C nocturnes — le 'Violet de Mèze' est légèrement plus frileux que B. glabra seul.\nFertilisation : arrêt complet de l'azote. Dernière application Ko 47 maximum.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
+        "dormance_travaux": "Observation — Ko 57 (17-21 nov) ~5223°J : repos en serre froide (5-10°C), feuilles partiellement caduques, arrosages très espacés (1 fois toutes les 2-3 semaines).\nSentai (taille de structure) — taille de structure en toute fin de dormance Ko 3-4, avant reprise. Ne jamais tailler en automne-hiver — le bois aoûté porte les bourgeons florifères du printemps.\nFertilisation : aucune en dormance. Reprendre à Ko 15 à la sortie hivernage.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
+        "notes_perso": "Le champion de la résistance au froid : -8°C ! Variété très poussante, vigoureuse. Entre 6 et 10 m de haut. À planter en pleine terre de nombreuses régions.\n\nFloraison : de mai aux gelées\nSol : riche, bien drainé\nRusticité : -8°C\nUtilisations : contre un mur, une façade, sur une pergola",
+        "erreurs_fatales": "",
         "dormance_djc": 5223,
         "dormance": [
           10,
@@ -532,7 +580,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 7
+    "_modCount": 8
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
