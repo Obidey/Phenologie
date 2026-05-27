@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1779894875600,
-  "_date": "2026-05-27T15:14:35.600Z",
-  "_modCount": 1252,
+  "_ts": 1779894886748,
+  "_date": "2026-05-27T15:14:46.748Z",
+  "_modCount": 1253,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -203,7 +203,7 @@
         "senescence_djc": 4401,
         "senescence_travaux": "Observation — Ko 47 (28 sept – 2 oct) ~4400°J : jaunissement et chute des feuilles (souvent sans couleur automnale marquée, chute verte possible).\nSentai (taille de structure) — taille de structure et raccourcissement des pousses de l'année à 1-2 nœuds pour initier les éperons floraux de la saison suivante.\nUekae (rempotage) — période privilégiée pour le rempotage bisannuel ; substrat identique à la feuillaison.\nFertilisation : arrêt progressif, dernière application NPK 0-6-10.\nSource : Bonsai4Me — http://www.bonsai4me.com/SpeciesGuide/Chaenomeles.html",
         "dormance_travaux": "Observation — Ko 56-72 (nov – fév) : repos végétatif, bourgeons floraux visibles sur vieux bois. Froid indispensable pour une floraison abondante ; ne pas rentrer en serre chauffée.\nHarigane-kake (ligature) — poser les ligatures de structure sur bois nu, bien visible ; surveiller dès Ko 3.\nProtéger des gelées sous -5°C (tuer les bourgeons floraux) sans supprimer le froid.\nFertilisation : aucune.\nSource : Ma-Ke Bonsai — http://guide.makebonsai.com/bonsai_species_guide_training.asp?SpeciesID=5001",
-        "notes_perso": "",
+        "notes_perso": "K23 2eme feuillaison",
         "erreurs_fatales": "",
         "dormance_djc": 5223,
         "dormance": [
@@ -580,7 +580,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 8
+    "_modCount": 9
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
