@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1779894952617,
-  "_date": "2026-05-27T15:15:52.617Z",
-  "_modCount": 1254,
+  "_ts": 1779895029841,
+  "_date": "2026-05-27T15:17:09.841Z",
+  "_modCount": 1255,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -62,7 +62,14 @@
           0.24770642201834864
         ],
         "boutures_djc": 1530,
-        "boutures_travaux": "Observation — Ko 19 (6-10 mai) ~1449°J : boutures semi-aoûtées sur pousses de l'année, 8-12 cm, 2-3 entre-nœuds. Couper la moitié des feuilles, tremper la base 30s dans l'AIB 3000 ppm, planter en substrat sable+perlite 50/50 sous brumisation ou sac plastique. Taux de reprise modéré sur Shaina (~40%) — multiplier les essais. Résultats visibles Ko 24-25."
+        "boutures_travaux": "Observation — Ko 19 (6-10 mai) ~1449°J : boutures semi-aoûtées sur pousses de l'année, 8-12 cm, 2-3 entre-nœuds. Couper la moitié des feuilles, tremper la base 30s dans l'AIB 3000 ppm, planter en substrat sable+perlite 50/50 sous brumisation ou sac plastique. Taux de reprise modéré sur Shaina (~40%) — multiplier les essais. Résultats visibles Ko 24-25.",
+        "dormance_djc": 5223,
+        "dormance": [
+          10,
+          0.6719242902208202
+        ],
+        "notes_perso": "",
+        "erreurs_fatales": ""
       },
       {
         "_id": "mpjmupd2f9e4",
@@ -587,7 +594,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 10
+    "_modCount": 11
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
