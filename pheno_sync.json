@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1779894886748,
-  "_date": "2026-05-27T15:14:46.748Z",
-  "_modCount": 1253,
+  "_ts": 1779894952617,
+  "_date": "2026-05-27T15:15:52.617Z",
+  "_modCount": 1254,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -397,10 +397,10 @@
         "croissance_djc": 1530,
         "croissance_travaux": "Observation — Ko 13 (5-9 avr) ~1000°J : élongation maximale des chandelles en cours. Intervenir sur le pinçage des chandelles vigoureuses si non encore fait. Supprimer les chandelles en excès (3+ par nœud, ne garder que 2). Fertilisation azotée modérée pour soutenir la croissance sans excès.",
         "maturation": [
-          4,
-          0.24770642201834864
+          9,
+          1
         ],
-        "maturation_djc": 1530,
+        "maturation_djc": 4930,
         "maturation_travaux": "Observation — Ko 39 (18-22 août) ~3500°J : les cônes de l'année précédente arrivent à maturité complète (verts virant au brun). Les aiguilles de l'année sont désormais entièrement développées et lignifiées. Bon moment pour évaluer la densité du feuillage et commencer l'effeuillaison partielle des aiguilles âgées (défoliation sélective des vieilles aiguilles à la pince).",
         "senescence": [
           9,
@@ -420,7 +420,14 @@
           0.24770642201834864
         ],
         "boutures_djc": 1530,
-        "boutures_travaux": "Observation — bouturage non recommandé pour Pinus sylvestris : taux d'enracinement quasi nul sur les conifères à aiguilles groupées par 2. Privilégier le semis ou le greffage (greffage en placage sur P. thunbergii au Ko 8-9, ~650-700°J, avant débourrement complet du porte-greffe)."
+        "boutures_travaux": "Observation — bouturage non recommandé pour Pinus sylvestris : taux d'enracinement quasi nul sur les conifères à aiguilles groupées par 2. Privilégier le semis ou le greffage (greffage en placage sur P. thunbergii au Ko 8-9, ~650-700°J, avant débourrement complet du porte-greffe).",
+        "dormance_djc": 5223,
+        "dormance": [
+          10,
+          0.6719242902208202
+        ],
+        "notes_perso": "",
+        "erreurs_fatales": ""
       },
       {
         "_id": "mpf2nytpdw63",
@@ -580,7 +587,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 9
+    "_modCount": 10
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
