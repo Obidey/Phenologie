@@ -1,13 +1,64 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1780137097925,
-  "_date": "2026-05-30T10:31:37.925Z",
-  "_modCount": 1263,
+  "_ts": 1780137586486,
+  "_date": "2026-05-30T10:39:46.486Z",
+  "_modCount": 1264,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
     "especes": [
+      {
+        "_id": "mps7ye6yqpdu",
+        "espece": "Acer palmatum ‘Atrolineare",
+        "url": "https://fr.wikipedia.org/wiki/Acer_palmatum",
+        "notes": "Caduc. Famille Sapindaceae. Cultivar linéaire à feuilles très découpées, lobes filiformes rouge-pourpre persistant en été. Port pleureur naturel. Bonsaï : silhouette cascade ou semi-cascade valorisée, feuillage fin spectaculaire ; sensible aux vents desséchants et au soleil intense estival à Cazaux.",
+        "photo": "",
+        "debourrement": [
+          1,
+          0.431924882629108
+        ],
+        "debourrement_djc": 391,
+        "debourrement_travaux": "Observation — Ko 3 (14-18 fév) ~400°J : gonflement des bourgeons, écailles s'écartent, pointes rouge vif visibles.\nMebana (sélection bourgeons) — supprimer bourgeons inverses, entrelacés ou en surnombre ; conserver 2 bourgeons opposés bien orientés par nœud.\nHarigane-kake (ligature) — poser les ligatures sur rameaux lignifiés avant débourrement, avant la montée de sève.\nUekae (rempotage) — à ce stade exact, bourgeons gonflés mais non ouverts. Substrat : 60 % akadama, 30 % pouzzolane, 10 % compost mûr ; pH 5,5-6,5, drainage libre. Période optimale pour l'espèce à Cazaux.\nFertilisation : aucune avant ouverture des bourgeons.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/japanese-maple",
+        "feuillaison": [
+          2,
+          0.1362397820163488
+        ],
+        "feuillaison_djc": 607,
+        "feuillaison_travaux": "Observation — Ko 7 (6-10 mars) ~600°J : feuilles filiformes rouge-pourpre se déploient, entre-nœuds encore courts.\nMebana (sélection bourgeons) — dernier passage pour supprimer bourgeons tardifs non désirés avant fermeture de la fenêtre.\nHarigane-kake (ligature) — surveiller les ligatures posées en dormance, desserrer si marque naissante.\nFertilisation : démarrer NPK 10-6-6 dilué à demi-dose, EC 0,5-0,8 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/japanese-maple",
+        "floraison": [
+          2,
+          0.6566757493188011
+        ],
+        "floraison_djc": 798,
+        "floraison_travaux": "Observation — Ko 10 (21-25 mars) ~800°J : petites fleurs rouge foncé en corymbes discrets, simultanées avec la feuillaison.\nFertilisation : maintenir NPK 10-6-6, EC 0,8-1,0 mS/cm, pH 5,5-6,5. Ne pas fertiliser en excès durant floraison.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/japanese-maple",
+        "croissance": [
+          3,
+          0.21487603305785125
+        ],
+        "croissance_djc": 1070,
+        "croissance_travaux": "Observation — Ko 14 (10-14 avr) ~1100°J : forte élongation, entre-nœuds s'allongent rapidement, feuillage filaire s'étoffe.\nMetsumi (pincement) — pincer toutes les 2-3 semaines dès 3-4 paires de feuilles ; sur 'Atrolineare' favoriser pousses courtes pour compacité.\nHarigane-kake (ligature) — reposer sur nouveaux rameaux encore souples ; retirer avant marquage (contrôle hebdomadaire).\nToriki (marcottage aérien) — Ko 14-20 période optimale, inciser sur branches de ≥ 3 ans.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/japanese-maple",
+        "maturation": [
+          5,
+          0.5503597122302158
+        ],
+        "maturation_djc": 2198,
+        "maturation_travaux": "Observation — Ko 27 (16-20 juin) ~2200°J : croissance ralentie, feuilles durcies, couleur rouge-pourpre s'intensifie sous la chaleur cazacienne.\nSentai (taille de structure) — taille légère de rééquilibrage après arrêt de croissance ; éviter coupes importantes par forte chaleur.\nHarigane-kake (ligature) — retirer toutes les ligatures avant marquage estival.\nFertilisation : basculer sur NPK 6-6-8 pour durcissement des tissus, EC 0,8-1,2 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/japanese-maple",
+        "senescence": [
+          8,
+          0.7612732095490716
+        ],
+        "senescence_djc": 4311,
+        "senescence_travaux": "Observation — Ko 44 (13-17 sept) ~4300°J : feuilles filiformes virent au jaune-orangé puis rouge, chute progressive.\nSentai (taille de structure) — taille de structure possible en fin de sénescence, silhouette lisible sans feuilles.\nFertilisation : NPK 0-10-10, EC 0,6-1,0 mS/cm, pH 5,5-6,5 ; arrêter l'azote.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/japanese-maple",
+        "dormance_travaux": "Observation — Ko 56 (12-16 nov) : arbre défeuillé, rameaux filaires rouge-brun visibles, entrée en dormance complète.\nSentai (taille de structure) — taille principale en dormance profonde, silhouette dégagée, couper au-dessus d'un bourgeon orienté.\nHarigane-kake (ligature) — poser ligatures de structure sur bois lignifié, sans sève active ; bronze de préférence sur rameaux fins.\nFertilisation : aucune.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/japanese-maple",
+        "notes_perso": "",
+        "erreurs_fatales": "",
+        "dormance_djc": 5223,
+        "dormance": [
+          10,
+          0.6719242902208202
+        ]
+      },
       {
         "_id": "mp9c8mye7n94",
         "espece": "Acer Shaina",
