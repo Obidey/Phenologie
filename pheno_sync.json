@@ -1,8 +1,8 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1780137696771,
-  "_date": "2026-05-30T10:41:36.771Z",
+  "_ts": 1780293380643,
+  "_date": "2026-06-01T05:56:20.643Z",
   "_modCount": 1265,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
@@ -364,7 +364,7 @@
         "senescence_travaux": "Observation — Ko 52-60 (23 oct-6 déc) ~4854-5382°J : jaunissement et chute des feuilles. L'arbre entre en dormance apparente mais prépare ses bourgeons floraux.\nHarigane-kake (ligature) — poser les ligatures de structure après chute des feuilles, silhouette visible. Utiliser fil d'aluminium, surveiller sur bois jeune.\nFertilisation : arrêter toute fertilisation à la sénescence.\nSource : Bonsai Tonight — https://bonsaitonight.com/tag/japanese-apricot/",
         "dormance_travaux": "Observation — Ko 60-66 (2 déc-5 jan) ~5382-11°J : dormance courte, chevauchant avec l'initiation florale. À Cazaux (hivers doux), les bourgeons floraux s'ouvrent dès Ko 67 (6 jan). Pas de phase de dormance franche distincte de la floraison.\nProtection : abriter des gelées inférieures à -10°C ; à Cazaux le risque est faible mais surveiller les gelées tardives sur fleurs ouvertes.\nFertilisation : aucune.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/japanese-apricot",
         "notes_perso": "K23 2eme feuillaison",
-        "erreurs_fatales": "",
+        "erreurs_fatales": "Laisser sécher le substrat : Enroulement des feuilles",
         "dormance_djc": 5223,
         "dormance": [
           10,
