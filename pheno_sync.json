@@ -1,8 +1,8 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1780380638543,
-  "_date": "2026-06-02T06:10:38.543Z",
+  "_ts": 1780418383952,
+  "_date": "2026-06-02T16:39:43.952Z",
   "_modCount": 1268,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
@@ -216,6 +216,48 @@
         "dormance": [
           10,
           0.6719242902208202
+        ]
+      },
+      {
+        "_id": "mpwv4uwadnj9",
+        "espece": "Citron du Vietnam",
+        "url": "https://fr.wikipedia.org/wiki/Citrus_aurantiifolia",
+        "notes": "Persistant. Rutaceae. Citrus très thermophile, seuil critique ~5°C — rentrée obligatoire à Cazaux dès Ko 55 (nov). Floraisons remontantes possibles toute l'année si chaleur maintenue. Fruits mûrissent en 6-9 mois. Épines axillaires fréquentes. Petites feuilles ailées, très aromatiques. Espèce greffée en culture commerciale — Tsugiki facilite la mise en forme. Sensible araignées rouges, cochenilles, mineuse des feuilles.",
+        "photo": "",
+        "debourrement": null,
+        "debourrement_djc": null,
+        "debourrement_travaux": "",
+        "feuillaison": null,
+        "feuillaison_djc": null,
+        "feuillaison_travaux": "",
+        "floraison": [
+          4,
+          0.24770642201834864
+        ],
+        "floraison_djc": 1530,
+        "floraison_travaux": "Observation — Ko 20 (11-15 mai) ~1500°J : apparition des boutons floraux blancs, très parfumés. Floraison remontante possible jusqu'en Ko 40 si température > 18°C.\nHarigane-kake (ligature) — poser les ligatures avant le gonflement des boutons pour ne pas endommager les fleurs.\nPollinisation manuelle — pinceau fin de fleur en fleur si culture sous abri, améliore la nouaison.\nFertilisation : NPK 5-10-10, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/citrus-bonsai",
+        "croissance": [
+          5,
+          0
+        ],
+        "croissance_djc": 1892,
+        "croissance_travaux": "Observation — Ko 24 (1-5 juin) ~1900°J : pousse active, entre-nœuds courts, feuilles ailées bien développées.\nMetsumi (pincement) — pincer après 4-5 feuilles pour densifier la ramification, répéter toutes les 3 semaines.\nSentai (taille de structure) — Ko 24-28 : tailler les branches défavorables avant la chaleur estivale.\nHarigane-kake (ligature) — ligature sur rameaux souples, surveiller toutes les 3 semaines (croissance rapide).\nToriki (marcottage aérien) — Ko 24-30 période optimale, sève en plein mouvement.\nUekae (rempotage) — si non fait au printemps, possible jusqu'à Ko 26 max. Substrat : 50% akadama, 30% pouzzolane, 20% écorce de pin ; pH 5,5-6,5, drainage excellent.\nFertilisation : NPK 10-6-6, EC 1,5-2,0 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/citrus-bonsai",
+        "maturation": [
+          7,
+          0.6953242835595776
+        ],
+        "maturation_djc": 3691,
+        "maturation_travaux": "Observation — Ko 40 (23-27 août) ~3700°J : fruits en grossissement, virage du vert foncé vers vert clair. Récolte possible dès verdissement avancé (acidité maximale) ou attendre le jaunissement complet.\nMetsumi (pincement) — arrêt du pincement à Ko 40 pour ne pas affaiblir l'arbre avant l'hiver.\nÉclaircie des fruits — laisser 1-2 fruits par branche, retirer les excédents pour éviter l'épuisement.\nFertilisation : NPK 4-10-14, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Bonsai Resource Center — https://bonsairesourcecenter.com/how-to-care-for-bonsai-lime-tree-citrus-aurantifolia/",
+        "senescence": null,
+        "senescence_djc": null,
+        "senescence_travaux": "",
+        "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5100°J : croissance stoppée, températures nocturnes < 10°C à Cazaux. Rentrer impérativement avant les premières gelées. Hiverner hors-gel, lumineux, 8-12°C minimum.\nSentai (taille de structure) — taille légère de mise en forme possible en début de dormance avant rentrée.\nUekae (rempotage) — reporter au printemps (Ko 12-14). Substrat : 50% akadama, 30% pouzzolane, 20% écorce de pin ; pH 5,5-6,5.\nFertilisation : suspendre ou NPK 0-10-10 très dilué si arbre sous serre chauffée, EC < 0,8 mS/cm.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/citrus-bonsai",
+        "notes_perso": "debourrement et feuillaison sont null — espèce persistante, pas de débourrement printanier distinct.\nsenescence est null — pas de sénescence foliaire saisonnière.\nFloraison ancrée Ko 20 (~1500°J), cohérent avec la mise dehors post-gel et la montée thermique à Cazaux.\nUekae recommandé Ko 12-14 (~900-1100°J) — à intégrer dans croissance_travaux ou dormance_travaux selon le workflow de l'app.",
+        "erreurs_fatales": "",
+        "dormance_djc": 5087,
+        "dormance": [
+          10,
+          0.24290220820189273
         ]
       },
       {
