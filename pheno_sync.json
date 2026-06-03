@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1780468319965,
-  "_date": "2026-06-03T06:31:59.965Z",
-  "_modCount": 1276,
+  "_ts": 1780468481694,
+  "_date": "2026-06-03T06:34:41.694Z",
+  "_modCount": 1277,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -220,7 +220,7 @@
       },
       {
         "_id": "mpwv4uwadnj9",
-        "espece": "Citron du Vietnam",
+        "espece": "Citron du Vietnam \"Chanh\"",
         "url": "https://fr.wikipedia.org/wiki/Citrus_aurantiifolia",
         "notes": "Persistant. Rutaceae. Citrus très thermophile, seuil critique ~5°C — rentrée obligatoire à Cazaux dès Ko 55 (nov). Floraisons remontantes possibles toute l'année si chaleur maintenue. Fruits mûrissent en 6-9 mois. Épines axillaires fréquentes. Petites feuilles ailées, très aromatiques. Espèce greffée en culture commerciale — Tsugiki facilite la mise en forme. Sensible araignées rouges, cochenilles, mineuse des feuilles.",
         "photo": "",
@@ -241,7 +241,7 @@
           0
         ],
         "croissance_djc": 1892,
-        "croissance_travaux": "Observation — Ko 24 (1-5 juin) ~1900°J : pousse active, entre-nœuds courts, feuilles ailées bien développées.\nMetsumi (pincement) — pincer après 4-5 feuilles pour densifier la ramification, répéter toutes les 3 semaines.\nSentai (taille de structure) — Ko 24-28 : tailler les branches défavorables avant la chaleur estivale.\nHarigane-kake (ligature) — ligature sur rameaux souples, surveiller toutes les 3 semaines (croissance rapide).\nToriki (marcottage aérien) — Ko 24-30 période optimale, sève en plein mouvement.\nUekae (rempotage) — si non fait au printemps, possible jusqu'à Ko 26 max. Substrat : 50% akadama, 30% pouzzolane, 20% écorce de pin ; pH 5,5-6,5, drainage excellent.\nFertilisation : NPK 10-6-6, EC 1,5-2,0 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/citrus-bonsai",
+        "croissance_travaux": "Observation — Ko 24 (1-5 juin) ~1900°J : pousse active, entre-nœuds courts, feuilles ailées bien développées.\nMetsumi (pincement) — pincer après 4-5 feuilles pour densifier la ramification, répéter toutes les 3 semaines.\nSentai (taille de structure) — Ko 24-28 : tailler les branches défavorables (montantes) avant la chaleur estivale.\nHarigane-kake (ligature) — ligature sur rameaux souples, surveiller toutes les 3 semaines (croissance rapide).\nToriki (marcottage aérien) — Ko 24-30 période optimale, sève en plein mouvement.\nUekae (rempotage) — si non fait au printemps, possible jusqu'à Ko 26 max. Substrat : 50% akadama, 30% pouzzolane, 20% écorce de pin ; pH 5,5-6,5, drainage excellent.\nFertilisation : NPK 10-6-6, EC 1,5-2,0 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/citrus-bonsai",
         "maturation": [
           7,
           0.6953242835595776
