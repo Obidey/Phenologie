@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1780468216158,
-  "_date": "2026-06-03T06:30:16.158Z",
-  "_modCount": 1275,
+  "_ts": 1780468319965,
+  "_date": "2026-06-03T06:31:59.965Z",
+  "_modCount": 1276,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -1093,7 +1093,8 @@
     "ko3_Zuisho_semis_0": true,
     "ko20_Pin_Sylvestre_maturation_0": true,
     "ko20_Pin_Sylvestre_croissance_0": false,
-    "ko20_Pin_Sylvestre_boutures_0": false
+    "ko20_Pin_Sylvestre_boutures_0": false,
+    "ko24_Citron_du_Vietnam_croissance_0": false
   },
   "config": {
     "ville1": {
