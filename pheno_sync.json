@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1780593143969,
-  "_date": "2026-06-04T17:12:23.969Z",
-  "_modCount": 1284,
+  "_ts": 1780593377786,
+  "_date": "2026-06-04T17:16:17.786Z",
+  "_modCount": 1285,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -309,6 +309,54 @@
         "dormance": [
           10,
           0.6719242902208202
+        ]
+      },
+      {
+        "_id": "mpzrbl0ay9kw",
+        "espece": "Jaspin",
+        "url": "https://fr.wikipedia.org/wiki/Jasminum_grandiflorum",
+        "notes": "Semi-persistant (caduc sous gel prolongé). Oleaceae. Arbuste sarmenteux à croissance rapide, entre-nœuds longs — ligature et pincement fréquents indispensables. Floraison blanche très parfumée de juin à octobre sur bois de l'année. Taille post-floraison obligatoire pour relancer les boutons. Rustique jusqu'à -5°C : à Cazaux, hivernage extérieur possible en exposition abritée sauf vague de froid. Sensible à la chlorose en substrat calcaire.",
+        "photo": "",
+        "debourrement": [
+          1,
+          1
+        ],
+        "debourrement_djc": 512,
+        "debourrement_travaux": "Observation — Ko 5 (24-28 fév) ~512°J : gonflement des bourgeons, premières feuilles composées s'ouvrent sur les rameaux de l'année précédente.\nUekae (rempotage) — Ko 5-8, avant débourrement complet. Substrat : 60% akadama, 40% pouzzolane ; pH 5,5-6,5, drainage rapide.\nSentai (taille de structure) — supprimer rameaux morts, croisés et rejets basaux avant la reprise végétative.\nHarigane-kake (ligature) — poser les ligatures sur rameaux dormants encore souples.\nFertilisation : NPK 5-10-5, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Mistral Bonsai — https://www.mistralbonsai.com/fr/tout-sur-le-bonsai/fiches-techniques-des-bonsais/bonsai-dexterieur/jasminum-sp/",
+        "feuillaison": [
+          2,
+          1
+        ],
+        "feuillaison_djc": 924,
+        "feuillaison_travaux": "Observation — Ko 12 (31 mars-4 avr) ~924°J : feuilles composées entièrement déployées, pousses élancées en croissance active.\nMetsumi (pincement) — pincer dès 4-5 paires de folioles pour raccourcir les entre-nœuds, répéter toutes les 2 semaines.\nHarigane-kake (ligature) — ligature sur nouvelles pousses encore souples ; surveiller les marques toutes les 10 jours (croissance rapide).\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Jardiner Malin — https://www.jardiner-malin.fr/fiche/jasmin.html",
+        "floraison": [
+          5,
+          0.3723021582733813
+        ],
+        "floraison_djc": 2099,
+        "floraison_travaux": "Observation — Ko 26 (11-15 juin) ~2099°J : premiers boutons floraux blancs très parfumés sur pousses de l'année. Floraison remontante jusqu'à Ko 49 (oct) si tailles successives après chaque vague.\nSentai (taille de structure) — tailler immédiatement après chaque vague florale en laissant 2 paires de feuilles ; déclenche une nouvelle vague en 3-4 semaines.\nMetsumi (pincement) — arrêter le pincement sur les rameaux à boutons pour ne pas supprimer les fleurs.\nFertilisation : NPK 5-10-10, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Bonsai Galinou — https://www.bonsaigalinou.com/fr/bonsai/4320-jasmin-jasminum-1-7.html",
+        "croissance": [
+          3,
+          1
+        ],
+        "croissance_djc": 1355,
+        "croissance_travaux": "Observation — Ko 19 (6-10 mai) ~1449°J : croissance végétative intense, entre-nœuds longs, port sarmenteux marqué.\nMetsumi (pincement) — pincer toutes les 2 semaines sur pousses de 4-5 paires de feuilles pour compacter la silhouette.\nHarigane-kake (ligature) — ligature continue sur pousses en extension ; vérifier les marques toutes les 10 jours.\nToriki (marcottage aérien) — Ko 19-26 période optimale sur rameaux de 1-2 ans.\nFertilisation : NPK 10-6-6, EC 1,5-2,0 mS/cm, pH 5,5-6,5.\nSource : Jardiner Malin — https://www.jardiner-malin.fr/fiche/jasmin.html",
+        "maturation": null,
+        "maturation_djc": null,
+        "maturation_travaux": "",
+        "senescence": [
+          9,
+          0.2119815668202765
+        ],
+        "senescence_djc": 4588,
+        "senescence_travaux": "Observation — Ko 49 (8-12 oct) ~4588°J : ralentissement de la croissance, jaunissement progressif des feuilles les plus anciennes, dernière vague florale possible.\nSentai (taille de structure) — taille légère de mise en forme après la dernière floraison, avant les premiers froids.\nFertilisation : NPK 4-10-14, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Jardiner Malin — https://www.jardiner-malin.fr/fiche/jasmin.html",
+        "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : végétation stoppée, feuilles partiellement caduques à Cazaux selon les hivers. Plante rustique jusqu'à -5°C — laisser dehors en exposition abritée, protéger si gelée prolongée annoncée.\nFertilisation : suspendre.\nSource : Mistral Bonsai — https://www.mistralbonsai.com/fr/tout-sur-le-bonsai/fiches-techniques-des-bonsais/bonsai-dexterieur/jasminum-sp/",
+        "notes_perso": "",
+        "erreurs_fatales": "",
+        "dormance_djc": 5087,
+        "dormance": [
+          10,
+          0.24290220820189273
         ]
       },
       {
