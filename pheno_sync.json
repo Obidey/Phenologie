@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1780593750216,
-  "_date": "2026-06-04T17:22:30.216Z",
-  "_modCount": 1291,
+  "_ts": 1780593836121,
+  "_date": "2026-06-04T17:23:56.121Z",
+  "_modCount": 1292,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -668,6 +668,54 @@
         "erreurs_fatales": ""
       },
       {
+        "_id": "mpzrlenw8z5a",
+        "espece": "Plumbago auriculata - Plumbago capensis - Dentelaire du Cap",
+        "url": "https://fr.wikipedia.org/wiki/Plumbago_auriculata",
+        "notes": "Semi-persistant (caduc dès -3°C, feuillage maintenu à Cazaux en hiver doux). Plumbaginaceae. Arbuste buissonnant ou sarmenteux originaire d'Afrique du Sud. Fleurs bleu azur en panicules terminales, de mai à novembre — floraison sur pousses de l'année. Rustique jusqu'à -8°C sur courte durée : hivernage extérieur à Cazaux en exposition abritée, rentrer si vague de froid prolongée. Croissance vigoureuse en saison chaude. Sève collante, gants conseillés à la taille. Espèce peu documentée en bonsaï : données extrapolées depuis culture en pot.",
+        "photo": "",
+        "debourrement": [
+          1,
+          1
+        ],
+        "debourrement_djc": 512,
+        "debourrement_travaux": "Observation — Ko 5 (24-28 fév) ~512°J : gonflement des bourgeons, premières feuilles vert clair s'ouvrent sur les rameaux.\nSentai (taille de structure) — Ko 5-8 : taille de remise en forme avant la reprise végétative ; supprimer rameaux morts, croisés et tiges épuisées de l'année précédente.\nUekae (rempotage) — Ko 5-9, tous les 2 ans. Substrat : 50% akadama, 30% pouzzolane, 20% terreau de feuilles ; pH 5,5-6,5, drainage excellent.\nFertilisation : NPK 5-10-5, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Gerbeaud — https://www.gerbeaud.com/jardin/fiches/dentelaire-du-cap-plumbago,1386.html",
+        "feuillaison": [
+          2,
+          1
+        ],
+        "feuillaison_djc": 924,
+        "feuillaison_travaux": "Observation — Ko 12 (31 mars-4 avr) ~924°J : feuilles entièrement déployées, pousses de l'année en élongation rapide.\nMetsumi (pincement) — pincer les pousses à 3-4 paires de feuilles pour densifier la ramification et multiplier les points de floraison.\nHarigane-kake (ligature) — ligature sur pousses souples en croissance ; surveiller les marques toutes les 2 semaines.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Jardiner Malin — https://www.jardiner-malin.fr/fiche/dentelaire-plumbago-du-cap.html",
+        "floraison": [
+          3,
+          1
+        ],
+        "floraison_djc": 1355,
+        "floraison_travaux": "Observation — Ko 19 (6-10 mai) ~1449°J : premiers boutons floraux bleu azur en panicules terminales. Floraison remontante jusqu'à Ko 53 (nov) avec tailles successives.\nMetsumi (pincement) — supprimer les inflorescences fanées immédiatement pour déclencher une nouvelle vague florale.\nFertilisation : NPK 5-10-10, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Truffaut — https://www.truffaut.com/plumbago-varietes-plantation-entretien.html",
+        "croissance": [
+          5,
+          0
+        ],
+        "croissance_djc": 1892,
+        "croissance_travaux": "Observation — Ko 24 (1-5 juin) ~1892°J : croissance végétative intense en parallèle de la floraison, entre-nœuds s'allongent rapidement.\nMetsumi (pincement) — pincer les pousses non florifères toutes les 2-3 semaines pour maintenir la compacité.\nHarigane-kake (ligature) — ligature sur rameaux en croissance ; vérifier les marques toutes les 10 jours.\nToriki (marcottage aérien) — Ko 24-30 période optimale sur rameaux de 1-2 ans.\nFertilisation : NPK 10-6-6, EC 1,5-2,0 mS/cm, pH 5,5-6,5.\nSource : Jardiner Malin — https://www.jardiner-malin.fr/fiche/dentelaire-plumbago-du-cap.html",
+        "maturation": null,
+        "maturation_djc": null,
+        "maturation_travaux": "",
+        "senescence": [
+          9,
+          0.2119815668202765
+        ],
+        "senescence_djc": 4588,
+        "senescence_travaux": "Observation — Ko 49 (8-12 oct) ~4588°J : ralentissement de la croissance, dernières panicules florales, feuillage commençant à pâlir sur les sujets les plus exposés.\nSentai (taille de structure) — taille légère post-floraison pour mettre en forme avant l'hiver ; ne pas tailler sévèrement.\nFertilisation : NPK 4-10-14, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Gerbeaud — https://www.gerbeaud.com/jardin/fiches/dentelaire-du-cap-plumbago,1386.html",
+        "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : végétation stoppée, feuillage se maintenant en hiver doux à Cazaux, caduc si T° < -3°C. Laisser en extérieur en exposition abritée ; rentrer si vague de froid prolongée annoncée.\nFertilisation : suspendre.\nSource : Truffaut — https://www.truffaut.com/plumbago-varietes-plantation-entretien.html",
+        "notes_perso": "",
+        "erreurs_fatales": "",
+        "dormance_djc": 5087,
+        "dormance": [
+          10,
+          0.24290220820189273
+        ]
+      },
+      {
         "_id": "mpf2nytpdw63",
         "espece": "Sabine",
         "url": "https://fr.wikipedia.org/wiki/Juniperus_sabina",
@@ -825,7 +873,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 15
+    "_modCount": 16
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
