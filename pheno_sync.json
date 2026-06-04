@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1780593450426,
-  "_date": "2026-06-04T17:17:30.426Z",
-  "_modCount": 1286,
+  "_ts": 1780593490621,
+  "_date": "2026-06-04T17:18:10.621Z",
+  "_modCount": 1287,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -313,7 +313,7 @@
       },
       {
         "_id": "mpzrbl0ay9kw",
-        "espece": "Jaspin",
+        "espece": "Jasminum_grandiflorum (Jasmin d'Espagne)",
         "url": "https://fr.wikipedia.org/wiki/Jasminum_grandiflorum",
         "notes": "Semi-persistant (caduc sous gel prolongé). Oleaceae. Arbuste sarmenteux à croissance rapide, entre-nœuds longs — ligature et pincement fréquents indispensables. Floraison blanche très parfumée de juin à octobre sur bois de l'année. Taille post-floraison obligatoire pour relancer les boutons. Rustique jusqu'à -5°C : à Cazaux, hivernage extérieur possible en exposition abritée sauf vague de froid. Sensible à la chlorose en substrat calcaire.",
         "photo": "",
@@ -735,7 +735,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 11
+    "_modCount": 12
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
