@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1780593490621,
-  "_date": "2026-06-04T17:18:10.621Z",
-  "_modCount": 1287,
+  "_ts": 1780593601644,
+  "_date": "2026-06-04T17:20:01.644Z",
+  "_modCount": 1288,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -309,6 +309,54 @@
         "dormance": [
           10,
           0.6719242902208202
+        ]
+      },
+      {
+        "_id": "mpzrgdqqn0s8",
+        "espece": "Jasminum Starry Night - Jasmin hybride",
+        "url": "https://fr.wikipedia.org/wiki/Jasminum_officinale",
+        "notes": "Semi-persistant (caduc partiel selon hivers). Oleaceae. Hybride commercial Jasminum officinale × J. polyanthum (cv. 'Mormin1201'). Allie la rusticité de J. officinale à la floribondité de J. polyanthum. Boutons roses s'ouvrant en fleurs blanches étoilées très parfumées, en panicules denses. Croissance sarmenteuse rapide — pincement et ligature fréquents indispensables. Rustique jusqu'à -10°C : hivernage extérieur à Cazaux en exposition abritée sans protection particulière. Sans fruits ornementaux.",
+        "photo": "",
+        "debourrement": [
+          1,
+          1
+        ],
+        "debourrement_djc": 512,
+        "debourrement_travaux": "Observation — Ko 5 (24-28 fév) ~512°J : gonflement des bourgeons, premières feuilles composées s'ouvrent sur les rameaux de l'année précédente.\nUekae (rempotage) — Ko 5-8, avant débourrement complet. Substrat : 60% akadama, 40% pouzzolane ; pH 5,5-6,5, drainage rapide.\nSentai (taille de structure) — supprimer rameaux morts, croisés et rejets basaux avant reprise végétative.\nHarigane-kake (ligature) — poser les ligatures sur rameaux dormants encore souples.\nFertilisation : NPK 5-10-5, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Promesse de Fleurs — https://www.promessedefleurs.com/grimpantes/grimpantes-par-variete/jasmins/jasminum-starry-night.html",
+        "feuillaison": [
+          2,
+          1
+        ],
+        "feuillaison_djc": 924,
+        "feuillaison_travaux": "Observation — Ko 12 (31 mars-4 avr) ~924°J : feuilles composées entièrement déployées, pousses sarmenteuses en élongation rapide.\nMetsumi (pincement) — pincer dès 4-5 paires de folioles pour raccourcir les entre-nœuds ; répéter toutes les 2 semaines.\nHarigane-kake (ligature) — ligature sur nouvelles pousses souples ; vérifier les marques toutes les 10 jours.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Promesse de Fleurs — https://www.promessedefleurs.com/grimpantes/grimpantes-par-variete/jasmins/jasminum-starry-night.html",
+        "floraison": [
+          4,
+          0.24770642201834864
+        ],
+        "floraison_djc": 1530,
+        "floraison_travaux": "Observation — Ko 20 (11-15 mai) ~1530°J : apparition des boutons roses en panicules, éclosion en fleurs blanches étoilées très parfumées. Floraison jusqu'à Ko 40 (août) avec tailles successives.\nSentai (taille de structure) — tailler immédiatement après chaque vague florale en laissant 2 paires de feuilles ; déclenche une nouvelle vague en 3-4 semaines.\nMetsumi (pincement) — suspendre sur les rameaux à boutons pour ne pas supprimer les fleurs.\nFertilisation : NPK 5-10-10, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Promesse de Fleurs — https://www.promessedefleurs.com/grimpantes/grimpantes-par-variete/jasmins/jasminum-starry-night.html",
+        "croissance": [
+          3,
+          1
+        ],
+        "croissance_djc": 1355,
+        "croissance_travaux": "Observation — Ko 19 (6-10 mai) ~1449°J : croissance végétative intense, entre-nœuds longs, port sarmenteux marqué.\nMetsumi (pincement) — pincer toutes les 2 semaines sur pousses de 4-5 paires de feuilles pour compacter la silhouette.\nHarigane-kake (ligature) — ligature continue sur pousses en extension ; vérifier les marques toutes les 10 jours.\nToriki (marcottage aérien) — Ko 19-26 période optimale sur rameaux de 1-2 ans.\nFertilisation : NPK 10-6-6, EC 1,5-2,0 mS/cm, pH 5,5-6,5.\nSource : Promesse de Fleurs — https://www.promessedefleurs.com/grimpantes/grimpantes-par-variete/jasmins/jasminum-starry-night.html",
+        "maturation": null,
+        "maturation_djc": null,
+        "maturation_travaux": "",
+        "senescence": [
+          9,
+          0.2119815668202765
+        ],
+        "senescence_djc": 4588,
+        "senescence_travaux": "Observation — Ko 49 (8-12 oct) ~4588°J : ralentissement de la croissance, jaunissement des feuilles les plus anciennes, dernière vague florale en fin de course.\nSentai (taille de structure) — taille légère de mise en forme après la dernière floraison, avant les premiers froids.\nFertilisation : NPK 4-10-14, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Promesse de Fleurs — https://www.promessedefleurs.com/grimpantes/grimpantes-par-variete/jasmins/jasminum-starry-night.html",
+        "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : végétation stoppée, feuilles partiellement tombées. Rustique à Cazaux — laisser en extérieur en exposition abritée, aucune protection nécessaire sauf vague de froid exceptionnel.\nFertilisation : suspendre.\nSource : Promesse de Fleurs — https://www.promessedefleurs.com/grimpantes/grimpantes-par-variete/jasmins/jasminum-starry-night.html",
+        "notes_perso": "",
+        "erreurs_fatales": "",
+        "dormance_djc": 5087,
+        "dormance": [
+          10,
+          0.24290220820189273
         ]
       },
       {
@@ -735,7 +783,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 12
+    "_modCount": 13
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
