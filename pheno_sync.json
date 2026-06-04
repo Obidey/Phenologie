@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1780593680203,
-  "_date": "2026-06-04T17:21:20.203Z",
-  "_modCount": 1289,
+  "_ts": 1780593745522,
+  "_date": "2026-06-04T17:22:25.522Z",
+  "_modCount": 1290,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -309,6 +309,48 @@
         "dormance": [
           10,
           0.6719242902208202
+        ]
+      },
+      {
+        "_id": "mpzrjgs1y1rj",
+        "espece": "Jasmin étoilé - Trachelospermum jasminoides",
+        "url": "https://fr.wikipedia.org/wiki/Trachelospermum_jasminoides",
+        "notes": "Persistant. Apocynaceae (faux jasmin, non apparenté aux Jasminum). Liane volubile à feuilles coriaces vernissées, virant au bronze par grand froid. Fleurs blanches étoilées très parfumées, juin-août, sur pousses de l'année. Croissance lente les 2-3 premières années, puis vigoureuse. Rustique jusqu'à -10°C à -15°C en situation abritée : hivernage extérieur à Cazaux sans protection. Latex irritant à la taille — gants indispensables. Bonsaï peu documenté : données extrapolées depuis culture en pot.",
+        "photo": "",
+        "debourrement": null,
+        "debourrement_djc": null,
+        "debourrement_travaux": "",
+        "feuillaison": null,
+        "feuillaison_djc": null,
+        "feuillaison_travaux": "",
+        "floraison": [
+          5,
+          0
+        ],
+        "floraison_djc": 1892,
+        "floraison_travaux": "Observation — Ko 24 (1-5 juin) ~1892°J : apparition des boutons floraux blancs en grappes terminales et axillaires, parfum intense. Floraison jusqu'à Ko 40 (août).\nMetsumi (pincement) — suspendre sur rameaux à boutons pour ne pas supprimer les fleurs.\nFertilisation : NPK 5-10-10, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Jardiner Malin — https://www.jardiner-malin.fr/fiche/trachelospermum-jasminoides.html",
+        "croissance": [
+          2,
+          1
+        ],
+        "croissance_djc": 924,
+        "croissance_travaux": "Observation — Ko 12 (31 mars-4 avr) ~924°J : reprise végétative, élongation des pousses de l'année sur lesquelles portera la floraison estivale.\nSentai (taille de structure) — Ko 12-14 : taille de mise en forme avant l'élongation des pousses florifères ; supprimer rameaux croisés, inversés et rejets basaux. Porter des gants (latex irritant).\nMetsumi (pincement) — pincer les pousses non destinées à fleurir pour densifier la ramification.\nHarigane-kake (ligature) — ligature sur pousses souples en croissance ; surveiller les marques toutes les 2 semaines.\nUekae (rempotage) — tous les 2-3 ans, Ko 9-12. Substrat : 50% akadama, 30% pouzzolane, 20% écorce de pin ; pH 5,5-6,5, drainage excellent.\nToriki (marcottage aérien) — Ko 14-22 période optimale.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Jardiner Malin — https://www.jardiner-malin.fr/fiche/trachelospermum-jasminoides.html",
+        "maturation": null,
+        "maturation_djc": null,
+        "maturation_travaux": "",
+        "senescence": [
+          7,
+          0.6953242835595776
+        ],
+        "senescence_djc": 3691,
+        "senescence_travaux": "Observation — Ko 40 (23-27 août) ~3691°J : fin de floraison, feuilles les plus anciennes virent légèrement au bronze, croissance ralentie.\nSentai (taille de structure) — taille post-floraison immédiatement après Ko 40 : raccourcir d'un tiers, supprimer rameaux épuisés. Porter des gants (latex irritant).\nFertilisation : NPK 4-10-14, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Jardiner Bio — https://jardinerbio.com/quand-tailler-le-jasmin-guide-complet-2026/",
+        "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : croissance stoppée, feuillage persistant prenant des teintes bronze par le froid. Rustique à Cazaux — laisser en extérieur en exposition abritée sans protection.\nFertilisation : suspendre.\nSource : Le Châtel des Vivaces — https://www.le-chatel-des-vivaces.com/trachelospermum/2367-trachelospermum-jasminoides.html",
+        "notes_perso": "",
+        "erreurs_fatales": "",
+        "dormance_djc": 5087,
+        "dormance": [
+          10,
+          0.24290220820189273
         ]
       },
       {
@@ -783,7 +825,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 14
+    "_modCount": 15
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
