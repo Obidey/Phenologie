@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1780637723771,
-  "_date": "2026-06-05T05:35:23.771Z",
-  "_modCount": 1294,
+  "_ts": 1780637776065,
+  "_date": "2026-06-05T05:36:16.065Z",
+  "_modCount": 1295,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -1281,7 +1281,8 @@
     "ko20_Pin_Sylvestre_croissance_0": false,
     "ko20_Pin_Sylvestre_boutures_0": false,
     "ko24_Citron_du_Vietnam_croissance_0": false,
-    "ko24_Jasmin__toil____Trachelospermum_jasminoides_floraison_0": true
+    "ko24_Jasmin__toil____Trachelospermum_jasminoides_floraison_0": true,
+    "ko24_Plumbago_auriculata___Plumbago_capensis___Dentelaire_du_Cap_croissance_0": true
   },
   "config": {
     "ville1": {
