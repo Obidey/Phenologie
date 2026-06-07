@@ -1,16 +1,16 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1780811957974,
-  "_date": "2026-06-07T05:59:17.974Z",
-  "_modCount": 1302,
+  "_ts": 1780826907890,
+  "_date": "2026-06-07T10:08:27.890Z",
+  "_modCount": 1303,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
     "especes": [
       {
         "_id": "mps7ye6yqpdu",
-        "espece": "Acer palmatum ‘Atrolineare",
+        "espece": "Acer palmatum  ENKAN",
         "url": "https://fr.wikipedia.org/wiki/Acer_palmatum",
         "notes": "Caduc. Famille Sapindaceae. Cultivar linéaire à feuilles très découpées, lobes filiformes rouge-pourpre persistant en été. Port pleureur naturel. Bonsaï : silhouette cascade ou semi-cascade valorisée, feuillage fin spectaculaire ; sensible aux vents desséchants et au soleil intense estival à Cazaux.",
         "photo": "",
@@ -543,8 +543,8 @@
         "senescence_djc": 4930,
         "senescence_travaux": "Observation — Ko 52-60 (23 oct-6 déc) ~4854-5382°J : jaunissement et chute des feuilles. L'arbre entre en dormance apparente mais prépare ses bourgeons floraux.\nHarigane-kake (ligature) — poser les ligatures de structure après chute des feuilles, silhouette visible. Utiliser fil d'aluminium, surveiller sur bois jeune.\nFertilisation : arrêter toute fertilisation à la sénescence.\nSource : Bonsai Tonight — https://bonsaitonight.com/tag/japanese-apricot/",
         "dormance_travaux": "Observation — Ko 60-66 (2 déc-5 jan) ~5382-11°J : dormance courte, chevauchant avec l'initiation florale. À Cazaux (hivers doux), les bourgeons floraux s'ouvrent dès Ko 67 (6 jan). Pas de phase de dormance franche distincte de la floraison.\nProtection : abriter des gelées inférieures à -10°C ; à Cazaux le risque est faible mais surveiller les gelées tardives sur fleurs ouvertes.\nFertilisation : aucune.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/japanese-apricot",
-        "notes_perso": "K23 2eme feuillaison",
-        "erreurs_fatales": "Laisser sécher le substrat : Enroulement des feuilles",
+        "notes_perso": "K23 2eme feuillaison, Test effeuillage sur mume blanc",
+        "erreurs_fatales": "Ne pas laisser sécher le substrat : Enroulement des feuilles Effeuillage 6 juin 2026",
         "dormance_djc": 5223,
         "dormance": [
           10,
@@ -873,7 +873,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 16
+    "_modCount": 18
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
