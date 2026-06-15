@@ -1,10 +1,10 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1781513626850,
-  "_date": "2026-06-15T08:53:46.850Z",
-  "_modCount": 1321,
-  "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
+  "_ts": 1781541622451,
+  "_date": "2026-06-15T16:40:22.451Z",
+  "_modCount": 1309,
+  "_device": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHT",
   "data": {
     "bornes": {},
     "especes": [
@@ -235,7 +235,7 @@
           0.24770642201834864
         ],
         "floraison_djc": 1530,
-        "floraison_travaux": "Observation — Ko 20 (11-15 mai) ~1500°J : apparition des boutons floraux blancs, très parfumés. Floraison remontante possible jusqu'en Ko 40 si température > 18°C.\nHarigane-kake (ligature) — poser les ligatures avant le gonflement des boutons pour ne pas endommager les fleurs.\nPollinisation manuelle — pinceau fin de fleur en fleur si culture sous abri, améliore la nouaison.\nFertilisation : NPK 5-10-10, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/citrus-bonsai\nhttps://agrumes.gendep19.org/bouture.html\nhttps://agrumes.gendep19.org/marcottage.html",
+        "floraison_travaux": "Observation — Ko 20 (11-15 mai) ~1500°J : apparition des boutons floraux blancs, très parfumés. Floraison remontante possible jusqu'en Ko 40 si température > 18°C.\nHarigane-kake (ligature) — poser les ligatures avant le gonflement des boutons pour ne pas endommager les fleurs.\nPollinisation manuelle — pinceau fin de fleur en fleur si culture sous abri, améliore la nouaison.\nFertilisation : NPK 5-10-10, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/citrus-bonsai",
         "croissance": [
           5,
           0
@@ -873,7 +873,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 19
+    "_modCount": 18
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
