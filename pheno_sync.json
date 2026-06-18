@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1781764023416,
-  "_date": "2026-06-18T06:27:03.416Z",
-  "_modCount": 1327,
+  "_ts": 1781764119101,
+  "_date": "2026-06-18T06:28:39.101Z",
+  "_modCount": 1328,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -108,6 +108,57 @@
         "dormance": [
           10,
           0.6719242902208202
+        ]
+      },
+      {
+        "_id": "mqj4cmt7imzu",
+        "espece": "Acer palmatum Deshojo",
+        "url": "https://fr.wikipedia.org/wiki/Acer_palmatum",
+        "notes": "Caduc. Sapindaceae. Cultivar d'Acer palmatum le plus emblématique, dit Érable rouge japonais. Débourrement spectaculaire d'un rouge carmin profond, virant au vert foncé en été, puis re-rougissant en orange et rouge grenat à l'automne. Feuilles palmées à bords légèrement dentelés. Ramification fine, l'un des cultivars les plus adaptés aux amateurs grâce à sa vigueur et sa résistance. Sensible à la brûlure foliaire en plein soleil estival.",
+        "photo": "",
+        "debourrement": [
+          1,
+          1
+        ],
+        "debourrement_djc": 512,
+        "debourrement_travaux": "Observation — Ko 5 (24-28 fév) ~512°J : débourrement spectaculaire d'un rouge carmin profond, intense et précoce.\nUekae (rempotage) — Ko 5-8, avant débourrement complet, tous les 2 ans. Substrat : 100% akadama ou akadama 80% + pouzzolane 20% ; pH 5,5-6,5, drainage correct.\nFertilisation : suspendre jusqu'au débourrement complet.\nSource : Mistral Bonsai — https://www.mistralbonsai.com/fr/tout-sur-le-bonsai/fiches-techniques-des-bonsais/bonsai-dexterieur/acer-palmatum/",
+        "feuillaison": [
+          2,
+          0.4604904632152589
+        ],
+        "feuillaison_djc": 726,
+        "feuillaison_travaux": "Observation — Ko 9 (16-20 mars) ~726°J : feuillage rouge carmin entièrement déployé, maintenu jusqu'en été.\nMetsumi (pincement) — au début du printemps : pincer du bout des doigts en enlevant le bourgeon en croissance, laisser uniquement les deux premières feuilles.\nFertilisation : NPK 7-5-7, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Mistral Bonsai — https://www.mistralbonsai.com/fr/tout-sur-le-bonsai/fiches-techniques-des-bonsais/bonsai-dexterieur/acer-palmatum/",
+        "floraison": [
+          5,
+          0.17805755395683454
+        ],
+        "floraison_djc": 1991,
+        "floraison_travaux": "Observation — Ko 25 (6-10 juin) ~1991°J : floraison discrète, petites fleurs jaune verdâtre en grappes, feuillage déjà viré au vert foncé.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.fr/especes/erable",
+        "croissance": [
+          3,
+          0.21487603305785125
+        ],
+        "croissance_djc": 1070,
+        "croissance_travaux": "Observation — Ko 14 (10-14 avr) ~1070°J : forte croissance végétative, entre-nœuds s'allongent, feuillage commence à virer du rouge vers le vert foncé.\nMetsumi (pincement) — pincement toutes les 2-3 semaines sur pousses de 3-4 paires de feuilles.\nHarigane-kake (ligature) — surveiller marques toutes les 3 semaines, reposer si nécessaire sur rameaux en croissance.\nToriki (marcottage aérien) — Ko 14-20 période optimale, sève en plein mouvement.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/japanese-maple",
+        "maturation": [
+          7,
+          0.521870286576169
+        ],
+        "maturation_djc": 3576,
+        "maturation_travaux": "Observation — Ko 39 (18-22 août) ~3576°J : aoûtement du bois, ralentissement de la croissance, feuillage vert foncé stable.\nSentai (taille de structure) — Ko 39-43, été : période propice pour la taille des branches fortes (cicatrisation rapide).\nFertilisation : réduire puis stopper après Ko 33 (juil) pour favoriser l'aoûtement et les colorations automnales.\nSource : Bonsai Empire — https://www.bonsaiempire.fr/especes/erable",
+        "senescence": [
+          8,
+          1
+        ],
+        "senescence_djc": 4401,
+        "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : feuillage redevenant coloré, virant à l'orange et au rouge grenat foncé.\nFertilisation : suspendre.\nSource : Mistral Bonsai — https://www.mistralbonsai.com/fr/comment-choisir-bonsai-derable/",
+        "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Résistant au gel à Cazaux ; protéger uniquement lors de fortes gelées (< -10°C).\nSentai (taille de structure) — taille des branches fortes en automne pour éviter les pertes de sève excessives.\nFertilisation : suspendre.\nSource : Bonsai Empire — https://www.bonsaiempire.fr/especes/erable",
+        "notes_perso": "Débourrement rouge carmin spectaculaire, viré vert en été, re-rougit à l'automne.",
+        "erreurs_fatales": "",
+        "dormance_djc": 5087,
+        "dormance": [
+          10,
+          0.24290220820189273
         ]
       },
       {
@@ -1149,7 +1200,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 25
+    "_modCount": 26
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
