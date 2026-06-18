@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1781764446606,
-  "_date": "2026-06-18T06:34:06.606Z",
-  "_modCount": 1332,
+  "_ts": 1781764473034,
+  "_date": "2026-06-18T06:34:33.034Z",
+  "_modCount": 1333,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -52,7 +52,7 @@
         "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : feuillage virant au jaune lumineux, écorce jaune orangé déjà visible sur le bois nu progressivement dégagé.\nFertilisation : suspendre.\nSource : Le Châtel des Vivaces — https://www.le-chatel-des-vivaces.com/erable-du-japon/2272-acer-palmatum-bi-hoo.html",
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, écorce jaune orangé à abricot pleinement visible et décorative tout l'hiver sur les rameaux de 1 à 4-5 ans. Protection en serre froide recommandée à Cazaux même en pot — cultivar sujet au dépérissement inexpliqué en conditions hivernales humides.\nFertilisation : suspendre.\nSource : The Maple Nursery — https://themaplenursery.com/fr/products/acer-palmatum-bi-hoo",
         "notes_perso": "cultivar fragile, sujet au dépérissement inexpliqué, drainage parfait impératif, mieux en pleine terre qu'en pot, protection hivernale en serre recommandée même pour les sujets en pot.",
-        "erreurs_fatales": "",
+        "erreurs_fatales": "Toriki (marcottage aérien) volontairement omis — signalé comme difficile à réussir sur ce cultivar par les praticiens, conforme à la règle \"ne jamais inventer, omettre si non applicable\".",
         "dormance_djc": 5087,
         "dormance": [
           10,
@@ -1350,7 +1350,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 29
+    "_modCount": 30
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
