@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1781762924363,
-  "_date": "2026-06-18T06:08:44.363Z",
-  "_modCount": 1314,
+  "_ts": 1781762965564,
+  "_date": "2026-06-18T06:09:25.564Z",
+  "_modCount": 1315,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -309,6 +309,42 @@
         "dormance": [
           10,
           0.6719242902208202
+        ]
+      },
+      {
+        "_id": "mqj3jflrzixv",
+        "espece": "Itoigawa",
+        "url": "https://fr.wikipedia.org/wiki/Juniperus_chinensis",
+        "notes": "Persistant. Cupressaceae. Cultivar 'Itoigawa' de Juniperus chinensis (Shimpaku Itoigawa), considéré comme le roi des bonsaï conifères. Feuillage aciculaire fin, vert clair à jaune-vert, très compact. Croissance lente, bois travaillable en shari/jin. Bronzage hivernal normal (signe de bonne santé), reverdit au printemps. Rustique de -20°C à 35°C : aucune protection nécessaire à Cazaux. Dioïque (plants mâles ou femelles).",
+        "photo": "",
+        "debourrement": null,
+        "debourrement_djc": null,
+        "debourrement_travaux": "",
+        "feuillaison": null,
+        "feuillaison_djc": null,
+        "feuillaison_travaux": "",
+        "floraison": null,
+        "floraison_djc": null,
+        "floraison_travaux": "",
+        "croissance": [
+          3,
+          0
+        ],
+        "croissance_djc": 992,
+        "croissance_travaux": "Observation — Ko 13 (5-9 avr) ~992°J : reprise de la croissance, feuillage reverdit après le bronzage hivernal, nouvelles pousses fines vert jaune.\nMekiri (taille chandelles) — supprimer les pousses trop vigoureuses dépassant le profil de la silhouette toute l'année, de préférence Ko 13-40.\nHazukashi (désaiguillage) — Ko 24-30, retirer les anciennes écailles internes pour aérer la ramification et favoriser la lumière.\nHarigane-kake (ligature) — Ko 13-22, poser les ligatures sur rameaux flexibles ; surveiller les marques toutes les 3-4 semaines (croissance lente).\nUekae (rempotage) — Ko 9-13, tous les 2-3 ans. Substrat : 60% kiryuzuna, 40% akadama (ou substrat bonsaï spécifique) ; pH 5,5-6,5, drainage excellent.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Mistral Bonsai — https://www.mistralbonsai.com/tienda/fr/bonsai/7541-juniperus-chinensis-itoigawa-bonsai-21-ans-genevrier-de-chine",
+        "maturation": null,
+        "maturation_djc": null,
+        "maturation_travaux": "",
+        "senescence": null,
+        "senescence_djc": null,
+        "senescence_travaux": "",
+        "dormance_travaux": "Observation — Ko 58 (22-26 nov) ~5273°J : croissance stoppée, feuillage virant au bronze sous l'effet du froid — signe normal, pas de maladie.\nMekiri (taille chandelles) — possible toute l'année, mais préférable d'octobre à mars selon période de repos.\nHarigane-kake (ligature) — surveiller les ligatures posées en saison, repos hivernal moins propice à la pose (sève ralentie).\nFertilisation : suspendre.\nSource : Mistral Bonsai — https://www.mistralbonsai.com/tienda/fr/bonsai/7541-juniperus-chinensis-itoigawa-bonsai-21-ans-genevrier-de-chine",
+        "notes_perso": "Techniques conifères (Mekiri, Hazukashi) utilisées au lieu de Metsumi/Sentai feuillus, conformément aux règles du prompt.",
+        "erreurs_fatales": "",
+        "dormance_djc": 5273,
+        "dormance": [
+          10,
+          0.8296529968454258
         ]
       },
       {
@@ -863,42 +899,6 @@
         "erreurs_fatales": "Plante basale : Le dépérissement de la cime (Die-back)\nC'est le risque majeur. La sève circule plus volontiers dans les branches basses de la Satsuki que dans sa tête.\nLe risque : Si vous taillez la tête trop sévèrement (surtout après la floraison ou en plein été), l'arbre peut tout simplement abandonner la zone. Le bourgeonnement en retrait sur le vieux bois est beaucoup plus capricieux en haut qu'en bas. Vous risquez de vous retrouver avec une cime morte qui sèche jusqu'au tronc principal.\nLa parade : Laissez toujours un tire-sève (un rameau avec des feuilles actives) à l'extrémité de la zone taillée pour maintenir le flux de sève"
       },
       {
-        "_id": "mqj3jflrzixv",
-        "espece": "toigawa",
-        "url": "https://fr.wikipedia.org/wiki/Juniperus_chinensis",
-        "notes": "Persistant. Cupressaceae. Cultivar 'Itoigawa' de Juniperus chinensis (Shimpaku Itoigawa), considéré comme le roi des bonsaï conifères. Feuillage aciculaire fin, vert clair à jaune-vert, très compact. Croissance lente, bois travaillable en shari/jin. Bronzage hivernal normal (signe de bonne santé), reverdit au printemps. Rustique de -20°C à 35°C : aucune protection nécessaire à Cazaux. Dioïque (plants mâles ou femelles).",
-        "photo": "",
-        "debourrement": null,
-        "debourrement_djc": null,
-        "debourrement_travaux": "",
-        "feuillaison": null,
-        "feuillaison_djc": null,
-        "feuillaison_travaux": "",
-        "floraison": null,
-        "floraison_djc": null,
-        "floraison_travaux": "",
-        "croissance": [
-          3,
-          0
-        ],
-        "croissance_djc": 992,
-        "croissance_travaux": "Observation — Ko 13 (5-9 avr) ~992°J : reprise de la croissance, feuillage reverdit après le bronzage hivernal, nouvelles pousses fines vert jaune.\nMekiri (taille chandelles) — supprimer les pousses trop vigoureuses dépassant le profil de la silhouette toute l'année, de préférence Ko 13-40.\nHazukashi (désaiguillage) — Ko 24-30, retirer les anciennes écailles internes pour aérer la ramification et favoriser la lumière.\nHarigane-kake (ligature) — Ko 13-22, poser les ligatures sur rameaux flexibles ; surveiller les marques toutes les 3-4 semaines (croissance lente).\nUekae (rempotage) — Ko 9-13, tous les 2-3 ans. Substrat : 60% kiryuzuna, 40% akadama (ou substrat bonsaï spécifique) ; pH 5,5-6,5, drainage excellent.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Mistral Bonsai — https://www.mistralbonsai.com/tienda/fr/bonsai/7541-juniperus-chinensis-itoigawa-bonsai-21-ans-genevrier-de-chine",
-        "maturation": null,
-        "maturation_djc": null,
-        "maturation_travaux": "",
-        "senescence": null,
-        "senescence_djc": null,
-        "senescence_travaux": "",
-        "dormance_travaux": "Observation — Ko 58 (22-26 nov) ~5273°J : croissance stoppée, feuillage virant au bronze sous l'effet du froid — signe normal, pas de maladie.\nMekiri (taille chandelles) — possible toute l'année, mais préférable d'octobre à mars selon période de repos.\nHarigane-kake (ligature) — surveiller les ligatures posées en saison, repos hivernal moins propice à la pose (sève ralentie).\nFertilisation : suspendre.\nSource : Mistral Bonsai — https://www.mistralbonsai.com/tienda/fr/bonsai/7541-juniperus-chinensis-itoigawa-bonsai-21-ans-genevrier-de-chine",
-        "notes_perso": "Techniques conifères (Mekiri, Hazukashi) utilisées au lieu de Metsumi/Sentai feuillus, conformément aux règles du prompt.",
-        "erreurs_fatales": "",
-        "dormance_djc": 5273,
-        "dormance": [
-          10,
-          0.8296529968454258
-        ]
-      },
-      {
         "_id": "mpc8u3wjwal8",
         "espece": "Zuisho",
         "url": "https://fr.wikipedia.org/wiki/Pinus_parviflora",
@@ -948,7 +948,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 21
+    "_modCount": 22
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
