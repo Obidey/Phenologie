@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1781764643410,
-  "_date": "2026-06-18T06:37:23.410Z",
-  "_modCount": 1336,
+  "_ts": 1781764655526,
+  "_date": "2026-06-18T06:37:35.526Z",
+  "_modCount": 1337,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -1030,7 +1030,7 @@
       },
       {
         "_id": "mp3qtt4nrmkv",
-        "espece": "Pin noir du Japon",
+        "espece": "Pin noir du Japon Kuromatsu",
         "url": "https://fr.wikipedia.org/wiki/Pinus_thunbergii",
         "notes": "Persistant. Pinus thunbergii : conifère à aiguilles persistantes groupées par 2, vert foncé brillant, rigides et piquantes. Écorce gris foncé se fissurant avec l'âge. Espèce emblématique du bonsaï japonais, très prisée pour sa robustesse et sa réponse exceptionnelle aux techniques de pinçage des chandelles (méthode des 2 flush). Supporte bien la chaleur estivale de Cazaux et les hivers doux landais. Technique spécifique : suppression totale des chandelles en été (méthode Tanaka) pour induire un second débourrement automnal aux aiguilles plus courtes.",
         "photo": "",
@@ -1079,7 +1079,14 @@
         "semis_travaux": "Observation — Ko 9 (16-20 mars) ~700°J : semis en plein air à Cazaux dès que les températures nocturnes dépassent 8°C régulièrement. Stratification à froid humide (4°C, 3-4 semaines) recommandée. Substrat : mélange akadama fine/sable de rivière/pouzzolane. Trempage des graines 24h avant semis. Germination en 2-3 semaines. P. thunbergii est plus facile que P. sylvestris au semis.",
         "boutures": null,
         "boutures_djc": null,
-        "boutures_travaux": "Observation — bouturage non applicable pour Pinus thunbergii : comme tous les pins à 2 aiguilles, l'enracinement bouturé est pratiquement impossible. Reproduction par semis exclusivement, ou greffage en placage (P. thunbergii sur P. thunbergii) au Ko 8-9 (mars) ~650-700°J. P. thunbergii est lui-même fréquemment utilisé comme porte-greffe pour d'autres pins difficiles à semer."
+        "boutures_travaux": "Observation — bouturage non applicable pour Pinus thunbergii : comme tous les pins à 2 aiguilles, l'enracinement bouturé est pratiquement impossible. Reproduction par semis exclusivement, ou greffage en placage (P. thunbergii sur P. thunbergii) au Ko 8-9 (mars) ~650-700°J. P. thunbergii est lui-même fréquemment utilisé comme porte-greffe pour d'autres pins difficiles à semer.",
+        "dormance_djc": 5223,
+        "dormance": [
+          10,
+          0.6719242902208202
+        ],
+        "notes_perso": "",
+        "erreurs_fatales": ""
       },
       {
         "_id": "mp3qvd738g0h",
@@ -1401,7 +1408,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 32
+    "_modCount": 33
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
