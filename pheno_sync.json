@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1781763786478,
-  "_date": "2026-06-18T06:23:06.478Z",
-  "_modCount": 1325,
+  "_ts": 1781764010638,
+  "_date": "2026-06-18T06:26:50.638Z",
+  "_modCount": 1326,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -108,6 +108,57 @@
         "dormance": [
           10,
           0.6719242902208202
+        ]
+      },
+      {
+        "_id": "mqj4ab3pkffn",
+        "espece": "Acer palmatum Taylor",
+        "url": "https://fr.wikipedia.org/wiki/Acer_palmatum",
+        "notes": "Caduc. Sapindaceae. Cultivar panaché d'Acer palmatum, proche d'Iyoshi mais plus capricieux. Feuillage rose vif au printemps, virant au rose clair teinté de vert en été, avec une seconde poussée rose en plein été, puis rose-rouge vif à l'automne. Lobes étroits, presque en forme de lanière, profondément découpés. Port buissonnant bas et étalé, croissance lente. Réputé difficile à maintenir en bonsaï (avec Geisha, Baby Lace) : plus sensible aux maladies et au stress que les cultivars verts standards. Limiter les tailles sévères pour préserver la vigueur déjà réduite par la panachure.",
+        "photo": "",
+        "debourrement": [
+          1,
+          1
+        ],
+        "debourrement_djc": 512,
+        "debourrement_travaux": "Observation — Ko 5 (24-28 fév) ~512°J : débourrement, jeunes feuilles rose vif avec parfois petites taches vert foncé et vert clair.\nUekae (rempotage) — Ko 5-8, avant débourrement complet, tous les 2-3 ans (croissance lente). Substrat : 80% akadama, 20% pouzzolane ; pH 5,5-6,5, drainage correct, légèrement acide.\nFertilisation : suspendre jusqu'au débourrement complet.\nSource : Palmatia Plantes — https://palmatia.com/produit/acer-palmatum-taylor-erable-du-japon/",
+        "feuillaison": [
+          2,
+          0.4604904632152589
+        ],
+        "feuillaison_djc": 726,
+        "feuillaison_travaux": "Observation — Ko 9 (16-20 mars) ~726°J : feuillage entièrement déployé, lobes étroits en forme de lanière, profondément découpés.\nFertilisation : NPK 7-5-7 dilué, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Willemse — https://www.willemsefrance.fr/products/erable-taylor",
+        "floraison": [
+          2,
+          1
+        ],
+        "floraison_djc": 924,
+        "floraison_travaux": "Observation — Ko 12 (31 mars-4 avr) ~924°J : floraison discrète d'avril, petites fleurs multicolores, intérêt secondaire face au feuillage.\nFertilisation : NPK 10-6-6 dilué, EC 0,8-1,2 mS/cm, pH 5,5-6,5.\nSource : Willemse — https://www.willemsefrance.fr/products/erable-taylor",
+        "croissance": [
+          3,
+          0.7713498622589532
+        ],
+        "croissance_djc": 1272,
+        "croissance_travaux": "Observation — Ko 17 (25-29 avr) ~1272°J : croissance lente et progressive, feuillage évoluant vers le rose clair teinté de vert clair vers la mi-juin.\nSentai (taille de structure) — limiter les tailles, cultivar sensible au stress ; intervenir uniquement pour bois mort ou branches mal orientées.\nHarigane-kake (ligature) — ligature légère sur rameaux souples, bois fin et cassant ; surveiller les marques toutes les 3-4 semaines.\nFertilisation : NPK 10-6-6 dilué de moitié par rapport à un Acer standard, EC 0,8-1,2 mS/cm, pH 5,5-6,5.\nSource : Palmatia Plantes — https://palmatia.com/produit/acer-palmatum-taylor-erable-du-japon/",
+        "maturation": [
+          7,
+          0.16440422322775264
+        ],
+        "maturation_djc": 3339,
+        "maturation_travaux": "Observation — Ko 33 (18-22 juil) ~2899°J à Ko 36 (3-7 août) ~3230°J : seconde poussée de rose vif en plein été, particularité distinctive du cultivar.\nFertilisation : suspendre temporairement pendant la seconde poussée pour ne pas forcer une croissance déjà fragile.\nSource : Palmatia Plantes — https://palmatia.com/produit/acer-palmatum-taylor-erable-du-japon/",
+        "senescence": [
+          8,
+          0.7612732095490716
+        ],
+        "senescence_djc": 4311,
+        "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : feuillage redevenant rose-rouge très vif, coloration automnale caractéristique du cultivar.\nFertilisation : suspendre.\nSource : Palmatia Plantes — https://palmatia.com/produit/acer-palmatum-taylor-erable-du-japon/",
+        "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Protéger des vents forts et du gel intense à Cazaux, cultivar plus fragile que les Acer standards.\nFertilisation : suspendre.\nSource : Achat Vente Palmiers — https://www.achat-vente-palmiers.com/fr/erables/129-acer-palmatum-taylor-.html",
+        "notes_perso": "Donnée importante : cultivar réputé difficile à maintenir en bonsaï (avec Geisha, Baby Lace), feuillage panaché rose toute la saison avec une seconde poussée rose en plein été, \"limitez les tailles\" — vigueur réduite, sensible au stress.",
+        "erreurs_fatales": "",
+        "dormance_djc": 5087,
+        "dormance": [
+          10,
+          0.24290220820189273
         ]
       },
       {
@@ -1098,7 +1149,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 24
+    "_modCount": 25
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
