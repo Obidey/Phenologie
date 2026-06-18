@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1781764353901,
-  "_date": "2026-06-18T06:32:33.901Z",
-  "_modCount": 1331,
+  "_ts": 1781764446606,
+  "_date": "2026-06-18T06:34:06.606Z",
+  "_modCount": 1332,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -159,6 +159,54 @@
         "dormance": [
           10,
           0.6719242902208202
+        ]
+      },
+      {
+        "_id": "mqj4jnicuqh9",
+        "espece": "Acer palmatum Atropurpureum",
+        "url": "https://fr.wikipedia.org/wiki/Acer_palmatum",
+        "notes": "Caduc. Sapindaceae. Cultivar historique d'Acer palmatum, l'un des plus utilisés en bonsaï. Feuillage rouge-violet profond maintenu toute la saison (contrairement au Deshojo qui vire au vert en été), virant à l'orange-jaune à l'automne. Lobes profondément découpés (5-9). Croissance rapide et facile, vigoureux. Floraison discrète et peu documentée selon les sources (anecdotique à absente). Sensible au soleil brûlant et au vent chaud déshydratant sur le feuillage rouge. Parent du cultivar nain 'Shaina' (witches-broom).",
+        "photo": "",
+        "debourrement": [
+          1,
+          1
+        ],
+        "debourrement_djc": 512,
+        "debourrement_travaux": "Observation — Ko 5 (24-28 fév) ~512°J : débourrement rouge-violet profond, intense dès l'ouverture des bourgeons.\nUekae (rempotage) — Ko 5-8, avant débourrement, tous les 2 ans (croissance rapide). Substrat : 60% akadama, 40% kiryuzuna ; pH 5,5-6,5, drainage correct.\nFertilisation : suspendre jusqu'au débourrement complet.\nSource : Mistral Bonsai — https://www.mistralbonsai.com/tienda/fr/bonsai/7266-acer-palmatum-atropurpureum-bonsai-18-ans-erable-japonais-palme",
+        "feuillaison": [
+          2,
+          0.4604904632152589
+        ],
+        "feuillaison_djc": 726,
+        "feuillaison_travaux": "Observation — Ko 9 (16-20 mars) ~726°J : feuillage rouge-violet entièrement déployé, lobes profondément découpés (5-9), maintenu coloré contrairement aux cultivars qui virent au vert.\nMetsumi (pincement) — début du printemps, du bout des doigts : enlever le bourgeon en croissance, laisser les deux premières feuilles ; sinon couper à une ou deux paires de feuilles. Pincement durant tout le printemps.\nFertilisation : NPK 7-5-7, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Mistral Bonsai — https://www.mistralbonsai.com/tienda/fr/bonsai/7266-acer-palmatum-atropurpureum-bonsai-18-ans-erable-japonais-palme",
+        "floraison": null,
+        "floraison_djc": null,
+        "floraison_travaux": "",
+        "croissance": [
+          3,
+          0.21487603305785125
+        ],
+        "croissance_djc": 1070,
+        "croissance_travaux": "Observation — Ko 14 (10-14 avr) ~1070°J : croissance rapide et vigoureuse, entre-nœuds s'allongent, feuillage rouge-violet stable.\nMetsumi (pincement) — pincement toutes les 2-3 semaines sur pousses de 3-4 paires de feuilles.\nHarigane-kake (ligature) — surveiller les marques toutes les 3 semaines, reposer si nécessaire sur rameaux en croissance.\nToriki (marcottage aérien) — Ko 14-20 période optimale, sève en plein mouvement.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/japanese-maple",
+        "maturation": [
+          7,
+          0.521870286576169
+        ],
+        "maturation_djc": 3576,
+        "maturation_travaux": "Observation — Ko 39 (18-22 août) ~3576°J : aoûtement du bois, croissance ralentie après une saison vigoureuse.\nSentai (taille de structure) — été, lorsque la cicatrisation des bourrelets est rapide : taille des branches fortes possible.\nFertilisation : réduire puis stopper après Ko 33 (juil).\nSource : Bonsai Empire — https://www.bonsaiempire.fr/especes/erable",
+        "senescence": [
+          8,
+          1
+        ],
+        "senescence_djc": 4401,
+        "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : feuillage virant du rouge-violet vers l'orange-jaune automnal caractéristique.\nRemise en plein soleil dès les grosses chaleurs passées — combinaison froid + soleil indispensable pour développer les couleurs d'automne ; un sujet trop ombragé ne rougit pas.\nFertilisation : suspendre.\nSource : Bonsai Galinou — https://www.bonsaigalinou.com/fr/blog/tout-savoir-sur-les-erables-du-japon-en-bonsai-n18",
+        "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Rustique à Cazaux jusqu'à -10°C ; protéger uniquement lors de fortes gelées.\nSentai (taille de structure) — taille de structure de préférence en automne, juste après la chute des feuilles, pour limiter les pertes de sève.\nFertilisation : suspendre.\nSource : Quand Arroser Ma Plante — https://www.quandarrosermaplante.com/plantes-interieur/bonsais/bonsai-erable-du-japon/",
+        "notes_perso": "ne fleurit pas selon Truffaut, mais d'autres sources mentionnent fleurs rougeâtres et samares (variabilité documentaire). Croissance rapide, vigueur, parent direct de 'Shaina'/'Bloodgood'.",
+        "erreurs_fatales": "",
+        "dormance_djc": 5087,
+        "dormance": [
+          10,
+          0.24290220820189273
         ]
       },
       {
@@ -1302,7 +1350,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 28
+    "_modCount": 29
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
