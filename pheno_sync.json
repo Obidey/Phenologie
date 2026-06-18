@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1781763386038,
-  "_date": "2026-06-18T06:16:26.038Z",
-  "_modCount": 1319,
+  "_ts": 1781763561210,
+  "_date": "2026-06-18T06:19:21.210Z",
+  "_modCount": 1320,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -739,7 +739,7 @@
           10,
           0.6719242902208202
         ],
-        "notes_perso": "",
+        "notes_perso": "15 juin re Bourgeonnement des chandelles coupées K20",
         "erreurs_fatales": ""
       },
       {
@@ -1047,7 +1047,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 22
+    "_modCount": 23
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
