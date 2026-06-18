@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1781766638462,
-  "_date": "2026-06-18T07:10:38.462Z",
-  "_modCount": 1343,
+  "_ts": 1781766863150,
+  "_date": "2026-06-18T07:14:23.150Z",
+  "_modCount": 1344,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -1165,7 +1165,7 @@
           0.24770642201834864
         ],
         "croissance_djc": 1530,
-        "croissance_travaux": "Observation — Ko 13 (5-9 avr) ~1000°J : élongation maximale des chandelles en cours. Intervenir sur le pinçage des chandelles vigoureuses si non encore fait. Supprimer les chandelles en excès (3+ par nœud, ne garder que 2). Fertilisation azotée modérée pour soutenir la croissance sans excès.",
+        "croissance_travaux": "Observation — Ko 13 (5-9 avr) ~1000°J : élongation maximale des chandelles en cours. Intervenir sur le pinçage des chandelles vigoureuses si non encore fait. Supprimer les chandelles  pour un 2eme bourgonnement vers K27 Fertilisation azotée modérée pour soutenir la croissance sans excès.",
         "maturation": [
           9,
           1
