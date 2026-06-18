@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1781763085974,
-  "_date": "2026-06-18T06:11:25.974Z",
-  "_modCount": 1316,
+  "_ts": 1781763217761,
+  "_date": "2026-06-18T06:13:37.761Z",
+  "_modCount": 1317,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -897,6 +897,54 @@
         ],
         "notes_perso": "3/4kanuma 1/4 pumice vs l’inverse ;)\n\nPlante basale not atopic \nRajouter vinaigre \nVariété ?\nMi ombre \nVoile ombrage \nSi abouti floraison taille apres 80% de la floraison rempotage tous les 3 ans enlever gourmand  autour du bourgeon floral \nTaille drastique = compacité \nSi besoin de force rempotage en mars et on enlève les fleurs \nAlgami (?) avant  en octobre => mars avril (potasse) et après la floraison azote jamais d’engrais pendant la floraison engrais organique \nPot profond vigilant sur le chevelu \nGranulométrie grosse = grosse pousse (80% Pumice 20% Kanuma ou l'inverse dixit Lebecot)\nCharbon  => 10%\nBouture et rempotage très vite en juin avec la lune\nMultisec et purin d’ail tous les 15 jours \nPoudre de cannelle si problème de racine \nPas de cuivre\nPousse en juin et fin août \nFumagine \nAliette en espagne \nTsutsuji\nComptoir des fleurs oligo \nMarcote en dent de scie",
         "erreurs_fatales": "Plante basale : Le dépérissement de la cime (Die-back)\nC'est le risque majeur. La sève circule plus volontiers dans les branches basses de la Satsuki que dans sa tête.\nLe risque : Si vous taillez la tête trop sévèrement (surtout après la floraison ou en plein été), l'arbre peut tout simplement abandonner la zone. Le bourgeonnement en retrait sur le vieux bois est beaucoup plus capricieux en haut qu'en bas. Vous risquez de vous retrouver avec une cime morte qui sèche jusqu'au tronc principal.\nLa parade : Laissez toujours un tire-sève (un rameau avec des feuilles actives) à l'extrémité de la zone taillée pour maintenir le flux de sève"
+      },
+      {
+        "_id": "mqj3tbc2qoup",
+        "espece": "Tsutsuji",
+        "url": "https://fr.wikipedia.org/wiki/Rhododendron_kaempferi",
+        "notes": "Persistant. Ericaceae. Azalée Kurume (Tsutsuji), regroupant Rhododendron kaempferi et R. kiusianum, distincte du Satsuki (R. indicum) par sa floraison plus précoce et ses fleurs plus petites. Port buissonnant à dominance basale (branches basses plus vigoureuses). Produit facilement de nouveaux bourgeons sur bois nu. Bois cassant — ligature à l'aluminium et avec précaution. Substrat acide obligatoire (Kanuma). Sensible à la sécheresse racinaire et aux excès d'eau.",
+        "photo": "",
+        "debourrement": [
+          2,
+          0.1362397820163488
+        ],
+        "debourrement_djc": 607,
+        "debourrement_travaux": "Observation — Ko 6 (1-5 mars) ~557°J : gonflement des bourgeons floraux et végétatifs, écailles protectrices s'écartent.\nUekae (rempotage) — Ko 6-9, avant débourrement, tous les 2-3 ans. Substrat : Kanuma pur ou Kanuma/Kiryu 1:1 ; pH 4,5-5,5, drainage excellent, sans chaux.\nFertilisation : suspendre jusqu'au débourrement complet.\nSource : Bonsai Empire — https://www.bonsaiempire.fr/especes/azalee",
+        "feuillaison": [
+          2,
+          0.6566757493188011
+        ],
+        "feuillaison_djc": 798,
+        "feuillaison_travaux": "Observation — Ko 10 (21-25 mars) ~798°J : feuilles printanières entièrement déployées, plus grandes que les feuilles d'été à venir.\nFertilisation : engrais azalée faiblement concentré, NPK 5-10-10, EC 0,8-1,0 mS/cm, pH 4,5-5,5.\nSource : Maitre Bonsai — https://www.maitre-bonsai.fr/espece/bonsai-azalee/",
+        "floraison": [
+          3,
+          0.21487603305785125
+        ],
+        "floraison_djc": 1070,
+        "floraison_travaux": "Observation — Ko 14 (10-14 avr) ~1070°J : éclosion des fleurs en bouquets terminaux, floraison plus précoce que le Satsuki. Protéger de la pluie et du soleil intense pour prolonger la tenue des fleurs.\nMebana (sélection bourgeons) — supprimer les boutons surnuméraires pour des fleurs plus grandes si recherche d'exposition.\nFertilisation : suspendre ou réduire de moitié pendant la floraison.\nSource : Bonsai Empire — https://www.bonsaiempire.fr/especes/azalee",
+        "croissance": [
+          3,
+          0.7713498622589532
+        ],
+        "croissance_djc": 1272,
+        "croissance_travaux": "Observation — Ko 17 (25-29 avr) ~1272°J : juste après floraison, ovaires et fleurs fanées encore présents, nouvelles pousses végétatives démarrent.\nSentai (taille de structure) — immédiatement après floraison : tailler les fleurs fanées et ovaires à la main ou aux ciseaux ; tailler davantage les branches basses (dominance basale). Ne pas tailler après formation des boutons de l'année suivante (été) sous peine d'absence de floraison.\nMetsumi (pincement) — pincer les nouvelles pousses pour densifier la ramification.\nHarigane-kake (ligature) — fil d'aluminium recommandé (bois cassant, écorce fine) ; répartir les courbures fortes sur plusieurs années.\nUekae (rempotage) — possible immédiatement après floraison si non fait en Ko 6-9 ; tailler 1/3 des racines fines avec précaution.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 4,5-5,5.\nSource : Bonsai-Shop — https://www.bonsai-shop.com/fr/especes/azalees/tailler",
+        "maturation": null,
+        "maturation_djc": null,
+        "maturation_travaux": "",
+        "senescence": [
+          8,
+          0.7612732095490716
+        ],
+        "senescence_djc": 4311,
+        "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : ralentissement de la croissance, formation des boutons floraux de l'année suivante achevée — toute taille au-delà compromet la floraison.\nFertilisation : NPK 4-10-14 faible dose, EC 0,6-0,8 mS/cm, pH 4,5-5,5.\nSource : Bonsai-Shop — https://www.bonsai-shop.com/fr/especes/azalees",
+        "dormance_travaux": "Observation — Ko 60 (2-6 déc) ~5382°J : croissance stoppée, boutons floraux formés et dormants. Tolère jusqu'à -15°C sous abri non chauffé avec paillage ; à Cazaux, protection recommandée lors des épisodes de gel marqué. Perte foliaire partielle possible, normale.\nFertilisation : suspendre.\nSource : Bonsai-Shop — https://www.bonsai-shop.com/fr/especes/azalees",
+        "notes_perso": "debourrement_djc: 600 → Ko 6 = 557°J ✓\nfeuillaison_djc: 800 → Ko 10 = 798°J ✓\nfloraison_djc: 1100 → Ko 14 = 1070°J ✓ (plus précoce que Satsuki, cohérent avec la source)\ncroissance_djc: 1300 → Ko 17 = 1272°J ✓\nsenescence_djc: 4300 → Ko 46 = 4311°J ✓\ndormance_djc: 5400 → Ko 60 = 5382°J ✓\nmaturation null — pas de fruits ornementaux exploités en bonsaï.\n\"Tsutsuji\" (つつじ) = nom japonais générique pour les azalées du genre Rhododendron, distinct de \"Satsuki\" (azalées d'été, Rhododendron indicum) déjà fait dans ta base. Tsutsuji désigne généralement Rhododendron kaempferi/obtusum, à floraison printanière (avril-mai), contrairement aux Satsuki qui fleurissent en juin.Web recherchéWeb recherchéConfirmé : Tsutsuji = azalée Kurume (Rhododendron kaempferi / R. kiusianum), distincte des Satsuki (R. indicum) déjà en base — floraison plus précoce (avril-mai vs mai-juin), fleurs plus petites.",
+        "erreurs_fatales": "",
+        "dormance_djc": 5382,
+        "dormance": [
+          11,
+          0
+        ]
       },
       {
         "_id": "mpc8u3wjwal8",
