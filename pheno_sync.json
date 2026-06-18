@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1781764323669,
-  "_date": "2026-06-18T06:32:03.669Z",
-  "_modCount": 1330,
+  "_ts": 1781764353901,
+  "_date": "2026-06-18T06:32:33.901Z",
+  "_modCount": 1331,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -205,6 +205,57 @@
         "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : feuillage redevenant coloré, virant à l'orange et au rouge grenat foncé.\nFertilisation : suspendre.\nSource : Mistral Bonsai — https://www.mistralbonsai.com/fr/comment-choisir-bonsai-derable/",
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Résistant au gel à Cazaux ; protéger uniquement lors de fortes gelées (< -10°C).\nSentai (taille de structure) — taille des branches fortes en automne pour éviter les pertes de sève excessives.\nFertilisation : suspendre.\nSource : Bonsai Empire — https://www.bonsaiempire.fr/especes/erable",
         "notes_perso": "Débourrement rouge carmin spectaculaire, viré vert en été, re-rougit à l'automne.",
+        "erreurs_fatales": "",
+        "dormance_djc": 5087,
+        "dormance": [
+          10,
+          0.24290220820189273
+        ]
+      },
+      {
+        "_id": "mqj4hnzbnx6r",
+        "espece": "Acer palmatum Shaina",
+        "url": "https://fr.wikipedia.org/wiki/Acer_palmatum",
+        "notes": "Caduc. Sapindaceae. Cultivar nain d'Acer palmatum, issu d'une mutation witches-broom de 'Bloodgood' découverte au début des années 1980. Entre-nœuds très courts donnant un aspect touffu naturel, lobe central de la feuille court et arrondi — caractéristiques en faisant un excellent sujet pour le bonsaï. Feuillage rouge pourpre au débourrement, reflets mauves-violets-bruns en été, rouge carmin flamboyant à l'automne avec nouvelles pousses orangées. Croissance très lente (5-10 cm/an). Marcottage aérien réputé difficile sur ce cultivar.",
+        "photo": "",
+        "debourrement": [
+          1,
+          1
+        ],
+        "debourrement_djc": 512,
+        "debourrement_travaux": "Observation — Ko 5 (24-28 fév) ~512°J : débourrement rouge pourpre, entre-nœuds déjà très courts caractéristiques du cultivar.\nUekae (rempotage) — Ko 5-8, avant débourrement, tous les 2-3 ans (croissance lente). Substrat : 100% akadama ou akadama 80% + pouzzolane 20% ; pH 5,5-6,5, drainage correct.\nFertilisation : suspendre jusqu'au débourrement complet.\nSource : Roué Pépinières — https://rouepepinieres.com/568-acer-palmatum-shaina.html",
+        "feuillaison": [
+          2,
+          0.4604904632152589
+        ],
+        "feuillaison_djc": 726,
+        "feuillaison_travaux": "Observation — Ko 9 (16-20 mars) ~726°J : feuillage entièrement déployé, lobe central court et arrondi distinctif, aspect touffu par la brièveté des entre-nœuds.\nMetsumi (pincement) — pincer du bout des doigts en laissant les deux premières feuilles, croissance déjà naturellement compacte.\nFertilisation : NPK 7-5-7, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Plantes Shopping — https://www.plantes-shopping.fr/article/1388-acer-palmatum-shaina",
+        "floraison": [
+          2,
+          1
+        ],
+        "floraison_djc": 924,
+        "floraison_travaux": "Observation — Ko 12 (31 mars-4 avr) ~924°J : fleurs discrètes rougeâtres en petits bouquets.\nFertilisation : NPK 10-6-6 dilué, EC 0,8-1,2 mS/cm, pH 5,5-6,5.\nSource : Truffaut — https://www.truffaut.com/erable-japon-plantation-entretien.html",
+        "croissance": [
+          3,
+          0.7713498622589532
+        ],
+        "croissance_djc": 1272,
+        "croissance_travaux": "Observation — Ko 17 (25-29 avr) ~1272°J : croissance très lente, feuillage virant aux reflets mauves-violets-bruns.\nMetsumi (pincement) — pincement léger toutes les 3-4 semaines, vigueur naturellement réduite par le port nain.\nHarigane-kake (ligature) — ligature légère sur jeunes rameaux ; surveiller les marques toutes les 4 semaines.\nFertilisation : NPK 10-6-6 dilué de moitié, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Plantes & Nature — https://www.plantes-et-nature.fr/a-rable-du-japon/42831-acer_palmatum_shaina_-_erable_du_japon.html",
+        "maturation": [
+          7,
+          0.521870286576169
+        ],
+        "maturation_djc": 3576,
+        "maturation_travaux": "Observation — Ko 39 (18-22 août) ~3576°J : aoûtement du bois, ralentissement de la croissance déjà très limitée.\nFertilisation : réduire puis stopper après Ko 33 (juil).\nSource : Truffaut — https://www.truffaut.com/erable-japon-plantation-entretien.html",
+        "senescence": [
+          8,
+          1
+        ],
+        "senescence_djc": 4401,
+        "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : feuillage virant au rouge carmin flamboyant, nouvelles pousses orangées en fin de saison.\nFertilisation : suspendre.\nSource : Roué Pépinières — https://rouepepinieres.com/568-acer-palmatum-shaina.html",
+        "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Rustique à Cazaux ; protéger des gelées tardives au printemps suivant (jeunes feuilles sensibles) et des vents froids.\nFertilisation : suspendre.\nSource : Roué Pépinières — https://rouepepinieres.com/568-acer-palmatum-shaina.html",
+        "notes_perso": "mutation witches-broom de 'Bloodgood', entre-nœuds très courts (aspect touffu), lobe central court et rond, idéal pour bonsaï à petite échelle. Marcottage aérien difficile sur ce cultivar (signalé sur forum).",
         "erreurs_fatales": "",
         "dormance_djc": 5087,
         "dormance": [
@@ -1251,7 +1302,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 27
+    "_modCount": 28
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
