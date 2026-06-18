@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1781763298787,
-  "_date": "2026-06-18T06:14:58.787Z",
-  "_modCount": 1318,
+  "_ts": 1781763386038,
+  "_date": "2026-06-18T06:16:26.038Z",
+  "_modCount": 1319,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -783,6 +783,57 @@
         "senescence_travaux": "Observation — Ko 49 (8-12 oct) ~4588°J : ralentissement de la croissance, dernières panicules florales, feuillage commençant à pâlir sur les sujets les plus exposés.\nSentai (taille de structure) — taille légère post-floraison pour mettre en forme avant l'hiver ; ne pas tailler sévèrement.\nFertilisation : NPK 4-10-14, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Gerbeaud — https://www.gerbeaud.com/jardin/fiches/dentelaire-du-cap-plumbago,1386.html",
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : végétation stoppée, feuillage se maintenant en hiver doux à Cazaux, caduc si T° < -3°C. Laisser en extérieur en exposition abritée ; rentrer si vague de froid prolongée annoncée.\nFertilisation : suspendre.\nSource : Truffaut — https://www.truffaut.com/plumbago-varietes-plantation-entretien.html",
         "notes_perso": "",
+        "erreurs_fatales": "",
+        "dormance_djc": 5087,
+        "dormance": [
+          10,
+          0.24290220820189273
+        ]
+      },
+      {
+        "_id": "mqj3wx5q8nl4",
+        "espece": "Pommier du japon",
+        "url": "https://fr.wikipedia.org/wiki/Pommier_japonais",
+        "notes": "Caduc. Rosaceae. Pommier d'ornement (hybride probable Malus toringo × M. baccata), originaire de Chine et du Japon. Floraison hâtive, parmi les premiers Malus à fleurir, boutons rouges virant au blanc en passant par le rose. Petits fruits décoratifs rouges ou jaune-vert, non comestibles crus. Non autofertile : nécessite une seconde variété compatible à proximité pour fructifier ; en sujet isolé, profiter uniquement de la floraison. Très rustique jusqu'à -25/-30°C. Sensible à l'oïdium, peu sensible à la tavelure.",
+        "photo": "",
+        "debourrement": [
+          1,
+          1
+        ],
+        "debourrement_djc": 512,
+        "debourrement_travaux": "Observation — Ko 5 (24-28 fév) ~512°J : gonflement des bourgeons floraux et végétatifs, écailles s'écartent.\nSentai (taille de structure) — Ko 1-5, fin d'hiver avant débourrement : retirer bois mort et branches croisées pour aérer le houppier ; ne pas tailler sévèrement pour préserver la floraison.\nUekae (rempotage) — Ko 5-9, tous les 3-4 ans, avant débourrement. Substrat : 70% terreau, 20% sable grossier, 10% tourbe ; pH 5,5-6,5, drainage correct.\nFertilisation : suspendre jusqu'au débourrement.\nSource : Jardiner Malin — https://www.jardiner-malin.fr/fiche/pommier-japon-profusion-fleurs.html",
+        "feuillaison": [
+          2,
+          0.4604904632152589
+        ],
+        "feuillaison_djc": 726,
+        "feuillaison_travaux": "Observation — Ko 9 (16-20 mars) ~726°J : feuilles ovales entièrement déployées en même temps que les premiers boutons floraux.\nFertilisation : NPK 5-10-5, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Pépinière du Penthièvre — https://www.pepinieredupenthievre.com/arbres/66380-malus-floribunda-pommier-japonais-ornement.html",
+        "floraison": [
+          2,
+          1
+        ],
+        "floraison_djc": 924,
+        "floraison_travaux": "Observation — Ko 12 (31 mars-4 avr) ~924°J : boutons rose foncé s'ouvrant en fleurs rose clair puis blanches en fanant, parmi les Malus à floraison la plus précoce.\nMebana (sélection bourgeons) — les fleurs se développent essentiellement sur les branches courtes ; ne pas supprimer ces brindilles fructifères lors des tailles antérieures.\nFertilisation : suspendre ou réduire de moitié pendant la pleine floraison.\nSource : Maitre Bonsai — https://www.maitre-bonsai.fr/espece/bonsai-malus-pommier/",
+        "croissance": [
+          3,
+          0.7713498622589532
+        ],
+        "croissance_djc": 1272,
+        "croissance_travaux": "Observation — Ko 17 (25-29 avr) ~1272°J : fleurs fanées, croissance végétative active, entre-nœuds en élongation.\nSentai (taille de structure) — après floraison jusqu'à Ko 33 (juil) : tailler les pousses de l'année, supprimer gourmands et rejets de la base du tronc.\nMetsumi (pincement) — pincer du début du printemps à la fin de l'été pour densifier la ramification.\nHarigane-kake (ligature) — du printemps à l'automne, ligature sur rameaux souples ; surveiller les marques toutes les 3 semaines.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Maitre Bonsai — https://www.maitre-bonsai.fr/espece/bonsai-malus-pommier/",
+        "maturation": [
+          8,
+          0
+        ],
+        "maturation_djc": 4024,
+        "maturation_travaux": "Observation — Ko 43 (8-12 sept) ~4024°J : fruits virant au rouge ou jaune-vert, 1,3-2,3 cm de diamètre, en grossissement.\nMebana (sélection bourgeons) — éclaircir les fruits si production excessive, pour éviter de fatiguer l'arbre et de casser les branches sous le poids.\nFertilisation : NPK 4-10-14, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Maitre Bonsai — https://www.maitre-bonsai.fr/espece/bonsai-malus-pommier/",
+        "senescence": [
+          9,
+          0.2119815668202765
+        ],
+        "senescence_djc": 4588,
+        "senescence_travaux": "Observation — Ko 49 (8-12 oct) ~4588°J : feuillage jaunissant, fruits mûrs prêts à être retirés avant l'hiver pour ne pas épuiser l'arbre.\nSentai (taille de structure) — taille de structure en automne, après mûrissement des fruits ; retirer les fruits restants avant l'hiver.\nFertilisation : suspendre.\nSource : Maitre Bonsai — https://www.maitre-bonsai.fr/espece/bonsai-malus-pommier/",
+        "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : feuilles tombées, croissance stoppée. Très rustique à Cazaux, aucune protection nécessaire.\nSentai (taille de structure) — en hiver, supprimer uniquement le bois mort.\nFertilisation : suspendre.\nSource : Jardin Secrets — https://jardin-secrets.com/pommier-du-japon.html",
+        "notes_perso": "\"Pommier japonais\" = Malus floribunda en bonsaï classique (pommier d'ornement à petits fruits), mais le terme désigne souvent aussi Malus halliana. Je vérifie l'espèce de référence.Web recherchéWeb recherchéMalus floribunda confirmé — espèce de référence \"Pommier japonais\" sur Wikipedia FR. Floraison très précoce, fructification automnale, taille post-floraison + taille de structure en fin d'hiver.",
         "erreurs_fatales": "",
         "dormance_djc": 5087,
         "dormance": [
