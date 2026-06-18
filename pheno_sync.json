@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1781762824052,
-  "_date": "2026-06-18T06:07:04.052Z",
-  "_modCount": 1313,
+  "_ts": 1781762924363,
+  "_date": "2026-06-18T06:08:44.363Z",
+  "_modCount": 1314,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -501,6 +501,45 @@
         ]
       },
       {
+        "_id": "mqj3n0x62nj4",
+        "espece": "Juniperus rigida",
+        "url": "https://fr.wikipedia.org/wiki/Juniperus_rigida",
+        "notes": "Persistant. Cupressaceae. Genévrier à aiguilles (toshô en japonais), originaire du Japon, Corée, Chine de l'Est — surnommé Temple Juniper. Aiguilles rigides, pointues, groupées par 3, vert foncé virant au bronze en hiver. Très prisé pour le travail du bois mort (shari, jin), écorce se détachant facilement. Dioïque : fructification (baies sombres, maturité en 2 ans) uniquement si pieds mâle et femelle cultivés ensemble. Bois cassant — câblage délicat. Convient styles chokkan, shakan, littéraire. Très rustique, adapté au climat de Cazaux.",
+        "photo": "",
+        "debourrement": null,
+        "debourrement_djc": null,
+        "debourrement_travaux": "",
+        "feuillaison": null,
+        "feuillaison_djc": null,
+        "feuillaison_travaux": "",
+        "floraison": null,
+        "floraison_djc": null,
+        "floraison_travaux": "",
+        "croissance": [
+          3,
+          0
+        ],
+        "croissance_djc": 992,
+        "croissance_travaux": "Observation — Ko 13 (5-9 avr) ~992°J : reprise de la croissance après le bronzage hivernal, nouvelles pousses vert foncé.\nSentai (taille de structure) — tailler aux ciseaux plutôt que pincer ; le pincement est moins efficace sur cette espèce à aiguilles que sur les genévriers à écailles.\nHarigane-kake (ligature) — bois cassant, ligaturer avec prudence sur rameaux jeunes uniquement ; surveiller les marques toutes les 4 semaines.\nUekae (rempotage) — Ko 9-13, tous les 4-6 ans (croissance lente). Substrat : 60% kiryuzuna, 40% akadama ; pH 5,5-6,5, drainage excellent.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Bonsai Plaza — https://www.bonsaiplaza.com/fr/bonsai/coniferes/genevriers/rigida/",
+        "maturation": null,
+        "maturation_djc": null,
+        "maturation_travaux": "",
+        "senescence": [
+          7,
+          0.6953242835595776
+        ],
+        "senescence_djc": 3691,
+        "senescence_travaux": "Observation — Ko 40 (23-27 août) ~3691°J : fin de la période de croissance active, bois de l'année durci.\nMekiri (taille chandelles) — repartir en arrière sur le vieux bois en fin d'été pour rajeunir les volumes ; éviter le 15 juin-15 septembre pour le détachement d'écorce (risque de mort de branche), période privilégiée pour le shari/jin.\nFertilisation : NPK 4-10-14, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Bonsai France — https://bonsaifrance.com/collections/juniperus-chinensis/products/graines-juniperus-rigida-genevrier-rigide",
+        "dormance_travaux": "Observation — Ko 58 (22-26 nov) ~5273°J : croissance stoppée, aiguilles virant au gris-bronze sous l'effet du froid — signe normal, pas de maladie.\nSentai (taille de structure) — taille de structure possible en hiver si besoin, en complément de la période mars-juillet.\nFertilisation : suspendre.\nSource : Bonsai Création — https://www.bonsai-creation.com/fiche-bonsai-genevrier-a-aiguilles-19.php",
+        "notes_perso": "debourrement, feuillaison, floraison, maturation null/vide — conifère, pas de ces phases au sens classique (fructification existe mais nécessite pieds mâle+femelle, non garantie en bonsaï → omise sauf si tu précises avoir les deux sexes).\ncroissance_djc: 1000 → Ko 13 = 992°J ✓\nsenescence_djc: 3700 → Ko 40 = 3691°J ✓ (fenêtre Mekiri fin d'été, conforme à la source)\ndormance_djc: 5300 → Ko 58 = 5273°J ✓\nDifférence technique notable vs Itoigawa : ciseaux > pincement, et fenêtre d'évitement juin-septembre pour le travail d'écorce signalée dans croissance_travaux via Mekiri en senescence plutôt qu'en pleine saison.",
+        "erreurs_fatales": "",
+        "dormance_djc": 5273,
+        "dormance": [
+          10,
+          0.8296529968454258
+        ]
+      },
+      {
         "_id": "mpig0jqgw1v4",
         "espece": "Mume (Abricotier du japon",
         "url": "https://fr.wikipedia.org/wiki/Prunus_mume",
@@ -909,7 +948,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 20
+    "_modCount": 21
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
