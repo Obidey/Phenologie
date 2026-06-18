@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1781714005093,
-  "_date": "2026-06-17T16:33:25.093Z",
-  "_modCount": 1310,
+  "_ts": 1781762525003,
+  "_date": "2026-06-18T06:02:05.003Z",
+  "_modCount": 1311,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -235,7 +235,7 @@
           0.24770642201834864
         ],
         "floraison_djc": 1530,
-        "floraison_travaux": "Observation — Ko 20 (11-15 mai) ~1500°J : apparition des boutons floraux blancs, très parfumés. Floraison remontante possible jusqu'en Ko 40 si température > 18°C.\nHarigane-kake (ligature) — poser les ligatures avant le gonflement des boutons pour ne pas endommager les fleurs.\nPollinisation manuelle — pinceau fin de fleur en fleur si culture sous abri, améliore la nouaison.\nFertilisation : NPK 5-10-10, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/citrus-bonsai",
+        "floraison_travaux": "Observation — Ko 20 (11-15 mai) ~1500°J : apparition des boutons floraux blancs, très parfumés. Floraison remontante possible jusqu'en Ko 40 si température > 18°C.\nHarigane-kake (ligature) — poser les ligatures avant le gonflement des boutons pour ne pas endommager les fleurs.\nPollinisation manuelle — pinceau fin de fleur en fleur si culture sous abri, améliore la nouaison.\nFertilisation : NPK 5-10-10, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/citrus-bonsai\nhttps://agrumes.gendep19.org/bouture.html\nhttps://agrumes.gendep19.org/marcottage.html",
         "croissance": [
           5,
           0
@@ -253,7 +253,7 @@
         "senescence_travaux": "",
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5100°J : croissance stoppée, températures nocturnes < 10°C à Cazaux. Rentrer impérativement avant les premières gelées. Hiverner hors-gel, lumineux, 8-12°C minimum.\nSentai (taille de structure) — taille légère de mise en forme possible en début de dormance avant rentrée.\nUekae (rempotage) — reporter au printemps (Ko 12-14). Substrat : 50% akadama, 30% pouzzolane, 20% écorce de pin ; pH 5,5-6,5.\nFertilisation : suspendre ou NPK 0-10-10 très dilué si arbre sous serre chauffée, EC < 0,8 mS/cm.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/citrus-bonsai",
         "notes_perso": "debourrement et feuillaison sont null — espèce persistante, pas de débourrement printanier distinct.\nsenescence est null — pas de sénescence foliaire saisonnière.\nFloraison ancrée Ko 20 (~1500°J), cohérent avec la mise dehors post-gel et la montée thermique à Cazaux.\nUekae recommandé Ko 12-14 (~900-1100°J) — à intégrer dans croissance_travaux ou dormance_travaux selon le workflow de l'app.",
-        "erreurs_fatales": "Les jeunes fruits tombent principalement lorsqu’ils manquent :\n\n* d’eau,\n* de nutriments,\n* de feuilles capables de les nourrir,\n* ou lorsque l’arbre subit un stress climatique.\n\nPour maximiser la récolte : arrosage régulier + nutrition adaptée + feuillage sain + protection contre les stress.\n* Mars à fin juin : engrais agrumes autour de NPK 15-5-10.\n* Juillet à septembre : engrais autour de NPK 8-5-12 ou 10-5-15.\n* Arrêt ou forte réduction des apports à l’automne selon le climat.\n\nLe plus important n’est pas le NPK exact mais :\n\n1. des apports réguliers,\n2. la présence d’oligoéléments (fer, manganèse, zinc),\n3. un bon niveau de magnésium,\n4. l’absence de stress hydrique.\n\nPour un agrume cultivé en pot en Gironde, je privilégierais en juin un ratio proche de 3-1-2 et en août un ratio proche de 1-1-2. Cela correspond bien aux besoins de conservation et de grossissement des fruits. 🍊🍋🌿",
+        "erreurs_fatales": "Les jeunes fruits tombent principalement lorsqu’ils manquent :\n\n* d’eau,\n* de nutriments,\n* de feuilles capables de les nourrir,\n* ou lorsque l’arbre subit un stress climatique.\n\nPour maximiser la récolte : arrosage régulier + nutrition adaptée + feuillage sain + protection contre les stress.\n* Mars à fin juin : engrais agrumes autour de NPK 15-5-10.\n* Juillet à septembre : engrais autour de NPK 8-5-12 ou 10-5-15.\n* Arrêt ou forte réduction des apports à l’automne selon le climat.\n\nLe plus important n’est pas le NPK exact mais :\n\n1. des apports réguliers,\n2. la présence d’oligoéléments (fer, manganèse, zinc),\n3. un bon niveau de magnésium,\n4. l’absence de stress hydrique.\n\nPour un agrume cultivé en pot en Gironde, je privilégierais en juin un ratio proche de 3-1-2 et en août un ratio proche de 1-1-2. Cela correspond bien aux besoins de conservation et de grossissement des fruits. 🍊🍋🌿\n\nhttps://www.yara.fr/fertilisation/solutions-pour-cultures/agrumes/carences-agrumes/carence-en-zinc-agrumes/\n\nhttps://agrumes.gendep19.org/marcottage.html",
         "dormance_djc": 5087,
         "dormance": [
           10,
@@ -873,7 +873,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 18
+    "_modCount": 20
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
