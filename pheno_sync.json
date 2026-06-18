@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1781767237579,
-  "_date": "2026-06-18T07:20:37.579Z",
-  "_modCount": 1348,
+  "_ts": 1781767444872,
+  "_date": "2026-06-18T07:24:04.872Z",
+  "_modCount": 1349,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -852,57 +852,6 @@
         ]
       },
       {
-        "_id": "mpf3c5tjyodv",
-        "espece": "Juniperus Chinensis",
-        "url": "https://fr.wikipedia.org/wiki/Juniperus_chinensis",
-        "notes": "Persistant, Cupressaceae (Juniperus chinensis). Feuillage mixte écailleux (adulte) et aciculaire (juvénile) selon la variété. Bonsäï majeur de la tradition japonaise — Shimpaku (J. chinensis var. sargentii) est la référence absolue. Deadwood (shari/jin) très valorisé. Ne jamais rempoter et tailler structurellement la même année.",
-        "photo": "",
-        "debourrement": [
-          1,
-          1
-        ],
-        "debourrement_djc": 512,
-        "debourrement_travaux": "Observation — Ko 5 (24-28 fév) ~500°J : nouvelles pousses écailleuses vert vif aux apex, reprise visible.\nHarigane-kake (ligature) — poser les ligatures structurelles avant allongement des pousses ; le bois est encore souple.\nFertilisation : NPK 3-6-6, EC 0,8-1,2 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/juniper",
-        "feuillaison": [
-          1,
-          0.7276995305164319
-        ],
-        "feuillaison_djc": 454,
-        "feuillaison_travaux": "Uekae (rempotage) — Ko 4-6 (19 fév-5 mars) ~450-560°J, juste avant reprise végétative, tous les 3-4 ans. Substrat : 60% akadama (3-6 mm) + 30% pouzzolane + 10% sable de rivière lavé ; pH cible 5,5-6,5 ; drainage rapide impératif. Ne pas rempoter la même année qu'une taille de structure importante.",
-        "floraison": [
-          1,
-          0.431924882629108
-        ],
-        "floraison_djc": 391,
-        "floraison_travaux": "Observation — Ko 4 (19-23 fév) ~400°J : chatons mâles jaunes, cônes femelles bleu-vert discrets, pollinisation avant reprise végétative.\nAucune intervention technique — laisser la pollinisation s'effectuer.\nFertilisation : aucun apport avant reprise végétative confirmée.\nSource : Tela Botanica — https://www.tela-botanica.org/bdtfx-nn-34185",
-        "croissance": [
-          2,
-          0.6566757493188011
-        ],
-        "croissance_djc": 798,
-        "croissance_travaux": "Observation — Ko 10 (21-25 mars) ~800°J : pousses s'allongent activement sur tous les apex.\nMetsumi (pincement) — pincer entre le pouce et l'index (jamais aux ciseaux sur feuillage écailleux) dès 1-2 cm d'allongement, toutes les 3-4 semaines jusqu'à Ko 34 (fin juillet).\nHarigane-kake (ligature) — surveiller les marques ; reposer avant strangulation sur rameaux en croissance rapide.\nToriki (marcottage aérien) — Ko 10-18 (mars-fin avr) période optimale sur grosses branches ; anneler sur 2-3 cm, envelopper de sphaigne humide sous film opaque ; sevrage après 8-12 semaines.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Bonsai Tonight — https://bonsaitonight.com/2014/04/01/pinching-junipers/",
-        "maturation": [
-          5,
-          0.17805755395683454
-        ],
-        "maturation_djc": 1991,
-        "maturation_travaux": "Observation — Ko 25 (6-10 juin) ~2000°J : croissance ralentit, pousses de printemps lignifiées.\nSentai (taille de structure) — éclaircissement léger uniquement (branches fines, feuillage surpeuplant l'intérieur) ; réserver les coupes importantes à la dormance ou début de printemps.\nHarigane-kake (ligature) — retirer toutes les ligatures posées au printemps avant strangulation.\nFertilisation : NPK 6-6-6, EC 1,0-1,2 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/juniper",
-        "senescence": [
-          8,
-          0.7612732095490716
-        ],
-        "senescence_djc": 4311,
-        "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4300°J : feuillage interne jaunit et tombe naturellement, croissance estivale achevée.\nNettoyage du feuillage interne mort — retirer à la main le feuillage mort interne pour améliorer la circulation d'air et la pénétration lumineuse ; ne jamais couper le feuillage écailleux vivant aux ciseaux.\nFertilisation : NPK 3-10-10, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Bonsai Tonight — https://bonsaitonight.com/2019/09/17/fall-juniper-work/",
-        "dormance_travaux": "Observation — Ko 60-72 (déc-fév) : croissance nulle, feuillage peut bronzer légèrement par le froid (réversible).\nUekae (rempotage) — Ko 4-6 (19 fév-5 mars) ~450-560°J, juste avant reprise végétative, tous les 3-4 ans. Substrat : 60% akadama (3-6 mm) + 30% pouzzolane + 10% sable de rivière lavé ; pH cible 5,5-6,5 ; drainage rapide impératif. Ne pas rempoter la même année qu'une taille de structure importante.\nSentai (taille de structure) — coupes majeures en jan-fév uniquement si l'arbre n'est pas rempôté cette saison.\nFertilisation : aucun apport de novembre à fin janvier.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/juniper",
-        "notes_perso": "Les variétés Shimpaku (sargentii) ont un feuillage 100% écailleux adulte, les formes à feuillage juvénile aciculaire persistant (ex. 'Stricta') sont souvent des sujets mal conduits. Le feuillage juvénile aciculaire sur *J. chinensis* est un signal de stress ou de mauvaise conduite, pas une caractéristique variétale stable (sauf rares cultivars fixés).\n\n**Pourquoi le feuillage reste juvénile :**\n**Feuillage juvénile aciculaire persistant sur *J. chinensis* — signal de mauvaise conduite**\n\nLe feuillage juvénile aciculaire piquant n'est pas une caractéristique variétale stable (sauf cultivars fixés). Sur un sujet normalement conduit, le feuillage adulte écailleux s'installe progressivement et se maintient.\n\n**Pourquoi le feuillage reste juvénile :**\n\n- **Taille dans le vieux bois nu** — les bourgeons adventifs qui repoussent après une coupe sévère sans feuillage résiduel sont toujours de type juvénile. C'est la cause principale.\n- **Stress physiologique sévère** — racines asphyxiées, substrat mal drainé, stress hydrique prolongé ; l'arbre bascule en mode survie et régresse vers une croissance primaire.\n\n**Retour au feuillage adulte écailleux :**\n\n- Stabiliser d'abord les conditions culturales (substrat, arrosage, fertilisation).\n- Ne jamais couper dans le vieux bois nu — toujours conserver du feuillage résiduel en aval de chaque coupe.\n- Pincement doux aux doigts dès la reprise pour densifier sans stresser.\n- Compter 2-3 saisons de conduite correcte avant retour complet au feuillage écailleux.\n\n**Cultivar 'Stricta'** — feuillage aciculaire génétiquement fixé, ne reviendra jamais écailleux. Acceptable en bonsäï d'apprentissage, déconseillé pour un arbre de qualité.\n\n**Cultivar 'Stricta'** — cas particulier : feuillage aciculaire génétiquement fixé, ne reviendra jamais écailleux. Sujet acceptable en bonsäï d'apprentissage, déconseillé pour développer un arbre de qualité.",
-        "erreurs_fatales": "**Erreurs à éviter sur *J. chinensis* en bonsäï**\n\n**Taille**\n- Couper dans le vieux bois sans feuillage résiduel en aval — repousse en aciculaire ou pas de repousse du tout.\n- Taille structurelle importante la même année que le rempotage — double stress fatal.\n- Utiliser des ciseaux sur le feuillage écailleux — brunit les coupes, cicatrisation nulle.\n\n**Rempotage**\n- Rempoter hors fenêtre Ko 4-6 — en pleine croissance ou en été, taux de survie très faible.\n- Substrat trop organique ou mal drainant — asphyxie racinaire, premier facteur de régression foliaire.\n- Réduire les racines de plus d'un tiers en une seule fois.\n\n**Arrosage**\n- Laisser le substrat sécher complètement — les junipérus ne récupèrent pas d'un stress hydrique sévère.\n- Arroser en excès en dormance — pourriture racinaire silencieuse.\n\n**Fertilisation**\n- Apport azoté fort (NPK type 10-6-6) en automne — pousse tardive non aoûtée, sensible au gel.\n- Fertiliser un arbre stressé ou fraîchement rempôté — brûlure racinaire.\n\n**Exposition**\n- Hiverner en intérieur — *J. chinensis* est un persistant plein air, il dégénère sans dormance froide.\n- Exposition au vent desséchant en été sans ombrage partiel à Cazaux — coup de chaleur sur feuillage écailleux irréversible.",
-        "dormance_djc": 5223,
-        "dormance": [
-          10,
-          0.6719242902208202
-        ]
-      },
-      {
         "_id": "mqj3jflrzixv",
         "espece": "Juniperus Itoigawa",
         "url": "https://fr.wikipedia.org/wiki/Juniperus_chinensis",
@@ -975,6 +924,57 @@
         "dormance": [
           10,
           0.8296529968454258
+        ]
+      },
+      {
+        "_id": "mpf3c5tjyodv",
+        "espece": "Juniperus Shimpaku J. chinensis",
+        "url": "https://fr.wikipedia.org/wiki/Juniperus_chinensis",
+        "notes": "Persistant, Cupressaceae (Juniperus chinensis). Feuillage mixte écailleux (adulte) et aciculaire (juvénile) selon la variété. Bonsäï majeur de la tradition japonaise — Shimpaku (J. chinensis var. sargentii) est la référence absolue. Deadwood (shari/jin) très valorisé. Ne jamais rempoter et tailler structurellement la même année.",
+        "photo": "",
+        "debourrement": [
+          1,
+          1
+        ],
+        "debourrement_djc": 512,
+        "debourrement_travaux": "Observation — Ko 5 (24-28 fév) ~500°J : nouvelles pousses écailleuses vert vif aux apex, reprise visible.\nHarigane-kake (ligature) — poser les ligatures structurelles avant allongement des pousses ; le bois est encore souple.\nFertilisation : NPK 3-6-6, EC 0,8-1,2 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/juniper",
+        "feuillaison": [
+          1,
+          0.7276995305164319
+        ],
+        "feuillaison_djc": 454,
+        "feuillaison_travaux": "Uekae (rempotage) — Ko 4-6 (19 fév-5 mars) ~450-560°J, juste avant reprise végétative, tous les 3-4 ans. Substrat : 60% akadama (3-6 mm) + 30% pouzzolane + 10% sable de rivière lavé ; pH cible 5,5-6,5 ; drainage rapide impératif. Ne pas rempoter la même année qu'une taille de structure importante.",
+        "floraison": [
+          1,
+          0.431924882629108
+        ],
+        "floraison_djc": 391,
+        "floraison_travaux": "Observation — Ko 4 (19-23 fév) ~400°J : chatons mâles jaunes, cônes femelles bleu-vert discrets, pollinisation avant reprise végétative.\nAucune intervention technique — laisser la pollinisation s'effectuer.\nFertilisation : aucun apport avant reprise végétative confirmée.\nSource : Tela Botanica — https://www.tela-botanica.org/bdtfx-nn-34185",
+        "croissance": [
+          2,
+          0.6566757493188011
+        ],
+        "croissance_djc": 798,
+        "croissance_travaux": "Observation — Ko 10 (21-25 mars) ~800°J : pousses s'allongent activement sur tous les apex.\nMetsumi (pincement) — pincer entre le pouce et l'index (jamais aux ciseaux sur feuillage écailleux) dès 1-2 cm d'allongement, toutes les 3-4 semaines jusqu'à Ko 34 (fin juillet).\nHarigane-kake (ligature) — surveiller les marques ; reposer avant strangulation sur rameaux en croissance rapide.\nToriki (marcottage aérien) — Ko 10-18 (mars-fin avr) période optimale sur grosses branches ; anneler sur 2-3 cm, envelopper de sphaigne humide sous film opaque ; sevrage après 8-12 semaines.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Bonsai Tonight — https://bonsaitonight.com/2014/04/01/pinching-junipers/",
+        "maturation": [
+          5,
+          0.17805755395683454
+        ],
+        "maturation_djc": 1991,
+        "maturation_travaux": "Observation — Ko 25 (6-10 juin) ~2000°J : croissance ralentit, pousses de printemps lignifiées.\nSentai (taille de structure) — éclaircissement léger uniquement (branches fines, feuillage surpeuplant l'intérieur) ; réserver les coupes importantes à la dormance ou début de printemps.\nHarigane-kake (ligature) — retirer toutes les ligatures posées au printemps avant strangulation.\nFertilisation : NPK 6-6-6, EC 1,0-1,2 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/juniper",
+        "senescence": [
+          8,
+          0.7612732095490716
+        ],
+        "senescence_djc": 4311,
+        "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4300°J : feuillage interne jaunit et tombe naturellement, croissance estivale achevée.\nNettoyage du feuillage interne mort — retirer à la main le feuillage mort interne pour améliorer la circulation d'air et la pénétration lumineuse ; ne jamais couper le feuillage écailleux vivant aux ciseaux.\nFertilisation : NPK 3-10-10, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Bonsai Tonight — https://bonsaitonight.com/2019/09/17/fall-juniper-work/",
+        "dormance_travaux": "Observation — Ko 60-72 (déc-fév) : croissance nulle, feuillage peut bronzer légèrement par le froid (réversible).\nUekae (rempotage) — Ko 4-6 (19 fév-5 mars) ~450-560°J, juste avant reprise végétative, tous les 3-4 ans. Substrat : 60% akadama (3-6 mm) + 30% pouzzolane + 10% sable de rivière lavé ; pH cible 5,5-6,5 ; drainage rapide impératif. Ne pas rempoter la même année qu'une taille de structure importante.\nSentai (taille de structure) — coupes majeures en jan-fév uniquement si l'arbre n'est pas rempôté cette saison.\nFertilisation : aucun apport de novembre à fin janvier.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/juniper",
+        "notes_perso": "Persistant, Cupressaceae (Juniperus chinensis). Feuillage mixte écailleux (adulte) et aciculaire (juvénile) selon la variété. Bonsäï majeur de la tradition japonaise — Shimpaku (J. chinensis var. sargentii) est la référence absolue. Deadwood (shari/jin) très valorisé. Ne jamais rempoter et tailler structurellement la même année.\n\nLes variétés Shimpaku (sargentii) ont un feuillage 100% écailleux adulte, les formes à feuillage juvénile aciculaire persistant (ex. 'Stricta') sont souvent des sujets mal conduits. Le feuillage juvénile aciculaire sur *J. chinensis* est un signal de stress ou de mauvaise conduite, pas une caractéristique variétale stable (sauf rares cultivars fixés).\n\n**Pourquoi le feuillage reste juvénile :**\n**Feuillage juvénile aciculaire persistant sur *J. chinensis* — signal de mauvaise conduite**\n\nLe feuillage juvénile aciculaire piquant n'est pas une caractéristique variétale stable (sauf cultivars fixés). Sur un sujet normalement conduit, le feuillage adulte écailleux s'installe progressivement et se maintient.\n\n**Pourquoi le feuillage reste juvénile :**\n\n- **Taille dans le vieux bois nu** — les bourgeons adventifs qui repoussent après une coupe sévère sans feuillage résiduel sont toujours de type juvénile. C'est la cause principale.\n- **Stress physiologique sévère** — racines asphyxiées, substrat mal drainé, stress hydrique prolongé ; l'arbre bascule en mode survie et régresse vers une croissance primaire.\n\n**Retour au feuillage adulte écailleux :**\n\n- Stabiliser d'abord les conditions culturales (substrat, arrosage, fertilisation).\n- Ne jamais couper dans le vieux bois nu — toujours conserver du feuillage résiduel en aval de chaque coupe.\n- Pincement doux aux doigts dès la reprise pour densifier sans stresser.\n- Compter 2-3 saisons de conduite correcte avant retour complet au feuillage écailleux.\n\n**Cultivar 'Stricta'** — feuillage aciculaire génétiquement fixé, ne reviendra jamais écailleux. Acceptable en bonsäï d'apprentissage, déconseillé pour un arbre de qualité.\n\n**Cultivar 'Stricta'** — cas particulier : feuillage aciculaire génétiquement fixé, ne reviendra jamais écailleux. Sujet acceptable en bonsäï d'apprentissage, déconseillé pour développer un arbre de qualité.",
+        "erreurs_fatales": "**Erreurs à éviter sur *J. chinensis* en bonsäï**\n\n**Taille**\n- Couper dans le vieux bois sans feuillage résiduel en aval — repousse en aciculaire ou pas de repousse du tout.\n- Taille structurelle importante la même année que le rempotage — double stress fatal.\n- Utiliser des ciseaux sur le feuillage écailleux — brunit les coupes, cicatrisation nulle.\n\n**Rempotage**\n- Rempoter hors fenêtre Ko 4-6 — en pleine croissance ou en été, taux de survie très faible.\n- Substrat trop organique ou mal drainant — asphyxie racinaire, premier facteur de régression foliaire.\n- Réduire les racines de plus d'un tiers en une seule fois.\n\n**Arrosage**\n- Laisser le substrat sécher complètement — les junipérus ne récupèrent pas d'un stress hydrique sévère.\n- Arroser en excès en dormance — pourriture racinaire silencieuse.\n\n**Fertilisation**\n- Apport azoté fort (NPK type 10-6-6) en automne — pousse tardive non aoûtée, sensible au gel.\n- Fertiliser un arbre stressé ou fraîchement rempôté — brûlure racinaire.\n\n**Exposition**\n- Hiverner en intérieur — *J. chinensis* est un persistant plein air, il dégénère sans dormance froide.\n- Exposition au vent desséchant en été sans ombrage partiel à Cazaux — coup de chaleur sur feuillage écailleux irréversible.",
+        "dormance_djc": 5223,
+        "dormance": [
+          10,
+          0.6719242902208202
         ]
       },
       {
@@ -1456,7 +1456,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 36
+    "_modCount": 37
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
