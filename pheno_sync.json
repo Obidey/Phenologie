@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1781764473034,
-  "_date": "2026-06-18T06:34:33.034Z",
-  "_modCount": 1333,
+  "_ts": 1781764574112,
+  "_date": "2026-06-18T06:36:14.112Z",
+  "_modCount": 1334,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -253,6 +253,57 @@
         "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : feuillage redevenant coloré, virant à l'orange et au rouge grenat foncé.\nFertilisation : suspendre.\nSource : Mistral Bonsai — https://www.mistralbonsai.com/fr/comment-choisir-bonsai-derable/",
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Résistant au gel à Cazaux ; protéger uniquement lors de fortes gelées (< -10°C).\nSentai (taille de structure) — taille des branches fortes en automne pour éviter les pertes de sève excessives.\nFertilisation : suspendre.\nSource : Bonsai Empire — https://www.bonsaiempire.fr/especes/erable",
         "notes_perso": "Débourrement rouge carmin spectaculaire, viré vert en été, re-rougit à l'automne.",
+        "erreurs_fatales": "",
+        "dormance_djc": 5087,
+        "dormance": [
+          10,
+          0.24290220820189273
+        ]
+      },
+      {
+        "_id": "mqj4mdwfr8dc",
+        "espece": "Acer palmatum Osakazuki",
+        "url": "https://fr.wikipedia.org/wiki/Acer_palmatum",
+        "notes": "Caduc. Sapindaceae. Cultivar surnommé Buisson ardent, l'une des variétés d'Acer palmatum les plus réputées pour son rouge écarlate à carmin flamboyant en automne, parmi les plus intenses du genre. Feuillage vert tendre aux pointes brunes au débourrement, vert foncé stable en été, 5-7 lobes profondément ciselés. Feuilles plus épaisses que d'autres cultivars, supportant mieux le soleil direct. Floraison discrète jaune-vert donnant des samares. Bois brun rougeâtre décoratif en hiver. Très rustique jusqu'à -20/-23°C. Vigoureux, tolérant à la taille, adapté aussi bien aux débutants qu'aux experts en bonsaï.",
+        "photo": "",
+        "debourrement": [
+          1,
+          1
+        ],
+        "debourrement_djc": 512,
+        "debourrement_travaux": "Observation — Ko 5 (24-28 fév) ~512°J : débourrement vert tendre aux pointes brunes, aspect duveteux légèrement teinté de bronze.\nUekae (rempotage) — Ko 5-8, avant débourrement, tous les 2-3 ans. Substrat : 100% akadama ou akadama 80% + pouzzolane 20% ; pH 5,5-6,5, drainage parfait.\nFertilisation : suspendre jusqu'au débourrement complet.\nSource : Plantes Shopping — https://www.plantes-shopping.fr/articles/acer-palmatum-osakazuki-35.html",
+        "feuillaison": [
+          2,
+          0.4604904632152589
+        ],
+        "feuillaison_djc": 726,
+        "feuillaison_travaux": "Observation — Ko 9 (16-20 mars) ~726°J : feuillage entièrement déployé, 5-7 lobes profondément ciselés, vert lumineux relativement sobre.\nMetsumi (pincement) — pincement régulier des jeunes pousses pour réduire la taille des feuilles et maintenir l'équilibre canopée/racines.\nFertilisation : NPK 7-5-7, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Jardineria On — https://fr.jardineriaon.com/Acer-palmatum-osakazuki.html",
+        "floraison": [
+          2,
+          1
+        ],
+        "floraison_djc": 924,
+        "floraison_travaux": "Observation — Ko 12 (31 mars-4 avr) ~924°J : fleurs discrètes jaune-vert, environ 1 cm, donnant parfois des samares ailées de 3 cm.\nFertilisation : NPK 10-6-6 dilué, EC 0,8-1,2 mS/cm, pH 5,5-6,5.\nSource : Bambouseraie de Paris — https://bambouseraiedeparis.fr/products/acer-palmatum-osakazuki",
+        "croissance": [
+          3,
+          0.7713498622589532
+        ],
+        "croissance_djc": 1272,
+        "croissance_travaux": "Observation — Ko 17 (25-29 avr) ~1272°J : croissance modérée à lente, vigoureuse, feuillage vert foncé stable, plus épais que d'autres cultivars (meilleure tolérance au soleil).\nSentai (taille de structure) — supprimer branches poussant vers l'intérieur, croisées, abîmées ou faibles, ainsi que les drageons basaux.\nMetsumi (pincement) — pincement régulier pour densifier la ramification.\nHarigane-kake (ligature) — fil enduit pour ne pas endommager l'écorce ; vérifier régulièrement qu'il ne s'enfonce pas dans le bois, retirer dès l'épaississement des branches.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Jardineria On — https://fr.jardineriaon.com/Acer-palmatum-osakazuki.html",
+        "maturation": [
+          7,
+          0.521870286576169
+        ],
+        "maturation_djc": 3576,
+        "maturation_travaux": "Observation — Ko 39 (18-22 août) ~3576°J : aoûtement du bois, ralentissement de la croissance.\nFertilisation : suspendre en juillet-août, reprendre légèrement ensuite.\nSource : Kentis — https://kentis.com/fr/boutique/bonsai-acer-palmatum-osakazuki-erable/",
+        "senescence": [
+          9,
+          0
+        ],
+        "senescence_djc": 4496,
+        "senescence_travaux": "Observation — Ko 47 (28 sept-2 oct) ~4401°J : début de la métamorphose automnale, accumulation des pigments anthocyaniques sous l'effet du froid, virage progressif du vert vers le rouge carmin intense, s'intensifiant semaine après semaine jusqu'à la chute.\nFertilisation : suspendre.\nSource : Bambouseraie de Paris — https://bambouseraiedeparis.fr/blogs/infos/pourquoi-choisir-l-erable-du-japon-osakazuki-pour-votre-jardin",
+        "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, bois brun rougeâtre décoratif révélé. Très rustique à Cazaux jusqu'à -20/-23°C ; protéger les jeunes sujets du vent fort et du gel intense.\nSentai (taille de structure) — taille annuelle avant l'hiver ou en fin d'hiver avant débourrement.\nFertilisation : suspendre.\nSource : Bambouseraie de Paris — https://bambouseraiedeparis.fr/products/acer-palmatum-osakazuki",
+        "notes_perso": "couleur rouge spectaculaire à l'automne, taille de tronc plus grande, feuillage vert en été (contrairement aux cultivars pourpres permanents). Je vérifie les détails restants.",
         "erreurs_fatales": "",
         "dormance_djc": 5087,
         "dormance": [
@@ -1350,7 +1401,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 30
+    "_modCount": 31
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
