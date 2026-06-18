@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1781764655526,
-  "_date": "2026-06-18T06:37:35.526Z",
-  "_modCount": 1337,
+  "_ts": 1781764666644,
+  "_date": "2026-06-18T06:37:46.644Z",
+  "_modCount": 1338,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -982,7 +982,7 @@
       },
       {
         "_id": "mpc8u3wjwal8",
-        "espece": "Pin Blanc du JaponZuisho",
+        "espece": "Pin Blanc du Japon Zuisho",
         "url": "https://fr.wikipedia.org/wiki/Pinus_parviflora",
         "notes": "Persistant, Pinaceae. Cultivar nain de Pinus parviflora (pin blanc du Japon). Aiguilles courtes, tordues, bleutées — très prisé en bonsaï pour sa ramification dense et sa croissance lente. Sensible à l'excès d'humidité racinaire. Ne supporte pas la taille sur vieux bois sans aiguilles.",
         "photo": "",
@@ -1408,7 +1408,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 33
+    "_modCount": 34
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
