@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1781765537391,
-  "_date": "2026-06-18T06:52:17.391Z",
-  "_modCount": 1339,
+  "_ts": 1781765703507,
+  "_date": "2026-06-18T06:55:03.507Z",
+  "_modCount": 1340,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -202,6 +202,54 @@
         "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : feuillage virant du rouge-violet vers l'orange-jaune automnal caractéristique.\nRemise en plein soleil dès les grosses chaleurs passées — combinaison froid + soleil indispensable pour développer les couleurs d'automne ; un sujet trop ombragé ne rougit pas.\nFertilisation : suspendre.\nSource : Bonsai Galinou — https://www.bonsaigalinou.com/fr/blog/tout-savoir-sur-les-erables-du-japon-en-bonsai-n18",
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Rustique à Cazaux jusqu'à -10°C ; protéger uniquement lors de fortes gelées.\nSentai (taille de structure) — taille de structure de préférence en automne, juste après la chute des feuilles, pour limiter les pertes de sève.\nFertilisation : suspendre.\nSource : Quand Arroser Ma Plante — https://www.quandarrosermaplante.com/plantes-interieur/bonsais/bonsai-erable-du-japon/",
         "notes_perso": "ne fleurit pas selon Truffaut, mais d'autres sources mentionnent fleurs rougeâtres et samares (variabilité documentaire). Croissance rapide, vigueur, parent direct de 'Shaina'/'Bloodgood'.",
+        "erreurs_fatales": "",
+        "dormance_djc": 5087,
+        "dormance": [
+          10,
+          0.24290220820189273
+        ]
+      },
+      {
+        "_id": "mqj5alboi03i",
+        "espece": "Acer palmatum Beni Shichihenge",
+        "url": "https://fr.wikipedia.org/wiki/Acer_palmatum",
+        "notes": "Caduc. Sapindaceae. Cultivar panaché (= 'Shishihenge', 'Hichihenge'), proche de 'Butterfly', 'Tricolor', 'Kagiri Nishiki'. Nom signifiant Sept Apparitions Rouges. Feuillage à trois tons blanc-rose-rouge sur fond vert tendre au débourrement, jeunes pousses couleur crevette, panachure la plus intense et la plus durable parmi les érables panachés. Vert plus soutenu et panachure moins lumineuse en été, unification en rose foncé uni à l'automne. Croissance lente. Limiter les tailles sévères pour préserver la panachure, qui peut réverter (redevenir verte) en cas de vigueur excessive ou de manque de lumière.",
+        "photo": "",
+        "debourrement": [
+          1,
+          1
+        ],
+        "debourrement_djc": 512,
+        "debourrement_travaux": "Observation — Ko 5 (24-28 fév) ~512°J : débourrement, jeunes pousses couleur crevette, panachure blanc-rose-rouge sur fond vert tendre déjà visible.\nUekae (rempotage) — Ko 5-8, avant débourrement, tous les 2-3 ans (croissance lente). Substrat : 80% akadama, 20% pouzzolane ; pH 5,5-6,5, drainage correct, terre légèrement acide.\nFertilisation : suspendre jusqu'au débourrement complet.\nSource : Erable du Val de Jargeau — https://www.erableduvaldejargeau.fr/produit/acer-palmatum-beni-shichihenge/",
+        "feuillaison": [
+          2,
+          0.4604904632152589
+        ],
+        "feuillaison_djc": 726,
+        "feuillaison_travaux": "Observation — Ko 9 (16-20 mars) ~726°J : feuillage entièrement déployé, panachure rose vif la plus lumineuse de la saison, parfois éclaboussée de crème.\nFertilisation : NPK 7-5-7 dilué, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Plantation Magasin — https://www.plantationmagasin.com/erable-du-japon-acer-palmatum-beni-shichihenge/",
+        "floraison": null,
+        "floraison_djc": null,
+        "floraison_travaux": "",
+        "croissance": [
+          3,
+          0.7713498622589532
+        ],
+        "croissance_djc": 1272,
+        "croissance_travaux": "Observation — Ko 17 (25-29 avr) ~1272°J : croissance lente, panachure perdant progressivement de son éclat, vert se renforçant en vert soutenu.\nSentai (taille de structure) — limiter les tailles, cultivar sensible ; une taille trop sévère ou une fertilisation excessive favorise la réversion (perte de panachure, retour au vert uniforme).\nHarigane-kake (ligature) — ligature légère sur rameaux souples ; surveiller les marques toutes les 3-4 semaines.\nFertilisation : NPK 10-6-6 dilué de moitié, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Plantation Magasin — https://www.plantationmagasin.com/erable-du-japon-acer-palmatum-beni-shichihenge/",
+        "maturation": [
+          7,
+          0.521870286576169
+        ],
+        "maturation_djc": 3576,
+        "maturation_travaux": "Observation — Ko 39 (18-22 août) ~3576°J : aoûtement du bois, feuillage déjà vert soutenu avec panachure atténuée.\nFertilisation : suspendre après Ko 33 (juil).\nSource : Erable du Val de Jargeau — https://www.erableduvaldejargeau.fr/produit/acer-palmatum-beni-shichihenge/",
+        "senescence": [
+          8,
+          1
+        ],
+        "senescence_djc": 4401,
+        "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : unification du feuillage en rose foncé uni, coloration automnale caractéristique du cultivar.\nFertilisation : suspendre.\nSource : Promesse de Fleurs — https://www.promessedefleurs.com/arbustes/arbustes-par-variete/erables-du-japon/erable-du-japon-acer-palmatum-beni-shichihenge.html",
+        "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Rustique à Cazaux jusqu'à -20°C ; protéger des vents forts.\nFertilisation : suspendre.\nSource : Achat Vente Palmiers — https://www.achat-vente-palmiers.com/fr/erables/109-acer-palmatum-beni-shichihenge-.html",
+        "notes_perso": "Cultivar panaché \"à sept changements\" — variabilité saisonnière de coloris importante, sensible à la panachure réversible selon vigueur/lumière.Web recherchéWeb recherchéDonnée clé : \"limitez les tailles\" pour préserver la panachure (signal de sensibilité au stress, identique au cultivar 'Taylor'), nom signifiant \"sept apparitions rouges\", panachure réversible si vigueur excessive.",
         "erreurs_fatales": "",
         "dormance_djc": 5087,
         "dormance": [
