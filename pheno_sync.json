@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1781857974691,
-  "_date": "2026-06-19T08:32:54.691Z",
-  "_modCount": 1364,
+  "_ts": 1781858020910,
+  "_date": "2026-06-19T08:33:40.910Z",
+  "_modCount": 1365,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -112,7 +112,7 @@
       },
       {
         "_id": "mps7ye6yqpdu",
-        "espece": "Acer palmatum  ENKAN",
+        "espece": "Acer palmatum  Enkan",
         "url": "https://fr.wikipedia.org/wiki/Acer_palmatum",
         "notes": "Caduc. Famille Sapindaceae. Cultivar linéaire à feuilles très découpées, lobes filiformes rouge-pourpre persistant en été. Port pleureur naturel. Bonsaï : silhouette cascade ou semi-cascade valorisée, feuillage fin spectaculaire ; sensible aux vents desséchants et au soleil intense estival à Cazaux.",
         "photo": "",
