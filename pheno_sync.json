@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1781857633142,
-  "_date": "2026-06-19T08:27:13.142Z",
-  "_modCount": 1359,
+  "_ts": 1781857666757,
+  "_date": "2026-06-19T08:27:46.757Z",
+  "_modCount": 1360,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -400,6 +400,57 @@
         "senescence_travaux": "Observation — Ko 47 (28 sept-2 oct) ~4401°J : début de la métamorphose automnale, accumulation des pigments anthocyaniques sous l'effet du froid, virage progressif du vert vers le rouge carmin intense, s'intensifiant semaine après semaine jusqu'à la chute.\nFertilisation : suspendre.\nSource : Bambouseraie de Paris — https://bambouseraiedeparis.fr/blogs/infos/pourquoi-choisir-l-erable-du-japon-osakazuki-pour-votre-jardin",
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, bois brun rougeâtre décoratif révélé. Très rustique à Cazaux jusqu'à -20/-23°C ; protéger les jeunes sujets du vent fort et du gel intense.\nSentai (taille de structure) — taille annuelle avant l'hiver ou en fin d'hiver avant débourrement.\nFertilisation : suspendre.\nSource : Bambouseraie de Paris — https://bambouseraiedeparis.fr/products/acer-palmatum-osakazuki",
         "notes_perso": "couleur rouge spectaculaire à l'automne, taille de tronc plus grande, feuillage vert en été (contrairement aux cultivars pourpres permanents). Je vérifie les détails restants.",
+        "erreurs_fatales": "",
+        "dormance_djc": 5087,
+        "dormance": [
+          10,
+          0.24290220820189273
+        ]
+      },
+      {
+        "_id": "mqko1on3zw8f",
+        "espece": "Acer palmatum Sangokaku (Senkaki)",
+        "url": "https://fr.wikipedia.org/wiki/Acer_palmatum",
+        "notes": "Caduc. Sapindaceae. Synonyme Senkaki, nom signifiant Tour de Corail. Écorce rouge corail vif sur le jeune bois (1-2 ans), principal atout décoratif hivernal — le bois ancien redevient vert-gris. Feuillage vert tendre rosé au débourrement, vert moyen en été, jaune doré à orangé-rouge à l'automne. Floraison printanière insignifiante. Sensible aux bactérioses hivernales (humidité + froid intense) : longévité non garantie en climat humide. Préfère mi-ombre, sol frais drainé acide à neutre, sol calcaire et lourd à proscrire. Rustique jusqu'à -15/-20°C selon les sources, mais la résistance théorique au froid masque une fragilité réelle aux bactérioses.",
+        "photo": "",
+        "debourrement": [
+          1,
+          1
+        ],
+        "debourrement_djc": 512,
+        "debourrement_travaux": "Observation — Ko 5 (24-28 fév) ~512°J : débourrement vert tendre rosé, contraste saisissant avec l'écorce corail encore visible sur le bois nu.\nUekae (rempotage) — Ko 5-8, avant débourrement, tous les 2-3 ans. Substrat : 80% akadama, 20% pouzzolane ; pH 5,5-6,5 (sol acide à neutre, jamais calcaire), drainage impératif (sensibilité aux bactérioses).\nFertilisation : suspendre jusqu'au débourrement complet.\nSource : Pépinière du Penthièvre — https://www.pepinieredupenthievre.com/plantes-de-terre-de-bruyere/66796-acer-palmatum-sango-kaku-senkaki-grand-erable-japon-tour-de-corail.html",
+        "feuillaison": [
+          2,
+          0.4604904632152589
+        ],
+        "feuillaison_djc": 726,
+        "feuillaison_travaux": "Observation — Ko 9 (16-20 mars) ~726°J : feuillage entièrement déployé, 7 lobes pointus, vert tendre.\nFertilisation : NPK 7-5-7 dilué, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Pépinière du Penthièvre — https://www.pepinieredupenthievre.com/plantes-de-terre-de-bruyere/66796-acer-palmatum-sango-kaku-senkaki-grand-erable-japon-tour-de-corail.html",
+        "floraison": [
+          2,
+          1
+        ],
+        "floraison_djc": 924,
+        "floraison_travaux": "Observation — Ko 12 (31 mars-4 avr) ~924°J : floraison insignifiante rougeâtre, parfois suivie de petites samares ailées.\nFertilisation : NPK 10-6-6 dilué, EC 0,8-1,2 mS/cm, pH 5,5-6,5.\nSource : Jardin du Pic Vert — https://www.jardindupicvert.com/arbustes/204-erable-du-japon-sango-kaku.html",
+        "croissance": [
+          3,
+          0.7713498622589532
+        ],
+        "croissance_djc": 1272,
+        "croissance_travaux": "Observation — Ko 17 (25-29 avr) ~1272°J : croissance lente, feuillage vert moyen stable. Emplacement mi-ombragé à ombragé, à l'abri des vents froids et desséchants.\nSentai (taille de structure) — taille de structure modérée, croissance lente facilitant le contrôle de la silhouette.\nHarigane-kake (ligature) — ligature légère sur jeunes rameaux ; surveiller les marques toutes les 3-4 semaines, préserver l'écorce corail des jeunes branches.\nFertilisation : NPK 10-6-6 dilué de moitié, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Ripaud Pépinières — https://www.ripaudpepinieres.com/erables-du-japon/497-acer-palmatum-sango-kaku-senkaki.html",
+        "maturation": [
+          7,
+          0.521870286576169
+        ],
+        "maturation_djc": 3576,
+        "maturation_travaux": "Observation — Ko 39 (18-22 août) ~3576°J : aoûtement du bois, formation progressive de la teinte corail sur les jeunes rameaux de l'année.\nFertilisation : suspendre après Ko 33 (juil).\nSource : Ripaud Pépinières — https://www.ripaudpepinieres.com/erables-du-japon/497-acer-palmatum-sango-kaku-senkaki.html",
+        "senescence": [
+          8,
+          1
+        ],
+        "senescence_djc": 4401,
+        "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : feuillage virant au jaune doré puis orangé-rouge, écorce corail des jeunes rameaux progressivement révélée.\nFertilisation : suspendre.\nSource : Ripaud Pépinières — https://www.ripaudpepinieres.com/erables-du-japon/497-acer-palmatum-sango-kaku-senkaki.html",
+        "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, écorce rouge corail pleinement visible sur le bois de 1-2 ans — atout décoratif majeur de l'hiver. Surveiller l'apparition de bactérioses hivernales (taches brunes, dépérissement de rameaux), plus fréquentes lors d'hivers froids et humides à Cazaux ; couper et désinfecter les outils si symptômes observés.\nFertilisation : suspendre.\nSource : Au Jardin (forum) — https://www.aujardin.org/viewtopic.php?t=194792",
+        "notes_perso": "Cultivar majeur \"Corail d'Hiver\" — écorce rouge corail vif, particularité décorative hivernale similaire à Bi-Hoo mais nettement plus connu et robuste.Web recherchéWeb recherchéDonnée critique trouvée : sensibilité aux bactérioses hivernales, écorce corail sur bois de 1-2 ans seulement (le bois ancien redevient vert-gris), mi-ombre préférable, sol calcaire à proscrire.",
         "erreurs_fatales": "",
         "dormance_djc": 5087,
         "dormance": [
@@ -1492,7 +1543,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 40
+    "_modCount": 41
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
