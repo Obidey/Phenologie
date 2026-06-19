@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1781858610056,
-  "_date": "2026-06-19T08:43:30.056Z",
-  "_modCount": 1370,
+  "_ts": 1781858657670,
+  "_date": "2026-06-19T08:44:17.670Z",
+  "_modCount": 1371,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -301,6 +301,57 @@
         "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : feuillage virant au jaune doré puis orangé et rouge vif, flamboiement automnal caractéristique.\nLéger stress hydrique contrôlé — espacer les arrosages sans assécher complètement pour intensifier les teintes automnales.\nFertilisation : suspendre.\nSource : Le Châtel des Vivaces — https://www.le-chatel-des-vivaces.com/erable-du-japon/3700-acer-palmatum-katsura.html",
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Rustique jusqu'à -20°C — protection nécessaire à Cazaux uniquement lors de gelées fortes (<-10°C).\nSentai (taille de structure) — taille des branches fortes en automne pour éviter les pertes de sève excessives.\nFertilisation : suspendre.\nSource : Bonsai Empire — https://www.bonsaiempire.fr/especes/erable",
         "notes_perso": "un des premiers Acer en végétation, débourrement précoce orange-jaune, floraison discrète mai-juin produisant des samares, automne flamboyant orange-rouge.",
+        "erreurs_fatales": "",
+        "dormance_djc": 5087,
+        "dormance": [
+          10,
+          0.24290220820189273
+        ]
+      },
+      {
+        "_id": "mqkolwhelj95",
+        "espece": "Acer palmatum Manyo-No-Sato",
+        "url": "https://fr.wikipedia.org/wiki/Acer_palmatum",
+        "notes": "Caduc. Sapindaceae. Cultivar récent au feuillage découpé irrégulier, rare par sa panachure très variable. Débourrement brun pourpré panaché de vert citron, virant au vert panaché de vert chartreux en été, puis pourpre et orange à l'automne. Floraison en corymbes de 3-4 cm (10-15 fleurs rouge à rouge pourpre), produisant des bisamares ailés vert puis rouge jusqu'à 3 cm. Pousse à l'ombre ou mi-ombre, rustique jusqu'à -15°C.",
+        "photo": "",
+        "debourrement": [
+          1,
+          1
+        ],
+        "debourrement_djc": 512,
+        "debourrement_travaux": "Observation — Ko 5 (24-28 fév) ~512°J : débourrement brun pourpré panaché de vert citron, panachure très irrégulière caractéristique.\nUekae (rempotage) — Ko 5-8, avant débourrement, tous les 2-3 ans. Substrat : 80% akadama, 20% pouzzolane ; pH 5,5-6,5, drainage correct.\nFertilisation : suspendre jusqu'au débourrement complet.\nSource : Promesse de Fleurs — https://www.promessedefleurs.com/arbustes/arbustes-par-variete/erables-du-japon/erable-du-japon-manyo-no-sato-acer-palmatum.html",
+        "feuillaison": [
+          2,
+          0.4604904632152589
+        ],
+        "feuillaison_djc": 726,
+        "feuillaison_travaux": "Observation — Ko 9 (16-20 mars) ~726°J : feuillage entièrement déployé en même temps que les fleurs, découpage irrégulier, panachure pourpre/vert citron.\nFertilisation : NPK 7-5-7 dilué, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Jardin du Pic Vert — https://www.jardindupicvert.com/arbustes/erable-du-japon-manyo-no-sato.html",
+        "floraison": [
+          2,
+          1
+        ],
+        "floraison_djc": 924,
+        "floraison_travaux": "Observation — Ko 12 (31 mars-4 avr) ~924°J : floraison en corymbes de 3-4 cm, 10-15 fleurs rouge à rouge pourpre, en même temps que les feuilles.\nFertilisation : NPK 10-6-6 dilué, EC 0,8-1,2 mS/cm, pH 5,5-6,5.\nSource : Jardin Florilège — https://jardin-florilege.eu/fr/encyclopedie/acer-palmatum-manyo-no-sato",
+        "croissance": [
+          3,
+          0.7713498622589532
+        ],
+        "croissance_djc": 1272,
+        "croissance_travaux": "Observation — Ko 17 (25-29 avr) ~1272°J : croissance végétative, feuillage virant au vert panaché de vert chartreux en été.\nSentai (taille de structure) — pousse à l'ombre ou mi-ombre, croissance modérée à intervenir avec parcimonie pour préserver la panachure.\nHarigane-kake (ligature) — ligature légère sur rameaux souples ; surveiller les marques toutes les 3-4 semaines.\nFertilisation : NPK 10-6-6 dilué de moitié, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Jardin du Pic Vert — https://www.jardindupicvert.com/arbustes/erable-du-japon-manyo-no-sato.html",
+        "maturation": [
+          7,
+          0.521870286576169
+        ],
+        "maturation_djc": 3576,
+        "maturation_travaux": "Observation — Ko 39 (18-22 août) ~3576°J : bisamares ailés virant du vert au rouge, jusqu'à 3 cm d'envergure.\nFertilisation : suspendre après Ko 33 (juil).\nSource : Jardin Florilège — https://jardin-florilege.eu/fr/encyclopedie/acer-palmatum-manyo-no-sato",
+        "senescence": [
+          8,
+          1
+        ],
+        "senescence_djc": 4401,
+        "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : feuillage virant au pourpre et à l'orange, coloration automnale caractéristique.\nFertilisation : suspendre.\nSource : Promesse de Fleurs — https://www.promessedefleurs.com/arbustes/arbustes-par-variete/erables-du-japon/erable-du-japon-manyo-no-sato-acer-palmatum.html",
+        "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Rustique jusqu'à -15°C ; protéger des vents froids à Cazaux.\nFertilisation : suspendre.\nSource : Jardin du Pic Vert — https://www.jardindupicvert.com/arbustes/erable-du-japon-manyo-no-sato.html",
+        "notes_perso": "",
         "erreurs_fatales": "",
         "dormance_djc": 5087,
         "dormance": [
@@ -747,57 +798,6 @@
         "dormance": [
           10,
           0.6719242902208202
-        ]
-      },
-      {
-        "_id": "mqkolwhelj95",
-        "espece": "Érable du Japon - Acer palmatum Manyo-No-Sato",
-        "url": "https://fr.wikipedia.org/wiki/Acer_palmatum",
-        "notes": "Caduc. Sapindaceae. Cultivar récent au feuillage découpé irrégulier, rare par sa panachure très variable. Débourrement brun pourpré panaché de vert citron, virant au vert panaché de vert chartreux en été, puis pourpre et orange à l'automne. Floraison en corymbes de 3-4 cm (10-15 fleurs rouge à rouge pourpre), produisant des bisamares ailés vert puis rouge jusqu'à 3 cm. Pousse à l'ombre ou mi-ombre, rustique jusqu'à -15°C.",
-        "photo": "",
-        "debourrement": [
-          1,
-          1
-        ],
-        "debourrement_djc": 512,
-        "debourrement_travaux": "Observation — Ko 5 (24-28 fév) ~512°J : débourrement brun pourpré panaché de vert citron, panachure très irrégulière caractéristique.\nUekae (rempotage) — Ko 5-8, avant débourrement, tous les 2-3 ans. Substrat : 80% akadama, 20% pouzzolane ; pH 5,5-6,5, drainage correct.\nFertilisation : suspendre jusqu'au débourrement complet.\nSource : Promesse de Fleurs — https://www.promessedefleurs.com/arbustes/arbustes-par-variete/erables-du-japon/erable-du-japon-manyo-no-sato-acer-palmatum.html",
-        "feuillaison": [
-          2,
-          0.4604904632152589
-        ],
-        "feuillaison_djc": 726,
-        "feuillaison_travaux": "Observation — Ko 9 (16-20 mars) ~726°J : feuillage entièrement déployé en même temps que les fleurs, découpage irrégulier, panachure pourpre/vert citron.\nFertilisation : NPK 7-5-7 dilué, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Jardin du Pic Vert — https://www.jardindupicvert.com/arbustes/erable-du-japon-manyo-no-sato.html",
-        "floraison": [
-          2,
-          1
-        ],
-        "floraison_djc": 924,
-        "floraison_travaux": "Observation — Ko 12 (31 mars-4 avr) ~924°J : floraison en corymbes de 3-4 cm, 10-15 fleurs rouge à rouge pourpre, en même temps que les feuilles.\nFertilisation : NPK 10-6-6 dilué, EC 0,8-1,2 mS/cm, pH 5,5-6,5.\nSource : Jardin Florilège — https://jardin-florilege.eu/fr/encyclopedie/acer-palmatum-manyo-no-sato",
-        "croissance": [
-          3,
-          0.7713498622589532
-        ],
-        "croissance_djc": 1272,
-        "croissance_travaux": "Observation — Ko 17 (25-29 avr) ~1272°J : croissance végétative, feuillage virant au vert panaché de vert chartreux en été.\nSentai (taille de structure) — pousse à l'ombre ou mi-ombre, croissance modérée à intervenir avec parcimonie pour préserver la panachure.\nHarigane-kake (ligature) — ligature légère sur rameaux souples ; surveiller les marques toutes les 3-4 semaines.\nFertilisation : NPK 10-6-6 dilué de moitié, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Jardin du Pic Vert — https://www.jardindupicvert.com/arbustes/erable-du-japon-manyo-no-sato.html",
-        "maturation": [
-          7,
-          0.521870286576169
-        ],
-        "maturation_djc": 3576,
-        "maturation_travaux": "Observation — Ko 39 (18-22 août) ~3576°J : bisamares ailés virant du vert au rouge, jusqu'à 3 cm d'envergure.\nFertilisation : suspendre après Ko 33 (juil).\nSource : Jardin Florilège — https://jardin-florilege.eu/fr/encyclopedie/acer-palmatum-manyo-no-sato",
-        "senescence": [
-          8,
-          1
-        ],
-        "senescence_djc": 4401,
-        "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : feuillage virant au pourpre et à l'orange, coloration automnale caractéristique.\nFertilisation : suspendre.\nSource : Promesse de Fleurs — https://www.promessedefleurs.com/arbustes/arbustes-par-variete/erables-du-japon/erable-du-japon-manyo-no-sato-acer-palmatum.html",
-        "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Rustique jusqu'à -15°C ; protéger des vents froids à Cazaux.\nFertilisation : suspendre.\nSource : Jardin du Pic Vert — https://www.jardindupicvert.com/arbustes/erable-du-japon-manyo-no-sato.html",
-        "notes_perso": "",
-        "erreurs_fatales": "",
-        "dormance_djc": 5087,
-        "dormance": [
-          10,
-          0.24290220820189273
         ]
       },
       {
@@ -1645,7 +1645,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 44
+    "_modCount": 45
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
