@@ -1,64 +1,13 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1781858049147,
-  "_date": "2026-06-19T08:34:09.147Z",
-  "_modCount": 1366,
+  "_ts": 1781858062812,
+  "_date": "2026-06-19T08:34:22.812Z",
+  "_modCount": 1367,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
     "especes": [
-      {
-        "_id": "mqj4exix6810",
-        "espece": "Acer Bi Hoo",
-        "url": "https://fr.wikipedia.org/wiki/Acer_palmatum",
-        "notes": "Caduc. Sapindaceae. Cultivar d'Acer palmatum introduit en Europe par Guy Maillot (pépinières Maillot), remarquable pour son écorce jaune orangé à abricot très décorative en hiver sur les rameaux de 1 à 4-5 ans. Feuillage finement découpé, vert rosé au débourrement, vert clair en été, jaune lumineux à l'automne. Cultivar sensible, sujet au dépérissement inexpliqué — drainage parfait impératif, protection hivernale en serre froide recommandée même cultivé en pot. Souvent associé à Sango Kaku, Beni Kawa, Aoyagi, Ukon pour le contraste de coloris d'écorce.",
-        "photo": "",
-        "debourrement": [
-          1,
-          1
-        ],
-        "debourrement_djc": 512,
-        "debourrement_travaux": "Observation — Ko 5 (24-28 fév) ~512°J : débourrement, jeunes feuilles vert rosé jaune, écorce jaune orangé encore bien visible avant feuillaison.\nUekae (rempotage) — Ko 5-8, avant débourrement, tous les 2-3 ans. Substrat : 80% akadama, 20% pouzzolane, drainage parfait impératif (cultivar sensible à l'excès d'humidité) ; pH 5,5-6,5.\nFertilisation : suspendre jusqu'au débourrement complet.\nSource : The Maple Nursery — https://themaplenursery.com/fr/products/acer-palmatum-bi-hoo",
-        "feuillaison": [
-          2,
-          0.4604904632152589
-        ],
-        "feuillaison_djc": 726,
-        "feuillaison_travaux": "Observation — Ko 9 (16-20 mars) ~726°J : feuillage entièrement déployé, lobes pointus, finement découpés, virant au vert clair.\nFertilisation : NPK 7-5-7 dilué, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Plantes Shopping — https://www.plantes-shopping.fr/articles/acer-palmatum-bi-hoo-26001.html",
-        "floraison": [
-          2,
-          1
-        ],
-        "floraison_djc": 924,
-        "floraison_travaux": "Observation — Ko 12 (31 mars-4 avr) ~924°J : fleurs rouges groupées en corymbes, assez petites.\nFertilisation : NPK 10-6-6 dilué, EC 0,8-1,2 mS/cm, pH 5,5-6,5.\nSource : Plantes Shopping — https://www.plantes-shopping.fr/articles/acer-palmatum-bi-hoo-26001.html",
-        "croissance": [
-          3,
-          0.7713498622589532
-        ],
-        "croissance_djc": 1272,
-        "croissance_travaux": "Observation — Ko 17 (25-29 avr) ~1272°J : croissance lente et régulière (10-15 cm par an), feuillage vert clair stable.\nMetsumi (pincement) — pincement modéré toutes les 3 semaines, cultivar à croissance lente.\nHarigane-kake (ligature) — ligature légère ; surveiller les marques toutes les 4 semaines.\nFertilisation : NPK 10-6-6 dilué de moitié, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Roué Pépinières — https://rouepepinieres.com/2386-acer-palmatum-bi-hoo.html",
-        "maturation": [
-          7,
-          0.521870286576169
-        ],
-        "maturation_djc": 3576,
-        "maturation_travaux": "Observation — Ko 39 (18-22 août) ~3576°J : aoûtement du bois, début de formation de la coloration jaune-orangé de l'écorce sur les jeunes rameaux.\nFertilisation : réduire puis stopper après Ko 33 (juil) pour favoriser l'aoûtement.\nSource : Le Châtel des Vivaces — https://www.le-chatel-des-vivaces.com/erable-du-japon/2272-acer-palmatum-bi-hoo.html",
-        "senescence": [
-          8,
-          1
-        ],
-        "senescence_djc": 4401,
-        "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : feuillage virant au jaune lumineux, écorce jaune orangé déjà visible sur le bois nu progressivement dégagé.\nFertilisation : suspendre.\nSource : Le Châtel des Vivaces — https://www.le-chatel-des-vivaces.com/erable-du-japon/2272-acer-palmatum-bi-hoo.html",
-        "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, écorce jaune orangé à abricot pleinement visible et décorative tout l'hiver sur les rameaux de 1 à 4-5 ans. Protection en serre froide recommandée à Cazaux même en pot — cultivar sujet au dépérissement inexpliqué en conditions hivernales humides.\nFertilisation : suspendre.\nSource : The Maple Nursery — https://themaplenursery.com/fr/products/acer-palmatum-bi-hoo",
-        "notes_perso": "cultivar fragile, sujet au dépérissement inexpliqué, drainage parfait impératif, mieux en pleine terre qu'en pot, protection hivernale en serre recommandée même pour les sujets en pot.",
-        "erreurs_fatales": "Toriki (marcottage aérien) volontairement omis — signalé comme difficile à réussir sur ce cultivar par les praticiens, conforme à la règle \"ne jamais inventer, omettre si non applicable\".",
-        "dormance_djc": 5087,
-        "dormance": [
-          10,
-          0.24290220820189273
-        ]
-      },
       {
         "_id": "mps7ye6yqpdu",
         "espece": "Acer palmatum  Enkan",
@@ -200,6 +149,57 @@
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Rustique à Cazaux jusqu'à -20°C ; protéger des vents forts.\nFertilisation : suspendre.\nSource : Achat Vente Palmiers — https://www.achat-vente-palmiers.com/fr/erables/109-acer-palmatum-beni-shichihenge-.html",
         "notes_perso": "Cultivar panaché \"à sept changements\" — variabilité saisonnière de coloris importante, sensible à la panachure réversible selon vigueur/lumière.Web recherchéWeb recherchéDonnée clé : \"limitez les tailles\" pour préserver la panachure (signal de sensibilité au stress, identique au cultivar 'Taylor'), nom signifiant \"sept apparitions rouges\", panachure réversible si vigueur excessive.",
         "erreurs_fatales": "",
+        "dormance_djc": 5087,
+        "dormance": [
+          10,
+          0.24290220820189273
+        ]
+      },
+      {
+        "_id": "mqj4exix6810",
+        "espece": "Acer Palmatum Bi Hoo",
+        "url": "https://fr.wikipedia.org/wiki/Acer_palmatum",
+        "notes": "Caduc. Sapindaceae. Cultivar d'Acer palmatum introduit en Europe par Guy Maillot (pépinières Maillot), remarquable pour son écorce jaune orangé à abricot très décorative en hiver sur les rameaux de 1 à 4-5 ans. Feuillage finement découpé, vert rosé au débourrement, vert clair en été, jaune lumineux à l'automne. Cultivar sensible, sujet au dépérissement inexpliqué — drainage parfait impératif, protection hivernale en serre froide recommandée même cultivé en pot. Souvent associé à Sango Kaku, Beni Kawa, Aoyagi, Ukon pour le contraste de coloris d'écorce.",
+        "photo": "",
+        "debourrement": [
+          1,
+          1
+        ],
+        "debourrement_djc": 512,
+        "debourrement_travaux": "Observation — Ko 5 (24-28 fév) ~512°J : débourrement, jeunes feuilles vert rosé jaune, écorce jaune orangé encore bien visible avant feuillaison.\nUekae (rempotage) — Ko 5-8, avant débourrement, tous les 2-3 ans. Substrat : 80% akadama, 20% pouzzolane, drainage parfait impératif (cultivar sensible à l'excès d'humidité) ; pH 5,5-6,5.\nFertilisation : suspendre jusqu'au débourrement complet.\nSource : The Maple Nursery — https://themaplenursery.com/fr/products/acer-palmatum-bi-hoo",
+        "feuillaison": [
+          2,
+          0.4604904632152589
+        ],
+        "feuillaison_djc": 726,
+        "feuillaison_travaux": "Observation — Ko 9 (16-20 mars) ~726°J : feuillage entièrement déployé, lobes pointus, finement découpés, virant au vert clair.\nFertilisation : NPK 7-5-7 dilué, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Plantes Shopping — https://www.plantes-shopping.fr/articles/acer-palmatum-bi-hoo-26001.html",
+        "floraison": [
+          2,
+          1
+        ],
+        "floraison_djc": 924,
+        "floraison_travaux": "Observation — Ko 12 (31 mars-4 avr) ~924°J : fleurs rouges groupées en corymbes, assez petites.\nFertilisation : NPK 10-6-6 dilué, EC 0,8-1,2 mS/cm, pH 5,5-6,5.\nSource : Plantes Shopping — https://www.plantes-shopping.fr/articles/acer-palmatum-bi-hoo-26001.html",
+        "croissance": [
+          3,
+          0.7713498622589532
+        ],
+        "croissance_djc": 1272,
+        "croissance_travaux": "Observation — Ko 17 (25-29 avr) ~1272°J : croissance lente et régulière (10-15 cm par an), feuillage vert clair stable.\nMetsumi (pincement) — pincement modéré toutes les 3 semaines, cultivar à croissance lente.\nHarigane-kake (ligature) — ligature légère ; surveiller les marques toutes les 4 semaines.\nFertilisation : NPK 10-6-6 dilué de moitié, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Roué Pépinières — https://rouepepinieres.com/2386-acer-palmatum-bi-hoo.html",
+        "maturation": [
+          7,
+          0.521870286576169
+        ],
+        "maturation_djc": 3576,
+        "maturation_travaux": "Observation — Ko 39 (18-22 août) ~3576°J : aoûtement du bois, début de formation de la coloration jaune-orangé de l'écorce sur les jeunes rameaux.\nFertilisation : réduire puis stopper après Ko 33 (juil) pour favoriser l'aoûtement.\nSource : Le Châtel des Vivaces — https://www.le-chatel-des-vivaces.com/erable-du-japon/2272-acer-palmatum-bi-hoo.html",
+        "senescence": [
+          8,
+          1
+        ],
+        "senescence_djc": 4401,
+        "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : feuillage virant au jaune lumineux, écorce jaune orangé déjà visible sur le bois nu progressivement dégagé.\nFertilisation : suspendre.\nSource : Le Châtel des Vivaces — https://www.le-chatel-des-vivaces.com/erable-du-japon/2272-acer-palmatum-bi-hoo.html",
+        "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, écorce jaune orangé à abricot pleinement visible et décorative tout l'hiver sur les rameaux de 1 à 4-5 ans. Protection en serre froide recommandée à Cazaux même en pot — cultivar sujet au dépérissement inexpliqué en conditions hivernales humides.\nFertilisation : suspendre.\nSource : The Maple Nursery — https://themaplenursery.com/fr/products/acer-palmatum-bi-hoo",
+        "notes_perso": "cultivar fragile, sujet au dépérissement inexpliqué, drainage parfait impératif, mieux en pleine terre qu'en pot, protection hivernale en serre recommandée même pour les sujets en pot.",
+        "erreurs_fatales": "Toriki (marcottage aérien) volontairement omis — signalé comme difficile à réussir sur ce cultivar par les praticiens, conforme à la règle \"ne jamais inventer, omettre si non applicable\".",
         "dormance_djc": 5087,
         "dormance": [
           10,
@@ -1594,7 +1594,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 43
+    "_modCount": 44
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
