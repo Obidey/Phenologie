@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1781856757391,
-  "_date": "2026-06-19T08:12:37.391Z",
-  "_modCount": 1353,
+  "_ts": 1781856977197,
+  "_date": "2026-06-19T08:16:17.197Z",
+  "_modCount": 1354,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -301,6 +301,54 @@
         "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : feuillage redevenant coloré, virant à l'orange et au rouge grenat foncé.\nFertilisation : suspendre.\nSource : Mistral Bonsai — https://www.mistralbonsai.com/fr/comment-choisir-bonsai-derable/",
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Résistant au gel à Cazaux ; protéger uniquement lors de fortes gelées (< -10°C).\nSentai (taille de structure) — taille des branches fortes en automne pour éviter les pertes de sève excessives.\nFertilisation : suspendre.\nSource : Bonsai Empire — https://www.bonsaiempire.fr/especes/erable",
         "notes_perso": "Débourrement rouge carmin spectaculaire, viré vert en été, re-rougit à l'automne.",
+        "erreurs_fatales": "",
+        "dormance_djc": 5087,
+        "dormance": [
+          10,
+          0.24290220820189273
+        ]
+      },
+      {
+        "_id": "mqknmwksrwmp",
+        "espece": "Acer Palmatum Katsura",
+        "url": "https://fr.wikipedia.org/wiki/Acer_palmatum",
+        "notes": "Caduc. Sapindaceae. Cultivar lumineux d'Acer palmatum, l'un des coloris les plus vifs parmi les érables palmés. Feuillage jaune doré orangé vif au débourrement, virant au vert tendre en été, puis jaune orangé à orange vif à l'automne. Lobes pointus, feuilles de 5-8 cm. Croissance lente, port buissonnant très ramifié dès la base. Craint les brûlures solaires (ombre légère à mi-ombre recommandée) et les vents froids ou salés sur les jeunes feuilles printanières. Sensible à l'excès d'humidité (pourridié) — drainage impératif.",
+        "photo": "",
+        "debourrement": [
+          1,
+          1
+        ],
+        "debourrement_djc": 512,
+        "debourrement_travaux": "Observation — Ko 5 (24-28 fév) ~512°J : débourrement jaune d'or orangé vif, l'un des coloris printaniers les plus lumineux du genre.\nUekae (rempotage) — Ko 5-8, avant débourrement, tous les 2-3 ans (croissance lente). Substrat : 80% akadama, 20% pouzzolane ; pH 5,5-6,5, drainage impératif (sensible au pourridié).\nFertilisation : suspendre jusqu'au débourrement complet.\nSource : Maillot Bonsaï — https://www.maillot-bonsai.com/fr/boutique/12_graines/10598_graines-d-acer-palmatum-orange-dream",
+        "feuillaison": [
+          2,
+          0.4604904632152589
+        ],
+        "feuillaison_djc": 726,
+        "feuillaison_travaux": "Observation — Ko 9 (16-20 mars) ~726°J : feuillage entièrement déployé, jaune-orange vif, lobes pointus de 5-8 cm. Protéger des vents froids, néfastes aux jeunes feuilles printanières.\nFertilisation : NPK 7-5-7 dilué, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Mon Coach Jardin — https://moncoachjardin.com/acer-palmatum-orange-dream/",
+        "floraison": null,
+        "floraison_djc": null,
+        "floraison_travaux": "",
+        "croissance": [
+          3,
+          0.7713498622589532
+        ],
+        "croissance_djc": 1272,
+        "croissance_travaux": "Observation — Ko 17 (25-29 avr) ~1272°J : croissance lente, feuillage tournant au vert tendre puis vert-jaune en été.\nSentai (taille de structure) — taille facile, croissance annuelle maîtrisable de 10-15 cm.\nHarigane-kake (ligature) — ligature légère sur rameaux souples ; surveiller les marques toutes les 3-4 semaines.\nFertilisation : NPK 10-6-6 dilué de moitié, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Plantes Shopping — https://www.plantes-shopping.fr/article/1386-acer-palmatum-orange-dream",
+        "maturation": [
+          7,
+          0.521870286576169
+        ],
+        "maturation_djc": 3576,
+        "maturation_travaux": "Observation — Ko 39 (18-22 août) ~3576°J : aoûtement du bois, feuillage vert-jaune stable, écorce verte visible.\nFertilisation : suspendre après Ko 33 (juil).\nSource : Silence ça pousse — https://www.silencecapousse-chezvous.fr/erable-du-japon-orange-dream",
+        "senescence": [
+          8,
+          1
+        ],
+        "senescence_djc": 4401,
+        "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : feuillage virant au jaune orangé puis orange-rouge vif, métamorphose automnale spectaculaire.\nFertilisation : suspendre.\nSource : Ariège Motoculture — https://ariege-motoculture.fr/bonsai-erable-du-japon-acer-palmatum-orange-dream/",
+        "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Rustique à Cazaux ; protéger des vents froids ou salés.\nFertilisation : suspendre.\nSource : Promesse de Fleurs — https://www.promessedefleurs.com/arbustes/arbustes-par-variete/erables-du-japon/acer-palmatum-orange-dream.html",
+        "notes_perso": "",
         "erreurs_fatales": "",
         "dormance_djc": 5087,
         "dormance": [
@@ -1393,7 +1441,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 37
+    "_modCount": 38
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
