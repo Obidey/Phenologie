@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1781863785162,
-  "_date": "2026-06-19T10:09:45.162Z",
-  "_modCount": 1377,
+  "_ts": 1781863932617,
+  "_date": "2026-06-19T10:12:12.617Z",
+  "_modCount": 1378,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -655,6 +655,57 @@
         "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : feuillage redevenant rose-rouge très vif, coloration automnale caractéristique du cultivar.\nFertilisation : suspendre.\nSource : Palmatia Plantes — https://palmatia.com/produit/acer-palmatum-taylor-erable-du-japon/",
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Protéger des vents forts et du gel intense à Cazaux, cultivar plus fragile que les Acer standards.\nFertilisation : suspendre.\nSource : Achat Vente Palmiers — https://www.achat-vente-palmiers.com/fr/erables/129-acer-palmatum-taylor-.html",
         "notes_perso": "Donnée importante : cultivar réputé difficile à maintenir en bonsaï (avec Geisha, Baby Lace), feuillage panaché rose toute la saison avec une seconde poussée rose en plein été, \"limitez les tailles\" — vigueur réduite, sensible au stress.",
+        "erreurs_fatales": "",
+        "dormance_djc": 5087,
+        "dormance": [
+          10,
+          0.24290220820189273
+        ]
+      },
+      {
+        "_id": "mqkrrze8qbug",
+        "espece": "Acer palmatum Wilson's Pink Dwarf",
+        "url": "https://fr.wikipedia.org/wiki/Acer_palmatum",
+        "notes": "Caduc. Sapindaceae. Cultivar nain à dense ramification, croissance lente (5-10 cm/an). Feuillage rose vif à rose-rouge au débourrement, virant au vert avec tons roses en été, puis rouge orangé à l'automne. Petites feuilles à 5 lobes pointus et dentés (2-5 cm). Floraison printanière discrète rougeâtre, insignifiante. Sensible au vent : jeunes feuilles fraîchement débourrées risquant de griller en une journée par vent fort — emplacement abrité indispensable. Tolère le soleil doux mais préfère mi-ombre. Sol frais, bien drainé, légèrement acide à neutre.",
+        "photo": "",
+        "debourrement": [
+          1,
+          1
+        ],
+        "debourrement_djc": 512,
+        "debourrement_travaux": "Observation — Ko 5 (24-28 fév) ~512°J : débourrement rose rouge vif, bourgeons rouges pointus de 2-4 mm. Installer impérativement à l'abri du vent — les jeunes feuilles peuvent griller en une journée par vent fort.\nUekae (rempotage) — Ko 5-8, avant débourrement, tous les 2-3 ans (croissance lente). Substrat : 80% akadama, 20% pouzzolane ; pH 5,5-6,5, sol frais bien drainé, légèrement acide à neutre.\nFertilisation : suspendre jusqu'au débourrement complet.\nSource : Palmatia Plantes — https://palmatia.com/produit/acer-palmatum-wilsons-pink-dwarf-erable-du-japon/",
+        "feuillaison": [
+          2,
+          0.4604904632152589
+        ],
+        "feuillaison_djc": 726,
+        "feuillaison_travaux": "Observation — Ko 9 (16-20 mars) ~726°J : feuillage entièrement déployé, lobes pointus dentés, nervures jaune-vert sur fond rose-rouge.\nFertilisation : NPK 7-5-7 dilué, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Maillot Bonsaï — https://www.maillot-bonsai.com/boutique/37_acer-palmatum/1112_wilson-s-pink-dwarf",
+        "floraison": [
+          2,
+          1
+        ],
+        "floraison_djc": 924,
+        "floraison_travaux": "Observation — Ko 12 (31 mars-4 avr) ~924°J : floraison discrète rougeâtre, insignifiante.\nFertilisation : NPK 10-6-6 dilué, EC 0,8-1,2 mS/cm, pH 5,5-6,5.\nSource : Pépinière de Penhouët — https://pepiniere-de-penhouet.com/products/acer-palmatum-wilsons-pink-dwarf-erable-du-japon",
+        "croissance": [
+          3,
+          0.7713498622589532
+        ],
+        "croissance_djc": 1272,
+        "croissance_travaux": "Observation — Ko 17 (25-29 avr) ~1272°J : croissance lente et régulière, feuillage virant au vert avec jeunes pousses roses persistantes en été.\nMetsumi (pincement) — pincement modéré toutes les 3-4 semaines, cultivar à croissance lente.\nHarigane-kake (ligature) — ligature légère sur jeunes rameaux ; surveiller les marques toutes les 4 semaines.\nFertilisation : NPK 10-6-6 dilué de moitié, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Plantes Shopping — https://www.plantes-shopping.fr/boutique/article/20984-acer-palmatum-wilsons-pink-dwarf",
+        "maturation": [
+          7,
+          0.521870286576169
+        ],
+        "maturation_djc": 3576,
+        "maturation_travaux": "Observation — Ko 39 (18-22 août) ~3576°J : aoûtement du bois, vigilance particulière en fin d'été (période la plus difficile pour le maintien du feuillage selon les praticiens).\nFertilisation : suspendre après Ko 33 (juil).\nSource : Au Jardin (forum) — https://www.aujardin.org/viewtopic.php?t=194632",
+        "senescence": [
+          8,
+          1
+        ],
+        "senescence_djc": 4401,
+        "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : feuillage virant au rouge orangé, coloration automnale plus tardive et durable si l'arbre est cultivé à mi-ombre.\nFertilisation : suspendre.\nSource : Jardiland — https://www.jardiland.com/p/acer-palmatum-wilson-s-pink-dwarf-erable-japonais-nain-20770485",
+        "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Paillage épais à la base recommandé en hiver à Cazaux.\nFertilisation : suspendre.\nSource : Jardiland — https://www.jardiland.com/p/acer-palmatum-wilson-s-pink-dwarf-erable-japonais-nain-20770485",
+        "notes_perso": "sensible aux brûlures de jeunes feuilles par vent fort dès le débourrement (forum Au Jardin), nécessite abri du vent.",
         "erreurs_fatales": "",
         "dormance_djc": 5087,
         "dormance": [
