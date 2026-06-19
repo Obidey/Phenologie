@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1781863932617,
-  "_date": "2026-06-19T10:12:12.617Z",
-  "_modCount": 1378,
+  "_ts": 1781864077865,
+  "_date": "2026-06-19T10:14:37.865Z",
+  "_modCount": 1379,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -655,6 +655,57 @@
         "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : feuillage redevenant rose-rouge très vif, coloration automnale caractéristique du cultivar.\nFertilisation : suspendre.\nSource : Palmatia Plantes — https://palmatia.com/produit/acer-palmatum-taylor-erable-du-japon/",
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Protéger des vents forts et du gel intense à Cazaux, cultivar plus fragile que les Acer standards.\nFertilisation : suspendre.\nSource : Achat Vente Palmiers — https://www.achat-vente-palmiers.com/fr/erables/129-acer-palmatum-taylor-.html",
         "notes_perso": "Donnée importante : cultivar réputé difficile à maintenir en bonsaï (avec Geisha, Baby Lace), feuillage panaché rose toute la saison avec une seconde poussée rose en plein été, \"limitez les tailles\" — vigueur réduite, sensible au stress.",
+        "erreurs_fatales": "",
+        "dormance_djc": 5087,
+        "dormance": [
+          10,
+          0.24290220820189273
+        ]
+      },
+      {
+        "_id": "mqkrv3gu81gy",
+        "espece": "Acer Palmatum Trompenburg",
+        "url": "https://fr.wikipedia.org/wiki/Acer_palmatum",
+        "notes": "Caduc. Sapindaceae. Sélectionné en 1965 par Van Hoey Smith à l'arboretum Trompenburg (Rotterdam). Feuilles palmées de 4-7 cm, 7-9 lobes étroits profondément découpés et légèrement enroulés sur toute leur longueur (aspect en griffe ou gaufré, très reconnaissable). Rouge pourpré sombre au débourrement, pourpre foncé en été, rouge écarlate vif à l'automne. Croissance modérée à rapide, port érigé buissonnant. Limiter les tailles. Sensible aux vents forts et au soleil brûlant qui abîment le feuillage délicat. Préfère sol riche, frais, drainé, peu calcaire et légèrement acide.",
+        "photo": "",
+        "debourrement": [
+          1,
+          1
+        ],
+        "debourrement_djc": 512,
+        "debourrement_travaux": "Observation — Ko 5 (24-28 fév) ~512°J : débourrement rouge pourpré sombre, lobes étroits déjà légèrement enroulés visibles.\nUekae (rempotage) — Ko 5-8, avant débourrement, tous les 2-3 ans. Substrat : 70% akadama, 30% pouzzolane ; pH 5,5-6,5, sol peu calcaire, riche en humus, frais et drainé.\nFertilisation : suspendre jusqu'au débourrement complet.\nSource : Pépinières Minier — https://www.pepinieres-minier.fr/produit/acer-palmatum-trompenburg",
+        "feuillaison": [
+          2,
+          0.4604904632152589
+        ],
+        "feuillaison_djc": 726,
+        "feuillaison_travaux": "Observation — Ko 9 (16-20 mars) ~726°J : feuillage entièrement déployé, 7-9 lobes profondément découpés et enroulés, aspect texturé caractéristique. Protéger des vents forts qui abîment le feuillage délicat.\nFertilisation : NPK 7-5-7 dilué, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Jardin du Pic Vert — https://www.jardindupicvert.com/arbustes/erable-du-japon-acer-palmatum-trompenburg.html",
+        "floraison": [
+          4,
+          0.7339449541284404
+        ],
+        "floraison_djc": 1689,
+        "floraison_travaux": "Observation — Ko 21 (16-20 mai) ~1608°J à Ko 26 (11-15 juin) ~2099°J : floraison discrète, fleurs rouges groupées en petits bouquets, donnant parfois des samares aux ailes recourbées de 3 cm.\nFertilisation : NPK 5-10-10 dilué, EC 0,8-1,2 mS/cm, pH 5,5-6,5.\nSource : Jardin du Pic Vert — https://www.jardindupicvert.com/arbustes/erable-du-japon-acer-palmatum-trompenburg.html",
+        "croissance": [
+          3,
+          0.7713498622589532
+        ],
+        "croissance_djc": 1272,
+        "croissance_travaux": "Observation — Ko 17 (25-29 avr) ~1272°J : croissance modérée à rapide, feuillage assombrissant en pourpre foncé surtout en situation ensoleillée.\nSentai (taille de structure) — limiter les tailles, cultivar sensible au stress comme les autres variétés à feuillage délicat ou panaché.\nHarigane-kake (ligature) — ligature légère sur rameaux souples ; surveiller les marques toutes les 3-4 semaines.\nFertilisation : NPK 10-6-6 dilué de moitié, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : À l'ombre des figuiers — https://www.achat-vente-palmiers.com/fr/erables/130-acer-palmatum-trompenburg-.html",
+        "maturation": [
+          7,
+          0.521870286576169
+        ],
+        "maturation_djc": 3576,
+        "maturation_travaux": "Observation — Ko 39 (18-22 août) ~3576°J : aoûtement du bois, feuillage pourpre foncé stable.\nFertilisation : suspendre après Ko 33 (juil).\nSource : Meilland Richardier — https://www.meillandrichardier.com/erable-du-japon-trompenburg.html",
+        "senescence": [
+          8,
+          1
+        ],
+        "senescence_djc": 4401,
+        "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : feuillage redevenant rouge vif, coloration automnale écarlate caractéristique.\nFertilisation : suspendre.\nSource : Nova Plants — https://www.novaplants.fr/acer-palmatum-trompenburg-c2-4",
+        "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Rustique jusqu'à -25°C ; protéger des vents forts à Cazaux.\nFertilisation : suspendre.\nSource : Meilland Richardier — https://www.meillandrichardier.com/erable-du-japon-trompenburg.html",
+        "notes_perso": "Cultivar distinctif : lobes enroulés en tube (effet \"griffe\"), un des plus reconnaissables visuellement.Web recherchéWeb recherchéDonnée clé : \"Limitez les tailles\" (sensible au stress comme Taylor/Beni Shichihenge), protéger des vents forts, sélectionné en 1965 à l'arboretum Trompenburg de Rotterdam.",
         "erreurs_fatales": "",
         "dormance_djc": 5087,
         "dormance": [
@@ -1645,7 +1696,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 46
+    "_modCount": 47
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
