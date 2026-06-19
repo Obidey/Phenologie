@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1781887643298,
-  "_date": "2026-06-19T16:47:23.298Z",
-  "_modCount": 1387,
+  "_ts": 1781887724013,
+  "_date": "2026-06-19T16:48:44.013Z",
+  "_modCount": 1388,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -250,6 +250,57 @@
         "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : feuillage virant au jaune lumineux, écorce jaune orangé déjà visible sur le bois nu progressivement dégagé.\nFertilisation : suspendre.\nSource : Le Châtel des Vivaces — https://www.le-chatel-des-vivaces.com/erable-du-japon/2272-acer-palmatum-bi-hoo.html",
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, écorce jaune orangé à abricot pleinement visible et décorative tout l'hiver sur les rameaux de 1 à 4-5 ans. Protection en serre froide recommandée à Cazaux même en pot — cultivar sujet au dépérissement inexpliqué en conditions hivernales humides.\nFertilisation : suspendre.\nSource : The Maple Nursery — https://themaplenursery.com/fr/products/acer-palmatum-bi-hoo",
         "notes_perso": "",
+        "erreurs_fatales": "",
+        "dormance_djc": 5087,
+        "dormance": [
+          10,
+          0.24290220820189273
+        ]
+      },
+      {
+        "_id": "mql5xwy7seko",
+        "espece": "Acer palmatum Butterfly",
+        "url": "https://fr.wikipedia.org/wiki/Acer_palmatum",
+        "notes": "Caduc. Sapindaceae. Cultivar panaché du sous-groupe Marginatum (marges nettement différenciées). Feuilles fines à 5-7 lobes légèrement dentelés, vert-bleuté à vert-gris marginé de blanc crème teinté de rose au débourrement. En automne, panachure virant au rose violacé, jaune orangé ou doré marginé de rouge selon les sujets. Petites fleurs rougeâtres-pourpres en avril-mai, samares décoratives à l'automne. Port compact, dense, buissonnant, croissance lente — bon candidat bonsaï. Feuillage fragile, brûle facilement au vent et au soleil direct (confirmé par praticiens) : emplacement abrité, mi-ombre lumineuse impérative.",
+        "photo": "",
+        "debourrement": [
+          1,
+          1
+        ],
+        "debourrement_djc": 512,
+        "debourrement_travaux": "Observation — Ko 5 (24-28 fév) ~512°J : débourrement, jeunes pousses teintées de rose, panachure crème déjà visible sur fond vert-bleuté.\nUekae (rempotage) — Ko 5-8, avant débourrement, tous les 2-3 ans (croissance lente). Substrat : 80% akadama, 20% pouzzolane ; pH 5,5-6,5, sol frais, humifère, légèrement acide.\nFertilisation : suspendre jusqu'au débourrement complet.\nSource : La Maison du Bananier — https://www.lamaisondubananier.com/les-erables-acer-palmatum/1222-acer-palmatum-butterfly-erable-du-japon.html",
+        "feuillaison": [
+          2,
+          0.4604904632152589
+        ],
+        "feuillaison_djc": 726,
+        "feuillaison_travaux": "Observation — Ko 9 (16-20 mars) ~726°J : feuillage entièrement déployé, fin, panaché vert-gris marginé de blanc-crème rosé. Installer impérativement à l'abri du vent et du soleil direct — feuillage fragile, brûle facilement (confirmé par les praticiens en culture bonsaï).\nFertilisation : NPK 7-5-7 dilué, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Forum Parlons Bonsai — https://www.parlonsbonsai.com/forums/index.php/topic/56919-acer-palmatum-butterfly/",
+        "floraison": [
+          2,
+          1
+        ],
+        "floraison_djc": 924,
+        "floraison_travaux": "Observation — Ko 12 (31 mars-4 avr) ~924°J : floraison discrète, petites fleurs rouges à pourpres en avril-mai.\nFertilisation : NPK 10-6-6 dilué, EC 0,8-1,2 mS/cm, pH 5,5-6,5.\nSource : Plantes & Nature — https://www.plantes-et-nature.fr/32896-acer-palmatum-butterfly-erable-du-japon-palme-panache.html",
+        "croissance": [
+          3,
+          0.7713498622589532
+        ],
+        "croissance_djc": 1272,
+        "croissance_travaux": "Observation — Ko 17 (25-29 avr) ~1272°J : croissance lente, feuillage vert-gris marginé de blanc-vert à rosé en été.\nSentai (taille de structure) — peu ou pas de taille, sauf branches mortes ou mal orientées ; cultivar sensible, limiter les interventions sévères.\nHarigane-kake (ligature) — ligature très légère sur rameaux souples, écorce fine ; surveiller les marques toutes les 3-4 semaines.\nFertilisation : NPK 10-6-6 dilué de moitié, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : La Maison du Bananier — https://www.lamaisondubananier.com/les-erables-acer-palmatum/1222-acer-palmatum-butterfly-erable-du-japon.html",
+        "maturation": [
+          7,
+          0.521870286576169
+        ],
+        "maturation_djc": 3576,
+        "maturation_travaux": "Observation — Ko 39 (18-22 août) ~3576°J : aoûtement du bois, samares ailées en formation, feuillage panaché stable.\nFertilisation : suspendre après Ko 33 (juil).\nSource : Plantes & Nature — https://www.plantes-et-nature.fr/32896-acer-palmatum-butterfly-erable-du-japon-palme-panache.html",
+        "senescence": [
+          8,
+          1
+        ],
+        "senescence_djc": 4401,
+        "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : panachure virant au rose violacé et jaune orangé, ou jaune marginé de rouge selon les sujets.\nFertilisation : suspendre.\nSource : Bonsai Galinou — https://www.bonsaigalinou.com/fr/blog/tout-savoir-sur-les-erables-du-japon-en-bonsai-n18",
+        "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Protéger des vents froids et desséchants à Cazaux.\nFertilisation : suspendre.\nSource : La Maison du Bananier — https://www.lamaisondubananier.com/les-erables-acer-palmatum/1222-acer-palmatum-butterfly-erable-du-japon.html",
+        "notes_perso": "Cultivar panaché évoqué plus haut comme \"proche\" de Beni Shichihenge — même famille de sensibilités (panachure réversible, limiter les tailles).Web recherchéWeb recherchéDonnée critique du forum bonsaï : \"feuilles fines et panachées, ça crame facilement\" face au vent et au soleil — confirmation pratique de la fragilité signalée pour la fiche.",
         "erreurs_fatales": "",
         "dormance_djc": 5087,
         "dormance": [
