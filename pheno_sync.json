@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1781857033295,
-  "_date": "2026-06-19T08:17:13.295Z",
-  "_modCount": 1355,
+  "_ts": 1781857140275,
+  "_date": "2026-06-19T08:19:00.275Z",
+  "_modCount": 1356,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -310,7 +310,7 @@
       },
       {
         "_id": "mqknmwksrwmp",
-        "espece": "Acer Palmatum Katsura",
+        "espece": "Acer Palmatum Orange Dream",
         "url": "https://fr.wikipedia.org/wiki/Acer_palmatum",
         "notes": "Caduc. Sapindaceae. Cultivar lumineux d'Acer palmatum, l'un des coloris les plus vifs parmi les érables palmés. Feuillage jaune doré orangé vif au débourrement, virant au vert tendre en été, puis jaune orangé à orange vif à l'automne. Lobes pointus, feuilles de 5-8 cm. Croissance lente, port buissonnant très ramifié dès la base. Craint les brûlures solaires (ombre légère à mi-ombre recommandée) et les vents froids ou salés sur les jeunes feuilles printanières. Sensible à l'excès d'humidité (pourridié) — drainage impératif.",
         "photo": "",
@@ -1441,7 +1441,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 38
+    "_modCount": 39
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
