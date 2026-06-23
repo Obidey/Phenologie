@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1782226058152,
-  "_date": "2026-06-23T14:47:38.152Z",
-  "_modCount": 1420,
+  "_ts": 1782226195838,
+  "_date": "2026-06-23T14:49:55.838Z",
+  "_modCount": 1421,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -1563,10 +1563,10 @@
         "floraison_djc": 924,
         "floraison_travaux": "Observation — Ko 11 (26-30 mars) ~900°J : apparition des cônes mâles jaune soufre à la base des nouvelles pousses et des minuscules cônes femelles rouges en position apicale. Retirer manuellement les cônes mâles en excès pour économiser l'énergie de l'arbre. Si la fructification n'est pas recherchée, éliminer également les cônes femelles dès ce stade.",
         "croissance": [
-          3,
-          0.21487603305785125
+          5,
+          0.5503597122302158
         ],
-        "croissance_djc": 1070,
+        "croissance_djc": 2198,
         "croissance_travaux": "Observation — Ko 14 (10-14 avr) ~1100°J : élongation maximale des chandelles du premier flush. C'est le moment clé du pinçage printanier : pincer les chandelles vigoureuses (apex, branches hautes) à 1/3 de leur longueur, laisser les chandelles faibles (branches basses, intérieur) s'allonger davantage. Supprimer les chandelles surnuméraires (>2 par nœud). Fertilisation équilibrée NPK.",
         "maturation": [
           5,
@@ -1596,7 +1596,13 @@
           0.6719242902208202
         ],
         "notes_perso": "",
-        "erreurs_fatales": ""
+        "erreurs_fatales": "",
+        "flush2_djc": null,
+        "flush2": null,
+        "flush2_travaux": "",
+        "flush3_djc": null,
+        "flush3": null,
+        "flush3_travaux": ""
       },
       {
         "_id": "mp3qvd738g0h",
@@ -1936,7 +1942,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 52
+    "_modCount": 53
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
