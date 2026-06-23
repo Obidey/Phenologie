@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1782225829704,
-  "_date": "2026-06-23T14:43:49.704Z",
-  "_modCount": 1417,
+  "_ts": 1782226007768,
+  "_date": "2026-06-23T14:46:47.768Z",
+  "_modCount": 1418,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -1005,6 +1005,45 @@
         ]
       },
       {
+        "_id": "mqqrcicagpcp",
+        "espece": "Figuier Madeleine des 2 saisons",
+        "url": "",
+        "notes": "",
+        "photo": "",
+        "debourrement": null,
+        "debourrement_djc": null,
+        "debourrement_travaux": "",
+        "feuillaison": null,
+        "feuillaison_djc": null,
+        "feuillaison_travaux": "",
+        "floraison": null,
+        "floraison_djc": null,
+        "floraison_travaux": "",
+        "croissance": null,
+        "croissance_djc": null,
+        "croissance_travaux": "",
+        "flush2": null,
+        "flush2_djc": null,
+        "flush2_travaux": "",
+        "flush3": null,
+        "flush3_djc": null,
+        "flush3_travaux": "",
+        "maturation": null,
+        "maturation_djc": null,
+        "maturation_travaux": "",
+        "senescence": null,
+        "senescence_djc": null,
+        "senescence_travaux": "",
+        "dormance_travaux": "",
+        "notes_perso": "",
+        "erreurs_fatales": "",
+        "dormance_djc": 5223,
+        "dormance": [
+          10,
+          0.6719242902208202
+        ]
+      },
+      {
         "_id": "mpzrjgs1y1rj",
         "espece": "Jasmin étoilé - Trachelospermum jasminoides",
         "url": "https://fr.wikipedia.org/wiki/Trachelospermum_jasminoides",
@@ -1044,7 +1083,16 @@
         "dormance": [
           10,
           0.24290220820189273
-        ]
+        ],
+        "flush2_djc": 2310,
+        "flush2": [
+          5,
+          0.7517985611510791
+        ],
+        "flush2_travaux": "Engrais, laisser pousser, tuttorer",
+        "flush3_djc": null,
+        "flush3": null,
+        "flush3_travaux": ""
       },
       {
         "_id": "mpzrgdqqn0s8",
@@ -1620,7 +1668,13 @@
         "dormance": [
           10,
           0.24290220820189273
-        ]
+        ],
+        "flush2_djc": null,
+        "flush2": null,
+        "flush2_travaux": "",
+        "flush3_djc": null,
+        "flush3": null,
+        "flush3_travaux": ""
       },
       {
         "_id": "mqj3wx5q8nl4",
@@ -1671,7 +1725,19 @@
         "dormance": [
           10,
           0.24290220820189273
-        ]
+        ],
+        "flush2_djc": 2198,
+        "flush2": [
+          5,
+          0.5503597122302158
+        ],
+        "flush2_travaux": "Tailler a des que les pousses attengnent 4 feuilles la taille d'un crayon. Ne plus atiiler apres le 14 juillet",
+        "flush3_djc": 2772,
+        "flush3": [
+          6,
+          0.37961335676625657
+        ],
+        "flush3_travaux": "Coupez très court, soit à quelques mm, toutes les ramifications latérales de plus de 25cm de longueur en voie de lignification et qui atteignent ou dépassent la grosseurd’un crayon (6 à 8 mm).Trois principales périodes:- à partir du 15 juin,- vers le 15 juillet,-vers la mi-août,Se termine en septembre"
       },
       {
         "_id": "mpf2nytpdw63",
@@ -1831,7 +1897,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 47
+    "_modCount": 51
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
