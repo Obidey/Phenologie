@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1782317989816,
-  "_date": "2026-06-24T16:19:49.816Z",
-  "_modCount": 1449,
+  "_ts": 1782318041627,
+  "_date": "2026-06-24T16:20:41.627Z",
+  "_modCount": 1450,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -925,7 +925,7 @@
       },
       {
         "_id": "mpwv4uwadnj9",
-        "espece": "Citron du Vietnam \"Chanh\"",
+        "espece": "Citronnier du Vietnam \"Chanh\"",
         "url": "https://fr.wikipedia.org/wiki/Citrus_aurantiifolia",
         "notes": "Persistant. Rutaceae. Citrus très thermophile, seuil critique ~5°C — rentrée obligatoire à Cazaux dès Ko 55 (nov). Floraisons remontantes possibles toute l'année si chaleur maintenue. Fruits mûrissent en 6-9 mois. Épines axillaires fréquentes. Petites feuilles ailées, très aromatiques. Espèce greffée en culture commerciale — Tsugiki facilite la mise en forme. Sensible araignées rouges, cochenilles, mineuse des feuilles.",
         "photo": "",
@@ -963,7 +963,13 @@
         "dormance": [
           10,
           0.24290220820189273
-        ]
+        ],
+        "flush2_djc": null,
+        "flush2": null,
+        "flush2_travaux": "",
+        "flush3_djc": null,
+        "flush3": null,
+        "flush3_travaux": ""
       },
       {
         "_id": "mpifasqfteyj",
@@ -1960,7 +1966,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 63
+    "_modCount": 64
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
