@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1782273763798,
-  "_date": "2026-06-24T04:02:43.798Z",
-  "_modCount": 1435,
+  "_ts": 1782273778744,
+  "_date": "2026-06-24T04:02:58.744Z",
+  "_modCount": 1436,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -1440,48 +1440,6 @@
         ]
       },
       {
-        "_id": "mqmi2vt61d0i",
-        "espece": "Lierre",
-        "url": "https://fr.wikipedia.org/wiki/Lierre_grimpant",
-        "notes": "Persistant. Araliaceae. Liane à dimorphisme foliaire marqué : feuilles lobées (3-5 lobes) au stade juvénile grimpant/rampant, feuilles ovales entières et floraison uniquement au stade adulte arbustif (rarement atteint en bonsaï). Croissance continue sans flush net, contrairement aux feuillus à débourrement printanier classique. Formation très complexe malgré une culture facile — espèce rare en bonsaï. Rustique jusqu'à -15°C, aucune protection nécessaire à Cazaux. Tolère tous sols, préférence pour substrat frais et calcaire.",
-        "photo": "",
-        "debourrement": null,
-        "debourrement_djc": null,
-        "debourrement_travaux": "",
-        "feuillaison": null,
-        "feuillaison_djc": null,
-        "feuillaison_travaux": "",
-        "floraison": null,
-        "floraison_djc": null,
-        "floraison_travaux": "",
-        "croissance": [
-          2,
-          0.4604904632152589
-        ],
-        "croissance_djc": 726,
-        "croissance_travaux": "Observation — Ko 9 (16-20 mars) ~726°J : reprise de la croissance après l'hiver, pousses sarmenteuses en élongation continue, sans vague nette distincte.\nSentai (taille de structure) — Ko 1-5 (janv-fév), avant la reprise : taille de structure principale ; retailler l'extrémité des rameaux à la suite de cette taille pour stimuler la ramification.\nHarigane-kake (ligature) — ligature sur tiges souples en croissance ; surveiller les marques toutes les 3-4 semaines.\nUekae (rempotage) — Ko 5-9, tous les 2 ans. Substrat : 60% terreau, 30% pouzzolane, 10% sable ; pH 6,0-7,5 (préférence calcaire), drainage correct.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 6,0-7,0.\nSource : Bonsai Création — https://www.bonsai-creation.com/fiche-bonsai-lierre-177.php",
-        "flush2": null,
-        "flush2_djc": null,
-        "flush2_travaux": "",
-        "flush3": null,
-        "flush3_djc": null,
-        "flush3_travaux": "",
-        "maturation": null,
-        "maturation_djc": null,
-        "maturation_travaux": "",
-        "senescence": null,
-        "senescence_djc": null,
-        "senescence_travaux": "",
-        "dormance_travaux": "Observation — Ko 58 (22-26 nov) ~5273°J : ralentissement net de la croissance, feuillage persistant maintenu tout l'hiver. Rustique à Cazaux jusqu'à -15°C, aucune protection nécessaire.\nSentai (taille de structure) — espacer les tailles pour ne pas épuiser la plante ; la grande taille de structure se fait en janvier-février, en fin de cette phase.\nFertilisation : suspendre.\nSource : Bonsai Création — https://www.bonsai-creation.com/fiche-bonsai-lierre-177.php",
-        "notes_perso": "croissance continue toute l'année sans flush net (Bonsai Création précise une taille de structure en janvier-février et une période de taille s'étendant tout au long de la croissance, sans rupture en vagues distinctes). Floraison existante chez le lierre mature en forme arbustive (rare en bonsaï, généralement maintenu en stade juvénile grimpant).",
-        "erreurs_fatales": "",
-        "dormance_djc": 5273,
-        "dormance": [
-          10,
-          0.8296529968454258
-        ]
-      },
-      {
         "_id": "mpig0jqgw1v4",
         "espece": "Mume (Abricotier du japon",
         "url": "https://fr.wikipedia.org/wiki/Prunus_mume",
@@ -1984,7 +1942,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 61
+    "_modCount": 62
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
