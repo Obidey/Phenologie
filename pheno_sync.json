@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1782282318254,
-  "_date": "2026-06-24T06:25:18.254Z",
-  "_modCount": 1439,
+  "_ts": 1782282487783,
+  "_date": "2026-06-24T06:28:07.783Z",
+  "_modCount": 1440,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -844,9 +844,9 @@
         "floraison_travaux": "Observation — Ko 23 (26-31 mai) ~1776°J : bractées rose-magenta sur le bois de l'année précédente. Floraison déclenchée par stress hydrique léger.\nMebana (sélection bourgeons) — conserver les rameaux florifères, éliminer les gourmands basaux.\nFertilisation : NPK 4-10-10, EC 0,8-1,0 mS/cm, pH 5,5-6,5. Favoriser la floraison avec un engrais pauvre en azote.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
         "croissance": [
           5,
-          0.5503597122302158
+          0.7517985611510791
         ],
-        "croissance_djc": 2198,
+        "croissance_djc": 2310,
         "croissance_travaux": "Observation — Ko 27 (16-20 juin) ~2198°J : croissance active, pousses longues et vigoureuses après floraison.\nSentai (taille de structure) — taille de rectification après floraison, conserver 2-3 paires de feuilles sur chaque pousse.\nMetsumi (pincement) — pincement régulier pour densifier la ramification et induire une seconde floraison.\nHarigane-kake (ligature) — ligature des rameaux en croissance, attention aux épines.\nToriki (marcottage aérien) — Ko 27-35 période optimale, sève active.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
         "maturation": [
           7,
@@ -867,7 +867,13 @@
         "dormance": [
           10,
           0.6719242902208202
-        ]
+        ],
+        "flush2_djc": null,
+        "flush2": null,
+        "flush2_travaux": "",
+        "flush3_djc": null,
+        "flush3": null,
+        "flush3_travaux": ""
       },
       {
         "_id": "mpjn8qe4fbc6",
