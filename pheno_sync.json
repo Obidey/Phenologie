@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1782273575383,
-  "_date": "2026-06-24T03:59:35.383Z",
-  "_modCount": 1429,
+  "_ts": 1782273647384,
+  "_date": "2026-06-24T04:00:47.384Z",
+  "_modCount": 1430,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -1068,6 +1068,63 @@
         ]
       },
       {
+        "_id": "mqrjplco1g1t",
+        "espece": "Figuier précoce de Dalmatie - Ficus carica",
+        "url": "https://fr.wikipedia.org/wiki/Figuier_commun",
+        "notes": "Caduc. Moraceae. Cultivar bifère de Ficus carica, originaire de Turquie et d'Asie Mineure. Deux fructifications : figues-fleurs vert-jaune (juillet) sur bois de l'année précédente, figues d'automne vert-bronze à chair rouge vif sucrée (septembre-octobre) sur bois de l'année. Petit développement (2,5 m x 2 m), faible vigueur, idéal culture en pot et bonsaï. Rustique jusqu'à -18°C, adapté à l'humidité et au climat atlantique de Cazaux. Sève lactescente irritante — gants indispensables à la taille. Taille hivernale sévère à proscrire : supprime les figues-fleurs sur vieux bois.",
+        "photo": "",
+        "debourrement": [
+          2,
+          0.1362397820163488
+        ],
+        "debourrement_djc": 607,
+        "debourrement_travaux": "Observation — Ko 6 (1-5 mars) ~557°J : gonflement des bourgeons, premiers folioles visibles sur le vieux bois portant les futures figues-fleurs déjà formées en embryons.\nSentai (taille de structure) — taille légère uniquement : supprimer bois mort, branches croisées, rejets basaux ; NE PAS tailler sévèrement (supprime les figues-fleurs sur vieux bois). Porter des gants.\nUekae (rempotage) — Ko 5-8, tous les 2-3 ans. Substrat : 40% compost d'écorce, 30% terreau, 30% pouzzolane ; pH 6,5-8,5, drainage impératif.\nFertilisation : suspendre jusqu'au débourrement complet.\nSource : Jardins du Monde — https://www.jardins-du-monde.be/fr/fruitiers/584-figuier-precoce-de-dalmatie.html",
+        "feuillaison": [
+          2,
+          1
+        ],
+        "feuillaison_djc": 924,
+        "feuillaison_travaux": "Observation — Ko 12 (31 mars-4 avr) ~924°J : grandes feuilles à 5-7 lobes profondément découpés, vert vif, entièrement déployées. Figues-fleurs déjà visibles à l'aisselle des feuilles sur le vieux bois.\nFertilisation : NPK 7-5-7, EC 0,8-1,0 mS/cm, pH 6,5-8,0.\nSource : Arbres Fruitiers — https://arbresfruitiers-fr.fr/product/figuier-precoce-de-dalmatie-ficus-carica/",
+        "floraison": null,
+        "floraison_djc": null,
+        "floraison_travaux": "",
+        "croissance": [
+          3,
+          0.21487603305785125
+        ],
+        "croissance_djc": 1070,
+        "croissance_travaux": "Observation — Ko 14 (10-14 avr) ~1070°J : croissance végétative active, pousses de l'année en élongation portant les futurs bourgeons de figues d'automne, figues-fleurs grossissant sur vieux bois.\nMetsumi (pincement) — pincer les nouvelles pousses à 5-6 feuilles pour compacter la silhouette et concentrer la sève vers les figues-fleurs.\nHarigane-kake (ligature) — ligature légère sur rameaux souples, bois tendre et spongieux ; surveiller les marques toutes les 3 semaines.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 6,5-8,0.\nSource : Arbres Fruitiers — https://arbresfruitiers-fr.fr/product/figuier-precoce-de-dalmatie-ficus-carica/",
+        "flush2": [
+          5,
+          0.7517985611510791
+        ],
+        "flush2_djc": 2310,
+        "flush2_travaux": "Observation — Ko 28 (21-26 juin) ~2310°J : 2e flush végétatif sur pousses de l'année, figues-fleurs (vert-jaune, jusqu'à 120g) en cours de maturation sur vieux bois, figues d'automne en boutons à l'aisselle des nouvelles feuilles.\nMetsumi (pincement) — pincer les pousses de ce 2e flush à 4-5 feuilles pour concentrer l'énergie vers la 2e fructification.\nFertilisation : NPK 5-10-10, EC 1,0-1,5 mS/cm, pH 6,5-8,0 — pivot vers P/K pour soutenir la double fructification.\nSource : À l'ombre des figuiers — https://www.achat-vente-palmiers.com/fr/figuiers/1261-ficus-precoce-de-dalmatie.html",
+        "flush3": null,
+        "flush3_djc": null,
+        "flush3_travaux": "",
+        "maturation": [
+          7,
+          0.6953242835595776
+        ],
+        "maturation_djc": 3691,
+        "maturation_travaux": "Observation — Ko 40 (23-27 août) ~3691°J : 2e récolte (figues d'automne, vert-bronze, chair rouge vif sucrée, notes de miel et fraise) en grossissement et maturation jusqu'en octobre.\nÉclaircie des figues — limiter à 1-2 figues par pousse si charge excessive pour ne pas épuiser l'arbre avant l'hiver.\nFertilisation : NPK 4-10-14, EC 0,8-1,0 mS/cm, pH 6,5-8,0.\nSource : La Compagnie des Arbres — https://www.la-compagnie-des-arbres.fr/figuier/108-15826-figuier-de-dalmatie-ficus-carica.html",
+        "senescence": [
+          9,
+          0.2119815668202765
+        ],
+        "senescence_djc": 4588,
+        "senescence_travaux": "Observation — Ko 49 (8-12 oct) ~4588°J : fin de la 2e récolte, feuilles vert vif virant au jaune puis chutant progressivement.\nNE PAS tailler maintenant — attendre la dormance complète pour ne pas provoquer de repousse tardive.\nFertilisation : suspendre.\nSource : Arbres Fruitiers — https://arbresfruitiers-fr.fr/product/figuier-precoce-de-dalmatie-ficus-carica/",
+        "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, dormance complète. Rustique jusqu'à -18°C à Cazaux, aucune protection nécessaire en exposition abritée au soleil.\nSentai (taille de structure) — fin d'hiver (Ko 1-5) : taille légère uniquement ; conserver impérativement le bois de l'année précédente portant les futures figues-fleurs. Porter des gants.\nFertilisation : suspendre.\nSource : Pépinière des Fruitiers — https://www.pepinieredesfruitiers.com/product-page/figuier-dalmatie",
+        "notes_perso": "",
+        "erreurs_fatales": "",
+        "dormance_djc": 5087,
+        "dormance": [
+          10,
+          0.24290220820189273
+        ]
+      },
+      {
         "_id": "mpzrjgs1y1rj",
         "espece": "Jasmin étoilé - Trachelospermum jasminoides",
         "url": "https://fr.wikipedia.org/wiki/Trachelospermum_jasminoides",
@@ -1927,7 +1984,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 56
+    "_modCount": 57
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
