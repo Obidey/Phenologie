@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1782273554021,
-  "_date": "2026-06-24T03:59:14.021Z",
-  "_modCount": 1428,
+  "_ts": 1782273575383,
+  "_date": "2026-06-24T03:59:35.383Z",
+  "_modCount": 1429,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -1068,45 +1068,6 @@
         ]
       },
       {
-        "_id": "mqqrdl9grctb",
-        "espece": "Figuier précoce de Dalmatie - Ficus carica",
-        "url": "",
-        "notes": "",
-        "photo": "",
-        "debourrement": null,
-        "debourrement_djc": null,
-        "debourrement_travaux": "",
-        "feuillaison": null,
-        "feuillaison_djc": null,
-        "feuillaison_travaux": "",
-        "floraison": null,
-        "floraison_djc": null,
-        "floraison_travaux": "",
-        "croissance": null,
-        "croissance_djc": null,
-        "croissance_travaux": "",
-        "flush2": null,
-        "flush2_djc": null,
-        "flush2_travaux": "",
-        "flush3": null,
-        "flush3_djc": null,
-        "flush3_travaux": "",
-        "maturation": null,
-        "maturation_djc": null,
-        "maturation_travaux": "",
-        "senescence": null,
-        "senescence_djc": null,
-        "senescence_travaux": "",
-        "dormance_travaux": "",
-        "notes_perso": "",
-        "erreurs_fatales": "",
-        "dormance_djc": 5223,
-        "dormance": [
-          10,
-          0.6719242902208202
-        ]
-      },
-      {
         "_id": "mpzrjgs1y1rj",
         "espece": "Jasmin étoilé - Trachelospermum jasminoides",
         "url": "https://fr.wikipedia.org/wiki/Trachelospermum_jasminoides",
@@ -1966,7 +1927,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 55
+    "_modCount": 56
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
