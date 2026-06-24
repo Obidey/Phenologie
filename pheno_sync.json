@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1782273456526,
-  "_date": "2026-06-24T03:57:36.526Z",
-  "_modCount": 1427,
+  "_ts": 1782273554021,
+  "_date": "2026-06-24T03:59:14.021Z",
+  "_modCount": 1428,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -1011,6 +1011,63 @@
         ]
       },
       {
+        "_id": "mqrjnlb4rlue",
+        "espece": "Figuier Madelaine des 2 saisons",
+        "url": "https://fr.wikipedia.org/wiki/Figuier_commun",
+        "notes": "Caduc. Moraceae. Cultivar bifère de Ficus carica, très vieille variété rustique jusqu'à -15°C. Deux fructifications distinctes : figues-fleurs sur bois de l'année précédente (juin-juillet), figues d'automne sur pousses de l'année (août-octobre). Croissance lente, idéal culture en pot et bonsaï. Sève lactescente irritante à la taille — gants indispensables. Taille hivernale sévère à éviter : elle supprime les figues-fleurs portées sur le vieux bois. Architecture basitone : rejets de base fréquents à supprimer. À Cazaux, exposition ensoleillée abritée des vents du nord.",
+        "photo": "",
+        "debourrement": [
+          2,
+          0.1362397820163488
+        ],
+        "debourrement_djc": 607,
+        "debourrement_travaux": "Observation — Ko 6 (1-5 mars) ~557°J : gonflement des bourgeons, premiers folioles vert clair visibles sur le bois de l'année précédente portant les figues-fleurs en formation.\nSentai (taille de structure) — taille légère uniquement : supprimer branches croisées, mal orientées, rejets basaux ; NE PAS tailler sévèrement (suppression des figues-fleurs sur vieux bois). Porter des gants (sève lactescente irritante).\nUekae (rempotage) — Ko 5-8, tous les 2-3 ans. Substrat : 50% terreau, 30% pouzzolane, 20% sable grossier ; pH 6,0-7,0, drainage excellent.\nFertilisation : suspendre jusqu'au débourrement complet.\nSource : Jardiner Malin — https://www.jardiner-malin.fr/fiche/figuier.html",
+        "feuillaison": [
+          2,
+          1
+        ],
+        "feuillaison_djc": 924,
+        "feuillaison_travaux": "Observation — Ko 12 (31 mars-4 avr) ~924°J : grandes feuilles palmées profondément lobées entièrement déployées, figues-fleurs déjà visibles à l'aisselle des feuilles sur le vieux bois.\nFertilisation : NPK 7-5-7, EC 0,8-1,0 mS/cm, pH 6,0-7,0.\nSource : Silence ça pousse — https://www.silencecapousse-chezvous.fr/figuier-madeleine-des-deux-saisons",
+        "floraison": null,
+        "floraison_djc": null,
+        "floraison_travaux": "",
+        "croissance": [
+          3,
+          0.21487603305785125
+        ],
+        "croissance_djc": 1070,
+        "croissance_travaux": "Observation — Ko 14 (10-14 avr) ~1070°J : croissance végétative active, figues-fleurs grossissant sur vieux bois, nouvelles pousses de l'année en élongation portant les futurs bourgeons de figues d'automne.\nMetsumi (pincement) — pincer les pousses nouvelles à 5-6 feuilles pour compacter la silhouette et concentrer la sève vers les figues-fleurs.\nHarigane-kake (ligature) — ligature légère sur rameaux souples en croissance, bois souple et extensible ; surveiller les marques toutes les 3 semaines.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 6,0-7,0.\nSource : Silence ça pousse — https://www.silencecapousse-chezvous.fr/figuier-madeleine-des-deux-saisons",
+        "flush2": [
+          5,
+          0.7517985611510791
+        ],
+        "flush2_djc": 2310,
+        "flush2_travaux": "Observation — Ko 28 (21-26 juin) ~2310°J : 2e flush végétatif sur pousses de l'année, figues-fleurs de la 1ère récolte (vert-jaune, 50-80g) en cours de maturation sur vieux bois, figues d'automne déjà visibles en boutons à l'aisselle des nouvelles feuilles.\nMetsumi (pincement) — pincer les pousses de ce 2e flush à 4-5 feuilles pour concentrer l'énergie vers la 2e fructification.\nFertilisation : NPK 5-10-10, EC 1,0-1,5 mS/cm, pH 6,0-7,0 — pivot vers P/K pour soutenir la fructification double.\nSource : Les Jardins d'Ollivier — https://www.au-jardin-bio.com/boutique/vegetaux/petits-fruitiers/figuier-madelaine-des-deux-saisons-bio/",
+        "flush3": null,
+        "flush3_djc": null,
+        "flush3_travaux": "",
+        "maturation": [
+          7,
+          0.6953242835595776
+        ],
+        "maturation_djc": 3691,
+        "maturation_travaux": "Observation — Ko 40 (23-27 août) ~3691°J : 2e récolte (figues d'automne, vert-bronze, 40-50g, chair rose) en cours de grossissement et maturation jusqu'à octobre.\nÉclaircie des figues — laisser 1-2 figues par pousse si charge excessive, pour ne pas épuiser l'arbre avant l'hiver.\nFertilisation : NPK 4-10-14, EC 0,8-1,0 mS/cm, pH 6,0-7,0.\nSource : Silence ça pousse — https://www.silencecapousse-chezvous.fr/figuier-madeleine-des-deux-saisons",
+        "senescence": [
+          9,
+          0.2119815668202765
+        ],
+        "senescence_djc": 4588,
+        "senescence_travaux": "Observation — Ko 49 (8-12 oct) ~4588°J : fin de la 2e récolte, grandes feuilles palmées jaunissant progressivement.\nSentai (taille de structure) — NE PAS tailler maintenant, attendre la dormance complète pour ne pas provoquer de repousse tardive.\nFertilisation : suspendre.\nSource : Jardiner Malin — https://www.jardiner-malin.fr/fiche/figuier.html",
+        "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, dormance complète. Rustique jusqu'à -15°C à Cazaux, aucune protection nécessaire en exposition abritée.\nSentai (taille de structure) — taille légère de fin d'hiver (Ko 1-5) : supprimer bois mort, rejets basaux et branches encombrantes uniquement — conserver impérativement le bois de l'année précédente qui portera les figues-fleurs de la prochaine saison. Porter des gants.\nFertilisation : suspendre.\nSource : Jardiner Malin — https://www.jardiner-malin.fr/fiche/figuier.html",
+        "notes_perso": "Bifère confirmé : figues-fleurs sur bois de l'année précédente (maturité juillet), puis figues d'automne sur pousses de l'année (maturité août-octobre). Attention taille hivernale : une taille trop sévère supprime la récolte de figues-fleurs portées sur le bois formé l'année précédente. Croissance plutôt lente, parfaitement adapté à la culture en pot.",
+        "erreurs_fatales": "",
+        "dormance_djc": 5087,
+        "dormance": [
+          10,
+          0.24290220820189273
+        ]
+      },
+      {
         "_id": "mqqrdl9grctb",
         "espece": "Figuier précoce de Dalmatie - Ficus carica",
         "url": "",
@@ -1909,7 +1966,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 54
+    "_modCount": 55
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
