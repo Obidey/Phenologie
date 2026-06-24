@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1782317905671,
-  "_date": "2026-06-24T16:18:25.671Z",
-  "_modCount": 1448,
+  "_ts": 1782317989816,
+  "_date": "2026-06-24T16:19:49.816Z",
+  "_modCount": 1449,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -1901,8 +1901,14 @@
           10,
           0.6719242902208202
         ],
-        "notes_perso": "3/4kanuma 1/4 pumice vs l’inverse ;)\n\nPlante basale not atopic \nRajouter vinaigre \nVariété ?\nMi ombre \nVoile ombrage \nSi abouti floraison taille apres 80% de la floraison rempotage tous les 3 ans enlever gourmand  autour du bourgeon floral \nTaille drastique = compacité \nSi besoin de force rempotage en mars et on enlève les fleurs \nAlgami (?) avant  en octobre => mars avril (potasse) et après la floraison azote jamais d’engrais pendant la floraison engrais organique \nPot profond vigilant sur le chevelu \nGranulométrie grosse = grosse pousse (80% Pumice 20% Kanuma ou l'inverse dixit Lebecot)\nCharbon  => 10%\nBouture et rempotage très vite en juin avec la lune\nMultisec et purin d’ail tous les 15 jours \nPoudre de cannelle si problème de racine \nPas de cuivre\nPousse en juin et fin août \nFumagine \nAliette en espagne \nTsutsuji\nComptoir des fleurs oligo \nMarcote en dent de scie",
-        "erreurs_fatales": "Plante basale : Le dépérissement de la cime (Die-back)\nC'est le risque majeur. La sève circule plus volontiers dans les branches basses de la Satsuki que dans sa tête.\nLe risque : Si vous taillez la tête trop sévèrement (surtout après la floraison ou en plein été), l'arbre peut tout simplement abandonner la zone. Le bourgeonnement en retrait sur le vieux bois est beaucoup plus capricieux en haut qu'en bas. Vous risquez de vous retrouver avec une cime morte qui sèche jusqu'au tronc principal.\nLa parade : Laissez toujours un tire-sève (un rameau avec des feuilles actives) à l'extrémité de la zone taillée pour maintenir le flux de sève"
+        "notes_perso": "Voici un résumé en 5 points de \"Que faire avec un azalée Satsuki après la floraison\" :\n\nDéfleurissement : Retirer délicatement les fleurs fanées à la main, sans utiliser de ciseaux pour gagner du temps.\nTaille légère : Couper les pousses trop longues et les branches mal orientées pour maintenir la forme en coussin (pad) de l'arbre.\nTaille structurelle : Tous les 3 ans environ, effectuer une taille plus sévère pour restructurer l'arbre et éliminer les grosses branches indésirables.\nFertilisation : Après la taille, nourrir abondamment l'arbre avec un engrais adapté pour stimuler la nouvelle croissance.\nRempotage : Contrairement à la pratique japonaise, il est préférable de rempoter les azalées Satsuki en février dans les climats occidentaux, plutôt qu'après la \n\nfloraison en juillet. 3/4kanuma 1/4 pumice vs l’inverse ;)\n\nPlante basale not atopic \nRajouter vinaigre \nVariété ?\nMi ombre \nVoile ombrage \nSi abouti floraison taille apres 80% de la floraison rempotage tous les 3 ans enlever gourmand  autour du bourgeon floral \nTaille drastique = compacité \nSi besoin de force rempotage en mars et on enlève les fleurs \nAlgami (?) avant  en octobre => mars avril (potasse) et après la floraison azote jamais d’engrais pendant la floraison engrais organique \nPot profond vigilant sur le chevelu \nGranulométrie grosse = grosse pousse (80% Pumice 20% Kanuma ou l'inverse dixit Lebecot)\nCharbon  => 10%\nBouture et rempotage très vite en juin avec la lune\nMultisec et purin d’ail tous les 15 jours \nPoudre de cannelle si problème de racine \nPas de cuivre\nPousse en juin et fin août \nFumagine \nAliette en espagne \nTsutsuji\nComptoir des fleurs oligo \nMarcote en dent de scie",
+        "erreurs_fatales": "Plante basale : Le dépérissement de la cime (Die-back)\nC'est le risque majeur. La sève circule plus volontiers dans les branches basses de la Satsuki que dans sa tête.\nLe risque : Si vous taillez la tête trop sévèrement (surtout après la floraison ou en plein été), l'arbre peut tout simplement abandonner la zone. Le bourgeonnement en retrait sur le vieux bois est beaucoup plus capricieux en haut qu'en bas. Vous risquez de vous retrouver avec une cime morte qui sèche jusqu'au tronc principal.\nLa parade : Laissez toujours un tire-sève (un rameau avec des feuilles actives) à l'extrémité de la zone taillée pour maintenir le flux de sève",
+        "flush2_djc": null,
+        "flush2": null,
+        "flush2_travaux": "",
+        "flush3_djc": null,
+        "flush3": null,
+        "flush3_travaux": ""
       },
       {
         "_id": "mqj3tbc2qoup",
