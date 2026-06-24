@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1782273647384,
-  "_date": "2026-06-24T04:00:47.384Z",
-  "_modCount": 1430,
+  "_ts": 1782273680679,
+  "_date": "2026-06-24T04:01:20.679Z",
+  "_modCount": 1431,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -1116,7 +1116,7 @@
         "senescence_djc": 4588,
         "senescence_travaux": "Observation — Ko 49 (8-12 oct) ~4588°J : fin de la 2e récolte, feuilles vert vif virant au jaune puis chutant progressivement.\nNE PAS tailler maintenant — attendre la dormance complète pour ne pas provoquer de repousse tardive.\nFertilisation : suspendre.\nSource : Arbres Fruitiers — https://arbresfruitiers-fr.fr/product/figuier-precoce-de-dalmatie-ficus-carica/",
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, dormance complète. Rustique jusqu'à -18°C à Cazaux, aucune protection nécessaire en exposition abritée au soleil.\nSentai (taille de structure) — fin d'hiver (Ko 1-5) : taille légère uniquement ; conserver impérativement le bois de l'année précédente portant les futures figues-fleurs. Porter des gants.\nFertilisation : suspendre.\nSource : Pépinière des Fruitiers — https://www.pepinieredesfruitiers.com/product-page/figuier-dalmatie",
-        "notes_perso": "",
+        "notes_perso": "Bifère confirmé sur toutes les sources : figues-fleurs vert-jaune en juillet sur rameaux de l'année précédente, puis figues d'automne vert-bronze en septembre-octobre sur bois de l'année. Gros fruits jusqu'à 120g, particulièrement adapté à la côte atlantique. Même schéma que la Madeleine des 2 saisons, avec la spécificité clé : petit développement et faible vigueur, idéal culture en pot et bonsaï. ncsu + 2",
         "erreurs_fatales": "",
         "dormance_djc": 5087,
         "dormance": [
@@ -1984,7 +1984,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 57
+    "_modCount": 58
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
