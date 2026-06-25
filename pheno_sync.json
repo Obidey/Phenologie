@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1782369830820,
-  "_date": "2026-06-25T06:43:50.820Z",
-  "_modCount": 1458,
+  "_ts": 1782369868934,
+  "_date": "2026-06-25T06:44:28.934Z",
+  "_modCount": 1459,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -1503,7 +1503,16 @@
         "dormance": [
           10,
           0.6719242902208202
-        ]
+        ],
+        "flush2_djc": 2198,
+        "flush2": [
+          5,
+          0.5503597122302158
+        ],
+        "flush2_travaux": "Tailler à 4 feuilles",
+        "flush3_djc": null,
+        "flush3": null,
+        "flush3_travaux": ""
       },
       {
         "_id": "mpc8u3wjwal8",
@@ -2029,7 +2038,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 65
+    "_modCount": 66
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
