@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1782370071723,
-  "_date": "2026-06-25T06:47:51.723Z",
-  "_modCount": 1461,
+  "_ts": 1782370291993,
+  "_date": "2026-06-25T06:51:31.993Z",
+  "_modCount": 1462,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -1455,6 +1455,63 @@
         ]
       },
       {
+        "_id": "mqt590s8hn5h",
+        "espece": "Lilas commun Aucubaefolia,",
+        "url": "https://fr.wikipedia.org/wiki/Syringa_vulgaris",
+        "notes": "Caduc. Oleaceae. Cultivar panaché de Syringa vulgaris, sélectionné en 1919 en France, obtention issue du lilas 'Président Grévy'. Feuillage cordiforme vert moucheté de taches jaunes évoquant les feuilles d'Aucuba — décoratif de mai à novembre. Fleurs mauves doubles parfumées en thyrses coniques (avril-mai), sur bois de l'année précédente. Toute taille après mi-juillet supprime les boutons floraux déjà formés. Fleurit mieux sur sol pauvre : un sol trop fertile favorise le feuillage au détriment de la floraison. Panachure réversible : supprimer immédiatement les pousses entièrement vertes. Rustique jusqu'à -20°C. Sol drainé neutre à calcaire.",
+        "photo": "",
+        "debourrement": [
+          1,
+          1
+        ],
+        "debourrement_djc": 512,
+        "debourrement_travaux": "Observation — Ko 5 (24-28 fév) ~512°J : gonflement des bourgeons, premières feuilles cordiformes panachées s'ouvrant.\nUekae (rempotage) — Ko 5-8, après floraison terminée, tous les 2-3 ans. Substrat : 50% akadama, 30% pouzzolane, 20% sable grossier ; pH 6,5-7,5 (neutre à calcaire), sol volontairement peu fertile pour favoriser la floraison, drainage correct.\nFertilisation : suspendre jusqu'au débourrement complet.\nSource : Promesse de Fleurs — https://www.promessedefleurs.com/arbustes/arbustes-par-variete/lilas/lilas-syringa-vulgaris-aucubaefolia.html",
+        "feuillaison": [
+          2,
+          0.4604904632152589
+        ],
+        "feuillaison_djc": 726,
+        "feuillaison_travaux": "Observation — Ko 9 (16-20 mars) ~726°J : feuillage entièrement déployé, mouchetures jaunes bien visibles sur fond vert moyen. Supprimer immédiatement les pousses entièrement vertes (réversion de panachure).\nFertilisation : NPK 5-5-5 dilué (sol volontairement pauvre), EC 0,6-0,8 mS/cm, pH 6,5-7,5.\nSource : Promesse de Fleurs — https://www.promessedefleurs.com/arbustes/arbustes-par-variete/lilas/lilas-syringa-vulgaris-aucubaefolia.html",
+        "floraison": [
+          4,
+          0.24770642201834864
+        ],
+        "floraison_djc": 1530,
+        "floraison_travaux": "Observation — Ko 20 (11-15 mai) ~1530°J : thyrses coniques de fleurs mauves doubles parfumées, issues des boutons formés l'année précédente sur le vieux bois.\nSupprimer les thyrses fanés immédiatement après floraison, sans couper le bois porteur des boutons de l'année suivante.\nFertilisation : suspendre pendant la floraison, reprendre NPK 4-8-8 après.\nSource : Promesse de Fleurs — https://www.promessedefleurs.com/arbustes/arbustes-par-variete/lilas/lilas-syringa-vulgaris-aucubaefolia.html",
+        "croissance": [
+          3,
+          0.21487603305785125
+        ],
+        "croissance_djc": 1070,
+        "croissance_travaux": "Observation — Ko 14 (10-14 avr) ~1070°J : croissance végétative active en parallèle des boutons floraux.\nSentai (taille de structure) — immédiatement après floraison (Ko 22-24) : tailler les pousses ayant fleuri en laissant 2-3 paires de bourgeons pour former les boutons de l'année suivante. Supprimer pousses vertes (réversion). NE PAS tailler après Ko 32 (mi-juillet).\nMetsumi (pincement) — pincer les nouvelles pousses à 3-4 paires de feuilles.\nFertilisation : NPK 7-5-5 très dilué, EC 0,6-0,8 mS/cm, pH 6,5-7,5 — ne pas surfertiliser.\nSource : Promesse de Fleurs — https://www.promessedefleurs.com/arbustes/arbustes-par-variete/lilas/lilas-syringa-vulgaris-aucubaefolia.html",
+        "flush2": [
+          6,
+          0.1827768014059754
+        ],
+        "flush2_djc": 2660,
+        "flush2_travaux": "Tailler les pousses ayant fleuri en laissant 2-3 paires de bourgeons pour former les boutons de l'année suivante. Supprimer pousses vertes (réversion). NE PAS tailler après Ko 32 (mi-juillet).",
+        "flush3": null,
+        "flush3_djc": null,
+        "flush3_travaux": "",
+        "maturation": null,
+        "maturation_djc": null,
+        "maturation_travaux": "",
+        "senescence": [
+          8,
+          1
+        ],
+        "senescence_djc": 4401,
+        "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : feuillage panaché encore décoratif, boutons floraux de l'année suivante déjà formés — aucune taille permise.\nFertilisation : suspendre.\nSource : Promesse de Fleurs — https://www.promessedefleurs.com/arbustes/arbustes-par-variete/lilas/lilas-syringa-vulgaris-aucubaefolia.html",
+        "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, boutons floraux dormants sur le vieux bois. Rustique à Cazaux jusqu'à -20°C, aucune protection nécessaire.\nFertilisation : suspendre.\nSource : Promesse de Fleurs — https://www.promessedefleurs.com/arbustes/arbustes-par-variete/lilas/lilas-syringa-vulgaris-aucubaefolia.html",
+        "notes_perso": "Feuilles caduques, cordiformes, vertes éclaboussées de taches et rayures jaunes ; floraison en mai-juin, fleurs simples ou semi-doubles parfumées bleu-lavande en thyrses coniques ; rustique jusqu'à -20°C. Obtention horticole issue du lilas 'Président Grévy', arbuste caduc de la famille des Oléacées, natif du Sud-est de l'Europe. Point critique bonsaï : le lilas fleurit sur le bois de l'année précédente — toute taille tardive ou sévère en automne supprime les boutons floraux déjà formés.",
+        "erreurs_fatales": "",
+        "dormance_djc": 5087,
+        "dormance": [
+          10,
+          0.24290220820189273
+        ]
+      },
+      {
         "_id": "mpig0jqgw1v4",
         "espece": "Mume (Abricotier du japon",
         "url": "https://fr.wikipedia.org/wiki/Prunus_mume",
@@ -2038,7 +2095,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 67
+    "_modCount": 68
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
