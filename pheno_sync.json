@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1782369868934,
-  "_date": "2026-06-25T06:44:28.934Z",
-  "_modCount": 1459,
+  "_ts": 1782369893144,
+  "_date": "2026-06-25T06:44:53.144Z",
+  "_modCount": 1460,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -1806,7 +1806,7 @@
           5,
           0.5503597122302158
         ],
-        "flush2_travaux": "Tailler a des que les pousses attengnent 4 feuilles la taille d'un crayon. Ne plus atiiler apres le 14 juillet",
+        "flush2_travaux": "Tailler a des que les pousses attengnent 4 feuilles la taille d'un crayon. Ne plus tailler apres le 14 juillet",
         "flush3_djc": 2772,
         "flush3": [
           6,
@@ -2038,7 +2038,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 66
+    "_modCount": 67
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
