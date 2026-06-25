@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1782370371312,
-  "_date": "2026-06-25T06:52:51.312Z",
-  "_modCount": 1463,
+  "_ts": 1782370476255,
+  "_date": "2026-06-25T06:54:36.255Z",
+  "_modCount": 1464,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -820,6 +820,63 @@
         "flush3_djc": null,
         "flush3": null,
         "flush3_travaux": ""
+      },
+      {
+        "_id": "mqt5cyz8244z",
+        "espece": "Albizia julibrissin Shidare - Arbre à soie",
+        "url": "https://fr.wikipedia.org/wiki/Albizia_julibrissin",
+        "notes": "Caduc. Fabaceae. Cultivar pleureur d'Albizia julibrissin (Arbre à soie, Mimosa de Constantinople). Rameaux retombant en cascade formant un dôme de feuillage fin bipenné vert tendre, se repliant la nuit (nyctinastie). Floraison estivale en houppettes d'étamines roses soyeuses (août). Port compact (3-5 m), idéal en bac. Rustique jusqu'à -18°C en situation abritée. Floraison uniquement à partir de 5 ans. Durée de vie limitée (~20-25 ans). ATTENTION : supporte très mal la taille — la taille d'hiver fait mourir les branches et compromet la floraison ; tailler uniquement en vert (après floraison). Pousse rapide les premières années, plus lente ensuite.",
+        "photo": "",
+        "debourrement": [
+          3,
+          1
+        ],
+        "debourrement_djc": 1355,
+        "debourrement_travaux": "Observation — Ko 19 (6-10 mai) ~1449°J : débourrement tardif caractéristique — une des dernières espèces à entrer en végétation. Folioles bipennatisèquées vert tendre apparaissant progressivement.\nUekae (rempotage) — Ko 12-16, fin d'hiver avant débourrement, tous les 2-3 ans. Substrat : 60% pouzzolane, 30% akadama, 10% sable grossier ; pH 4,0-8,0, drainage excellent impératif.\nFertilisation : suspendre jusqu'au débourrement complet.\nSource : Bonsaï Création — https://www.bonsai-creation.com/fiche-bonsai-albizia-172.php",
+        "feuillaison": [
+          4,
+          0.48623853211009177
+        ],
+        "feuillaison_djc": 1608,
+        "feuillaison_travaux": "Observation — Ko 21 (16-20 mai) ~1608°J : feuillage bipenné entièrement déployé, folioles de 6 mm très nombreuses formant un feuillage aérien semblable à la fougère, retombant souplement sur ce cultivar.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-7,0.\nSource : Promesse de Fleurs — https://www.promessedefleurs.com/arbustes/arbustes-par-variete/albizia/arbre-de-soie-albizia-julibrissin-shidare.html",
+        "floraison": [
+          7,
+          0
+        ],
+        "floraison_djc": 3230,
+        "floraison_travaux": "Observation — Ko 36 (3-7 août) ~3230°J : houppettes d'étamines roses soyeuses s'épanouissant en glomérules, légèrement parfumées, attirant abeilles et papillons. Ne jamais mouiller les fleurs à l'arrosage.\nSentai (taille de structure) — immédiatement après floraison (Ko 40-43) : tailler en vert uniquement sur bois vivant. NE JAMAIS tailler en hiver (mort des branches).\nFertilisation : suspendre l'azote pendant la floraison ; maintenir arrosages copieux sans mouiller les fleurs.\nSource : Jardin du Pic Vert — https://www.jardindupicvert.com/arbres/23150-arbre-de-soie-shidare.html",
+        "croissance": [
+          5,
+          0.17805755395683454
+        ],
+        "croissance_djc": 1991,
+        "croissance_travaux": "Observation — Ko 25 (6-10 juin) ~1991°J : croissance végétative active, rameaux pleureurs s'allongeant rapidement, feuillage dense en dôme.\nHarigane-kake (ligature) — ligature légère pour guider les rameaux pleureurs et structurer le port en cascade ; surveiller les marques toutes les 3 semaines.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-7,0 ; insister sur potassium et phosphore à partir de Ko 40.\nSource : Bonsaï Création — https://www.bonsai-creation.com/fiche-bonsai-albizia-172.php",
+        "flush2": null,
+        "flush2_djc": null,
+        "flush2_travaux": "flush2/flush3 null — croissance continue sans flush discret documenté. Débourrement tardif (Ko 19) intentionnel — Albizia est un des derniers feuillus à entrer en végétation, connu pour ce caractère, cohérent avec sa sensibilité au froid de printemps.",
+        "flush3": null,
+        "flush3_djc": null,
+        "flush3_travaux": "",
+        "maturation": [
+          8,
+          0.7612732095490716
+        ],
+        "maturation_djc": 4311,
+        "maturation_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : gousses plates (7-8 cm) virant du vert au brun clair, persistant sur l'arbre.\nFertilisation : NPK 4-10-14, EC 0,8-1,0 mS/cm, pH 5,5-7,0.\nSource : Jardin du Pic Vert — https://www.jardindupicvert.com/arbres/23150-arbre-de-soie-shidare.html",
+        "senescence": [
+          9,
+          0.6359447004608295
+        ],
+        "senescence_djc": 4772,
+        "senescence_travaux": "Observation — Ko 51 (18-22 oct) ~4772°J : folioles jaunissant et tombant progressivement, gousses persistantes sur les rameaux nus.\nFertilisation : suspendre.\nSource : Promesse de Fleurs — https://www.promessedefleurs.com/arbustes/arbustes-par-variete/albizia/arbre-de-soie-albizia-julibrissin-shidare.html",
+        "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : feuilles tombées, rameaux pleureurs nus et graphiques. Rustique jusqu'à -18°C à Cazaux en situation abritée du vent. Laisser sécher légèrement entre deux arrosages.\nNE PAS tailler en hiver — risque élevé de mort des branches.\nFertilisation : suspendre.\nSource : Bonsaï Création — https://www.bonsai-creation.com/fiche-bonsai-albizia-172.php",
+        "notes_perso": "Points critiques bien documentés : supporte mal la taille — la taille d'hiver fait mourir les branches et compromet la floraison ; privilégier la taille en vert. floraison en août, commence à fleurir vers l'âge de 5 ans ; gousses plates vertes devenant brun clair à maturité. port pleureur très compact, adapté bac/pot ; apprécie sols drainés voire secs en été, sols pauvres acceptés. Rusticité : -18°C pour ce cultivar",
+        "erreurs_fatales": "",
+        "dormance_djc": 5087,
+        "dormance": [
+          10,
+          0.24290220820189273
+        ]
       },
       {
         "_id": "mpjmupd2f9e4",
@@ -2095,7 +2152,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 68
+    "_modCount": 69
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
