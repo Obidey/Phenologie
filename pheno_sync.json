@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1782369472292,
-  "_date": "2026-06-25T06:37:52.292Z",
-  "_modCount": 1455,
+  "_ts": 1782369648212,
+  "_date": "2026-06-25T06:40:48.212Z",
+  "_modCount": 1456,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -1804,6 +1804,63 @@
           0.37961335676625657
         ],
         "flush3_travaux": "Coupez très court, soit à quelques mm, toutes les ramifications latérales de plus de 25cm de longueur en voie de lignification et qui atteignent ou dépassent la grosseurd’un crayon (6 à 8 mm).Trois principales périodes:- à partir du 15 juin,- vers le 15 juillet,-vers la mi-août,Se termine en septembre"
+      },
+      {
+        "_id": "mqt4v81pmd1s",
+        "espece": "Prunelier Prunus Spinosa",
+        "url": "https://fr.wikipedia.org/wiki/Prunus_spinosa",
+        "notes": "Caduc. Rosaceae. Arbuste buissonnant épineux indigène (Épine noire), 1-5 m. Floraison précoce spectaculaire sur bois nu (mars-avril) avant les feuilles — intérêt majeur en bonsaï. Fruits (prunelles) bleu-noir mûrs après les premières gelées. Drageon abondamment — supprimer impérativement les rejets basaux. Épines acérées : gants et manches épaisses indispensables. Rustique jusqu'à -25°C. Sol calcaire et argileux de préférence. Prélèvement yamadori courant, bonne reprise.",
+        "photo": "",
+        "debourrement": [
+          1,
+          0
+        ],
+        "debourrement_djc": 299,
+        "debourrement_travaux": "Observation — Ko 1 (4-8 fév) ~299°J : gonflement des bourgeons floraux sur bois nu, très précoce — parmi les premiers arbustes en végétation.\nUekae (rempotage) — Ko 1-5, après floraison terminée, tous les 1-2 ans. Substrat : 50% akadama, 30% pouzzolane, 20% terre argilo-calcaire ; pH 5,5-6,5, drainage correct.\nFertilisation : suspendre jusqu'à la fin de floraison.\nSource : Bonsaï Magazine — https://bonsai-plante-tropicale.fr/bonsai-de-prunellier-elagage-et-mise-en-forme/",
+        "feuillaison": [
+          2,
+          0.4604904632152589
+        ],
+        "feuillaison_djc": 726,
+        "feuillaison_travaux": "Observation — Ko 9 (16-20 mars) ~726°J : petites feuilles ovales finement dentées (1-3 cm) s'ouvrant après la floraison, vert moyen.\nSentai (taille de structure) — immédiatement après floraison, Ko 5-9 : supprimer branches croisées, rejets basaux et drageons (drageon abondant — vérification systématique). Porter gants et vêtements épais.\nFertilisation : NPK 5-10-5 après floraison, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Gerbeaud — https://www.gerbeaud.com/jardin/fiches/prunellier,1900.html",
+        "floraison": [
+          1,
+          0.431924882629108
+        ],
+        "floraison_djc": 391,
+        "floraison_travaux": "Observation — Ko 3 (14-18 fév) ~391°J : explosion de petites fleurs blanches solitaires ou par paires sur bois nu épineux, très mellifère — floraison avant les feuilles, parmi les plus précoces de la flore locale.\nMebana (sélection bourgeons) — ne pas intervenir : floraison naturellement abondante sur tous les rameaux de 1-2 ans, aucune sélection nécessaire.\nFertilisation : suspendre pendant la floraison.\nSource : PagesJaunes Jardinage — https://jardinage.pagesjaunes.fr/plante/voir/199/prunellier",
+        "croissance": [
+          3,
+          0.21487603305785125
+        ],
+        "croissance_djc": 1070,
+        "croissance_travaux": "Observation — Ko 14 (10-14 avr) ~1070°J : croissance végétative active, pousses épineuses allongées, entre-nœuds courts, feuilles bien développées. Drageons basaux fréquents — supprimer immédiatement à la source.\nMetsumi (pincement) — pincer les pousses à 2-3 paires de feuilles pour compacter la ramification (croissance lente facilitant le travail).\nHarigane-kake (ligature) — ligature délicate à cause des épines ; utiliser fil aluminium épais et protection ; vérifier les marques toutes les 3 semaines.\nToriki (marcottage aérien) — Ko 14-22 période optimale.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Bonsaï Magazine — https://bonsai-plante-tropicale.fr/bonsai-de-prunellier-elagage-et-mise-en-forme/",
+        "flush2": null,
+        "flush2_djc": null,
+        "flush2_travaux": "",
+        "flush3": null,
+        "flush3_djc": null,
+        "flush3_travaux": "",
+        "maturation": [
+          8,
+          0.7612732095490716
+        ],
+        "maturation_djc": 4311,
+        "maturation_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : prunelles (drupes bleu-noir pruineux, 1-1,5 cm) en plein grossissement. Décoratives en bonsaï.\nNe pas récolter avant les premières gelées — l'action du froid réduit l'âpreté des tanins.\nFertilisation : NPK 4-10-14, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Jardin Secrets — https://jardin-secrets.com/prunellier-article-2424,190,fr.html",
+        "senescence": [
+          9,
+          0.6359447004608295
+        ],
+        "senescence_djc": 4772,
+        "senescence_travaux": "Observation — Ko 51 (18-22 oct) ~4772°J : feuilles jaunissant progressivement, prunelles persistant sur l'arbre après défoliation — effet décoratif hivernal.\nFertilisation : suspendre.\nSource : Jardin Secrets — https://jardin-secrets.com/prunellier-article-2424,190,fr.html",
+        "dormance_travaux": "Observation — Ko 57 (17-21 nov) ~5223°J : feuilles tombées, prunelles bleu-noir persistant tout l'hiver sur rameaux épineux. Très rustique à Cazaux — aucune protection nécessaire.\nSentai (taille de structure) — possible en hiver sur bois sans feuilles pour visualiser la structure, mais privilégier la taille après floraison au printemps.\nFertilisation : suspendre.\nSource : Gerbeaud — https://www.gerbeaud.com/jardin/fiches/prunellier,1900.html",
+        "notes_perso": "Prunus spinosa — floraison sur bois nu avant feuilles (très précoce, mars-avril), puis fructification (prunelles en automne). Espèce indigène à croissance vigoureuse par rejets. Je vérifie les données bonsaï.Web recherchéWeb recherchéDonnées suffisantes. Points clés : floraison spectaculaire et précoce dès mars-avril, avant l'apparition des feuilles, petites fleurs blanches d'environ 1 cm. Taille après floraison ; supporte bien le rabattage sévère. Rempotage chaque année à la fin de l'hiver, une fois la floraison terminée ; substrat pH 5,5-6,5. Flush2/flush3 non documentés pour cette espèce — croissance continue sans vagues nettes après le 1er flush printanier",
+        "erreurs_fatales": "",
+        "dormance_djc": 5223,
+        "dormance": [
+          10,
+          0.6719242902208202
+        ]
       },
       {
         "_id": "mpf2nytpdw63",
