@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1782365078555,
-  "_date": "2026-06-25T05:24:38.555Z",
-  "_modCount": 1452,
+  "_ts": 1782365149920,
+  "_date": "2026-06-25T05:25:49.920Z",
+  "_modCount": 1453,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -964,9 +964,12 @@
           10,
           0.24290220820189273
         ],
-        "flush2_djc": null,
-        "flush2": null,
-        "flush2_travaux": "",
+        "flush2_djc": 2310,
+        "flush2": [
+          5,
+          0.7517985611510791
+        ],
+        "flush2_travaux": "Tailler les pousses sans fruits à 2, 3 feuilles",
         "flush3_djc": null,
         "flush3": null,
         "flush3_travaux": ""
