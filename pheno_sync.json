@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1782547162013,
-  "_date": "2026-06-27T07:59:22.013Z",
-  "_modCount": 1479,
+  "_ts": 1782547376421,
+  "_date": "2026-06-27T08:02:56.421Z",
+  "_modCount": 1480,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -2625,7 +2625,12 @@
     "ko24_Citron_du_Vietnam_croissance_0": false,
     "ko24_Jasmin__toil____Trachelospermum_jasminoides_floraison_0": true,
     "ko24_Plumbago_auriculata___Plumbago_capensis___Dentelaire_du_Cap_croissance_0": true,
-    "ko24_Citron_du_Vietnam__Chanh__croissance_0": true
+    "ko24_Citron_du_Vietnam__Chanh__croissance_0": true,
+    "ko1_Acer_palmatum_Katsura_debourrement_0": true,
+    "ko1_Cognassier_du_Japon_floraison_0": true,
+    "ko1_Prunelier_Prunus_Spinosa_debourrement_0": true,
+    "ko3_Cognassier_du_Japon_debourrement_0": true,
+    "ko3_Juniperus_Shimpaku_J__chinensis_floraison_0": true
   },
   "config": {
     "ville1": {
