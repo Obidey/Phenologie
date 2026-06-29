@@ -1,8 +1,8 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1782559080647,
-  "_date": "2026-06-27T11:18:00.647Z",
+  "_ts": 1782707441938,
+  "_date": "2026-06-29T04:30:41.938Z",
   "_modCount": 1482,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
@@ -1893,10 +1893,10 @@
         "feuillaison_djc": 924,
         "feuillaison_travaux": "Observation — Ko 12 (31 mars-4 avr) ~924°J : feuilles entièrement déployées, pousses de l'année en élongation rapide.\nMetsumi (pincement) — pincer les pousses à 3-4 paires de feuilles pour densifier la ramification et multiplier les points de floraison.\nHarigane-kake (ligature) — ligature sur pousses souples en croissance ; surveiller les marques toutes les 2 semaines.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Jardiner Malin — https://www.jardiner-malin.fr/fiche/dentelaire-plumbago-du-cap.html",
         "floraison": [
-          3,
-          1
+          5,
+          0.7517985611510791
         ],
-        "floraison_djc": 1355,
+        "floraison_djc": 2310,
         "floraison_travaux": "Observation — Ko 19 (6-10 mai) ~1449°J : premiers boutons floraux bleu azur en panicules terminales. Floraison remontante jusqu'à Ko 53 (nov) avec tailles successives.\nMetsumi (pincement) — supprimer les inflorescences fanées immédiatement pour déclencher une nouvelle vague florale.\nFertilisation : NPK 5-10-10, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Truffaut — https://www.truffaut.com/plumbago-varietes-plantation-entretien.html",
         "croissance": [
           5,
