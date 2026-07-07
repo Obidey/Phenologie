@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1783410827644,
-  "_date": "2026-07-07T07:53:47.644Z",
-  "_modCount": 1490,
+  "_ts": 1783410848884,
+  "_date": "2026-07-07T07:54:08.884Z",
+  "_modCount": 1491,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -1893,10 +1893,10 @@
         "debourrement_djc": 512,
         "debourrement_travaux": "Observation — Ko 5 (24-28 fév) ~512°J : gonflement des bourgeons, premières feuilles vert clair s'ouvrent sur les rameaux.\nSentai (taille de structure) — Ko 5-8 : taille de remise en forme avant la reprise végétative ; supprimer rameaux morts, croisés et tiges épuisées de l'année précédente.\nUekae (rempotage) — Ko 5-9, tous les 2 ans. Substrat : 50% akadama, 30% pouzzolane, 20% terreau de feuilles ; pH 5,5-6,5, drainage excellent.\nFertilisation : NPK 5-10-5, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Gerbeaud — https://www.gerbeaud.com/jardin/fiches/dentelaire-du-cap-plumbago,1386.html",
         "feuillaison": [
-          2,
-          1
+          6,
+          0.1827768014059754
         ],
-        "feuillaison_djc": 924,
+        "feuillaison_djc": 2660,
         "feuillaison_travaux": "Observation — Ko 12 (31 mars-4 avr) ~924°J : feuilles entièrement déployées, pousses de l'année en élongation rapide.\nMetsumi (pincement) — pincer les pousses à 3-4 paires de feuilles pour densifier la ramification et multiplier les points de floraison.\nHarigane-kake (ligature) — ligature sur pousses souples en croissance ; surveiller les marques toutes les 2 semaines.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Jardiner Malin — https://www.jardiner-malin.fr/fiche/dentelaire-plumbago-du-cap.html",
         "floraison": [
           5,
@@ -2221,7 +2221,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 71
+    "_modCount": 72
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
