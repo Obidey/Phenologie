@@ -1,8 +1,8 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1783399252612,
-  "_date": "2026-07-07T04:40:52.612Z",
+  "_ts": 1783410827644,
+  "_date": "2026-07-07T07:53:47.644Z",
   "_modCount": 1490,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
@@ -942,10 +942,10 @@
         "debourrement_djc": null,
         "debourrement_travaux": "",
         "feuillaison": [
-          3,
-          0.21487603305785125
+          6,
+          0.1827768014059754
         ],
-        "feuillaison_djc": 1070,
+        "feuillaison_djc": 2660,
         "feuillaison_travaux": "Observation — Ko 15 (15-19 avr) ~1142°J : reprise végétative après hivernage, débourrement des bourgeons axillaires, nouvelles feuilles vert sombre luisant.\nUekae (rempotage) — tous les 2 ans à la reprise. Substrat : 50% Akadama, 30% Pumice, 20% sable grossier. pH 5,5-6,5, drainage absolu — la pourriture racinaire est le risque majeur.\nHarigane-kake (ligature) — poser le fil aluminium sur les nouvelles pousses encore souples.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-6,5. Reprendre progressivement à la sortie hivernage.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
         "floraison": [
           4,
@@ -978,7 +978,13 @@
         "dormance": [
           10,
           0.6719242902208202
-        ]
+        ],
+        "flush2_djc": null,
+        "flush2": null,
+        "flush2_travaux": "",
+        "flush3_djc": null,
+        "flush3": null,
+        "flush3_travaux": ""
       },
       {
         "_id": "mpwv4uwadnj9",
