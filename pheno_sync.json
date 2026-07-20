@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1784555058840,
-  "_date": "2026-07-20T13:44:18.840Z",
-  "_modCount": 1500,
+  "_ts": 1784555289210,
+  "_date": "2026-07-20T13:48:09.210Z",
+  "_modCount": 1501,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -885,6 +885,63 @@
         "dormance": [
           10,
           0.24290220820189273
+        ]
+      },
+      {
+        "_id": "mrta53f6codv",
+        "espece": "Aulne",
+        "url": "https://fr.wikipedia.org/wiki/Alnus_glutinosa",
+        "notes": "Caduc. Betulaceae. Alnus glutinosa, aulne glutineux indigène. Floraison en chatons mâles pendants jaune-brun très précoce (février-mars) sur bois nu, avant les feuilles — intérêt printanier en bonsaï. Fruits en cônes ligneux persistants tout l'hiver, décoratifs. Bois mou, peu lignifié, cicatrisation rapide. Supporte très bien la taille sévère. Racines symbiotiques (nodosités fixatrices d'azote) — fertilisation azotée modérée. Prélèvement yamadori courant en bords de cours d'eau. Substrat humide impératif, tolère les excès d'eau. Rustique jusqu'à -25°C.",
+        "photo": "",
+        "debourrement": [
+          1,
+          0
+        ],
+        "debourrement_djc": 299,
+        "debourrement_travaux": "Observation — Ko 1 (4-8 fév) ~299°J : débourrement des bourgeons foliaires, chatons mâles déjà bien allongés et lâchant le pollen, chatons femelles rouges minuscules visibles.\nUekae (rempotage) — Ko 1-6, avant débourrement foliaire, tous les 2 ans. Substrat : 60% akadama, 40% terreau ; pH 5,5-7,0, substrat maintenu constamment humide.\nSentai (taille de structure) — Ko 1-5, hiver, supprimer branches mortes, croisées et rejets basaux sur bois nu.\nFertilisation : suspendre jusqu'au débourrement foliaire complet.\nSource : Bonsai Alsace — https://bonsai-alsace.fr/bonsai-aulne-glutineux-alnus-glutinosa-bonsai-creation.php",
+        "feuillaison": [
+          2,
+          0.1362397820163488
+        ],
+        "feuillaison_djc": 607,
+        "feuillaison_travaux": "Observation — Ko 6 (1-5 mars) ~557°J : feuilles alternes ovales dentées vert foncé luisantes, gluantes à l'état juvénile (glutinosus), s'ouvrant après la pollinisation.\nMetsumi (pincement) — pincer les pousses à 3-4 paires de feuilles, bois mou cicatrisant rapidement.\nFertilisation : NPK 7-5-7 (azote modéré — nodosités fixatrices d'azote), EC 0,8-1,0 mS/cm, pH 5,5-7,0.\nSource : Bonsai Alsace — https://bonsai-alsace.fr/bonsai-aulne-glutineux-alnus-glutinosa-bonsai-creation.php",
+        "floraison": [
+          0,
+          0.8114754098360656
+        ],
+        "floraison_djc": 209,
+        "floraison_travaux": "Observation — Ko 72 (30 jan-3 fév) ~255°J à Ko 2 (9-13 fév) ~339°J : chatons mâles pendants jaune-brun de 5-10 cm lâchant le pollen, chatons femelles rouges de 3-5 mm, floraison anémophile sur bois nu avant les feuilles.\nNe pas intervenir pendant la floraison — les fécondations engagent déjà la formation des futurs cônes.\nFertilisation : suspendre pendant la floraison.\nSource : INPN — https://inpn.mnhn.fr/espece/cd_nom/56736",
+        "croissance": [
+          2,
+          1
+        ],
+        "croissance_djc": 924,
+        "croissance_travaux": "Observation — Ko 12 (31 mars-4 avr) ~924°J : croissance végétative rapide, entre-nœuds longs sur les espèces jeunes, cônes verts en formation à l'aisselle des rameaux.\nMetsumi (pincement) — pincer toutes les 2-3 semaines sur pousses de 3-4 paires de feuilles, croissance rapide à contrôler.\nHarigane-kake (ligature) — bois souple ; ligature légère, surveiller les marques toutes les 3 semaines.\nToriki (marcottage aérien) — Ko 14-20 période optimale.\nFertilisation : NPK 7-5-7, EC 1,0-1,5 mS/cm, pH 5,5-7,0 ; ne pas surfertiliser en azote.\nSource : Mistral Bonsai — https://www.mistralbonsai.com/fr/tout-sur-le-bonsai/fiches-techniques-des-bonsais/bonsai-dexterieur/aulne/",
+        "flush2": null,
+        "flush2_djc": null,
+        "flush2_travaux": "",
+        "flush3": null,
+        "flush3_djc": null,
+        "flush3_travaux": "",
+        "maturation": [
+          8,
+          0
+        ],
+        "maturation_djc": 4024,
+        "maturation_travaux": "Observation — Ko 43 (8-12 sept) ~4024°J : cônes ligneux (strobiles) de 1-2 cm virant du vert au brun foncé, décoratifs et persistant tout l'hiver sur les rameaux.\nFertilisation : NPK 4-10-14, EC 0,8-1,0 mS/cm, pH 5,5-7,0.\nSource : Jardins du Monde — https://jardins-du-monde.be/fr/arbres/aulne-glutineux.html",
+        "senescence": [
+          9,
+          0.2119815668202765
+        ],
+        "senescence_djc": 4588,
+        "senescence_travaux": "Observation — Ko 49 (8-12 oct) ~4588°J : feuilles jaunissant tardivement (aulne caduc tardif), souvent encore vertes tandis que d'autres espèces ont déjà perdu leur feuillage. Cônes persistants ornementaux.\nFertilisation : suspendre.\nSource : Jardins du Monde — https://jardins-du-monde.be/fr/arbres/aulne-glutineux.html",
+        "dormance_travaux": "Observation — Ko 57 (17-21 nov) ~5223°J : chute des feuilles tardive, cônes brun-noir persistants sur rameaux nus tout l'hiver. Chatons mâles déjà bien formés pour la floraison de février. Rustique jusqu'à -25°C à Cazaux, aucune protection nécessaire. Maintenir le substrat humide même en hiver.\nFertilisation : suspendre.\nSource : Mistral Bonsai — https://www.mistralbonsai.com/fr/tout-sur-le-bonsai/fiches-techniques-des-bonsais/bonsai-dexterieur/aulne/",
+        "notes_perso": "",
+        "erreurs_fatales": "",
+        "dormance_djc": 5223,
+        "dormance": [
+          10,
+          0.6719242902208202
         ]
       },
       {
@@ -2242,7 +2299,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 75
+    "_modCount": 76
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
