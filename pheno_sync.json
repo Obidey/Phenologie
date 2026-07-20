@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1784555304029,
-  "_date": "2026-07-20T13:48:24.029Z",
-  "_modCount": 1502,
+  "_ts": 1784555311547,
+  "_date": "2026-07-20T13:48:31.547Z",
+  "_modCount": 1503,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -917,8 +917,11 @@
         ],
         "croissance_djc": 924,
         "croissance_travaux": "Observation — Ko 12 (31 mars-4 avr) ~924°J : croissance végétative rapide, entre-nœuds longs sur les espèces jeunes, cônes verts en formation à l'aisselle des rameaux.\nMetsumi (pincement) — pincer toutes les 2-3 semaines sur pousses de 3-4 paires de feuilles, croissance rapide à contrôler.\nHarigane-kake (ligature) — bois souple ; ligature légère, surveiller les marques toutes les 3 semaines.\nToriki (marcottage aérien) — Ko 14-20 période optimale.\nFertilisation : NPK 7-5-7, EC 1,0-1,5 mS/cm, pH 5,5-7,0 ; ne pas surfertiliser en azote.\nSource : Mistral Bonsai — https://www.mistralbonsai.com/fr/tout-sur-le-bonsai/fiches-techniques-des-bonsais/bonsai-dexterieur/aulne/",
-        "flush2": null,
-        "flush2_djc": null,
+        "flush2": [
+          6,
+          0.37961335676625657
+        ],
+        "flush2_djc": 2772,
         "flush2_travaux": "",
         "flush3": null,
         "flush3_djc": null,
@@ -2299,7 +2302,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 76
+    "_modCount": 77
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
