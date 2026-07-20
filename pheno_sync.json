@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1784558373146,
-  "_date": "2026-07-20T14:39:33.146Z",
-  "_modCount": 1513,
+  "_ts": 1784558446725,
+  "_date": "2026-07-20T14:40:46.725Z",
+  "_modCount": 1514,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -931,7 +931,7 @@
           0.37961335676625657
         ],
         "flush2_djc": 2772,
-        "flush2_travaux": "",
+        "flush2_travaux": "Bassiner la coupelle",
         "flush3": null,
         "flush3_djc": null,
         "flush3_travaux": "",
@@ -2311,7 +2311,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 77
+    "_modCount": 78
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
