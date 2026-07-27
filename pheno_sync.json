@@ -1,8 +1,8 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1784625603908,
-  "_date": "2026-07-21T09:20:03.908Z",
+  "_ts": 1785125080052,
+  "_date": "2026-07-27T04:04:40.052Z",
   "_modCount": 1526,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
@@ -57,7 +57,16 @@
         "dormance": [
           10,
           0.6719242902208202
-        ]
+        ],
+        "flush2_djc": 2998,
+        "flush2": [
+          6,
+          0.7768014059753954
+        ],
+        "flush2_travaux": "Démarrage tardif, la marcotte n’a pas prise",
+        "flush3_djc": null,
+        "flush3": null,
+        "flush3_travaux": ""
       },
       {
         "_id": "mqj4jnicuqh9",
