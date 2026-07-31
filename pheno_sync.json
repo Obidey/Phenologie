@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1785479352293,
-  "_date": "2026-07-31T06:29:12.293Z",
-  "_modCount": 1530,
+  "_ts": 1785479441224,
+  "_date": "2026-07-31T06:30:41.224Z",
+  "_modCount": 1531,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -600,7 +600,16 @@
         "dormance": [
           10,
           0.24290220820189273
-        ]
+        ],
+        "flush2_djc": 2998,
+        "flush2": [
+          6,
+          0.7768014059753954
+        ],
+        "flush2_travaux": "Observation",
+        "flush3_djc": null,
+        "flush3": null,
+        "flush3_travaux": ""
       },
       {
         "_id": "mqj4hnzbnx6r",
