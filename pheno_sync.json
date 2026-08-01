@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1785576889742,
-  "_date": "2026-08-01T09:34:49.742Z",
-  "_modCount": 1542,
+  "_ts": 1785577116491,
+  "_date": "2026-08-01T09:38:36.491Z",
+  "_modCount": 1543,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -57,16 +57,7 @@
         "dormance": [
           10,
           0.6719242902208202
-        ],
-        "flush2_djc": 2998,
-        "flush2": [
-          6,
-          0.7768014059753954
-        ],
-        "flush2_travaux": "Démarrage tardif, la marcotte n’a pas prise",
-        "flush3_djc": null,
-        "flush3": null,
-        "flush3_travaux": ""
+        ]
       },
       {
         "_id": "mqj4jnicuqh9",
@@ -114,16 +105,7 @@
         "dormance": [
           10,
           0.24290220820189273
-        ],
-        "flush2_djc": 2899,
-        "flush2": [
-          6,
-          0.6028119507908611
-        ],
-        "flush2_travaux": "Très en retard, ont souffert de rempotage tardif",
-        "flush3_djc": null,
-        "flush3": null,
-        "flush3_travaux": ""
+        ]
       },
       {
         "_id": "mqj5alboi03i",
@@ -223,9 +205,12 @@
           10,
           0.24290220820189273
         ],
-        "flush2_djc": null,
-        "flush2": null,
-        "flush2_travaux": "",
+        "flush2_djc": 3125,
+        "flush2": [
+          6,
+          1
+        ],
+        "flush2_travaux": "Observation",
         "flush3_djc": null,
         "flush3": null,
         "flush3_travaux": ""
@@ -940,7 +925,7 @@
       },
       {
         "_id": "mpjmupd2f9e4",
-        "espece": "Bougainvillier 'Imperial Thaï Delight' & Spectbilis",
+        "espece": "Bougainvillier 'Imperial Thaï Delight'",
         "url": "https://fr.wikipedia.org/wiki/Bougainvillea_spectabilis",
         "notes": "Semi-persistant à persistant selon hivernage, famille Nyctaginaceae. Bougainvillea spectabilis cv. 'Imperial Thai Delight'. Feuilles panachées vert-crème, bractées rose-magenta. Espèce tropicale à hiverner hors-gel à Cazaux (serre froide mini 5°C). Floraison sur bois de l'année précédente — ne pas tailler en automne. Très utilisé en bonsaï tropical.",
         "photo": "",
@@ -985,15 +970,69 @@
           10,
           0.6719242902208202
         ],
-        "flush2_djc": 2998,
-        "flush2": [
-          6,
-          0.7768014059753954
-        ],
-        "flush2_travaux": "Observation",
+        "flush2_djc": null,
+        "flush2": null,
+        "flush2_travaux": "",
         "flush3_djc": null,
         "flush3": null,
         "flush3_travaux": ""
+      },
+      {
+        "_id": "msa6ieeaczap",
+        "espece": "Bougainvillier 'Sanderiana Alexandra'",
+        "url": "https://fr.wikipedia.org/wiki/Bougainvillea_glabra",
+        "notes": "Semi-persistant à persistant selon hivernage, famille Nyctaginaceae. Bougainvillea glabra 'Alexandra' (syn. 'Sanderiana'). Bractées violet-mauve lumineux, feuillage vert vif, tiges moins épineuses que B. spectabilis. Plus rustique parmi les Bougainvilliers (supporte jusqu'à 2-3°C brefs). Floraison très généreuse et remontante sur bois aoûté. Très prisé en bonsaï tropical pour sa vigueur et sa floraison abondante.",
+        "photo": "",
+        "debourrement": null,
+        "debourrement_djc": null,
+        "debourrement_travaux": "",
+        "feuillaison": [
+          3,
+          0
+        ],
+        "feuillaison_djc": 992,
+        "feuillaison_travaux": "Observation — Ko 13 (5-9 avr) ~992°J : reprise végétative après hivernage, débourrement des bourgeons axillaires, nouvelles feuilles vert vif.\nUekae (rempotage) — tous les 2 ans à la reprise printanière. Substrat : 50% Akadama, 30% Pumice, 20% sable grossier. pH 5,5-6,5, drainage strict — la pourriture racinaire est le risque majeur en hiver.\nHarigane-kake (ligature) — poser le fil aluminium sur les nouvelles pousses encore souples avant lignification rapide.\nFertilisation : NPK 10-6-6, EC 0,8-1,2 mS/cm, pH 5,5-6,5. Reprendre progressivement dès la sortie hivernage.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
+        "floraison": [
+          4,
+          1
+        ],
+        "floraison_djc": 1776,
+        "floraison_travaux": "Observation — Ko 23 (26-31 mai) ~1776°J : bractées violet-mauve sur le bois aoûté. B. glabra fleurit plus tôt et plus abondamment que B. spectabilis. Floraison déclenchée par stress hydrique léger (réduire arrosage 7-10 jours).\nMebana (sélection bourgeons) — supprimer les gourmands basaux, conserver les rameaux florifères courts.\nFertilisation : NPK 4-10-10, EC 0,8-1,0 mS/cm, pH 5,5-6,5. Azote réduit pour prolonger et intensifier la floraison.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
+        "croissance": [
+          5,
+          0.3723021582733813
+        ],
+        "croissance_djc": 2099,
+        "croissance_travaux": "Observation — Ko 26 (11-15 juin) ~2099°J : 1ère vague de croissance post-floraison, pousses longues et vigoureuses.\nSentai (taille de structure) — taille après floraison, raccourcir à 2-3 paires de feuilles pour induire ramification et 2e floraison.\nMetsumi (pincement) — pincement régulier toutes les 3 semaines sur les nouvelles pousses.\nHarigane-kake (ligature) — ligature des rameaux en croissance, surveiller la lignification rapide.\nToriki (marcottage aérien) — Ko 26-34 période optimale.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
+        "flush2": [
+          6,
+          0.6028119507908611
+        ],
+        "flush2_djc": 2899,
+        "flush2_travaux": "Observation — Ko 33 (18-22 juil) ~2899°J : 2e vague de croissance après taille de juin, pousses plus courtes, possible apparition de nouvelles bractées sur rameaux pincés.\nMetsumi (pincement) — pincer à 2 paires de feuilles pour densifier et préparer une 3e floraison automnale.\nFertilisation : NPK 6-10-10, EC 0,8-1,2 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
+        "flush3": null,
+        "flush3_djc": null,
+        "flush3_travaux": "",
+        "maturation": [
+          7,
+          0.521870286576169
+        ],
+        "maturation_djc": 3576,
+        "maturation_travaux": "Observation — Ko 39 (18-22 août) ~3576°J : aoûtement du bois, possible 3e vague de bractées sur sujets vigoureux pincés en juillet. Croissance ralentit nettement.\nSentai (taille de structure) — taille légère de rectification uniquement, conserver le bois aoûté porteur de bourgeons florifères pour l'an prochain.\nFertilisation : NPK 4-10-10, EC 0,8-1,0 mS/cm, pH 5,5-6,5. Durcir les tissus avant hivernage.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
+        "senescence": [
+          8,
+          0.7612732095490716
+        ],
+        "senescence_djc": 4311,
+        "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : ralentissement net de la végétation, feuilles pâlissent légèrement. Rentrer en serre avant 5°C nocturnes. B. glabra tolère de brèves gelées légères mais ne pas tenter à Cazaux.\nFertilisation : arrêt de l'azote. Dernière application Ko 46 maximum.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
+        "dormance_travaux": "Observation — Ko 57 (17-21 nov) ~5223°J : repos en serre froide (5-10°C), feuilles semi-caduques, arrosages très espacés (1 fois toutes les 2-3 semaines, laisser le substrat presque sec).\nSentai (taille de structure) — taille de structure en fin de dormance Ko 3-5, avant reprise printanière. Ne jamais tailler en automne-hiver — le bois aoûté porte les bourgeons florifères.\nFertilisation : aucune en dormance. Reprendre à Ko 13 à la sortie hivernage.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
+        "notes_perso": "",
+        "erreurs_fatales": "",
+        "dormance_djc": 5223,
+        "dormance": [
+          10,
+          0.6719242902208202
+        ]
       },
       {
         "_id": "mpjn8qe4fbc6",
@@ -2002,12 +2041,9 @@
           10,
           0.24290220820189273
         ],
-        "flush2_djc": 2998,
-        "flush2": [
-          6,
-          0.7768014059753954
-        ],
-        "flush2_travaux": "Observation",
+        "flush2_djc": null,
+        "flush2": null,
+        "flush2_travaux": "",
         "flush3_djc": null,
         "flush3": null,
         "flush3_travaux": ""
@@ -2073,7 +2109,7 @@
           6,
           0.37961335676625657
         ],
-        "flush3_travaux": "flush en continue ko 34 / taille lorette ? Coupez  très court, soit à quelques mm, toutes les ramifications latérales de plus de 25cm de longueur en voie de lignification et qui atteignent ou dépassent la grosseurd’un crayon (6 à 8 mm).Trois principales périodes:- à partir du 15 juin,- vers le 15 juillet,-vers la mi-août,Se termine en septembre"
+        "flush3_travaux": "Coupez très court, soit à quelques mm, toutes les ramifications latérales de plus de 25cm de longueur en voie de lignification et qui atteignent ou dépassent la grosseurd’un crayon (6 à 8 mm).Trois principales périodes:- à partir du 15 juin,- vers le 15 juillet,-vers la mi-août,Se termine en septembre"
       },
       {
         "_id": "mqt4v81pmd1s",
@@ -2302,7 +2338,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 85
+    "_modCount": 84
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
