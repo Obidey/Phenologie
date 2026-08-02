@@ -1,10 +1,10 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1785578816982,
-  "_date": "2026-08-01T10:06:56.982Z",
-  "_modCount": 1550,
-  "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
+  "_ts": 1785689388955,
+  "_date": "2026-08-02T16:49:48.955Z",
+  "_modCount": 1414,
+  "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like ",
   "data": {
     "bornes": {},
     "especes": [
@@ -156,6 +156,57 @@
         ]
       },
       {
+        "_id": "mqj4exix6810",
+        "espece": "Acer Palmatum Bi Hoo",
+        "url": "https://fr.wikipedia.org/wiki/Acer_palmatum",
+        "notes": "Caduc. Sapindaceae. Cultivar d'Acer palmatum introduit en Europe par Guy Maillot (pépinières Maillot), remarquable pour son écorce jaune orangé à abricot très décorative en hiver sur les rameaux de 1 à 4-5 ans. Feuillage finement découpé, vert rosé au débourrement, vert clair en été, jaune lumineux à l'automne. Cultivar sensible, sujet au dépérissement inexpliqué — drainage parfait impératif, protection hivernale en serre froide recommandée même cultivé en pot. Souvent associé à Sango Kaku, Beni Kawa, Aoyagi, Ukon pour le contraste de coloris d'écorce.",
+        "photo": "",
+        "debourrement": [
+          1,
+          1
+        ],
+        "debourrement_djc": 512,
+        "debourrement_travaux": "Observation — Ko 5 (24-28 fév) ~512°J : débourrement, jeunes feuilles vert rosé jaune, écorce jaune orangé encore bien visible avant feuillaison.\nUekae (rempotage) — Ko 5-8, avant débourrement, tous les 2-3 ans. Substrat : 80% akadama, 20% pouzzolane, drainage parfait impératif (cultivar sensible à l'excès d'humidité) ; pH 5,5-6,5.\nFertilisation : suspendre jusqu'au débourrement complet.\nSource : The Maple Nursery — https://themaplenursery.com/fr/products/acer-palmatum-bi-hoo",
+        "feuillaison": [
+          2,
+          0.4604904632152589
+        ],
+        "feuillaison_djc": 726,
+        "feuillaison_travaux": "Observation — Ko 9 (16-20 mars) ~726°J : feuillage entièrement déployé, lobes pointus, finement découpés, virant au vert clair.\nFertilisation : NPK 7-5-7 dilué, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Plantes Shopping — https://www.plantes-shopping.fr/articles/acer-palmatum-bi-hoo-26001.html",
+        "floraison": [
+          2,
+          1
+        ],
+        "floraison_djc": 924,
+        "floraison_travaux": "Observation — Ko 12 (31 mars-4 avr) ~924°J : fleurs rouges groupées en corymbes, assez petites.\nFertilisation : NPK 10-6-6 dilué, EC 0,8-1,2 mS/cm, pH 5,5-6,5.\nSource : Plantes Shopping — https://www.plantes-shopping.fr/articles/acer-palmatum-bi-hoo-26001.html",
+        "croissance": [
+          3,
+          0.7713498622589532
+        ],
+        "croissance_djc": 1272,
+        "croissance_travaux": "Observation — Ko 17 (25-29 avr) ~1272°J : croissance lente et régulière (10-15 cm par an), feuillage vert clair stable.\nMetsumi (pincement) — pincement modéré toutes les 3 semaines, cultivar à croissance lente.\nHarigane-kake (ligature) — ligature légère ; surveiller les marques toutes les 4 semaines.\nFertilisation : NPK 10-6-6 dilué de moitié, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Roué Pépinières — https://rouepepinieres.com/2386-acer-palmatum-bi-hoo.html",
+        "maturation": [
+          7,
+          0.521870286576169
+        ],
+        "maturation_djc": 3576,
+        "maturation_travaux": "Observation — Ko 39 (18-22 août) ~3576°J : aoûtement du bois, début de formation de la coloration jaune-orangé de l'écorce sur les jeunes rameaux.\nFertilisation : réduire puis stopper après Ko 33 (juil) pour favoriser l'aoûtement.\nSource : Le Châtel des Vivaces — https://www.le-chatel-des-vivaces.com/erable-du-japon/2272-acer-palmatum-bi-hoo.html",
+        "senescence": [
+          8,
+          1
+        ],
+        "senescence_djc": 4401,
+        "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : feuillage virant au jaune lumineux, écorce jaune orangé déjà visible sur le bois nu progressivement dégagé.\nFertilisation : suspendre.\nSource : Le Châtel des Vivaces — https://www.le-chatel-des-vivaces.com/erable-du-japon/2272-acer-palmatum-bi-hoo.html",
+        "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, écorce jaune orangé à abricot pleinement visible et décorative tout l'hiver sur les rameaux de 1 à 4-5 ans. Protection en serre froide recommandée à Cazaux même en pot — cultivar sujet au dépérissement inexpliqué en conditions hivernales humides.\nFertilisation : suspendre.\nSource : The Maple Nursery — https://themaplenursery.com/fr/products/acer-palmatum-bi-hoo",
+        "notes_perso": "cultivar fragile, sujet au dépérissement inexpliqué, drainage parfait impératif, mieux en pleine terre qu'en pot, protection hivernale en serre recommandée même pour les sujets en pot.",
+        "erreurs_fatales": "Toriki (marcottage aérien) volontairement omis — signalé comme difficile à réussir sur ce cultivar par les praticiens, conforme à la règle \"ne jamais inventer, omettre si non applicable\".",
+        "dormance_djc": 5087,
+        "dormance": [
+          10,
+          0.24290220820189273
+        ]
+      },
+      {
         "_id": "mqko48uyay3b",
         "espece": "Acer palmatum Bi Hoo",
         "url": "https://fr.wikipedia.org/wiki/Acer_palmatum",
@@ -204,16 +255,7 @@
         "dormance": [
           10,
           0.24290220820189273
-        ],
-        "flush2_djc": 3125,
-        "flush2": [
-          6,
-          1
-        ],
-        "flush2_travaux": "Observation",
-        "flush3_djc": null,
-        "flush3": null,
-        "flush3_travaux": ""
+        ]
       },
       {
         "_id": "mql5xwy7seko",
@@ -315,16 +357,7 @@
         "dormance": [
           10,
           0.24290220820189273
-        ],
-        "flush2_djc": 2772,
-        "flush2": [
-          6,
-          0.37961335676625657
-        ],
-        "flush2_travaux": "flush apres effeuillage",
-        "flush3_djc": null,
-        "flush3": null,
-        "flush3_travaux": ""
+        ]
       },
       {
         "_id": "mqj45i5qalto",
@@ -375,16 +408,7 @@
         "dormance": [
           10,
           0.24290220820189273
-        ],
-        "flush2_djc": 2899,
-        "flush2": [
-          6,
-          0.6028119507908611
-        ],
-        "flush2_travaux": "Effeuillage à prevoir l'année prochaine X jours avant ?",
-        "flush3_djc": null,
-        "flush3": null,
-        "flush3_travaux": ""
+        ]
       },
       {
         "_id": "mqkolwhelj95",
@@ -435,7 +459,13 @@
         "dormance": [
           10,
           0.24290220820189273
-        ]
+        ],
+        "flush2_djc": null,
+        "flush2": null,
+        "flush2_travaux": "",
+        "flush3_djc": null,
+        "flush3": null,
+        "flush3_travaux": ""
       },
       {
         "_id": "mqknmwksrwmp",
@@ -585,16 +615,7 @@
         "dormance": [
           10,
           0.24290220820189273
-        ],
-        "flush2_djc": 2998,
-        "flush2": [
-          6,
-          0.7768014059753954
-        ],
-        "flush2_travaux": "Observation",
-        "flush3_djc": null,
-        "flush3": null,
-        "flush3_travaux": ""
+        ]
       },
       {
         "_id": "mqj4hnzbnx6r",
@@ -798,129 +819,6 @@
         "dormance": [
           10,
           0.24290220820189273
-        ],
-        "flush2_djc": null,
-        "flush2": null,
-        "flush2_travaux": "",
-        "flush3_djc": null,
-        "flush3": null,
-        "flush3_travaux": ""
-      },
-      {
-        "_id": "mqt5cyz8244z",
-        "espece": "Albizia julibrissin Shidare - Arbre à soie",
-        "url": "https://fr.wikipedia.org/wiki/Albizia_julibrissin",
-        "notes": "Caduc. Fabaceae. Cultivar pleureur d'Albizia julibrissin (Arbre à soie, Mimosa de Constantinople). Rameaux retombant en cascade formant un dôme de feuillage fin bipenné vert tendre, se repliant la nuit (nyctinastie). Floraison estivale en houppettes d'étamines roses soyeuses (août). Port compact (3-5 m), idéal en bac. Rustique jusqu'à -18°C en situation abritée. Floraison uniquement à partir de 5 ans. Durée de vie limitée (~20-25 ans). ATTENTION : supporte très mal la taille — la taille d'hiver fait mourir les branches et compromet la floraison ; tailler uniquement en vert (après floraison). Pousse rapide les premières années, plus lente ensuite.",
-        "photo": "",
-        "debourrement": [
-          3,
-          1
-        ],
-        "debourrement_djc": 1355,
-        "debourrement_travaux": "Observation — Ko 19 (6-10 mai) ~1449°J : débourrement tardif caractéristique — une des dernières espèces à entrer en végétation. Folioles bipennatisèquées vert tendre apparaissant progressivement.\nUekae (rempotage) — Ko 12-16, fin d'hiver avant débourrement, tous les 2-3 ans. Substrat : 60% pouzzolane, 30% akadama, 10% sable grossier ; pH 4,0-8,0, drainage excellent impératif.\nFertilisation : suspendre jusqu'au débourrement complet.\nSource : Bonsaï Création — https://www.bonsai-creation.com/fiche-bonsai-albizia-172.php",
-        "feuillaison": [
-          4,
-          0.48623853211009177
-        ],
-        "feuillaison_djc": 1608,
-        "feuillaison_travaux": "Observation — Ko 21 (16-20 mai) ~1608°J : feuillage bipenné entièrement déployé, folioles de 6 mm très nombreuses formant un feuillage aérien semblable à la fougère, retombant souplement sur ce cultivar.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-7,0.\nSource : Promesse de Fleurs — https://www.promessedefleurs.com/arbustes/arbustes-par-variete/albizia/arbre-de-soie-albizia-julibrissin-shidare.html",
-        "floraison": [
-          7,
-          0
-        ],
-        "floraison_djc": 3230,
-        "floraison_travaux": "Observation — Ko 36 (3-7 août) ~3230°J : houppettes d'étamines roses soyeuses s'épanouissant en glomérules, légèrement parfumées, attirant abeilles et papillons. Ne jamais mouiller les fleurs à l'arrosage.\nSentai (taille de structure) — immédiatement après floraison (Ko 40-43) : tailler en vert uniquement sur bois vivant. NE JAMAIS tailler en hiver (mort des branches).\nFertilisation : suspendre l'azote pendant la floraison ; maintenir arrosages copieux sans mouiller les fleurs.\nSource : Jardin du Pic Vert — https://www.jardindupicvert.com/arbres/23150-arbre-de-soie-shidare.html",
-        "croissance": [
-          5,
-          0.17805755395683454
-        ],
-        "croissance_djc": 1991,
-        "croissance_travaux": "Observation — Ko 25 (6-10 juin) ~1991°J : croissance végétative active, rameaux pleureurs s'allongeant rapidement, feuillage dense en dôme.\nHarigane-kake (ligature) — ligature légère pour guider les rameaux pleureurs et structurer le port en cascade ; surveiller les marques toutes les 3 semaines.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-7,0 ; insister sur potassium et phosphore à partir de Ko 40.\nSource : Bonsaï Création — https://www.bonsai-creation.com/fiche-bonsai-albizia-172.php",
-        "flush2": null,
-        "flush2_djc": null,
-        "flush2_travaux": "flush2/flush3 null — croissance continue sans flush discret documenté. Débourrement tardif (Ko 19) intentionnel — Albizia est un des derniers feuillus à entrer en végétation, connu pour ce caractère, cohérent avec sa sensibilité au froid de printemps.",
-        "flush3": null,
-        "flush3_djc": null,
-        "flush3_travaux": "",
-        "maturation": [
-          8,
-          0.7612732095490716
-        ],
-        "maturation_djc": 4311,
-        "maturation_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : gousses plates (7-8 cm) virant du vert au brun clair, persistant sur l'arbre.\nFertilisation : NPK 4-10-14, EC 0,8-1,0 mS/cm, pH 5,5-7,0.\nSource : Jardin du Pic Vert — https://www.jardindupicvert.com/arbres/23150-arbre-de-soie-shidare.html",
-        "senescence": [
-          9,
-          0.6359447004608295
-        ],
-        "senescence_djc": 4772,
-        "senescence_travaux": "Observation — Ko 51 (18-22 oct) ~4772°J : folioles jaunissant et tombant progressivement, gousses persistantes sur les rameaux nus.\nFertilisation : suspendre.\nSource : Promesse de Fleurs — https://www.promessedefleurs.com/arbustes/arbustes-par-variete/albizia/arbre-de-soie-albizia-julibrissin-shidare.html",
-        "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : feuilles tombées, rameaux pleureurs nus et graphiques. Rustique jusqu'à -18°C à Cazaux en situation abritée du vent. Laisser sécher légèrement entre deux arrosages.\nNE PAS tailler en hiver — risque élevé de mort des branches.\nFertilisation : suspendre.\nSource : Bonsaï Création — https://www.bonsai-creation.com/fiche-bonsai-albizia-172.php",
-        "notes_perso": "Points critiques bien documentés : supporte mal la taille — la taille d'hiver fait mourir les branches et compromet la floraison ; privilégier la taille en vert. floraison en août, commence à fleurir vers l'âge de 5 ans ; gousses plates vertes devenant brun clair à maturité. port pleureur très compact, adapté bac/pot ; apprécie sols drainés voire secs en été, sols pauvres acceptés. Rusticité : -18°C pour ce cultivar",
-        "erreurs_fatales": "",
-        "dormance_djc": 5087,
-        "dormance": [
-          10,
-          0.24290220820189273
-        ]
-      },
-      {
-        "_id": "mrta53f6codv",
-        "espece": "Aulne",
-        "url": "https://fr.wikipedia.org/wiki/Alnus_glutinosa",
-        "notes": "Caduc. Betulaceae. Alnus glutinosa, aulne glutineux indigène. Floraison en chatons mâles pendants jaune-brun très précoce (février-mars) sur bois nu, avant les feuilles — intérêt printanier en bonsaï. Fruits en cônes ligneux persistants tout l'hiver, décoratifs. Bois mou, peu lignifié, cicatrisation rapide. Supporte très bien la taille sévère. Racines symbiotiques (nodosités fixatrices d'azote) — fertilisation azotée modérée. Prélèvement yamadori courant en bords de cours d'eau. Substrat humide impératif, tolère les excès d'eau. Rustique jusqu'à -25°C.",
-        "photo": "",
-        "debourrement": [
-          1,
-          0
-        ],
-        "debourrement_djc": 299,
-        "debourrement_travaux": "Observation — Ko 1 (4-8 fév) ~299°J : débourrement des bourgeons foliaires, chatons mâles déjà bien allongés et lâchant le pollen, chatons femelles rouges minuscules visibles.\nUekae (rempotage) — Ko 1-6, avant débourrement foliaire, tous les 2 ans. Substrat : 60% akadama, 40% terreau ; pH 5,5-7,0, substrat maintenu constamment humide.\nSentai (taille de structure) — Ko 1-5, hiver, supprimer branches mortes, croisées et rejets basaux sur bois nu.\nFertilisation : suspendre jusqu'au débourrement foliaire complet.\nSource : Bonsai Alsace — https://bonsai-alsace.fr/bonsai-aulne-glutineux-alnus-glutinosa-bonsai-creation.php",
-        "feuillaison": [
-          2,
-          0.1362397820163488
-        ],
-        "feuillaison_djc": 607,
-        "feuillaison_travaux": "Observation — Ko 6 (1-5 mars) ~557°J : feuilles alternes ovales dentées vert foncé luisantes, gluantes à l'état juvénile (glutinosus), s'ouvrant après la pollinisation.\nMetsumi (pincement) — pincer les pousses à 3-4 paires de feuilles, bois mou cicatrisant rapidement.\nFertilisation : NPK 7-5-7 (azote modéré — nodosités fixatrices d'azote), EC 0,8-1,0 mS/cm, pH 5,5-7,0.\nSource : Bonsai Alsace — https://bonsai-alsace.fr/bonsai-aulne-glutineux-alnus-glutinosa-bonsai-creation.php",
-        "floraison": [
-          0,
-          0.8114754098360656
-        ],
-        "floraison_djc": 209,
-        "floraison_travaux": "Observation — Ko 72 (30 jan-3 fév) ~255°J à Ko 2 (9-13 fév) ~339°J : chatons mâles pendants jaune-brun de 5-10 cm lâchant le pollen, chatons femelles rouges de 3-5 mm, floraison anémophile sur bois nu avant les feuilles.\nNe pas intervenir pendant la floraison — les fécondations engagent déjà la formation des futurs cônes.\nFertilisation : suspendre pendant la floraison.\nSource : INPN — https://inpn.mnhn.fr/espece/cd_nom/56736",
-        "croissance": [
-          2,
-          1
-        ],
-        "croissance_djc": 924,
-        "croissance_travaux": "Observation — Ko 12 (31 mars-4 avr) ~924°J : croissance végétative rapide, entre-nœuds longs sur les espèces jeunes, cônes verts en formation à l'aisselle des rameaux.\nMetsumi (pincement) — pincer toutes les 2-3 semaines sur pousses de 3-4 paires de feuilles, croissance rapide à contrôler.\nHarigane-kake (ligature) — bois souple ; ligature légère, surveiller les marques toutes les 3 semaines.\nToriki (marcottage aérien) — Ko 14-20 période optimale.\nFertilisation : NPK 7-5-7, EC 1,0-1,5 mS/cm, pH 5,5-7,0 ; ne pas surfertiliser en azote.\nSource : Mistral Bonsai — https://www.mistralbonsai.com/fr/tout-sur-le-bonsai/fiches-techniques-des-bonsais/bonsai-dexterieur/aulne/",
-        "flush2": [
-          6,
-          0.37961335676625657
-        ],
-        "flush2_djc": 2772,
-        "flush2_travaux": "Bassiner la coupelle",
-        "flush3": null,
-        "flush3_djc": null,
-        "flush3_travaux": "",
-        "maturation": [
-          8,
-          0
-        ],
-        "maturation_djc": 4024,
-        "maturation_travaux": "Observation — Ko 43 (8-12 sept) ~4024°J : cônes ligneux (strobiles) de 1-2 cm virant du vert au brun foncé, décoratifs et persistant tout l'hiver sur les rameaux.\nFertilisation : NPK 4-10-14, EC 0,8-1,0 mS/cm, pH 5,5-7,0.\nSource : Jardins du Monde — https://jardins-du-monde.be/fr/arbres/aulne-glutineux.html",
-        "senescence": [
-          9,
-          0.2119815668202765
-        ],
-        "senescence_djc": 4588,
-        "senescence_travaux": "Observation — Ko 49 (8-12 oct) ~4588°J : feuilles jaunissant tardivement (aulne caduc tardif), souvent encore vertes tandis que d'autres espèces ont déjà perdu leur feuillage. Cônes persistants ornementaux.\nFertilisation : suspendre.\nSource : Jardins du Monde — https://jardins-du-monde.be/fr/arbres/aulne-glutineux.html",
-        "dormance_travaux": "Observation — Ko 57 (17-21 nov) ~5223°J : chute des feuilles tardive, cônes brun-noir persistants sur rameaux nus tout l'hiver. Chatons mâles déjà bien formés pour la floraison de février. Rustique jusqu'à -25°C à Cazaux, aucune protection nécessaire. Maintenir le substrat humide même en hiver.\nFertilisation : suspendre.\nSource : Mistral Bonsai — https://www.mistralbonsai.com/fr/tout-sur-le-bonsai/fiches-techniques-des-bonsais/bonsai-dexterieur/aulne/",
-        "notes_perso": "",
-        "erreurs_fatales": "",
-        "dormance_djc": 5223,
-        "dormance": [
-          10,
-          0.6719242902208202
         ]
       },
       {
@@ -946,9 +844,9 @@
         "floraison_travaux": "Observation — Ko 23 (26-31 mai) ~1776°J : bractées rose-magenta sur le bois de l'année précédente. Floraison déclenchée par stress hydrique léger.\nMebana (sélection bourgeons) — conserver les rameaux florifères, éliminer les gourmands basaux.\nFertilisation : NPK 4-10-10, EC 0,8-1,0 mS/cm, pH 5,5-6,5. Favoriser la floraison avec un engrais pauvre en azote.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
         "croissance": [
           5,
-          0.7517985611510791
+          0.5503597122302158
         ],
-        "croissance_djc": 2310,
+        "croissance_djc": 2198,
         "croissance_travaux": "Observation — Ko 27 (16-20 juin) ~2198°J : croissance active, pousses longues et vigoureuses après floraison.\nSentai (taille de structure) — taille de rectification après floraison, conserver 2-3 paires de feuilles sur chaque pousse.\nMetsumi (pincement) — pincement régulier pour densifier la ramification et induire une seconde floraison.\nHarigane-kake (ligature) — ligature des rameaux en croissance, attention aux épines.\nToriki (marcottage aérien) — Ko 27-35 période optimale, sève active.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
         "maturation": [
           7,
@@ -963,71 +861,8 @@
         "senescence_djc": 4401,
         "senescence_travaux": "Observation — Ko 47 (28 sept-2 oct) ~4401°J : ralentissement marqué, feuilles pâlissent légèrement. Rentrer en serre avant les premières gelées (seuil critique : 5°C).\nFertilisation : arrêt complet de la fertilisation azotée. Dernière application Ko 48 maximum.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
         "dormance_travaux": "Observation — Ko 57 (17-21 nov) ~5223°J : repos en serre froide (5-10°C), arrosages très espacés, feuilles partiellement tombées.\nSentai (taille de structure) — taille de structure en fin de dormance (Ko 3-4), avant la reprise. Ne jamais tailler en automne — la floraison se forme sur le bois de l'année.\nFertilisation : aucune en dormance. Reprendre à la sortie hivernage.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
-        "notes_perso": "Uekae (rempotage) — rempotage à la reprise, tous les 2-3 ans.     (JL = pumice + charbon + Ecorce de pin compostée + pouzzolane) Rempagage d'une bouture de 20 jours. Erreurs = racines fragiles, ne pas tailler les fleurs, ne pas mettre à l'hombre et à l'abrit du vent",
+        "notes_perso": "Uekae (rempotage) — rempotage à la reprise, tous les 2-3 ans.     (JL = pumice + charbon + Ecorce de pin compostée + pouzzolane",
         "erreurs_fatales": "variété à bractées blanches se teintant de rose. Bien poussant. Port naturellement retombant. À palisser ou tuteurer pour l'utiliser en grimpant. Non rustique\n\nFloraison : avril-septembre\nRusticité : 1°C\nSol : riche et drainé\nUtilisations : bac, pot, jardinière, massif, mur",
-        "dormance_djc": 5223,
-        "dormance": [
-          10,
-          0.6719242902208202
-        ],
-        "flush2_djc": null,
-        "flush2": null,
-        "flush2_travaux": "",
-        "flush3_djc": null,
-        "flush3": null,
-        "flush3_travaux": ""
-      },
-      {
-        "_id": "msa6ieeaczap",
-        "espece": "Bougainvillier 'Sanderiana Alexandra'",
-        "url": "https://fr.wikipedia.org/wiki/Bougainvillea_glabra",
-        "notes": "Semi-persistant à persistant selon hivernage, famille Nyctaginaceae. Bougainvillea glabra 'Alexandra' (syn. 'Sanderiana'). Bractées violet-mauve lumineux, feuillage vert vif, tiges moins épineuses que B. spectabilis. Plus rustique parmi les Bougainvilliers (supporte jusqu'à 2-3°C brefs). Floraison très généreuse et remontante sur bois aoûté. Très prisé en bonsaï tropical pour sa vigueur et sa floraison abondante.",
-        "photo": "",
-        "debourrement": null,
-        "debourrement_djc": null,
-        "debourrement_travaux": "",
-        "feuillaison": [
-          3,
-          0
-        ],
-        "feuillaison_djc": 992,
-        "feuillaison_travaux": "Observation — Ko 13 (5-9 avr) ~992°J : reprise végétative après hivernage, débourrement des bourgeons axillaires, nouvelles feuilles vert vif.\nUekae (rempotage) — tous les 2 ans à la reprise printanière. Substrat : 50% Akadama, 30% Pumice, 20% sable grossier. pH 5,5-6,5, drainage strict — la pourriture racinaire est le risque majeur en hiver.\nHarigane-kake (ligature) — poser le fil aluminium sur les nouvelles pousses encore souples avant lignification rapide.\nFertilisation : NPK 10-6-6, EC 0,8-1,2 mS/cm, pH 5,5-6,5. Reprendre progressivement dès la sortie hivernage.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
-        "floraison": [
-          4,
-          1
-        ],
-        "floraison_djc": 1776,
-        "floraison_travaux": "Observation — Ko 23 (26-31 mai) ~1776°J : bractées violet-mauve sur le bois aoûté. B. glabra fleurit plus tôt et plus abondamment que B. spectabilis. Floraison déclenchée par stress hydrique léger (réduire arrosage 7-10 jours).\nMebana (sélection bourgeons) — supprimer les gourmands basaux, conserver les rameaux florifères courts.\nFertilisation : NPK 4-10-10, EC 0,8-1,0 mS/cm, pH 5,5-6,5. Azote réduit pour prolonger et intensifier la floraison.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
-        "croissance": [
-          5,
-          0.3723021582733813
-        ],
-        "croissance_djc": 2099,
-        "croissance_travaux": "Observation — Ko 26 (11-15 juin) ~2099°J : 1ère vague de croissance post-floraison, pousses longues et vigoureuses.\nSentai (taille de structure) — taille après floraison, raccourcir à 2-3 paires de feuilles pour induire ramification et 2e floraison.\nMetsumi (pincement) — pincement régulier toutes les 3 semaines sur les nouvelles pousses.\nHarigane-kake (ligature) — ligature des rameaux en croissance, surveiller la lignification rapide.\nToriki (marcottage aérien) — Ko 26-34 période optimale.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
-        "flush2": [
-          6,
-          0.6028119507908611
-        ],
-        "flush2_djc": 2899,
-        "flush2_travaux": "Observation — Ko 33 (18-22 juil) ~2899°J : 2e vague de croissance après taille de juin, pousses plus courtes, possible apparition de nouvelles bractées sur rameaux pincés.\nMetsumi (pincement) — pincer à 2 paires de feuilles pour densifier et préparer une 3e floraison automnale.\nFertilisation : NPK 6-10-10, EC 0,8-1,2 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
-        "flush3": null,
-        "flush3_djc": null,
-        "flush3_travaux": "",
-        "maturation": [
-          7,
-          0.521870286576169
-        ],
-        "maturation_djc": 3576,
-        "maturation_travaux": "Observation — Ko 39 (18-22 août) ~3576°J : aoûtement du bois, possible 3e vague de bractées sur sujets vigoureux pincés en juillet. Croissance ralentit nettement.\nSentai (taille de structure) — taille légère de rectification uniquement, conserver le bois aoûté porteur de bourgeons florifères pour l'an prochain.\nFertilisation : NPK 4-10-10, EC 0,8-1,0 mS/cm, pH 5,5-6,5. Durcir les tissus avant hivernage.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
-        "senescence": [
-          8,
-          0.7612732095490716
-        ],
-        "senescence_djc": 4311,
-        "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : ralentissement net de la végétation, feuilles pâlissent légèrement. Rentrer en serre avant 5°C nocturnes. B. glabra tolère de brèves gelées légères mais ne pas tenter à Cazaux.\nFertilisation : arrêt de l'azote. Dernière application Ko 46 maximum.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
-        "dormance_travaux": "Observation — Ko 57 (17-21 nov) ~5223°J : repos en serre froide (5-10°C), feuilles semi-caduques, arrosages très espacés (1 fois toutes les 2-3 semaines, laisser le substrat presque sec).\nSentai (taille de structure) — taille de structure en fin de dormance Ko 3-5, avant reprise printanière. Ne jamais tailler en automne-hiver — le bois aoûté porte les bourgeons florifères.\nFertilisation : aucune en dormance. Reprendre à Ko 13 à la sortie hivernage.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
-        "notes_perso": "",
-        "erreurs_fatales": "",
         "dormance_djc": 5223,
         "dormance": [
           10,
@@ -1044,10 +879,10 @@
         "debourrement_djc": null,
         "debourrement_travaux": "",
         "feuillaison": [
-          6,
-          0.1827768014059754
+          3,
+          0.21487603305785125
         ],
-        "feuillaison_djc": 2660,
+        "feuillaison_djc": 1070,
         "feuillaison_travaux": "Observation — Ko 15 (15-19 avr) ~1142°J : reprise végétative après hivernage, débourrement des bourgeons axillaires, nouvelles feuilles vert sombre luisant.\nUekae (rempotage) — tous les 2 ans à la reprise. Substrat : 50% Akadama, 30% Pumice, 20% sable grossier. pH 5,5-6,5, drainage absolu — la pourriture racinaire est le risque majeur.\nHarigane-kake (ligature) — poser le fil aluminium sur les nouvelles pousses encore souples.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-6,5. Reprendre progressivement à la sortie hivernage.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
         "floraison": [
           4,
@@ -1080,17 +915,11 @@
         "dormance": [
           10,
           0.6719242902208202
-        ],
-        "flush2_djc": null,
-        "flush2": null,
-        "flush2_travaux": "",
-        "flush3_djc": null,
-        "flush3": null,
-        "flush3_travaux": ""
+        ]
       },
       {
         "_id": "mpwv4uwadnj9",
-        "espece": "Citronnier du Vietnam \"Chanh\"",
+        "espece": "Citron du Vietnam \"Chanh\"",
         "url": "https://fr.wikipedia.org/wiki/Citrus_aurantiifolia",
         "notes": "Persistant. Rutaceae. Citrus très thermophile, seuil critique ~5°C — rentrée obligatoire à Cazaux dès Ko 55 (nov). Floraisons remontantes possibles toute l'année si chaleur maintenue. Fruits mûrissent en 6-9 mois. Épines axillaires fréquentes. Petites feuilles ailées, très aromatiques. Espèce greffée en culture commerciale — Tsugiki facilite la mise en forme. Sensible araignées rouges, cochenilles, mineuse des feuilles.",
         "photo": "",
@@ -1128,19 +957,7 @@
         "dormance": [
           10,
           0.24290220820189273
-        ],
-        "flush2_djc": 2310,
-        "flush2": [
-          5,
-          0.7517985611510791
-        ],
-        "flush2_travaux": "Tailler les pousses sans fruits à 2, 3 feuilles",
-        "flush3_djc": 2772,
-        "flush3": [
-          6,
-          0.37961335676625657
-        ],
-        "flush3_travaux": "Bouture fait  des racines"
+        ]
       },
       {
         "_id": "mpifasqfteyj",
@@ -1194,177 +1011,6 @@
         ]
       },
       {
-        "_id": "mqrjnlb4rlue",
-        "espece": "Figuier Madelaine des 2 saisons",
-        "url": "https://fr.wikipedia.org/wiki/Figuier_commun",
-        "notes": "Caduc. Moraceae. Cultivar bifère de Ficus carica, très vieille variété rustique jusqu'à -15°C. Deux fructifications distinctes : figues-fleurs sur bois de l'année précédente (juin-juillet), figues d'automne sur pousses de l'année (août-octobre). Croissance lente, idéal culture en pot et bonsaï. Sève lactescente irritante à la taille — gants indispensables. Taille hivernale sévère à éviter : elle supprime les figues-fleurs portées sur le vieux bois. Architecture basitone : rejets de base fréquents à supprimer. À Cazaux, exposition ensoleillée abritée des vents du nord.",
-        "photo": "",
-        "debourrement": [
-          2,
-          0.1362397820163488
-        ],
-        "debourrement_djc": 607,
-        "debourrement_travaux": "Observation — Ko 6 (1-5 mars) ~557°J : gonflement des bourgeons, premiers folioles vert clair visibles sur le bois de l'année précédente portant les figues-fleurs en formation.\nSentai (taille de structure) — taille légère uniquement : supprimer branches croisées, mal orientées, rejets basaux ; NE PAS tailler sévèrement (suppression des figues-fleurs sur vieux bois). Porter des gants (sève lactescente irritante).\nUekae (rempotage) — Ko 5-8, tous les 2-3 ans. Substrat : 50% terreau, 30% pouzzolane, 20% sable grossier ; pH 6,0-7,0, drainage excellent.\nFertilisation : suspendre jusqu'au débourrement complet.\nSource : Jardiner Malin — https://www.jardiner-malin.fr/fiche/figuier.html",
-        "feuillaison": [
-          2,
-          1
-        ],
-        "feuillaison_djc": 924,
-        "feuillaison_travaux": "Observation — Ko 12 (31 mars-4 avr) ~924°J : grandes feuilles palmées profondément lobées entièrement déployées, figues-fleurs déjà visibles à l'aisselle des feuilles sur le vieux bois.\nFertilisation : NPK 7-5-7, EC 0,8-1,0 mS/cm, pH 6,0-7,0.\nSource : Silence ça pousse — https://www.silencecapousse-chezvous.fr/figuier-madeleine-des-deux-saisons",
-        "floraison": null,
-        "floraison_djc": null,
-        "floraison_travaux": "",
-        "croissance": [
-          3,
-          0.21487603305785125
-        ],
-        "croissance_djc": 1070,
-        "croissance_travaux": "Observation — Ko 14 (10-14 avr) ~1070°J : croissance végétative active, figues-fleurs grossissant sur vieux bois, nouvelles pousses de l'année en élongation portant les futurs bourgeons de figues d'automne.\nMetsumi (pincement) — pincer les pousses nouvelles à 5-6 feuilles pour compacter la silhouette et concentrer la sève vers les figues-fleurs.\nHarigane-kake (ligature) — ligature légère sur rameaux souples en croissance, bois souple et extensible ; surveiller les marques toutes les 3 semaines.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 6,0-7,0.\nSource : Silence ça pousse — https://www.silencecapousse-chezvous.fr/figuier-madeleine-des-deux-saisons",
-        "flush2": [
-          5,
-          0.7517985611510791
-        ],
-        "flush2_djc": 2310,
-        "flush2_travaux": "Observation — Ko 28 (21-26 juin) ~2310°J : 2e flush végétatif sur pousses de l'année, figues-fleurs de la 1ère récolte (vert-jaune, 50-80g) en cours de maturation sur vieux bois, figues d'automne déjà visibles en boutons à l'aisselle des nouvelles feuilles.\nMetsumi (pincement) — pincer les pousses de ce 2e flush à 4-5 feuilles pour concentrer l'énergie vers la 2e fructification.\nFertilisation : NPK 5-10-10, EC 1,0-1,5 mS/cm, pH 6,0-7,0 — pivot vers P/K pour soutenir la fructification double.\nSource : Les Jardins d'Ollivier — https://www.au-jardin-bio.com/boutique/vegetaux/petits-fruitiers/figuier-madelaine-des-deux-saisons-bio/",
-        "flush3": null,
-        "flush3_djc": null,
-        "flush3_travaux": "",
-        "maturation": [
-          7,
-          0.6953242835595776
-        ],
-        "maturation_djc": 3691,
-        "maturation_travaux": "Observation — Ko 40 (23-27 août) ~3691°J : 2e récolte (figues d'automne, vert-bronze, 40-50g, chair rose) en cours de grossissement et maturation jusqu'à octobre.\nÉclaircie des figues — laisser 1-2 figues par pousse si charge excessive, pour ne pas épuiser l'arbre avant l'hiver.\nFertilisation : NPK 4-10-14, EC 0,8-1,0 mS/cm, pH 6,0-7,0.\nSource : Silence ça pousse — https://www.silencecapousse-chezvous.fr/figuier-madeleine-des-deux-saisons",
-        "senescence": [
-          9,
-          0.2119815668202765
-        ],
-        "senescence_djc": 4588,
-        "senescence_travaux": "Observation — Ko 49 (8-12 oct) ~4588°J : fin de la 2e récolte, grandes feuilles palmées jaunissant progressivement.\nSentai (taille de structure) — NE PAS tailler maintenant, attendre la dormance complète pour ne pas provoquer de repousse tardive.\nFertilisation : suspendre.\nSource : Jardiner Malin — https://www.jardiner-malin.fr/fiche/figuier.html",
-        "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, dormance complète. Rustique jusqu'à -15°C à Cazaux, aucune protection nécessaire en exposition abritée.\nSentai (taille de structure) — taille légère de fin d'hiver (Ko 1-5) : supprimer bois mort, rejets basaux et branches encombrantes uniquement — conserver impérativement le bois de l'année précédente qui portera les figues-fleurs de la prochaine saison. Porter des gants.\nFertilisation : suspendre.\nSource : Jardiner Malin — https://www.jardiner-malin.fr/fiche/figuier.html",
-        "notes_perso": "Bifère confirmé : figues-fleurs sur bois de l'année précédente (maturité juillet), puis figues d'automne sur pousses de l'année (maturité août-octobre). Attention taille hivernale : une taille trop sévère supprime la récolte de figues-fleurs portées sur le bois formé l'année précédente. Croissance plutôt lente, parfaitement adapté à la culture en pot.",
-        "erreurs_fatales": "",
-        "dormance_djc": 5087,
-        "dormance": [
-          10,
-          0.24290220820189273
-        ]
-      },
-      {
-        "_id": "mqrjplco1g1t",
-        "espece": "Figuier précoce de Dalmatie - Ficus carica",
-        "url": "https://fr.wikipedia.org/wiki/Figuier_commun",
-        "notes": "Caduc. Moraceae. Cultivar bifère de Ficus carica, originaire de Turquie et d'Asie Mineure. Deux fructifications : figues-fleurs vert-jaune (juillet) sur bois de l'année précédente, figues d'automne vert-bronze à chair rouge vif sucrée (septembre-octobre) sur bois de l'année. Petit développement (2,5 m x 2 m), faible vigueur, idéal culture en pot et bonsaï. Rustique jusqu'à -18°C, adapté à l'humidité et au climat atlantique de Cazaux. Sève lactescente irritante — gants indispensables à la taille. Taille hivernale sévère à proscrire : supprime les figues-fleurs sur vieux bois.",
-        "photo": "",
-        "debourrement": [
-          2,
-          0.1362397820163488
-        ],
-        "debourrement_djc": 607,
-        "debourrement_travaux": "Observation — Ko 6 (1-5 mars) ~557°J : gonflement des bourgeons, premiers folioles visibles sur le vieux bois portant les futures figues-fleurs déjà formées en embryons.\nSentai (taille de structure) — taille légère uniquement : supprimer bois mort, branches croisées, rejets basaux ; NE PAS tailler sévèrement (supprime les figues-fleurs sur vieux bois). Porter des gants.\nUekae (rempotage) — Ko 5-8, tous les 2-3 ans. Substrat : 40% compost d'écorce, 30% terreau, 30% pouzzolane ; pH 6,5-8,5, drainage impératif.\nFertilisation : suspendre jusqu'au débourrement complet.\nSource : Jardins du Monde — https://www.jardins-du-monde.be/fr/fruitiers/584-figuier-precoce-de-dalmatie.html",
-        "feuillaison": [
-          2,
-          1
-        ],
-        "feuillaison_djc": 924,
-        "feuillaison_travaux": "Observation — Ko 12 (31 mars-4 avr) ~924°J : grandes feuilles à 5-7 lobes profondément découpés, vert vif, entièrement déployées. Figues-fleurs déjà visibles à l'aisselle des feuilles sur le vieux bois.\nFertilisation : NPK 7-5-7, EC 0,8-1,0 mS/cm, pH 6,5-8,0.\nSource : Arbres Fruitiers — https://arbresfruitiers-fr.fr/product/figuier-precoce-de-dalmatie-ficus-carica/",
-        "floraison": null,
-        "floraison_djc": null,
-        "floraison_travaux": "",
-        "croissance": [
-          3,
-          0.21487603305785125
-        ],
-        "croissance_djc": 1070,
-        "croissance_travaux": "Observation — Ko 14 (10-14 avr) ~1070°J : croissance végétative active, pousses de l'année en élongation portant les futurs bourgeons de figues d'automne, figues-fleurs grossissant sur vieux bois.\nMetsumi (pincement) — pincer les nouvelles pousses à 5-6 feuilles pour compacter la silhouette et concentrer la sève vers les figues-fleurs.\nHarigane-kake (ligature) — ligature légère sur rameaux souples, bois tendre et spongieux ; surveiller les marques toutes les 3 semaines.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 6,5-8,0.\nSource : Arbres Fruitiers — https://arbresfruitiers-fr.fr/product/figuier-precoce-de-dalmatie-ficus-carica/",
-        "flush2": [
-          5,
-          0.7517985611510791
-        ],
-        "flush2_djc": 2310,
-        "flush2_travaux": "Observation — Ko 28 (21-26 juin) ~2310°J : 2e flush végétatif sur pousses de l'année, figues-fleurs (vert-jaune, jusqu'à 120g) en cours de maturation sur vieux bois, figues d'automne en boutons à l'aisselle des nouvelles feuilles.\nMetsumi (pincement) — pincer les pousses de ce 2e flush à 4-5 feuilles pour concentrer l'énergie vers la 2e fructification.\nFertilisation : NPK 5-10-10, EC 1,0-1,5 mS/cm, pH 6,5-8,0 — pivot vers P/K pour soutenir la double fructification.\nSource : À l'ombre des figuiers — https://www.achat-vente-palmiers.com/fr/figuiers/1261-ficus-precoce-de-dalmatie.html",
-        "flush3": null,
-        "flush3_djc": null,
-        "flush3_travaux": "",
-        "maturation": [
-          7,
-          0.6953242835595776
-        ],
-        "maturation_djc": 3691,
-        "maturation_travaux": "Observation — Ko 40 (23-27 août) ~3691°J : 2e récolte (figues d'automne, vert-bronze, chair rouge vif sucrée, notes de miel et fraise) en grossissement et maturation jusqu'en octobre.\nÉclaircie des figues — limiter à 1-2 figues par pousse si charge excessive pour ne pas épuiser l'arbre avant l'hiver.\nFertilisation : NPK 4-10-14, EC 0,8-1,0 mS/cm, pH 6,5-8,0.\nSource : La Compagnie des Arbres — https://www.la-compagnie-des-arbres.fr/figuier/108-15826-figuier-de-dalmatie-ficus-carica.html",
-        "senescence": [
-          9,
-          0.2119815668202765
-        ],
-        "senescence_djc": 4588,
-        "senescence_travaux": "Observation — Ko 49 (8-12 oct) ~4588°J : fin de la 2e récolte, feuilles vert vif virant au jaune puis chutant progressivement.\nNE PAS tailler maintenant — attendre la dormance complète pour ne pas provoquer de repousse tardive.\nFertilisation : suspendre.\nSource : Arbres Fruitiers — https://arbresfruitiers-fr.fr/product/figuier-precoce-de-dalmatie-ficus-carica/",
-        "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, dormance complète. Rustique jusqu'à -18°C à Cazaux, aucune protection nécessaire en exposition abritée au soleil.\nSentai (taille de structure) — fin d'hiver (Ko 1-5) : taille légère uniquement ; conserver impérativement le bois de l'année précédente portant les futures figues-fleurs. Porter des gants.\nFertilisation : suspendre.\nSource : Pépinière des Fruitiers — https://www.pepinieredesfruitiers.com/product-page/figuier-dalmatie",
-        "notes_perso": "Bifère confirmé sur toutes les sources : figues-fleurs vert-jaune en juillet sur rameaux de l'année précédente, puis figues d'automne vert-bronze en septembre-octobre sur bois de l'année. Gros fruits jusqu'à 120g, particulièrement adapté à la côte atlantique. Même schéma que la Madeleine des 2 saisons, avec la spécificité clé : petit développement et faible vigueur, idéal culture en pot et bonsaï. ncsu + 2",
-        "erreurs_fatales": "",
-        "dormance_djc": 5087,
-        "dormance": [
-          10,
-          0.24290220820189273
-        ]
-      },
-      {
-        "_id": "mqt5fqkrengc",
-        "espece": "Figuier précoce de Dalmatie - Ficus carica",
-        "url": "https://fr.wikipedia.org/wiki/Figuier_commun",
-        "notes": "Caduc. Moraceae. Cultivar bifère de Ficus carica, originaire de Turquie et d'Asie Mineure. Deux fructifications : figues-fleurs vert-jaune (juillet) sur bois de l'année précédente, figues d'automne vert-bronze à chair rouge vif sucrée (septembre-octobre) sur bois de l'année. Petit développement (2,5 m x 2 m), faible vigueur, idéal culture en pot et bonsaï. Rustique jusqu'à -18°C, adapté à l'humidité et au climat atlantique de Cazaux. Sève lactescente irritante — gants indispensables à la taille. Taille hivernale sévère à proscrire : supprime les figues-fleurs sur vieux bois.",
-        "photo": "",
-        "debourrement": [
-          2,
-          0.1362397820163488
-        ],
-        "debourrement_djc": 607,
-        "debourrement_travaux": "Observation — Ko 6 (1-5 mars) ~557°J : gonflement des bourgeons, premiers folioles visibles sur le vieux bois portant les futures figues-fleurs déjà formées en embryons.\nSentai (taille de structure) — taille légère uniquement : supprimer bois mort, branches croisées, rejets basaux ; NE PAS tailler sévèrement (supprime les figues-fleurs sur vieux bois). Porter des gants.\nUekae (rempotage) — Ko 5-8, tous les 2-3 ans. Substrat : 40% compost d'écorce, 30% terreau, 30% pouzzolane ; pH 6,5-8,5, drainage impératif.\nFertilisation : suspendre jusqu'au débourrement complet.\nSource : Jardins du Monde — https://www.jardins-du-monde.be/fr/fruitiers/584-figuier-precoce-de-dalmatie.html",
-        "feuillaison": [
-          2,
-          1
-        ],
-        "feuillaison_djc": 924,
-        "feuillaison_travaux": "Observation — Ko 12 (31 mars-4 avr) ~924°J : grandes feuilles à 5-7 lobes profondément découpés, vert vif, entièrement déployées. Figues-fleurs déjà visibles à l'aisselle des feuilles sur le vieux bois.\nFertilisation : NPK 7-5-7, EC 0,8-1,0 mS/cm, pH 6,5-8,0.\nSource : Arbres Fruitiers — https://arbresfruitiers-fr.fr/product/figuier-precoce-de-dalmatie-ficus-carica/",
-        "floraison": null,
-        "floraison_djc": null,
-        "floraison_travaux": "",
-        "croissance": [
-          3,
-          0.21487603305785125
-        ],
-        "croissance_djc": 1070,
-        "croissance_travaux": "Observation — Ko 14 (10-14 avr) ~1070°J : croissance végétative active, pousses de l'année en élongation portant les futurs bourgeons de figues d'automne, figues-fleurs grossissant sur vieux bois.\nMetsumi (pincement) — pincer les nouvelles pousses à 5-6 feuilles pour compacter la silhouette et concentrer la sève vers les figues-fleurs.\nHarigane-kake (ligature) — ligature légère sur rameaux souples, bois tendre et spongieux ; surveiller les marques toutes les 3 semaines.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 6,5-8,0.\nSource : Arbres Fruitiers — https://arbresfruitiers-fr.fr/product/figuier-precoce-de-dalmatie-ficus-carica/",
-        "flush2": [
-          5,
-          0.7517985611510791
-        ],
-        "flush2_djc": 2310,
-        "flush2_travaux": "Observation — Ko 28 (21-26 juin) ~2310°J : 2e flush végétatif sur pousses de l'année, figues-fleurs (vert-jaune, jusqu'à 120g) en cours de maturation sur vieux bois, figues d'automne en boutons à l'aisselle des nouvelles feuilles.\nMetsumi (pincement) — pincer les pousses de ce 2e flush à 4-5 feuilles pour concentrer l'énergie vers la 2e fructification.\nFertilisation : NPK 5-10-10, EC 1,0-1,5 mS/cm, pH 6,5-8,0 — pivot vers P/K pour soutenir la double fructification.\nSource : À l'ombre des figuiers — https://www.achat-vente-palmiers.com/fr/figuiers/1261-ficus-precoce-de-dalmatie.html",
-        "flush3": null,
-        "flush3_djc": null,
-        "flush3_travaux": "",
-        "maturation": [
-          7,
-          0.6953242835595776
-        ],
-        "maturation_djc": 3691,
-        "maturation_travaux": "Observation — Ko 40 (23-27 août) ~3691°J : 2e récolte (figues d'automne, vert-bronze, chair rouge vif sucrée, notes de miel et fraise) en grossissement et maturation jusqu'en octobre.\nÉclaircie des figues — limiter à 1-2 figues par pousse si charge excessive pour ne pas épuiser l'arbre avant l'hiver.\nFertilisation : NPK 4-10-14, EC 0,8-1,0 mS/cm, pH 6,5-8,0.\nSource : La Compagnie des Arbres — https://www.la-compagnie-des-arbres.fr/figuier/108-15826-figuier-de-dalmatie-ficus-carica.html",
-        "senescence": [
-          9,
-          0.2119815668202765
-        ],
-        "senescence_djc": 4588,
-        "senescence_travaux": "Observation — Ko 49 (8-12 oct) ~4588°J : fin de la 2e récolte, feuilles vert vif virant au jaune puis chutant progressivement.\nNE PAS tailler maintenant — attendre la dormance complète pour ne pas provoquer de repousse tardive.\nFertilisation : suspendre.\nSource : Arbres Fruitiers — https://arbresfruitiers-fr.fr/product/figuier-precoce-de-dalmatie-ficus-carica/",
-        "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, dormance complète. Rustique jusqu'à -18°C à Cazaux, aucune protection nécessaire en exposition abritée au soleil.\nSentai (taille de structure) — fin d'hiver (Ko 1-5) : taille légère uniquement ; conserver impérativement le bois de l'année précédente portant les futures figues-fleurs. Porter des gants.\nFertilisation : suspendre.\nSource : Pépinière des Fruitiers — https://www.pepinieredesfruitiers.com/product-page/figuier-dalmatie",
-        "notes_perso": "Bifère confirmé sur toutes les sources : figues-fleurs vert-jaune en juillet sur rameaux de l'année précédente, puis figues d'automne vert-bronze en septembre-octobre sur bois de l'année. Gros fruits jusqu'à 120g, particulièrement adapté à la côte atlantique. Même schéma que la Madeleine des 2 saisons, avec la spécificité clé : petit développement et faible vigueur, idéal culture en pot et bonsaï.",
-        "erreurs_fatales": "",
-        "dormance_djc": 5087,
-        "dormance": [
-          10,
-          0.24290220820189273
-        ]
-      },
-      {
         "_id": "mpzrjgs1y1rj",
         "espece": "Jasmin étoilé - Trachelospermum jasminoides",
         "url": "https://fr.wikipedia.org/wiki/Trachelospermum_jasminoides",
@@ -1404,16 +1050,7 @@
         "dormance": [
           10,
           0.24290220820189273
-        ],
-        "flush2_djc": 2310,
-        "flush2": [
-          5,
-          0.7517985611510791
-        ],
-        "flush2_travaux": "Engrais, laisser pousser, tuttorer",
-        "flush3_djc": null,
-        "flush3": null,
-        "flush3_travaux": ""
+        ]
       },
       {
         "_id": "mpzrgdqqn0s8",
@@ -1482,10 +1119,10 @@
         "feuillaison_djc": 924,
         "feuillaison_travaux": "Observation — Ko 12 (31 mars-4 avr) ~924°J : feuilles composées entièrement déployées, pousses élancées en croissance active.\nMetsumi (pincement) — pincer dès 4-5 paires de folioles pour raccourcir les entre-nœuds, répéter toutes les 2 semaines.\nHarigane-kake (ligature) — ligature sur nouvelles pousses encore souples ; surveiller les marques toutes les 10 jours (croissance rapide).\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Jardiner Malin — https://www.jardiner-malin.fr/fiche/jasmin.html",
         "floraison": [
-          6,
-          0
+          5,
+          0.3723021582733813
         ],
-        "floraison_djc": 2556,
+        "floraison_djc": 2099,
         "floraison_travaux": "Observation — Ko 26 (11-15 juin) ~2099°J : premiers boutons floraux blancs très parfumés sur pousses de l'année. Floraison remontante jusqu'à Ko 49 (oct) si tailles successives après chaque vague.\nSentai (taille de structure) — tailler immédiatement après chaque vague florale en laissant 2 paires de feuilles ; déclenche une nouvelle vague en 3-4 semaines.\nMetsumi (pincement) — arrêter le pincement sur les rameaux à boutons pour ne pas supprimer les fleurs.\nFertilisation : NPK 5-10-10, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Bonsai Galinou — https://www.bonsaigalinou.com/fr/bonsai/4320-jasmin-jasminum-1-7.html",
         "croissance": [
           3,
@@ -1509,13 +1146,7 @@
         "dormance": [
           10,
           0.24290220820189273
-        ],
-        "flush2_djc": null,
-        "flush2": null,
-        "flush2_travaux": "",
-        "flush3_djc": null,
-        "flush3": null,
-        "flush3_travaux": ""
+        ]
       },
       {
         "_id": "mqj3jflrzixv",
@@ -1551,16 +1182,7 @@
         "dormance": [
           10,
           0.8296529968454258
-        ],
-        "flush2_djc": 2660,
-        "flush2": [
-          6,
-          0.1827768014059754
-        ],
-        "flush2_travaux": "Faire un metsumi",
-        "flush3_djc": null,
-        "flush3": null,
-        "flush3_travaux": ""
+        ]
       },
       {
         "_id": "mqj3n0x62nj4",
@@ -1695,60 +1317,45 @@
         ]
       },
       {
-        "_id": "mqt590s8hn5h",
-        "espece": "Lilas commun Aucubaefolia,",
-        "url": "https://fr.wikipedia.org/wiki/Syringa_vulgaris",
-        "notes": "Caduc. Oleaceae. Cultivar panaché de Syringa vulgaris, sélectionné en 1919 en France, obtention issue du lilas 'Président Grévy'. Feuillage cordiforme vert moucheté de taches jaunes évoquant les feuilles d'Aucuba — décoratif de mai à novembre. Fleurs mauves doubles parfumées en thyrses coniques (avril-mai), sur bois de l'année précédente. Toute taille après mi-juillet supprime les boutons floraux déjà formés. Fleurit mieux sur sol pauvre : un sol trop fertile favorise le feuillage au détriment de la floraison. Panachure réversible : supprimer immédiatement les pousses entièrement vertes. Rustique jusqu'à -20°C. Sol drainé neutre à calcaire.",
+        "_id": "mqmi2vt61d0i",
+        "espece": "Lierre",
+        "url": "https://fr.wikipedia.org/wiki/Lierre_grimpant",
+        "notes": "Persistant. Araliaceae. Liane à dimorphisme foliaire marqué : feuilles lobées (3-5 lobes) au stade juvénile grimpant/rampant, feuilles ovales entières et floraison uniquement au stade adulte arbustif (rarement atteint en bonsaï). Croissance continue sans flush net, contrairement aux feuillus à débourrement printanier classique. Formation très complexe malgré une culture facile — espèce rare en bonsaï. Rustique jusqu'à -15°C, aucune protection nécessaire à Cazaux. Tolère tous sols, préférence pour substrat frais et calcaire.",
         "photo": "",
-        "debourrement": [
-          1,
-          1
-        ],
-        "debourrement_djc": 512,
-        "debourrement_travaux": "Observation — Ko 5 (24-28 fév) ~512°J : gonflement des bourgeons, premières feuilles cordiformes panachées s'ouvrant.\nUekae (rempotage) — Ko 5-8, après floraison terminée, tous les 2-3 ans. Substrat : 50% akadama, 30% pouzzolane, 20% sable grossier ; pH 6,5-7,5 (neutre à calcaire), sol volontairement peu fertile pour favoriser la floraison, drainage correct.\nFertilisation : suspendre jusqu'au débourrement complet.\nSource : Promesse de Fleurs — https://www.promessedefleurs.com/arbustes/arbustes-par-variete/lilas/lilas-syringa-vulgaris-aucubaefolia.html",
-        "feuillaison": [
+        "debourrement": null,
+        "debourrement_djc": null,
+        "debourrement_travaux": "",
+        "feuillaison": null,
+        "feuillaison_djc": null,
+        "feuillaison_travaux": "",
+        "floraison": null,
+        "floraison_djc": null,
+        "floraison_travaux": "",
+        "croissance": [
           2,
           0.4604904632152589
         ],
-        "feuillaison_djc": 726,
-        "feuillaison_travaux": "Observation — Ko 9 (16-20 mars) ~726°J : feuillage entièrement déployé, mouchetures jaunes bien visibles sur fond vert moyen. Supprimer immédiatement les pousses entièrement vertes (réversion de panachure).\nFertilisation : NPK 5-5-5 dilué (sol volontairement pauvre), EC 0,6-0,8 mS/cm, pH 6,5-7,5.\nSource : Promesse de Fleurs — https://www.promessedefleurs.com/arbustes/arbustes-par-variete/lilas/lilas-syringa-vulgaris-aucubaefolia.html",
-        "floraison": [
-          4,
-          0.24770642201834864
-        ],
-        "floraison_djc": 1530,
-        "floraison_travaux": "Observation — Ko 20 (11-15 mai) ~1530°J : thyrses coniques de fleurs mauves doubles parfumées, issues des boutons formés l'année précédente sur le vieux bois.\nSupprimer les thyrses fanés immédiatement après floraison, sans couper le bois porteur des boutons de l'année suivante.\nFertilisation : suspendre pendant la floraison, reprendre NPK 4-8-8 après.\nSource : Promesse de Fleurs — https://www.promessedefleurs.com/arbustes/arbustes-par-variete/lilas/lilas-syringa-vulgaris-aucubaefolia.html",
-        "croissance": [
-          3,
-          0.21487603305785125
-        ],
-        "croissance_djc": 1070,
-        "croissance_travaux": "Observation — Ko 14 (10-14 avr) ~1070°J : croissance végétative active en parallèle des boutons floraux.\nSentai (taille de structure) — immédiatement après floraison (Ko 22-24) : tailler les pousses ayant fleuri en laissant 2-3 paires de bourgeons pour former les boutons de l'année suivante. Supprimer pousses vertes (réversion). NE PAS tailler après Ko 32 (mi-juillet).\nMetsumi (pincement) — pincer les nouvelles pousses à 3-4 paires de feuilles.\nFertilisation : NPK 7-5-5 très dilué, EC 0,6-0,8 mS/cm, pH 6,5-7,5 — ne pas surfertiliser.\nSource : Promesse de Fleurs — https://www.promessedefleurs.com/arbustes/arbustes-par-variete/lilas/lilas-syringa-vulgaris-aucubaefolia.html",
-        "flush2": [
-          6,
-          0.1827768014059754
-        ],
-        "flush2_djc": 2660,
-        "flush2_travaux": "Tailler les pousses ayant fleuri en laissant 2-3 paires de bourgeons pour former les boutons de l'année suivante. Supprimer pousses vertes (réversion). NE PAS tailler après Ko 32 (mi-juillet).",
+        "croissance_djc": 726,
+        "croissance_travaux": "Observation — Ko 9 (16-20 mars) ~726°J : reprise de la croissance après l'hiver, pousses sarmenteuses en élongation continue, sans vague nette distincte.\nSentai (taille de structure) — Ko 1-5 (janv-fév), avant la reprise : taille de structure principale ; retailler l'extrémité des rameaux à la suite de cette taille pour stimuler la ramification.\nHarigane-kake (ligature) — ligature sur tiges souples en croissance ; surveiller les marques toutes les 3-4 semaines.\nUekae (rempotage) — Ko 5-9, tous les 2 ans. Substrat : 60% terreau, 30% pouzzolane, 10% sable ; pH 6,0-7,5 (préférence calcaire), drainage correct.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 6,0-7,0.\nSource : Bonsai Création — https://www.bonsai-creation.com/fiche-bonsai-lierre-177.php",
+        "flush2": null,
+        "flush2_djc": null,
+        "flush2_travaux": "",
         "flush3": null,
         "flush3_djc": null,
         "flush3_travaux": "",
         "maturation": null,
         "maturation_djc": null,
         "maturation_travaux": "",
-        "senescence": [
-          8,
-          1
-        ],
-        "senescence_djc": 4401,
-        "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : feuillage panaché encore décoratif, boutons floraux de l'année suivante déjà formés — aucune taille permise.\nFertilisation : suspendre.\nSource : Promesse de Fleurs — https://www.promessedefleurs.com/arbustes/arbustes-par-variete/lilas/lilas-syringa-vulgaris-aucubaefolia.html",
-        "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, boutons floraux dormants sur le vieux bois. Rustique à Cazaux jusqu'à -20°C, aucune protection nécessaire.\nFertilisation : suspendre.\nSource : Promesse de Fleurs — https://www.promessedefleurs.com/arbustes/arbustes-par-variete/lilas/lilas-syringa-vulgaris-aucubaefolia.html",
-        "notes_perso": "Feuilles caduques, cordiformes, vertes éclaboussées de taches et rayures jaunes ; floraison en mai-juin, fleurs simples ou semi-doubles parfumées bleu-lavande en thyrses coniques ; rustique jusqu'à -20°C. Obtention horticole issue du lilas 'Président Grévy', arbuste caduc de la famille des Oléacées, natif du Sud-est de l'Europe. Point critique bonsaï : le lilas fleurit sur le bois de l'année précédente — toute taille tardive ou sévère en automne supprime les boutons floraux déjà formés.",
+        "senescence": null,
+        "senescence_djc": null,
+        "senescence_travaux": "",
+        "dormance_travaux": "Observation — Ko 58 (22-26 nov) ~5273°J : ralentissement net de la croissance, feuillage persistant maintenu tout l'hiver. Rustique à Cazaux jusqu'à -15°C, aucune protection nécessaire.\nSentai (taille de structure) — espacer les tailles pour ne pas épuiser la plante ; la grande taille de structure se fait en janvier-février, en fin de cette phase.\nFertilisation : suspendre.\nSource : Bonsai Création — https://www.bonsai-creation.com/fiche-bonsai-lierre-177.php",
+        "notes_perso": "croissance continue toute l'année sans flush net (Bonsai Création précise une taille de structure en janvier-février et une période de taille s'étendant tout au long de la croissance, sans rupture en vagues distinctes). Floraison existante chez le lierre mature en forme arbustive (rare en bonsaï, généralement maintenu en stade juvénile grimpant).",
         "erreurs_fatales": "",
-        "dormance_djc": 5087,
+        "dormance_djc": 5273,
         "dormance": [
           10,
-          0.24290220820189273
+          0.8296529968454258
         ]
       },
       {
@@ -1800,16 +1407,7 @@
         "dormance": [
           10,
           0.6719242902208202
-        ],
-        "flush2_djc": 2198,
-        "flush2": [
-          5,
-          0.5503597122302158
-        ],
-        "flush2_travaux": "Tailler à 4 feuilles ? Pousse apicale",
-        "flush3_djc": null,
-        "flush3": null,
-        "flush3_travaux": ""
+        ]
       },
       {
         "_id": "mpc8u3wjwal8",
@@ -1884,10 +1482,10 @@
         "floraison_djc": 924,
         "floraison_travaux": "Observation — Ko 11 (26-30 mars) ~900°J : apparition des cônes mâles jaune soufre à la base des nouvelles pousses et des minuscules cônes femelles rouges en position apicale. Retirer manuellement les cônes mâles en excès pour économiser l'énergie de l'arbre. Si la fructification n'est pas recherchée, éliminer également les cônes femelles dès ce stade.",
         "croissance": [
-          5,
-          0.7517985611510791
+          3,
+          0.21487603305785125
         ],
-        "croissance_djc": 2310,
+        "croissance_djc": 1070,
         "croissance_travaux": "Observation — Ko 14 (10-14 avr) ~1100°J : élongation maximale des chandelles du premier flush. C'est le moment clé du pinçage printanier : pincer les chandelles vigoureuses (apex, branches hautes) à 1/3 de leur longueur, laisser les chandelles faibles (branches basses, intérieur) s'allonger davantage. Supprimer les chandelles surnuméraires (>2 par nœud). Fertilisation équilibrée NPK.",
         "maturation": [
           5,
@@ -1917,13 +1515,7 @@
           0.6719242902208202
         ],
         "notes_perso": "",
-        "erreurs_fatales": "",
-        "flush2_djc": null,
-        "flush2": null,
-        "flush2_travaux": "",
-        "flush3_djc": null,
-        "flush3": null,
-        "flush3_travaux": ""
+        "erreurs_fatales": ""
       },
       {
         "_id": "mp3qvd738g0h",
@@ -1986,13 +1578,7 @@
           0.6719242902208202
         ],
         "notes_perso": "K27 re Bourgeonnement des chandelles coupées K20",
-        "erreurs_fatales": "",
-        "flush2_djc": null,
-        "flush2": null,
-        "flush2_travaux": "",
-        "flush3_djc": null,
-        "flush3": null,
-        "flush3_travaux": ""
+        "erreurs_fatales": ""
       },
       {
         "_id": "mpzrlenw8z5a",
@@ -2007,16 +1593,16 @@
         "debourrement_djc": 512,
         "debourrement_travaux": "Observation — Ko 5 (24-28 fév) ~512°J : gonflement des bourgeons, premières feuilles vert clair s'ouvrent sur les rameaux.\nSentai (taille de structure) — Ko 5-8 : taille de remise en forme avant la reprise végétative ; supprimer rameaux morts, croisés et tiges épuisées de l'année précédente.\nUekae (rempotage) — Ko 5-9, tous les 2 ans. Substrat : 50% akadama, 30% pouzzolane, 20% terreau de feuilles ; pH 5,5-6,5, drainage excellent.\nFertilisation : NPK 5-10-5, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Gerbeaud — https://www.gerbeaud.com/jardin/fiches/dentelaire-du-cap-plumbago,1386.html",
         "feuillaison": [
-          6,
-          0.1827768014059754
+          2,
+          1
         ],
-        "feuillaison_djc": 2660,
+        "feuillaison_djc": 924,
         "feuillaison_travaux": "Observation — Ko 12 (31 mars-4 avr) ~924°J : feuilles entièrement déployées, pousses de l'année en élongation rapide.\nMetsumi (pincement) — pincer les pousses à 3-4 paires de feuilles pour densifier la ramification et multiplier les points de floraison.\nHarigane-kake (ligature) — ligature sur pousses souples en croissance ; surveiller les marques toutes les 2 semaines.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Jardiner Malin — https://www.jardiner-malin.fr/fiche/dentelaire-plumbago-du-cap.html",
         "floraison": [
-          5,
-          0.7517985611510791
+          3,
+          1
         ],
-        "floraison_djc": 2310,
+        "floraison_djc": 1355,
         "floraison_travaux": "Observation — Ko 19 (6-10 mai) ~1449°J : premiers boutons floraux bleu azur en panicules terminales. Floraison remontante jusqu'à Ko 53 (nov) avec tailles successives.\nMetsumi (pincement) — supprimer les inflorescences fanées immédiatement pour déclencher une nouvelle vague florale.\nFertilisation : NPK 5-10-10, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Truffaut — https://www.truffaut.com/plumbago-varietes-plantation-entretien.html",
         "croissance": [
           5,
@@ -2040,13 +1626,7 @@
         "dormance": [
           10,
           0.24290220820189273
-        ],
-        "flush2_djc": null,
-        "flush2": null,
-        "flush2_travaux": "",
-        "flush3_djc": null,
-        "flush3": null,
-        "flush3_travaux": ""
+        ]
       },
       {
         "_id": "mqj3wx5q8nl4",
@@ -2097,81 +1677,6 @@
         "dormance": [
           10,
           0.24290220820189273
-        ],
-        "flush2_djc": 2198,
-        "flush2": [
-          5,
-          0.5503597122302158
-        ],
-        "flush2_travaux": "Tailler a des que les pousses attengnent 4 feuilles la taille d'un crayon. Ne plus tailler apres le 14 juillet",
-        "flush3_djc": 2772,
-        "flush3": [
-          6,
-          0.37961335676625657
-        ],
-        "flush3_travaux": "Coupez très court, soit à quelques mm, toutes les ramifications latérales de plus de 25cm de longueur en voie de lignification et qui atteignent ou dépassent la grosseurd’un crayon (6 à 8 mm).Trois principales périodes:- à partir du 15 juin,- vers le 15 juillet,-vers la mi-août,Se termine en septembre"
-      },
-      {
-        "_id": "mqt4v81pmd1s",
-        "espece": "Prunelier Prunus Spinosa",
-        "url": "https://fr.wikipedia.org/wiki/Prunus_spinosa",
-        "notes": "Caduc. Rosaceae. Arbuste buissonnant épineux indigène (Épine noire), 1-5 m. Floraison précoce spectaculaire sur bois nu (mars-avril) avant les feuilles — intérêt majeur en bonsaï. Fruits (prunelles) bleu-noir mûrs après les premières gelées. Drageon abondamment — supprimer impérativement les rejets basaux. Épines acérées : gants et manches épaisses indispensables. Rustique jusqu'à -25°C. Sol calcaire et argileux de préférence. Prélèvement yamadori courant, bonne reprise.",
-        "photo": "",
-        "debourrement": [
-          1,
-          0
-        ],
-        "debourrement_djc": 299,
-        "debourrement_travaux": "Observation — Ko 1 (4-8 fév) ~299°J : gonflement des bourgeons floraux sur bois nu, très précoce — parmi les premiers arbustes en végétation.\nUekae (rempotage) — Ko 1-5, après floraison terminée, tous les 1-2 ans. Substrat : 50% akadama, 30% pouzzolane, 20% terre argilo-calcaire ; pH 5,5-6,5, drainage correct.\nFertilisation : suspendre jusqu'à la fin de floraison.\nSource : Bonsaï Magazine — https://bonsai-plante-tropicale.fr/bonsai-de-prunellier-elagage-et-mise-en-forme/",
-        "feuillaison": [
-          2,
-          0.4604904632152589
-        ],
-        "feuillaison_djc": 726,
-        "feuillaison_travaux": "Observation — Ko 9 (16-20 mars) ~726°J : petites feuilles ovales finement dentées (1-3 cm) s'ouvrant après la floraison, vert moyen.\nSentai (taille de structure) — immédiatement après floraison, Ko 5-9 : supprimer branches croisées, rejets basaux et drageons (drageon abondant — vérification systématique). Porter gants et vêtements épais.\nFertilisation : NPK 5-10-5 après floraison, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Gerbeaud — https://www.gerbeaud.com/jardin/fiches/prunellier,1900.html",
-        "floraison": [
-          1,
-          0.431924882629108
-        ],
-        "floraison_djc": 391,
-        "floraison_travaux": "Observation — Ko 3 (14-18 fév) ~391°J : explosion de petites fleurs blanches solitaires ou par paires sur bois nu épineux, très mellifère — floraison avant les feuilles, parmi les plus précoces de la flore locale.\nMebana (sélection bourgeons) — ne pas intervenir : floraison naturellement abondante sur tous les rameaux de 1-2 ans, aucune sélection nécessaire.\nFertilisation : suspendre pendant la floraison.\nSource : PagesJaunes Jardinage — https://jardinage.pagesjaunes.fr/plante/voir/199/prunellier",
-        "croissance": [
-          3,
-          0.21487603305785125
-        ],
-        "croissance_djc": 1070,
-        "croissance_travaux": "Observation — Ko 14 (10-14 avr) ~1070°J : croissance végétative active, pousses épineuses allongées, entre-nœuds courts, feuilles bien développées. Drageons basaux fréquents — supprimer immédiatement à la source.\nMetsumi (pincement) — pincer les pousses à 2-3 paires de feuilles pour compacter la ramification (croissance lente facilitant le travail).\nHarigane-kake (ligature) — ligature délicate à cause des épines ; utiliser fil aluminium épais et protection ; vérifier les marques toutes les 3 semaines.\nToriki (marcottage aérien) — Ko 14-22 période optimale.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Bonsaï Magazine — https://bonsai-plante-tropicale.fr/bonsai-de-prunellier-elagage-et-mise-en-forme/",
-        "flush2": [
-          5,
-          0.7517985611510791
-        ],
-        "flush2_djc": 2310,
-        "flush2_travaux": "Supprimer impérativement les rejets basaux. Taille a 4 feuilles",
-        "flush3": [
-          6,
-          0.6028119507908611
-        ],
-        "flush3_djc": 2899,
-        "flush3_travaux": "",
-        "maturation": [
-          8,
-          0.7612732095490716
-        ],
-        "maturation_djc": 4311,
-        "maturation_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : prunelles (drupes bleu-noir pruineux, 1-1,5 cm) en plein grossissement. Décoratives en bonsaï.\nNe pas récolter avant les premières gelées — l'action du froid réduit l'âpreté des tanins.\nFertilisation : NPK 4-10-14, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Jardin Secrets — https://jardin-secrets.com/prunellier-article-2424,190,fr.html",
-        "senescence": [
-          9,
-          0.6359447004608295
-        ],
-        "senescence_djc": 4772,
-        "senescence_travaux": "Observation — Ko 51 (18-22 oct) ~4772°J : feuilles jaunissant progressivement, prunelles persistant sur l'arbre après défoliation — effet décoratif hivernal.\nFertilisation : suspendre.\nSource : Jardin Secrets — https://jardin-secrets.com/prunellier-article-2424,190,fr.html",
-        "dormance_travaux": "Observation — Ko 57 (17-21 nov) ~5223°J : feuilles tombées, prunelles bleu-noir persistant tout l'hiver sur rameaux épineux. Très rustique à Cazaux — aucune protection nécessaire.\nSentai (taille de structure) — possible en hiver sur bois sans feuilles pour visualiser la structure, mais privilégier la taille après floraison au printemps.\nFertilisation : suspendre.\nSource : Gerbeaud — https://www.gerbeaud.com/jardin/fiches/prunellier,1900.html",
-        "notes_perso": "Prunus spinosa — floraison sur bois nu avant feuilles (très précoce, mars-avril), puis fructification (prunelles en automne). Espèce indigène à croissance vigoureuse par rejets. Je vérifie les données bonsaï.Web recherchéWeb recherchéDonnées suffisantes. Points clés : floraison spectaculaire et précoce dès mars-avril, avant l'apparition des feuilles, petites fleurs blanches d'environ 1 cm. Taille après floraison ; supporte bien le rabattage sévère. Rempotage chaque année à la fin de l'hiver, une fois la floraison terminée ; substrat pH 5,5-6,5. Flush2/flush3 non documentés pour cette espèce — croissance continue sans vagues nettes après le 1er flush printanier",
-        "erreurs_fatales": "",
-        "dormance_djc": 5223,
-        "dormance": [
-          10,
-          0.6719242902208202
         ]
       },
       {
@@ -2279,14 +1784,8 @@
           10,
           0.6719242902208202
         ],
-        "notes_perso": "Voici un résumé en 5 points de \"Que faire avec un azalée Satsuki après la floraison\" :\n\nDéfleurissement : Retirer délicatement les fleurs fanées à la main, sans utiliser de ciseaux pour gagner du temps.\nTaille légère : Couper les pousses trop longues et les branches mal orientées pour maintenir la forme en coussin (pad) de l'arbre.\nTaille structurelle : Tous les 3 ans environ, effectuer une taille plus sévère pour restructurer l'arbre et éliminer les grosses branches indésirables.\nFertilisation : Après la taille, nourrir abondamment l'arbre avec un engrais adapté pour stimuler la nouvelle croissance.\nRempotage : Contrairement à la pratique japonaise, il est préférable de rempoter les azalées Satsuki en février dans les climats occidentaux, plutôt qu'après la \n\nfloraison en juillet. 3/4kanuma 1/4 pumice vs l’inverse ;)\n\nPlante basale not atopic \nRajouter vinaigre \nVariété ?\nMi ombre \nVoile ombrage \nSi abouti floraison taille apres 80% de la floraison rempotage tous les 3 ans enlever gourmand  autour du bourgeon floral \nTaille drastique = compacité \nSi besoin de force rempotage en mars et on enlève les fleurs \nAlgami (?) avant  en octobre => mars avril (potasse) et après la floraison azote jamais d’engrais pendant la floraison engrais organique \nPot profond vigilant sur le chevelu \nGranulométrie grosse = grosse pousse (80% Pumice 20% Kanuma ou l'inverse dixit Lebecot)\nCharbon  => 10%\nBouture et rempotage très vite en juin avec la lune\nMultisec et purin d’ail tous les 15 jours \nPoudre de cannelle si problème de racine \nPas de cuivre\nPousse en juin et fin août \nFumagine \nAliette en espagne \nTsutsuji\nComptoir des fleurs oligo \nMarcote en dent de scie",
-        "erreurs_fatales": "Plante basale : Le dépérissement de la cime (Die-back)\nC'est le risque majeur. La sève circule plus volontiers dans les branches basses de la Satsuki que dans sa tête.\nLe risque : Si vous taillez la tête trop sévèrement (surtout après la floraison ou en plein été), l'arbre peut tout simplement abandonner la zone. Le bourgeonnement en retrait sur le vieux bois est beaucoup plus capricieux en haut qu'en bas. Vous risquez de vous retrouver avec une cime morte qui sèche jusqu'au tronc principal.\nLa parade : Laissez toujours un tire-sève (un rameau avec des feuilles actives) à l'extrémité de la zone taillée pour maintenir le flux de sève",
-        "flush2_djc": null,
-        "flush2": null,
-        "flush2_travaux": "",
-        "flush3_djc": null,
-        "flush3": null,
-        "flush3_travaux": ""
+        "notes_perso": "3/4kanuma 1/4 pumice vs l’inverse ;)\n\nPlante basale not atopic \nRajouter vinaigre \nVariété ?\nMi ombre \nVoile ombrage \nSi abouti floraison taille apres 80% de la floraison rempotage tous les 3 ans enlever gourmand  autour du bourgeon floral \nTaille drastique = compacité \nSi besoin de force rempotage en mars et on enlève les fleurs \nAlgami (?) avant  en octobre => mars avril (potasse) et après la floraison azote jamais d’engrais pendant la floraison engrais organique \nPot profond vigilant sur le chevelu \nGranulométrie grosse = grosse pousse (80% Pumice 20% Kanuma ou l'inverse dixit Lebecot)\nCharbon  => 10%\nBouture et rempotage très vite en juin avec la lune\nMultisec et purin d’ail tous les 15 jours \nPoudre de cannelle si problème de racine \nPas de cuivre\nPousse en juin et fin août \nFumagine \nAliette en espagne \nTsutsuji\nComptoir des fleurs oligo \nMarcote en dent de scie",
+        "erreurs_fatales": "Plante basale : Le dépérissement de la cime (Die-back)\nC'est le risque majeur. La sève circule plus volontiers dans les branches basses de la Satsuki que dans sa tête.\nLe risque : Si vous taillez la tête trop sévèrement (surtout après la floraison ou en plein été), l'arbre peut tout simplement abandonner la zone. Le bourgeonnement en retrait sur le vieux bois est beaucoup plus capricieux en haut qu'en bas. Vous risquez de vous retrouver avec une cime morte qui sèche jusqu'au tronc principal.\nLa parade : Laissez toujours un tire-sève (un rameau avec des feuilles actives) à l'extrémité de la zone taillée pour maintenir le flux de sève"
       },
       {
         "_id": "mqj3tbc2qoup",
@@ -2338,7 +1837,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 84
+    "_modCount": 47
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
@@ -2743,142 +2242,12 @@
     "ko53_Zuisho_senescence_0": false,
     "ko3_Zuisho_semis_0": true,
     "ko20_Pin_Sylvestre_maturation_0": true,
-    "ko20_Pin_Sylvestre_croissance_0": true,
+    "ko20_Pin_Sylvestre_croissance_0": false,
     "ko20_Pin_Sylvestre_boutures_0": false,
     "ko24_Citron_du_Vietnam_croissance_0": false,
     "ko24_Jasmin__toil____Trachelospermum_jasminoides_floraison_0": true,
     "ko24_Plumbago_auriculata___Plumbago_capensis___Dentelaire_du_Cap_croissance_0": true,
-    "ko24_Citron_du_Vietnam__Chanh__croissance_0": true,
-    "ko1_Acer_palmatum_Katsura_debourrement_0": true,
-    "ko1_Cognassier_du_Japon_floraison_0": true,
-    "ko1_Prunelier_Prunus_Spinosa_debourrement_0": true,
-    "ko3_Cognassier_du_Japon_debourrement_0": true,
-    "ko3_Juniperus_Shimpaku_J__chinensis_floraison_0": true,
-    "ko3_Prunelier_Prunus_Spinosa_floraison_0": true,
-    "ko3_Sabine_floraison_0": true,
-    "ko4_Juniperus_Shimpaku_J__chinensis_feuillaison_0": true,
-    "ko5_Acer_palmatum_Atropurpureum_debourrement_0": true,
-    "ko5_Acer_palmatum_Beni_Shichihenge_debourrement_0": true,
-    "ko5_Acer_Palmatum_Bi_Hoo_debourrement_0": true,
-    "ko5_Acer_palmatum_Bi_Hoo_debourrement_0": true,
-    "ko5_Acer_palmatum_Butterfly_debourrement_0": true,
-    "ko5_Acer_palmatum_Deshojo_debourrement_0": true,
-    "ko5_Acer_palmatum_Katsura_feuillaison_0": true,
-    "ko5_Acer_palmatum_Manyo_No_Sato_debourrement_0": true,
-    "ko5_Acer_Palmatum_Orange_Dream_debourrement_0": true,
-    "ko5_Acer_palmatum_Osakazuki_debourrement_0": true,
-    "ko5_Acer_palmatum_Sangokaku__Senkaki__debourrement_0": true,
-    "ko5_Acer_palmatum_Shaina_debourrement_0": true,
-    "ko5_Acer_palmatum_Taylor_debourrement_0": true,
-    "ko5_Acer_Palmatum_Trompenburg_debourrement_0": true,
-    "ko5_Acer_palmatum_Wilson_s_Pink_Dwarf_debourrement_0": true,
-    "ko5_Jasminum_Starry_Night___Jasmin_hybride_debourrement_0": true,
-    "ko5_Jasminum_grandiflorum__Jasmin_d_Espagne__debourrement_0": true,
-    "ko5_Juniperus_Shimpaku_J__chinensis_debourrement_0": true,
-    "ko5_Lilas_commun_Aucubaefolia__debourrement_0": true,
-    "ko5_Pin_Sylvestre_debourrement_0": true,
-    "ko5_Plumbago_auriculata___Plumbago_capensis___Dentelaire_du_Cap_debourrement_0": true,
-    "ko5_Pommier_du_japon_debourrement_0": true,
-    "ko5_Sabine_debourrement_0": true,
-    "ko7_Acer_palmatum__Enkan_feuillaison_0": true,
-    "ko7_Figuier_Madelaine_des_2_saisons_debourrement_0": true,
-    "ko7_Figuier_pr_coce_de_Dalmatie___Ficus_carica_debourrement_0": true,
-    "ko7_Mume__Abricotier_du_japon_debourrement_0": true,
-    "ko7_Pin_Blanc_du_Japon_Zuisho_debourrement_0": true,
-    "ko7_Pin_noir_du_Japon_Kuromatsu_debourrement_0": true,
-    "ko7_Satsuki_debourrement_0": true,
-    "ko7_Tsutsuji_debourrement_0": true,
-    "ko9_Acer_palmatum_Atropurpureum_feuillaison_0": true,
-    "ko9_Acer_palmatum_Beni_Shichihenge_feuillaison_0": true,
-    "ko9_Acer_Palmatum_Bi_Hoo_feuillaison_0": true,
-    "ko9_Acer_palmatum_Bi_Hoo_feuillaison_0": true,
-    "ko9_Acer_palmatum_Butterfly_feuillaison_0": true,
-    "ko9_Acer_palmatum_Deshojo_feuillaison_0": true,
-    "ko9_Acer_palmatum_Manyo_No_Sato_feuillaison_0": true,
-    "ko9_Acer_Palmatum_Orange_Dream_feuillaison_0": true,
-    "ko9_Acer_palmatum_Osakazuki_feuillaison_0": true,
-    "ko9_Acer_palmatum_Sangokaku__Senkaki__feuillaison_0": true,
-    "ko9_Acer_palmatum_Shaina_feuillaison_0": true,
-    "ko9_Acer_palmatum_Taylor_feuillaison_0": true,
-    "ko9_Acer_Palmatum_Trompenburg_feuillaison_0": true,
-    "ko9_Acer_palmatum_Wilson_s_Pink_Dwarf_feuillaison_0": true,
-    "ko9_Cognassier_du_Japon_feuillaison_0": true,
-    "ko9_Lierre_croissance_0": true,
-    "ko9_Lilas_commun_Aucubaefolia__feuillaison_0": true,
-    "ko9_Pin_Sylvestre_feuillaison_0": true,
-    "ko9_Pommier_du_japon_feuillaison_0": true,
-    "ko9_Prunelier_Prunus_Spinosa_feuillaison_0": true,
-    "ko10_Acer_palmatum__Enkan_floraison_0": true,
-    "ko10_Juniperus_Shimpaku_J__chinensis_croissance_0": true,
-    "ko10_Pin_Blanc_du_Japon_Zuisho_floraison_0": true,
-    "ko10_Pin_noir_du_Japon_Kuromatsu_feuillaison_0": true,
-    "ko10_Pin_Sylvestre_floraison_0": true,
-    "ko10_Sabine_croissance_0": true,
-    "ko10_Tsutsuji_feuillaison_0": true,
-    "ko12_Acer_Palmatum_Bi_Hoo_floraison_0": true,
-    "ko12_Acer_palmatum_Bi_Hoo_floraison_0": true,
-    "ko12_Acer_palmatum_Butterfly_floraison_0": true,
-    "ko12_Acer_palmatum_Manyo_No_Sato_floraison_0": true,
-    "ko12_Acer_palmatum_Osakazuki_floraison_0": true,
-    "ko12_Acer_palmatum_Sangokaku__Senkaki__floraison_0": true,
-    "ko12_Acer_palmatum_Shaina_floraison_0": true,
-    "ko12_Acer_palmatum_Taylor_floraison_0": true,
-    "ko12_Acer_palmatum_Wilson_s_Pink_Dwarf_floraison_0": true,
-    "ko12_Figuier_Madelaine_des_2_saisons_feuillaison_0": true,
-    "ko12_Figuier_pr_coce_de_Dalmatie___Ficus_carica_feuillaison_0": true,
-    "ko12_Jasmin__toil____Trachelospermum_jasminoides_croissance_0": true,
-    "ko12_Jasminum_Starry_Night___Jasmin_hybride_feuillaison_0": true,
-    "ko12_Jasminum_grandiflorum__Jasmin_d_Espagne__feuillaison_0": true,
-    "ko12_Mume__Abricotier_du_japon_feuillaison_0": true,
-    "ko12_Pin_Blanc_du_Japon_Zuisho_croissance_0": true,
-    "ko12_Pin_noir_du_Japon_Kuromatsu_floraison_0": true,
-    "ko12_Plumbago_auriculata___Plumbago_capensis___Dentelaire_du_Cap_feuillaison_0": true,
-    "ko12_Pommier_du_japon_floraison_0": true,
-    "ko12_Satsuki_feuillaison_0": true,
-    "ko13_Cognassier_du_Japon_croissance_0": true,
-    "ko13_Juniperus_Itoigawa_croissance_0": true,
-    "ko13_Juniperus_rigida_croissance_0": true,
-    "ko13_Mume__Abricotier_du_japon_croissance_0": true,
-    "ko14_Acer_palmatum__Enkan_croissance_0": true,
-    "ko14_Acer_palmatum_Atropurpureum_croissance_0": true,
-    "ko14_Acer_palmatum_Deshojo_croissance_0": true,
-    "ko14_Acer_palmatum_Katsura_croissance_0": true,
-    "ko14_Bougainvillier__Imperial_Tha__Delight__feuillaison_0": true,
-    "ko14_Bougainvillier_specto_glabra__Violet_de_M_ze___feuillaison_0": true,
-    "ko14_Figuier_Madelaine_des_2_saisons_croissance_0": true,
-    "ko14_Figuier_pr_coce_de_Dalmatie___Ficus_carica_croissance_0": true,
-    "ko14_Lilas_commun_Aucubaefolia__croissance_0": true,
-    "ko14_Prunelier_Prunus_Spinosa_croissance_0": true,
-    "ko14_Tsutsuji_floraison_0": true,
-    "ko17_Acer_palmatum_Beni_Shichihenge_croissance_0": true,
-    "ko17_Acer_Palmatum_Bi_Hoo_croissance_0": true,
-    "ko17_Acer_palmatum_Bi_Hoo_croissance_0": true,
-    "ko17_Acer_palmatum_Butterfly_croissance_0": true,
-    "ko17_Acer_palmatum_Manyo_No_Sato_croissance_0": true,
-    "ko17_Acer_Palmatum_Orange_Dream_croissance_0": true,
-    "ko17_Acer_palmatum_Osakazuki_croissance_0": true,
-    "ko17_Acer_palmatum_Sangokaku__Senkaki__croissance_0": true,
-    "ko17_Acer_palmatum_Shaina_croissance_0": true,
-    "ko17_Acer_palmatum_Taylor_croissance_0": true,
-    "ko17_Acer_Palmatum_Trompenburg_croissance_0": true,
-    "ko17_Acer_palmatum_Wilson_s_Pink_Dwarf_croissance_0": true,
-    "ko17_Pommier_du_japon_croissance_0": true,
-    "ko17_Tsutsuji_croissance_0": true,
-    "ko18_Albizia_julibrissin_Shidare___Arbre___soie_debourrement_0": true,
-    "ko18_Jasminum_Starry_Night___Jasmin_hybride_croissance_0": true,
-    "ko18_Jasminum_grandiflorum__Jasmin_d_Espagne__croissance_0": true,
-    "ko18_Plumbago_auriculata___Plumbago_capensis___Dentelaire_du_Cap_floraison_0": true,
-    "ko18_Sabine_feuillaison_0": true,
-    "ko20_Citronnier_du_Vietnam__Chanh__floraison_0": true,
-    "ko20_Jasminum_Starry_Night___Jasmin_hybride_floraison_0": true,
-    "ko20_Lilas_commun_Aucubaefolia__floraison_0": true,
-    "ko20_Satsuki_floraison_0": true,
-    "ko21_Albizia_julibrissin_Shidare___Arbre___soie_feuillaison_0": true,
-    "ko22_Acer_Palmatum_Trompenburg_floraison_0": true,
-    "ko23_Bougainvillier__Imperial_Tha__Delight__floraison_0": true,
-    "ko23_Bougainvillier_specto_glabra__Violet_de_M_ze___floraison_0": true,
-    "ko23_Satsuki_croissance_0": true,
-    "ko24_Citronnier_du_Vietnam__Chanh__croissance_0": true
+    "ko24_Citron_du_Vietnam__Chanh__croissance_0": true
   },
   "config": {
     "ville1": {
