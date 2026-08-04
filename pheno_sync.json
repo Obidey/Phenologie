@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1785837726631,
-  "_date": "2026-08-04T10:02:06.631Z",
-  "_modCount": 1455,
+  "_ts": 1785837778757,
+  "_date": "2026-08-04T10:02:58.757Z",
+  "_modCount": 1456,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -2572,9 +2572,9 @@
       "url": "https://www.meteoblue.com/it/tempo/webcams/cazaux_francia_3028068"
     },
     "ville2": {
-      "nom": "坂戸市",
-      "lat": "35.9769",
-      "lon": "139.4275",
+      "nom": "Kantō",
+      "lat": "35.3029",
+      "lon": "139.8340",
       "url": "https://sakuralivecams.com/cameras/mount-fuji-and-lake-ashi-from-hakone",
       "active": true
     }
