@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1785836729079,
-  "_date": "2026-08-04T09:45:29.079Z",
-  "_modCount": 1442,
+  "_ts": 1785836759523,
+  "_date": "2026-08-04T09:45:59.523Z",
+  "_modCount": 1443,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -940,6 +940,63 @@
         "flush3_djc": null,
         "flush3": null,
         "flush3_travaux": ""
+      },
+      {
+        "_id": "mseh3g9l8ebp",
+        "espece": "Bougainvillier 'Sanderiana Alexandra' Glabra",
+        "url": "https://fr.wikipedia.org/wiki/Bougainvillea_glabra",
+        "notes": "Semi-persistant à persistant selon hivernage, famille Nyctaginaceae. Bougainvillea glabra 'Alexandra' (syn. 'Sanderiana'). Bractées violet-mauve pur, feuillage vert vif lisse (glabra = sans poils), tiges moins épineuses que B. spectabilis. Plus rustique parmi les Bougainvilliers (tolère 2-3°C brefs). Floraison très abondante et remontante sur bois aoûté. Entre-nœuds naturellement courts — ramification fine facilitée. Très prisé en bonsaï tropical pour sa vigueur maîtrisable et sa floraison généreuse.",
+        "photo": "",
+        "debourrement": null,
+        "debourrement_djc": null,
+        "debourrement_travaux": "",
+        "feuillaison": [
+          3,
+          0
+        ],
+        "feuillaison_djc": 992,
+        "feuillaison_travaux": "Observation — Ko 13 (5-9 avr) ~992°J : reprise végétative après hivernage, débourrement des bourgeons axillaires, nouvelles feuilles vert vif luisant.\nUekae (rempotage) — tous les 2 ans à la reprise. Substrat : 50% Akadama, 30% Pumice, 20% sable grossier. pH 5,5-6,5, drainage absolu — pourriture racinaire = risque majeur en hivernage humide.\nHarigane-kake (ligature) — poser le fil aluminium sur les nouvelles pousses avant lignification rapide.\nFertilisation : NPK 10-6-6, EC 0,8-1,2 mS/cm, pH 5,5-6,5. Reprendre progressivement dès sortie hivernage.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
+        "floraison": [
+          4,
+          0.7339449541284404
+        ],
+        "floraison_djc": 1689,
+        "floraison_travaux": "Observation — Ko 22 (21-25 mai) ~1689°J : bractées violet-mauve pur, floraison plus précoce et plus abondante que B. spectabilis. Déclenchée par stress hydrique léger (réduire arrosage 7-10 jours avant).\nMebana (sélection bourgeons) — supprimer les gourmands basaux vigoureux, conserver les rameaux florifères courts.\nFertilisation : NPK 4-10-10, EC 0,8-1,0 mS/cm, pH 5,5-6,5. Azote réduit pour prolonger et intensifier la floraison.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
+        "croissance": [
+          5,
+          0.3723021582733813
+        ],
+        "croissance_djc": 2099,
+        "croissance_travaux": "Observation — Ko 26 (11-15 juin) ~2099°J : 1ère vague de croissance post-floraison, pousses vigoureuses, entre-nœuds plus courts que B. spectabilis.\nSentai (taille de structure) — taille après floraison, raccourcir à 2-3 paires de feuilles pour induire ramification et 2e floraison.\nMetsumi (pincement) — pincement toutes les 3 semaines sur nouvelles pousses.\nHarigane-kake (ligature) — ligature des rameaux en croissance, surveiller la lignification rapide caractéristique de glabra.\nToriki (marcottage aérien) — Ko 26-34 période optimale.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
+        "flush2": [
+          6,
+          0.6028119507908611
+        ],
+        "flush2_djc": 2899,
+        "flush2_travaux": "Observation — Ko 33 (18-22 juil) ~2899°J : 2e poussée végétative depuis les bourgeons axillaires, entre-nœuds courts, bractées violet-mauve sur rameaux pincés en juin — remontance caractéristique de glabra.\nMetsumi (pincement) — pincer à 2 paires de feuilles pour densifier et préparer une 3e floraison automnale.\nFertilisation : NPK 6-10-10, EC 0,8-1,2 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
+        "flush3": null,
+        "flush3_djc": null,
+        "flush3_travaux": "",
+        "maturation": [
+          7,
+          0.521870286576169
+        ],
+        "maturation_djc": 3576,
+        "maturation_travaux": "Observation — Ko 39 (18-22 août) ~3576°J : aoûtement du bois, possible 3e vague de bractées sur sujets vigoureux pincés en juillet. Croissance ralentit.\nSentai (taille de structure) — taille légère de rectification uniquement. Conserver le bois aoûté — il porte les bourgeons florifères du printemps prochain.\nFertilisation : NPK 4-10-10, EC 0,8-1,0 mS/cm, pH 5,5-6,5. Durcir les tissus avant hivernage.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
+        "senescence": [
+          8,
+          0.7612732095490716
+        ],
+        "senescence_djc": 4311,
+        "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : ralentissement net, feuilles pâlissent. Rentrer en serre avant 5°C nocturnes. glabra tolère de brèves gelées légères mais ne pas tester à Cazaux.\nFertilisation : arrêt complet de l'azote. Dernière application Ko 46 maximum.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
+        "dormance_travaux": "Observation — Ko 57 (17-21 nov) ~5223°J : repos en serre froide (5-10°C), feuilles semi-caduques, arrosages très espacés (substrat presque sec entre deux arrosages).\nSentai (taille de structure) — taille de structure en fin de dormance Ko 3-5, avant reprise printanière. Ne jamais tailler en automne-hiver — le bois aoûté porte les bourgeons florifères.\nFertilisation : aucune en dormance. Reprendre à Ko 13 à la sortie hivernage.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
+        "notes_perso": "",
+        "erreurs_fatales": "",
+        "dormance_djc": 5223,
+        "dormance": [
+          10,
+          0.6719242902208202
+        ]
       },
       {
         "_id": "mpjn8qe4fbc6",
@@ -1960,7 +2017,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 62
+    "_modCount": 63
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
