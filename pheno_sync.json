@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1785837074003,
-  "_date": "2026-08-04T09:51:14.003Z",
-  "_modCount": 1448,
+  "_ts": 1785837148515,
+  "_date": "2026-08-04T09:52:28.515Z",
+  "_modCount": 1449,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -2575,7 +2575,7 @@
       "nom": "坂戸市",
       "lat": "35.9769",
       "lon": "139.4275",
-      "url": "https://www.ktr.mlit.go.jp/arajo/live/camera27.html",
+      "url": "https://www.ktr.mlit.go.jp/arajo/live/camera29.html",
       "active": true
     }
   },
