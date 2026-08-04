@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1785837428364,
-  "_date": "2026-08-04T09:57:08.364Z",
-  "_modCount": 1452,
+  "_ts": 1785837438555,
+  "_date": "2026-08-04T09:57:18.555Z",
+  "_modCount": 1453,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -2575,7 +2575,7 @@
       "nom": "坂戸市",
       "lat": "35.9769",
       "lon": "139.4275",
-      "url": "https://livecam.asia/saitama/sakado/iimorigawa-konuma.html",
+      "url": "https://saitamakasen.decloud.jp/mappingCamera/11/5159",
       "active": true
     }
   },
