@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1785835954293,
-  "_date": "2026-08-04T09:32:34.293Z",
-  "_modCount": 1437,
+  "_ts": 1785836107296,
+  "_date": "2026-08-04T09:35:07.296Z",
+  "_modCount": 1438,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -1075,6 +1075,54 @@
         "senescence_travaux": "Observation — Ko 47 (28 sept – 2 oct) ~4400°J : jaunissement et chute des feuilles (souvent sans couleur automnale marquée, chute verte possible).\nSentai (taille de structure) — taille de structure et raccourcissement des pousses de l'année à 1-2 nœuds pour initier les éperons floraux de la saison suivante.\nUekae (rempotage) — période privilégiée pour le rempotage bisannuel ; substrat identique à la feuillaison.\nFertilisation : arrêt progressif, dernière application NPK 0-6-10.\nSource : Bonsai4Me — http://www.bonsai4me.com/SpeciesGuide/Chaenomeles.html",
         "dormance_travaux": "Observation — Ko 56-72 (nov – fév) : repos végétatif, bourgeons floraux visibles sur vieux bois. Froid indispensable pour une floraison abondante ; ne pas rentrer en serre chauffée.\nHarigane-kake (ligature) — poser les ligatures de structure sur bois nu, bien visible ; surveiller dès Ko 3.\nProtéger des gelées sous -5°C (tuer les bourgeons floraux) sans supprimer le froid.\nFertilisation : aucune.\nSource : Ma-Ke Bonsai — http://guide.makebonsai.com/bonsai_species_guide_training.asp?SpeciesID=5001",
         "notes_perso": "K23 2eme feuillaison",
+        "erreurs_fatales": "",
+        "dormance_djc": 5223,
+        "dormance": [
+          10,
+          0.6719242902208202
+        ]
+      },
+      {
+        "_id": "msegpgv01dh6",
+        "espece": "houx",
+        "url": "https://fr.wikipedia.org/wiki/Ilex_aquifolium",
+        "notes": "Persistant. Aquifoliaceae. Ilex aquifolium, houx commun indigène. Feuilles coriaces vernissées vert foncé, épineuses sur les rameaux bas (protection contre le broutage), moins épineuses en hauteur. Dioïque : baies rouge vif uniquement sur pieds femelles, nécessite un pied mâle à proximité pour fructifier. Croissance très lente. Résiste bien à la taille et au rabattage sévère. Yamadori courant. Supporte l'ombre partielle. Baies toxiques (ne pas confondre avec des fruits comestibles). Rustique jusqu'à -15°C.",
+        "photo": "",
+        "debourrement": null,
+        "debourrement_djc": null,
+        "debourrement_travaux": "",
+        "feuillaison": null,
+        "feuillaison_djc": null,
+        "feuillaison_travaux": "",
+        "floraison": [
+          3,
+          1
+        ],
+        "floraison_djc": 1355,
+        "floraison_travaux": "Observation — Ko 19 (6-10 mai) ~1449°J : petites fleurs blanches à 4 pétales, légèrement parfumées, groupées à l'aisselle des feuilles sur les rameaux de l'année précédente. Fleurs mâles et femelles sur pieds distincts.\nMetsumi (pincement) — suspendre pendant la floraison pour ne pas priver les fleurs de leur énergie.\nFertilisation : NPK 5-10-10, EC 0,8-1,0 mS/cm, pH 4,5-6,0.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/holly\n(floraison sur bois de l'année précédente, mais visible en mai lors de la reprise de croissance printanière).",
+        "croissance": [
+          2,
+          1
+        ],
+        "croissance_djc": 924,
+        "croissance_travaux": "Observation — Ko 12 (31 mars-4 avr) ~924°J : reprise de la croissance, nouvelles pousses vert clair brillant, croissance lente et régulière.\nSentai (taille de structure) — Ko 9-14, avant la reprise active : supprimer branches croisées, mal orientées, rabattage sévère bien toléré.\nMetsumi (pincement) — pincer les nouvelles pousses à 2-3 paires de feuilles pour densifier la ramification, bois lent à épaissir.\nHarigane-kake (ligature) — bois rigide ; poser les ligatures sur rameaux encore souples Ko 12-16, surveiller les marques toutes les 4 semaines.\nUekae (rempotage) — Ko 9-12, tous les 3-4 ans (croissance très lente). Substrat : 60% akadama, 40% pouzzolane ; pH 4,5-6,0, drainage excellent.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 4,5-6,0.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/holly",
+        "flush2": null,
+        "flush2_djc": null,
+        "flush2_travaux": "",
+        "flush3": null,
+        "flush3_djc": null,
+        "flush3_travaux": "",
+        "maturation": [
+          9,
+          0
+        ],
+        "maturation_djc": 4496,
+        "maturation_travaux": "Observation — Ko 47 (28 sept-2 oct) ~4401°J : baies (drupes) virant progressivement du vert au rouge vif sur les pieds femelles, très décoratives en bonsaï.\nÉclaircie légère — sur pied très chargé, retirer quelques grappes pour ne pas épuiser l'arbre.\nFertilisation : NPK 4-10-14, EC 0,8-1,0 mS/cm, pH 4,5-6,0.\nSource : Mistral Bonsai — https://www.mistralbonsai.com/fr/tout-sur-le-bonsai/fiches-techniques-des-bonsais/bonsai-dexterieur/houx/",
+        "senescence": null,
+        "senescence_djc": null,
+        "senescence_travaux": "",
+        "dormance_travaux": "Observation — Ko 57 (17-21 nov) ~5223°J : croissance stoppée, feuillage persistant vert foncé, baies rouge vif très décoratives tout l'hiver. Rustique jusqu'à -15°C à Cazaux, aucune protection nécessaire.\nSentai (taille de structure) — légère taille de mise en forme possible en hiver sur bois persistant, hors gelée.\nFertilisation : suspendre.\nSource : Mistral Bonsai — https://www.mistralbonsai.com/fr/tout-sur-le-bonsai/fiches-techniques-des-bonsais/bonsai-dexterieur/houx/",
+        "notes_perso": "",
         "erreurs_fatales": "",
         "dormance_djc": 5223,
         "dormance": [
