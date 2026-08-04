@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1785833534282,
-  "_date": "2026-08-04T08:52:14.282Z",
-  "_modCount": 1434,
+  "_ts": 1785833611871,
+  "_date": "2026-08-04T08:53:31.871Z",
+  "_modCount": 1435,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -1618,10 +1618,10 @@
         ],
         "notes_perso": "K27 re Bourgeonnement des chandelles coupées K20",
         "erreurs_fatales": "",
-        "flush2_djc": 2772,
+        "flush2_djc": 3230,
         "flush2": [
-          6,
-          0.37961335676625657
+          7,
+          0
         ],
         "flush2_travaux": "Desaiguiller (Romero)",
         "flush3_djc": null,
@@ -1903,7 +1903,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 60
+    "_modCount": 61
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
@@ -2446,7 +2446,8 @@
     "ko35_Acer_palmatum__Enkan_flush2_0": true,
     "ko35_Acer_Palmatum_Bi_Hoo_flush2_0": true,
     "ko35_Acer_palmatum_Katsura_flush2_0": true,
-    "ko35_Pin_noir_du_Japon_Kuromatsu_flush2_0": true
+    "ko35_Pin_noir_du_Japon_Kuromatsu_flush2_0": true,
+    "ko4_Juniperus_Shimpaku_J__chinensis_feuillaison_0": true
   },
   "config": {
     "ville1": {
