@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1787639009413,
-  "_date": "2026-08-25T06:23:29.413Z",
-  "_modCount": 1476,
+  "_ts": 1787639070361,
+  "_date": "2026-08-25T06:24:30.361Z",
+  "_modCount": 1477,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -974,8 +974,11 @@
         ],
         "flush2_djc": 2899,
         "flush2_travaux": "Observation — Ko 33 (18-22 juil) ~2899°J : 2e poussée végétative depuis les bourgeons axillaires, entre-nœuds courts, bractées violet-mauve sur rameaux pincés en juin — remontance caractéristique de glabra.\nMetsumi (pincement) — pincer à 2 paires de feuilles pour densifier et préparer une 3e floraison automnale.\nFertilisation : NPK 6-10-10, EC 0,8-1,2 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
-        "flush3": null,
-        "flush3_djc": null,
+        "flush3": [
+          7,
+          0.34841628959276016
+        ],
+        "flush3_djc": 3461,
         "flush3_travaux": "",
         "maturation": [
           7,
@@ -2026,7 +2029,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 64
+    "_modCount": 65
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
