@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1787838113828,
-  "_date": "2026-08-27T13:41:53.828Z",
-  "_modCount": 1483,
+  "_ts": 1787838219084,
+  "_date": "2026-08-27T13:43:39.084Z",
+  "_modCount": 1484,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -472,7 +472,7 @@
         "espece": "Acer palmatum Manyo-No-Sato",
         "url": "https://fr.wikipedia.org/wiki/Acer_palmatum",
         "notes": "Caduc. Sapindaceae. Cultivar récent au feuillage découpé irrégulier, rare par sa panachure très variable. Débourrement brun pourpré panaché de vert citron, virant au vert panaché de vert chartreux en été, puis pourpre et orange à l'automne. Floraison en corymbes de 3-4 cm (10-15 fleurs rouge à rouge pourpre), produisant des bisamares ailés vert puis rouge jusqu'à 3 cm. Pousse à l'ombre ou mi-ombre, rustique jusqu'à -15°C.",
-        "photo": "",
+        "photo": "https://www.promessedefleurs.com/arbustes/arbustes-par-variete/erables-du-japon/erable-du-japon-manyo-no-sato-acer-palmatum.html",
         "debourrement": [
           1,
           1
