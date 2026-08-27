@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1787838710962,
-  "_date": "2026-08-27T13:51:50.962Z",
-  "_modCount": 1486,
+  "_ts": 1787838843060,
+  "_date": "2026-08-27T13:54:03.060Z",
+  "_modCount": 1487,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -739,7 +739,7 @@
         "espece": "Acer palmatum Taylor",
         "url": "https://fr.wikipedia.org/wiki/Acer_palmatum",
         "notes": "Caduc. Sapindaceae. Cultivar panaché d'Acer palmatum, proche d'Iyoshi mais plus capricieux. Feuillage rose vif au printemps, virant au rose clair teinté de vert en été, avec une seconde poussée rose en plein été, puis rose-rouge vif à l'automne. Lobes étroits, presque en forme de lanière, profondément découpés. Port buissonnant bas et étalé, croissance lente. Réputé difficile à maintenir en bonsaï (avec Geisha, Baby Lace) : plus sensible aux maladies et au stress que les cultivars verts standards. Limiter les tailles sévères pour préserver la vigueur déjà réduite par la panachure.",
-        "photo": "",
+        "photo": "https://www.promessedefleurs.com/arbustes/arbustes-par-variete/erables-du-japon/erable-du-japon-acer-palmatum-taylor.html",
         "debourrement": [
           1,
           1
@@ -783,7 +783,13 @@
         "dormance": [
           10,
           0.24290220820189273
-        ]
+        ],
+        "flush2_djc": null,
+        "flush2": null,
+        "flush2_travaux": "",
+        "flush3_djc": null,
+        "flush3": null,
+        "flush3_travaux": ""
       },
       {
         "_id": "mqkrv3gu81gy",
@@ -2080,7 +2086,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 64
+    "_modCount": 65
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
