@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1787839818974,
-  "_date": "2026-08-27T14:10:18.974Z",
-  "_modCount": 1489,
+  "_ts": 1787839928649,
+  "_date": "2026-08-27T14:12:08.649Z",
+  "_modCount": 1490,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -73,7 +73,7 @@
         "espece": "Acer Palmatum \"Franc\"",
         "url": "https://fr.wikipedia.org/wiki/Acer_palmatum",
         "notes": "Caduc. Sapindaceae. Acer palmatum type botanique, issu de semis (franc de pied, cultivar non identifié). Feuillage vert moyen à 5-7 lobes pointus, plus vigoureux et robuste que les cultivars greffés. Comportement phénologique de référence pour l'espèce : débourrement vert tendre, rouge-orangé à l'automne. Plus tolérant aux conditions difficiles (vent, froid, sol) que les cultivars panachés ou pourpres. Croissance plus rapide que les cultivars nains. Fleurs discrètes rouge-pourpre en petits bouquets au printemps, donnant des samares ailées. Rustique jusqu'à -20°C. Sujet idéal pour la mise en forme car la taille est mieux tolérée que sur les cultivars sensibles.",
-        "photo": "",
+        "photo": "https://palmatia.com/produit/acer-palmatum-type-erable-du-japon/",
         "debourrement": [
           1,
           1
