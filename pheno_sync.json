@@ -1,8 +1,8 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1787810650895,
-  "_date": "2026-08-27T06:04:10.895Z",
+  "_ts": 1787821655346,
+  "_date": "2026-08-27T09:07:35.346Z",
   "_modCount": 1482,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
@@ -67,6 +67,69 @@
         "flush3_djc": null,
         "flush3": null,
         "flush3_travaux": ""
+      },
+      {
+        "_id": "mtbauno11upr",
+        "espece": "Acer Palmatum \"Franc\"",
+        "url": "https://fr.wikipedia.org/wiki/Acer_palmatum",
+        "notes": "Caduc. Sapindaceae. Acer palmatum type botanique, issu de semis (franc de pied, cultivar non identifié). Feuillage vert moyen à 5-7 lobes pointus, plus vigoureux et robuste que les cultivars greffés. Comportement phénologique de référence pour l'espèce : débourrement vert tendre, rouge-orangé à l'automne. Plus tolérant aux conditions difficiles (vent, froid, sol) que les cultivars panachés ou pourpres. Croissance plus rapide que les cultivars nains. Fleurs discrètes rouge-pourpre en petits bouquets au printemps, donnant des samares ailées. Rustique jusqu'à -20°C. Sujet idéal pour la mise en forme car la taille est mieux tolérée que sur les cultivars sensibles.",
+        "photo": "",
+        "debourrement": [
+          1,
+          1
+        ],
+        "debourrement_djc": 512,
+        "debourrement_travaux": "Observation — Ko 5 (24-28 fév) ~512°J : débourrement vert tendre, bourgeons s'ouvrant sur rameaux fins.\nUekae (rempotage) — Ko 5-8, avant débourrement, tous les 2 ans (croissance rapide). Substrat : 100% akadama ou akadama 80% + pouzzolane 20% ; pH 5,5-6,5, drainage correct.\nFertilisation : suspendre jusqu'au débourrement complet.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/japanese-maple",
+        "feuillaison": [
+          2,
+          0.4604904632152589
+        ],
+        "feuillaison_djc": 726,
+        "feuillaison_travaux": "Observation — Ko 9 (16-20 mars) ~726°J : feuillage vert moyen entièrement déployé, 5-7 lobes pointus bien dessinés.\nMetsumi (pincement) — pincement du bout des doigts en laissant 2 paires de feuilles, répéter toutes les 2-3 semaines.\nFertilisation : NPK 7-5-7, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/japanese-maple",
+        "floraison": [
+          2,
+          1
+        ],
+        "floraison_djc": 924,
+        "floraison_travaux": "Observation — Ko 12 (31 mars-4 avr) ~924°J : fleurs rouge-pourpre discrètes en petits bouquets, suivies de samares ailées.\nFertilisation : NPK 10-6-6 dilué, EC 0,8-1,2 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/japanese-maple",
+        "croissance": [
+          3,
+          0.21487603305785125
+        ],
+        "croissance_djc": 1070,
+        "croissance_travaux": "Observation — Ko 14 (10-14 avr) ~1070°J : forte croissance végétative, entre-nœuds s'allongent rapidement (plus vigoureux qu'un cultivar greffé).\nMetsumi (pincement) — pincement toutes les 2-3 semaines sur pousses de 3-4 paires de feuilles.\nHarigane-kake (ligature) — surveiller marques toutes les 3 semaines, reposer si nécessaire.\nToriki (marcottage aérien) — Ko 14-20 période optimale, sève en plein mouvement.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/japanese-maple",
+        "flush2": [
+          5,
+          0.5503597122302158
+        ],
+        "flush2_djc": 2198,
+        "flush2_travaux": "Observation — Ko 27 (16-20 juin) ~2198°J : 2e poussée végétative bien distincte sur les Acer palmatum vigoureux, entre-nœuds plus courts que le 1er flush.\nMetsumi (pincement) — pincer ces pousses à 2-3 paires de feuilles pour densifier la ramification fine.\nHarigane-kake (ligature) — reposer si nécessaire sur rameaux du 2e flush encore souples.\nFertilisation : NPK 10-6-6, EC 1,0-1,5 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/japanese-maple",
+        "flush3": [
+          7,
+          0.8446455505279035
+        ],
+        "flush3_djc": 3790,
+        "flush3_travaux": "Observation — Ko 41 (28 août-1 sept) ~3790°J : 3e poussée possible sur sujets francs vigoureux stimulés par taille ou fertilisation. Pousses fines et courtes, lignification incomplète si trop tardive à Cazaux.\nMetsumi (pincement) — pincer légèrement ; ne pas forcer de repousse après mi-septembre.\nFertilisation : NPK 4-10-14, EC 0,8-1,0 mS/cm — réduire l'azote pour favoriser la lignification.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/japanese-maple",
+        "maturation": [
+          7,
+          0.521870286576169
+        ],
+        "maturation_djc": 3576,
+        "maturation_travaux": "Observation — Ko 39 (18-22 août) ~3576°J : aoûtement du bois, ralentissement de la croissance, samares mûres et dispersées.\nFertilisation : suspendre après Ko 33 (juil).\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/japanese-maple",
+        "senescence": [
+          8,
+          1
+        ],
+        "senescence_djc": 4401,
+        "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : feuillage virant au jaune-orangé puis rouge selon l'ensoleillement et les amplitudes thermiques.\nFertilisation : suspendre.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/japanese-maple",
+        "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, dormance complète. Très rustique à Cazaux ; protéger uniquement lors de gelées exceptionnelles < -10°C.\nSentai (taille de structure) — taille de structure de préférence en automne après chute des feuilles ou en fin d'hiver avant débourrement.\nFertilisation : suspendre.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/japanese-maple",
+        "notes_perso": "",
+        "erreurs_fatales": "",
+        "dormance_djc": 5087,
+        "dormance": [
+          10,
+          0.24290220820189273
+        ]
       },
       {
         "_id": "mqj4jnicuqh9",
@@ -974,11 +1037,8 @@
         ],
         "flush2_djc": 2899,
         "flush2_travaux": "Observation — Ko 33 (18-22 juil) ~2899°J : 2e poussée végétative depuis les bourgeons axillaires, entre-nœuds courts, bractées violet-mauve sur rameaux pincés en juin — remontance caractéristique de glabra.\nMetsumi (pincement) — pincer à 2 paires de feuilles pour densifier et préparer une 3e floraison automnale.\nFertilisation : NPK 6-10-10, EC 0,8-1,2 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
-        "flush3": [
-          7,
-          0.34841628959276016
-        ],
-        "flush3_djc": 3461,
+        "flush3": null,
+        "flush3_djc": null,
         "flush3_travaux": "",
         "maturation": [
           7,
@@ -1098,16 +1158,7 @@
         "dormance": [
           10,
           0.24290220820189273
-        ],
-        "flush2_djc": null,
-        "flush2": null,
-        "flush2_travaux": "",
-        "flush3_djc": 3576,
-        "flush3": [
-          7,
-          0.521870286576169
-        ],
-        "flush3_travaux": ""
+        ]
       },
       {
         "_id": "mpifasqfteyj",
@@ -2029,7 +2080,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 65
+    "_modCount": 64
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
