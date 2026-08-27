@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1787840374593,
-  "_date": "2026-08-27T14:19:34.593Z",
-  "_modCount": 1493,
+  "_ts": 1787840458904,
+  "_date": "2026-08-27T14:20:58.904Z",
+  "_modCount": 1494,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -13,7 +13,7 @@
         "espece": "Acer palmatum  Enkan",
         "url": "https://fr.wikipedia.org/wiki/Acer_palmatum",
         "notes": "Caduc. Famille Sapindaceae. Cultivar linéaire à feuilles très découpées, lobes filiformes rouge-pourpre persistant en été. Port pleureur naturel. Bonsaï : silhouette cascade ou semi-cascade valorisée, feuillage fin spectaculaire ; sensible aux vents desséchants et au soleil intense estival à Cazaux.",
-        "photo": "",
+        "photo": "https://palmatia.com/produit/acer-palmatum-enkan-erable-du-japon/",
         "debourrement": [
           1,
           0.431924882629108
@@ -28,9 +28,9 @@
         "feuillaison_travaux": "Observation — Ko 7 (6-10 mars) ~600°J : feuilles filiformes rouge-pourpre se déploient, entre-nœuds encore courts.\nMebana (sélection bourgeons) — dernier passage pour supprimer bourgeons tardifs non désirés avant fermeture de la fenêtre.\nHarigane-kake (ligature) — surveiller les ligatures posées en dormance, desserrer si marque naissante.\nFertilisation : démarrer NPK 10-6-6 dilué à demi-dose, EC 0,5-0,8 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/japanese-maple",
         "floraison": [
           2,
-          0.6566757493188011
+          0.4604904632152589
         ],
-        "floraison_djc": 798,
+        "floraison_djc": 726,
         "floraison_travaux": "Observation — Ko 10 (21-25 mars) ~800°J : petites fleurs rouge foncé en corymbes discrets, simultanées avec la feuillaison.\nFertilisation : maintenir NPK 10-6-6, EC 0,8-1,0 mS/cm, pH 5,5-6,5. Ne pas fertiliser en excès durant floraison.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/japanese-maple",
         "croissance": [
           3,
