@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1787840673944,
-  "_date": "2026-08-27T14:24:33.944Z",
-  "_modCount": 1495,
+  "_ts": 1787840872418,
+  "_date": "2026-08-27T14:27:52.418Z",
+  "_modCount": 1496,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -1079,9 +1079,12 @@
         "url": "https://fr.wikipedia.org/wiki/Bougainvillea",
         "notes": "Semi-persistant à persistant selon hivernage, famille Nyctaginaceae. Bougainvillea spectoglabra 'Violet de Mèze®'. Hybride interspecifique (B. spectabilis × B. glabra), bractées violet-magenta intenses, feuilles vert sombre sans épines marquées. Espèce tropicale à hiverner hors-gel à Cazaux (serre froide mini 5°C). Floraison remontante sur bois aoûté — ne pas tailler en automne. Plus vigoureuse et florifère que B. spectabilis seule.",
         "photo": "",
-        "debourrement": null,
-        "debourrement_djc": null,
-        "debourrement_travaux": "",
+        "debourrement": [
+          2,
+          0.4604904632152589
+        ],
+        "debourrement_djc": 726,
+        "debourrement_travaux": "Commencer les engrais",
         "feuillaison": [
           3,
           0.21487603305785125
@@ -2092,7 +2095,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 66
+    "_modCount": 67
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
