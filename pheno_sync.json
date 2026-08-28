@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1787930745065,
-  "_date": "2026-08-28T15:25:45.065Z",
-  "_modCount": 1575,
+  "_ts": 1787930827265,
+  "_date": "2026-08-28T15:27:07.265Z",
+  "_modCount": 1576,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -1744,9 +1744,12 @@
           1
         ],
         "flush2_travaux": "Desaiguiller pour favorier bourgeons en novembre",
-        "flush3_djc": null,
-        "flush3": null,
-        "flush3_travaux": ""
+        "flush3_djc": 4401,
+        "flush3": [
+          8,
+          1
+        ],
+        "flush3_travaux": "Mekiri de septembre pour les arbres rempotés au printemps"
       },
       {
         "_id": "mp3qvd738g0h",
