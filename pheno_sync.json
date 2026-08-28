@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1787930827265,
-  "_date": "2026-08-28T15:27:07.265Z",
-  "_modCount": 1576,
+  "_ts": 1787930921110,
+  "_date": "2026-08-28T15:28:41.110Z",
+  "_modCount": 1577,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -1819,9 +1819,12 @@
           0
         ],
         "flush2_travaux": "Desaiguiller (Romero)",
-        "flush3_djc": null,
-        "flush3": null,
-        "flush3_travaux": ""
+        "flush3_djc": 4311,
+        "flush3": [
+          8,
+          0.7612732095490716
+        ],
+        "flush3_travaux": "Mekiri de septembre possible pour les pins rempotés au printemps"
       },
       {
         "_id": "mpzrlenw8z5a",
@@ -2110,7 +2113,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 71
+    "_modCount": 72
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
