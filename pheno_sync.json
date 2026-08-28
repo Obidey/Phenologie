@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1787930921110,
-  "_date": "2026-08-28T15:28:41.110Z",
-  "_modCount": 1577,
+  "_ts": 1787931016841,
+  "_date": "2026-08-28T15:30:16.841Z",
+  "_modCount": 1578,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -1677,7 +1677,16 @@
         "dormance": [
           10,
           0.6719242902208202
-        ]
+        ],
+        "flush2_djc": null,
+        "flush2": null,
+        "flush2_travaux": "",
+        "flush3_djc": 4401,
+        "flush3": [
+          8,
+          1
+        ],
+        "flush3_travaux": "Mekiri possible pour les pins rempotés au printemps"
       },
       {
         "_id": "mp3qtt4nrmkv",
@@ -2113,7 +2122,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 72
+    "_modCount": 73
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
