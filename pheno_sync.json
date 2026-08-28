@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1787903750037,
-  "_date": "2026-08-28T07:55:50.037Z",
-  "_modCount": 1573,
+  "_ts": 1787903756389,
+  "_date": "2026-08-28T07:55:56.389Z",
+  "_modCount": 1574,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -51,7 +51,7 @@
         "senescence_djc": 4311,
         "senescence_travaux": "Observation — Ko 44 (13-17 sept) ~4300°J : feuilles filiformes virent au jaune-orangé puis rouge, chute progressive.\nSentai (taille de structure) — taille de structure possible en fin de sénescence, silhouette lisible sans feuilles.\nFertilisation : NPK 0-10-10, EC 0,6-1,0 mS/cm, pH 5,5-6,5 ; arrêter l'azote.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/japanese-maple",
         "dormance_travaux": "Observation — Ko 56 (12-16 nov) : arbre défeuillé, rameaux filaires rouge-brun visibles, entrée en dormance complète.\nSentai (taille de structure) — taille principale en dormance profonde, silhouette dégagée, couper au-dessus d'un bourgeon orienté.\nHarigane-kake (ligature) — poser ligatures de structure sur bois lignifié, sans sève active ; bronze de préférence sur rameaux fins.\nFertilisation : aucune.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/japanese-maple",
-        "notes_perso": "",
+        "notes_perso": "test",
         "erreurs_fatales": "",
         "dormance_djc": 5223,
         "dormance": [
@@ -2107,7 +2107,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 70
+    "_modCount": 71
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
