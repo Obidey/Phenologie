@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1787902972464,
-  "_date": "2026-08-28T07:42:52.464Z",
-  "_modCount": 1561,
+  "_ts": 1787903116229,
+  "_date": "2026-08-28T07:45:16.229Z",
+  "_modCount": 1562,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -2086,12 +2086,18 @@
         "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : ralentissement de la croissance, formation des boutons floraux de l'année suivante achevée — toute taille au-delà compromet la floraison.\nFertilisation : NPK 4-10-14 faible dose, EC 0,6-0,8 mS/cm, pH 4,5-5,5.\nSource : Bonsai-Shop — https://www.bonsai-shop.com/fr/especes/azalees",
         "dormance_travaux": "Observation — Ko 60 (2-6 déc) ~5382°J : croissance stoppée, boutons floraux formés et dormants. Tolère jusqu'à -15°C sous abri non chauffé avec paillage ; à Cazaux, protection recommandée lors des épisodes de gel marqué. Perte foliaire partielle possible, normale.\nFertilisation : suspendre.\nSource : Bonsai-Shop — https://www.bonsai-shop.com/fr/especes/azalees",
         "notes_perso": "debourrement_djc: 600 → Ko 6 = 557°J ✓\nfeuillaison_djc: 800 → Ko 10 = 798°J ✓\nfloraison_djc: 1100 → Ko 14 = 1070°J ✓ (plus précoce que Satsuki, cohérent avec la source)\ncroissance_djc: 1300 → Ko 17 = 1272°J ✓\nsenescence_djc: 4300 → Ko 46 = 4311°J ✓\ndormance_djc: 5400 → Ko 60 = 5382°J ✓\nmaturation null — pas de fruits ornementaux exploités en bonsaï.\n\"Tsutsuji\" (つつじ) = nom japonais générique pour les azalées du genre Rhododendron, distinct de \"Satsuki\" (azalées d'été, Rhododendron indicum) déjà fait dans ta base. Tsutsuji désigne généralement Rhododendron kaempferi/obtusum, à floraison printanière (avril-mai), contrairement aux Satsuki qui fleurissent en juin.Web recherchéWeb recherchéConfirmé : Tsutsuji = azalée Kurume (Rhododendron kaempferi / R. kiusianum), distincte des Satsuki (R. indicum) déjà en base — floraison plus précoce (avril-mai vs mai-juin), fleurs plus petites.",
-        "erreurs_fatales": "",
+        "erreurs_fatales": "Rempoter en juin. <toujours rempoter au printemps",
         "dormance_djc": 5382,
         "dormance": [
           11,
           0
-        ]
+        ],
+        "flush2_djc": null,
+        "flush2": null,
+        "flush2_travaux": "",
+        "flush3_djc": null,
+        "flush3": null,
+        "flush3_travaux": ""
       }
     ],
     "_version": "v20",
