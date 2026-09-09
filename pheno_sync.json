@@ -1,8 +1,8 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1788468722319,
-  "_date": "2026-09-03T20:52:02.319Z",
+  "_ts": 1788933369644,
+  "_date": "2026-09-09T05:56:09.644Z",
   "_modCount": 1580,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
@@ -2667,7 +2667,8 @@
     "ko35_Acer_palmatum_Katsura_flush2_0": true,
     "ko35_Pin_noir_du_Japon_Kuromatsu_flush2_0": true,
     "ko4_Juniperus_Shimpaku_J__chinensis_feuillaison_0": true,
-    "ko36_Satsuki_maturation_0": true
+    "ko36_Satsuki_maturation_0": true,
+    "ko43_Pommier_du_japon_maturation_0": true
   },
   "config": {
     "ville1": {
