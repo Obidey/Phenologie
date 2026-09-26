@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1790436778739,
-  "_date": "2026-09-26T15:32:58.739Z",
-  "_modCount": 1604,
+  "_ts": 1790436797070,
+  "_date": "2026-09-26T15:33:17.070Z",
+  "_modCount": 1605,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -399,10 +399,10 @@
         "maturation_djc": 3576,
         "maturation_travaux": "Observation — Ko 39 (18-22 août) ~3576°J : aoûtement du bois, ralentissement de la croissance, feuillage vert foncé stable.\nSentai (taille de structure) — Ko 39-43, été : période propice pour la taille des branches fortes (cicatrisation rapide).\nFertilisation : réduire puis stopper après Ko 33 (juil) pour favoriser l'aoûtement et les colorations automnales.\nSource : Bonsai Empire — https://www.bonsaiempire.fr/especes/erable",
         "senescence": [
-          8,
-          1
+          10,
+          0.47318611987381703
         ],
-        "senescence_djc": 4401,
+        "senescence_djc": 5160,
         "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : feuillage redevenant coloré, virant à l'orange et au rouge grenat foncé.\nFertilisation : suspendre.\nSource : Mistral Bonsai — https://www.mistralbonsai.com/fr/comment-choisir-bonsai-derable/",
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Résistant au gel à Cazaux ; protéger uniquement lors de fortes gelées (< -10°C).\nSentai (taille de structure) — taille des branches fortes en automne pour éviter les pertes de sève excessives.\nFertilisation : suspendre.\nSource : Bonsai Empire — https://www.bonsaiempire.fr/especes/erable",
         "notes_perso": "Débourrement rouge carmin spectaculaire, viré vert en été, re-rougit à l'automne.",
@@ -2137,7 +2137,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 80
+    "_modCount": 81
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
