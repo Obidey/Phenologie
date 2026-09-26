@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1790436639898,
-  "_date": "2026-09-26T15:30:39.898Z",
-  "_modCount": 1597,
+  "_ts": 1790436657641,
+  "_date": "2026-09-26T15:30:57.641Z",
+  "_modCount": 1598,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -165,10 +165,10 @@
         "maturation_djc": 3576,
         "maturation_travaux": "Observation — Ko 39 (18-22 août) ~3576°J : aoûtement du bois, croissance ralentie après une saison vigoureuse.\nSentai (taille de structure) — été, lorsque la cicatrisation des bourrelets est rapide : taille des branches fortes possible.\nFertilisation : réduire puis stopper après Ko 33 (juil).\nSource : Bonsai Empire — https://www.bonsaiempire.fr/especes/erable",
         "senescence": [
-          8,
-          1
+          10,
+          0.47318611987381703
         ],
-        "senescence_djc": 4401,
+        "senescence_djc": 5160,
         "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : feuillage virant du rouge-violet vers l'orange-jaune automnal caractéristique.\nRemise en plein soleil dès les grosses chaleurs passées — combinaison froid + soleil indispensable pour développer les couleurs d'automne ; un sujet trop ombragé ne rougit pas.\nFertilisation : suspendre.\nSource : Bonsai Galinou — https://www.bonsaigalinou.com/fr/blog/tout-savoir-sur-les-erables-du-japon-en-bonsai-n18",
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Rustique à Cazaux jusqu'à -10°C ; protéger uniquement lors de fortes gelées.\nSentai (taille de structure) — taille de structure de préférence en automne, juste après la chute des feuilles, pour limiter les pertes de sève.\nFertilisation : suspendre.\nSource : Quand Arroser Ma Plante — https://www.quandarrosermaplante.com/plantes-interieur/bonsais/bonsai-erable-du-japon/",
         "notes_perso": "ne fleurit pas selon Truffaut, mais d'autres sources mentionnent fleurs rougeâtres et samares (variabilité documentaire). Croissance rapide, vigueur, parent direct de 'Shaina'/'Bloodgood'.",
@@ -2122,7 +2122,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 74
+    "_modCount": 75
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
