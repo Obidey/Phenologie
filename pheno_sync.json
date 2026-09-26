@@ -1,8 +1,8 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1790310235423,
-  "_date": "2026-09-25T04:23:55.423Z",
+  "_ts": 1790436617583,
+  "_date": "2026-09-26T15:30:17.583Z",
   "_modCount": 1596,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
@@ -45,10 +45,10 @@
         "maturation_djc": 2198,
         "maturation_travaux": "Observation — Ko 27 (16-20 juin) ~2200°J : croissance ralentie, feuilles durcies, couleur rouge-pourpre s'intensifie sous la chaleur cazacienne.\nSentai (taille de structure) — taille légère de rééquilibrage après arrêt de croissance ; éviter coupes importantes par forte chaleur.\nHarigane-kake (ligature) — retirer toutes les ligatures avant marquage estival.\nFertilisation : basculer sur NPK 6-6-8 pour durcissement des tissus, EC 0,8-1,2 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/japanese-maple",
         "senescence": [
-          8,
-          0.7612732095490716
+          10,
+          0.47318611987381703
         ],
-        "senescence_djc": 4311,
+        "senescence_djc": 5160,
         "senescence_travaux": "Observation — Ko 44 (13-17 sept) ~4300°J : feuilles filiformes virent au jaune-orangé puis rouge, chute progressive.\nSentai (taille de structure) — taille de structure possible en fin de sénescence, silhouette lisible sans feuilles.\nFertilisation : NPK 0-10-10, EC 0,6-1,0 mS/cm, pH 5,5-6,5 ; arrêter l'azote.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/japanese-maple",
         "dormance_travaux": "Observation — Ko 56 (12-16 nov) : arbre défeuillé, rameaux filaires rouge-brun visibles, entrée en dormance complète.\nSentai (taille de structure) — taille principale en dormance profonde, silhouette dégagée, couper au-dessus d'un bourgeon orienté.\nHarigane-kake (ligature) — poser ligatures de structure sur bois lignifié, sans sève active ; bronze de préférence sur rameaux fins.\nFertilisation : aucune.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/japanese-maple",
         "notes_perso": "test",
@@ -2700,8 +2700,8 @@
     "Hibiscus / Hortensia floraison",
     "Kumquat / Citron véraison",
     "Grenadier / Chêne vert maturation",
-    "Érables rougissent / Glands mûrs",
-    "Chute des feuilles / Arbousier fleurit",
+    "Érables rougissent / Chute des glands",
+    "/ Arbousier fleurit",
     "Lierre fructifie / Sénescence",
     "Fin de cycle / Retour dormance"
   ]
