@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1790436674157,
-  "_date": "2026-09-26T15:31:14.157Z",
-  "_modCount": 1599,
+  "_ts": 1790436681007,
+  "_date": "2026-09-26T15:31:21.007Z",
+  "_modCount": 1600,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -222,10 +222,10 @@
         "maturation_djc": 3576,
         "maturation_travaux": "Observation — Ko 39 (18-22 août) ~3576°J : aoûtement du bois, feuillage déjà vert soutenu avec panachure atténuée.\nFertilisation : suspendre après Ko 33 (juil).\nSource : Erable du Val de Jargeau — https://www.erableduvaldejargeau.fr/produit/acer-palmatum-beni-shichihenge/",
         "senescence": [
-          8,
-          1
+          10,
+          0.47318611987381703
         ],
-        "senescence_djc": 4401,
+        "senescence_djc": 5160,
         "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : unification du feuillage en rose foncé uni, coloration automnale caractéristique du cultivar.\nFertilisation : suspendre.\nSource : Promesse de Fleurs — https://www.promessedefleurs.com/arbustes/arbustes-par-variete/erables-du-japon/erable-du-japon-acer-palmatum-beni-shichihenge.html",
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Rustique à Cazaux jusqu'à -20°C ; protéger des vents forts.\nFertilisation : suspendre.\nSource : Achat Vente Palmiers — https://www.achat-vente-palmiers.com/fr/erables/109-acer-palmatum-beni-shichihenge-.html",
         "notes_perso": "Cultivar panaché \"à sept changements\" — variabilité saisonnière de coloris importante, sensible à la panachure réversible selon vigueur/lumière.Web recherchéWeb recherchéDonnée clé : \"limitez les tailles\" pour préserver la panachure (signal de sensibilité au stress, identique au cultivar 'Taylor'), nom signifiant \"sept apparitions rouges\", panachure réversible si vigueur excessive.",
@@ -234,7 +234,13 @@
         "dormance": [
           10,
           0.24290220820189273
-        ]
+        ],
+        "flush2_djc": null,
+        "flush2": null,
+        "flush2_travaux": "",
+        "flush3_djc": null,
+        "flush3": null,
+        "flush3_travaux": ""
       },
       {
         "_id": "mqj4exix6810",
@@ -2122,7 +2128,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 75
+    "_modCount": 76
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
