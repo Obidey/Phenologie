@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1790436923161,
-  "_date": "2026-09-26T15:35:23.161Z",
-  "_modCount": 1612,
+  "_ts": 1790436940325,
+  "_date": "2026-09-26T15:35:40.325Z",
+  "_modCount": 1613,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -861,10 +861,10 @@
         "maturation_djc": 3576,
         "maturation_travaux": "Observation — Ko 39 (18-22 août) ~3576°J : aoûtement du bois, feuillage pourpre foncé stable.\nFertilisation : suspendre après Ko 33 (juil).\nSource : Meilland Richardier — https://www.meillandrichardier.com/erable-du-japon-trompenburg.html",
         "senescence": [
-          8,
-          1
+          10,
+          0.47318611987381703
         ],
-        "senescence_djc": 4401,
+        "senescence_djc": 5160,
         "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : feuillage redevenant rouge vif, coloration automnale écarlate caractéristique.\nFertilisation : suspendre.\nSource : Nova Plants — https://www.novaplants.fr/acer-palmatum-trompenburg-c2-4",
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Rustique jusqu'à -25°C ; protéger des vents forts à Cazaux.\nFertilisation : suspendre.\nSource : Meilland Richardier — https://www.meillandrichardier.com/erable-du-japon-trompenburg.html",
         "notes_perso": "Cultivar distinctif : lobes enroulés en tube (effet \"griffe\"), un des plus reconnaissables visuellement.Web recherchéWeb recherchéDonnée clé : \"Limitez les tailles\" (sensible au stress comme Taylor/Beni Shichihenge), protéger des vents forts, sélectionné en 1965 à l'arboretum Trompenburg de Rotterdam.",
@@ -873,7 +873,13 @@
         "dormance": [
           10,
           0.24290220820189273
-        ]
+        ],
+        "flush2_djc": null,
+        "flush2": null,
+        "flush2_travaux": "",
+        "flush3_djc": null,
+        "flush3": null,
+        "flush3_travaux": ""
       },
       {
         "_id": "mqkrrze8qbug",
@@ -2155,7 +2161,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 88
+    "_modCount": 89
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
