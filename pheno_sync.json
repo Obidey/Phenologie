@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1790436846371,
-  "_date": "2026-09-26T15:34:06.371Z",
-  "_modCount": 1608,
+  "_ts": 1790436867211,
+  "_date": "2026-09-26T15:34:27.211Z",
+  "_modCount": 1609,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -630,10 +630,10 @@
         "maturation_djc": 3576,
         "maturation_travaux": "Observation — Ko 39 (18-22 août) ~3576°J : aoûtement du bois, ralentissement de la croissance.\nFertilisation : suspendre en juillet-août, reprendre légèrement ensuite.\nSource : Kentis — https://kentis.com/fr/boutique/bonsai-acer-palmatum-osakazuki-erable/",
         "senescence": [
-          9,
-          0
+          10,
+          0.47318611987381703
         ],
-        "senescence_djc": 4496,
+        "senescence_djc": 5160,
         "senescence_travaux": "Observation — Ko 47 (28 sept-2 oct) ~4401°J : début de la métamorphose automnale, accumulation des pigments anthocyaniques sous l'effet du froid, virage progressif du vert vers le rouge carmin intense, s'intensifiant semaine après semaine jusqu'à la chute.\nFertilisation : suspendre.\nSource : Bambouseraie de Paris — https://bambouseraiedeparis.fr/blogs/infos/pourquoi-choisir-l-erable-du-japon-osakazuki-pour-votre-jardin",
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, bois brun rougeâtre décoratif révélé. Très rustique à Cazaux jusqu'à -20/-23°C ; protéger les jeunes sujets du vent fort et du gel intense.\nSentai (taille de structure) — taille annuelle avant l'hiver ou en fin d'hiver avant débourrement.\nFertilisation : suspendre.\nSource : Bambouseraie de Paris — https://bambouseraiedeparis.fr/products/acer-palmatum-osakazuki",
         "notes_perso": "couleur rouge spectaculaire à l'automne, taille de tronc plus grande, feuillage vert en été (contrairement aux cultivars pourpres permanents). Je vérifie les détails restants.",
@@ -642,7 +642,13 @@
         "dormance": [
           10,
           0.24290220820189273
-        ]
+        ],
+        "flush2_djc": null,
+        "flush2": null,
+        "flush2_travaux": "",
+        "flush3_djc": null,
+        "flush3": null,
+        "flush3_travaux": ""
       },
       {
         "_id": "mqko1on3zw8f",
@@ -2143,7 +2149,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 84
+    "_modCount": 85
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
