@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1790436813142,
-  "_date": "2026-09-26T15:33:33.142Z",
-  "_modCount": 1606,
+  "_ts": 1790436828040,
+  "_date": "2026-09-26T15:33:48.040Z",
+  "_modCount": 1607,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -519,10 +519,10 @@
         "maturation_djc": 3576,
         "maturation_travaux": "Observation — Ko 39 (18-22 août) ~3576°J : bisamares ailés virant du vert au rouge, jusqu'à 3 cm d'envergure.\nFertilisation : suspendre après Ko 33 (juil).\nSource : Jardin Florilège — https://jardin-florilege.eu/fr/encyclopedie/acer-palmatum-manyo-no-sato",
         "senescence": [
-          8,
-          1
+          10,
+          0.47318611987381703
         ],
-        "senescence_djc": 4401,
+        "senescence_djc": 5160,
         "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : feuillage virant au pourpre et à l'orange, coloration automnale caractéristique.\nFertilisation : suspendre.\nSource : Promesse de Fleurs — https://www.promessedefleurs.com/arbustes/arbustes-par-variete/erables-du-japon/erable-du-japon-manyo-no-sato-acer-palmatum.html",
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Rustique jusqu'à -15°C ; protéger des vents froids à Cazaux.\nFertilisation : suspendre.\nSource : Jardin du Pic Vert — https://www.jardindupicvert.com/arbustes/erable-du-japon-manyo-no-sato.html",
         "notes_perso": "",
@@ -2137,7 +2137,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 82
+    "_modCount": 83
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
