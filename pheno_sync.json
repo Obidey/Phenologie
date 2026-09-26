@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1790436906105,
-  "_date": "2026-09-26T15:35:06.105Z",
-  "_modCount": 1611,
+  "_ts": 1790436923161,
+  "_date": "2026-09-26T15:35:23.161Z",
+  "_modCount": 1612,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -804,10 +804,10 @@
         "maturation_djc": 3339,
         "maturation_travaux": "Observation — Ko 33 (18-22 juil) ~2899°J à Ko 36 (3-7 août) ~3230°J : seconde poussée de rose vif en plein été, particularité distinctive du cultivar.\nFertilisation : suspendre temporairement pendant la seconde poussée pour ne pas forcer une croissance déjà fragile.\nSource : Palmatia Plantes — https://palmatia.com/produit/acer-palmatum-taylor-erable-du-japon/",
         "senescence": [
-          8,
-          0.7612732095490716
+          10,
+          0.47318611987381703
         ],
-        "senescence_djc": 4311,
+        "senescence_djc": 5160,
         "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : feuillage redevenant rose-rouge très vif, coloration automnale caractéristique du cultivar.\nFertilisation : suspendre.\nSource : Palmatia Plantes — https://palmatia.com/produit/acer-palmatum-taylor-erable-du-japon/",
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Protéger des vents forts et du gel intense à Cazaux, cultivar plus fragile que les Acer standards.\nFertilisation : suspendre.\nSource : Achat Vente Palmiers — https://www.achat-vente-palmiers.com/fr/erables/129-acer-palmatum-taylor-.html",
         "notes_perso": "Donnée importante : cultivar réputé difficile à maintenir en bonsaï (avec Geisha, Baby Lace), feuillage panaché rose toute la saison avec une seconde poussée rose en plein été, \"limitez les tailles\" — vigueur réduite, sensible au stress.",
@@ -2155,7 +2155,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 87
+    "_modCount": 88
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
