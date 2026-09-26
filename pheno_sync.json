@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1790436752108,
-  "_date": "2026-09-26T15:32:32.108Z",
-  "_modCount": 1603,
+  "_ts": 1790436778739,
+  "_date": "2026-09-26T15:32:58.739Z",
+  "_modCount": 1604,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -342,10 +342,10 @@
         "maturation_djc": 3576,
         "maturation_travaux": "Observation — Ko 39 (18-22 août) ~3576°J : aoûtement du bois, samares ailées en formation, feuillage panaché stable.\nFertilisation : suspendre après Ko 33 (juil).\nSource : Plantes & Nature — https://www.plantes-et-nature.fr/32896-acer-palmatum-butterfly-erable-du-japon-palme-panache.html",
         "senescence": [
-          8,
-          1
+          10,
+          0.47318611987381703
         ],
-        "senescence_djc": 4401,
+        "senescence_djc": 5160,
         "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : panachure virant au rose violacé et jaune orangé, ou jaune marginé de rouge selon les sujets.\nFertilisation : suspendre.\nSource : Bonsai Galinou — https://www.bonsaigalinou.com/fr/blog/tout-savoir-sur-les-erables-du-japon-en-bonsai-n18",
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Protéger des vents froids et desséchants à Cazaux.\nFertilisation : suspendre.\nSource : La Maison du Bananier — https://www.lamaisondubananier.com/les-erables-acer-palmatum/1222-acer-palmatum-butterfly-erable-du-japon.html",
         "notes_perso": "Cultivar panaché évoqué plus haut comme \"proche\" de Beni Shichihenge — même famille de sensibilités (panachure réversible, limiter les tailles).Web recherchéWeb recherchéDonnée critique du forum bonsaï : \"feuilles fines et panachées, ça crame facilement\" face au vent et au soleil — confirmation pratique de la fragilité signalée pour la fiche.",
@@ -354,7 +354,13 @@
         "dormance": [
           10,
           0.24290220820189273
-        ]
+        ],
+        "flush2_djc": null,
+        "flush2": null,
+        "flush2_travaux": "",
+        "flush3_djc": null,
+        "flush3": null,
+        "flush3_travaux": ""
       },
       {
         "_id": "mqj4cmt7imzu",
@@ -2131,7 +2137,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 79
+    "_modCount": 80
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
