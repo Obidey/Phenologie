@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1794307104163,
-  "_date": "2026-11-10T10:38:24.163Z",
-  "_modCount": 1628,
+  "_ts": 1794307143716,
+  "_date": "2026-11-10T10:39:03.716Z",
+  "_modCount": 1629,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -755,10 +755,10 @@
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Rustique à Cazaux ; protéger des gelées tardives au printemps suivant (jeunes feuilles sensibles) et des vents froids.\nFertilisation : suspendre.\nSource : Roué Pépinières — https://rouepepinieres.com/568-acer-palmatum-shaina.html",
         "notes_perso": "mutation witches-broom de 'Bloodgood', entre-nœuds très courts (aspect touffu), lobe central court et rond, idéal pour bonsaï à petite échelle. Marcottage aérien difficile sur ce cultivar (signalé sur forum).",
         "erreurs_fatales": "",
-        "dormance_djc": 5087,
+        "dormance_djc": 5223,
         "dormance": [
           10,
-          0.24290220820189273
+          0.6719242902208202
         ],
         "flush2_djc": null,
         "flush2": null,
@@ -2173,7 +2173,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 92
+    "_modCount": 93
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
