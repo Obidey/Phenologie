@@ -1,10 +1,10 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1791926216503,
-  "_date": "2026-10-13T21:16:56.503Z",
+  "_ts": 1794300930244,
+  "_date": "2026-11-10T08:55:30.244Z",
   "_modCount": 1624,
-  "_device": "Mozilla/5.0 (iPad; CPU OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like ",
+  "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
     "especes": [
@@ -485,7 +485,7 @@
       {
         "_id": "mqkolwhelj95",
         "espece": "Acer palmatum Manyo-No-Sato",
-        "url": "https://fr.wikipedia.org/wiki/Acer_palmatum",
+        "url": "https://www.promessedefleurs.com/arbustes/arbustes-par-variete/erables-du-japon/erable-du-japon-manyo-no-sato-acer-palmatum.html",
         "notes": "Caduc. Sapindaceae. Cultivar récent au feuillage découpé irrégulier, rare par sa panachure très variable. Débourrement brun pourpré panaché de vert citron, virant au vert panaché de vert chartreux en été, puis pourpre et orange à l'automne. Floraison en corymbes de 3-4 cm (10-15 fleurs rouge à rouge pourpre), produisant des bisamares ailés vert puis rouge jusqu'à 3 cm. Pousse à l'ombre ou mi-ombre, rustique jusqu'à -15°C.",
         "photo": "https://www.promessedefleurs.com/arbustes/arbustes-par-variete/erables-du-japon/erable-du-japon-manyo-no-sato-acer-palmatum.html",
         "debourrement": [
@@ -695,10 +695,10 @@
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, écorce rouge corail pleinement visible sur le bois de 1-2 ans — atout décoratif majeur de l'hiver. Surveiller l'apparition de bactérioses hivernales (taches brunes, dépérissement de rameaux), plus fréquentes lors d'hivers froids et humides à Cazaux ; couper et désinfecter les outils si symptômes observés.\nFertilisation : suspendre.\nSource : Au Jardin (forum) — https://www.aujardin.org/viewtopic.php?t=194792",
         "notes_perso": "Cultivar majeur \"Corail d'Hiver\" — écorce rouge corail vif, particularité décorative hivernale similaire à Bi-Hoo mais nettement plus connu et robuste.Web recherchéWeb recherchéDonnée critique trouvée : sensibilité aux bactérioses hivernales, écorce corail sur bois de 1-2 ans seulement (le bois ancien redevient vert-gris), mi-ombre préférable, sol calcaire à proscrire.",
         "erreurs_fatales": "",
-        "dormance_djc": 5087,
+        "dormance_djc": 5223,
         "dormance": [
           10,
-          0.24290220820189273
+          0.6719242902208202
         ],
         "flush2_djc": 2899,
         "flush2": [
@@ -2173,7 +2173,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 90
+    "_modCount": 91
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
