@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1794307071429,
-  "_date": "2026-11-10T10:37:51.429Z",
-  "_modCount": 1627,
+  "_ts": 1794307104163,
+  "_date": "2026-11-10T10:38:24.163Z",
+  "_modCount": 1628,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -638,10 +638,10 @@
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, bois brun rougeâtre décoratif révélé. Très rustique à Cazaux jusqu'à -20/-23°C ; protéger les jeunes sujets du vent fort et du gel intense.\nSentai (taille de structure) — taille annuelle avant l'hiver ou en fin d'hiver avant débourrement.\nFertilisation : suspendre.\nSource : Bambouseraie de Paris — https://bambouseraiedeparis.fr/products/acer-palmatum-osakazuki",
         "notes_perso": "couleur rouge spectaculaire à l'automne, taille de tronc plus grande, feuillage vert en été (contrairement aux cultivars pourpres permanents). Je vérifie les détails restants.",
         "erreurs_fatales": "",
-        "dormance_djc": 5087,
+        "dormance_djc": 5223,
         "dormance": [
           10,
-          0.24290220820189273
+          0.6719242902208202
         ],
         "flush2_djc": null,
         "flush2": null,
@@ -2173,7 +2173,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 91
+    "_modCount": 92
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
