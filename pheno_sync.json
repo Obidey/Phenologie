@@ -1,8 +1,8 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1794935814469,
-  "_date": "2026-11-17T17:16:54.469Z",
+  "_ts": 1794935896330,
+  "_date": "2026-11-17T17:18:16.330Z",
   "_modCount": 1638,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
@@ -53,10 +53,10 @@
         "dormance_travaux": "Observation — Ko 56 (12-16 nov) : arbre défeuillé, rameaux filaires rouge-brun visibles, entrée en dormance complète.\nSentai (taille de structure) — taille principale en dormance profonde, silhouette dégagée, couper au-dessus d'un bourgeon orienté.\nHarigane-kake (ligature) — poser ligatures de structure sur bois lignifié, sans sève active ; bronze de préférence sur rameaux fins.\nFertilisation : aucune.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/japanese-maple",
         "notes_perso": "test",
         "erreurs_fatales": "",
-        "dormance_djc": 5223,
+        "dormance_djc": 5492,
         "dormance": [
-          10,
-          0.6719242902208202
+          11,
+          0.4330708661417323
         ],
         "flush2_djc": 3125,
         "flush2": [
@@ -125,10 +125,10 @@
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, dormance complète. Très rustique à Cazaux ; protéger uniquement lors de gelées exceptionnelles < -10°C.\nSentai (taille de structure) — taille de structure de préférence en automne après chute des feuilles ou en fin d'hiver avant débourrement.\nFertilisation : suspendre.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/japanese-maple",
         "notes_perso": "",
         "erreurs_fatales": "",
-        "dormance_djc": 5087,
+        "dormance_djc": 5492,
         "dormance": [
-          10,
-          0.24290220820189273
+          11,
+          0.4330708661417323
         ]
       },
       {
@@ -173,10 +173,10 @@
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Rustique à Cazaux jusqu'à -10°C ; protéger uniquement lors de fortes gelées.\nSentai (taille de structure) — taille de structure de préférence en automne, juste après la chute des feuilles, pour limiter les pertes de sève.\nFertilisation : suspendre.\nSource : Quand Arroser Ma Plante — https://www.quandarrosermaplante.com/plantes-interieur/bonsais/bonsai-erable-du-japon/",
         "notes_perso": "ne fleurit pas selon Truffaut, mais d'autres sources mentionnent fleurs rougeâtres et samares (variabilité documentaire). Croissance rapide, vigueur, parent direct de 'Shaina'/'Bloodgood'.",
         "erreurs_fatales": "",
-        "dormance_djc": 5087,
+        "dormance_djc": 5492,
         "dormance": [
-          10,
-          0.24290220820189273
+          11,
+          0.4330708661417323
         ],
         "flush2_djc": 2998,
         "flush2": [
@@ -230,10 +230,10 @@
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Rustique à Cazaux jusqu'à -20°C ; protéger des vents forts.\nFertilisation : suspendre.\nSource : Achat Vente Palmiers — https://www.achat-vente-palmiers.com/fr/erables/109-acer-palmatum-beni-shichihenge-.html",
         "notes_perso": "Cultivar panaché \"à sept changements\" — variabilité saisonnière de coloris importante, sensible à la panachure réversible selon vigueur/lumière.Web recherchéWeb recherchéDonnée clé : \"limitez les tailles\" pour préserver la panachure (signal de sensibilité au stress, identique au cultivar 'Taylor'), nom signifiant \"sept apparitions rouges\", panachure réversible si vigueur excessive.",
         "erreurs_fatales": "",
-        "dormance_djc": 5087,
+        "dormance_djc": 5492,
         "dormance": [
-          10,
-          0.24290220820189273
+          11,
+          0.4330708661417323
         ],
         "flush2_djc": null,
         "flush2": null,
@@ -287,10 +287,10 @@
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, écorce jaune orangé à abricot pleinement visible et décorative tout l'hiver sur les rameaux de 1 à 4-5 ans. Protection en serre froide recommandée à Cazaux même en pot — cultivar sujet au dépérissement inexpliqué en conditions hivernales humides.\nFertilisation : suspendre.\nSource : The Maple Nursery — https://themaplenursery.com/fr/products/acer-palmatum-bi-hoo",
         "notes_perso": "cultivar fragile, sujet au dépérissement inexpliqué, drainage parfait impératif, mieux en pleine terre qu'en pot, protection hivernale en serre recommandée même pour les sujets en pot.",
         "erreurs_fatales": "Toriki (marcottage aérien) volontairement omis — signalé comme difficile à réussir sur ce cultivar par les praticiens, conforme à la règle \"ne jamais inventer, omettre si non applicable\".",
-        "dormance_djc": 5087,
+        "dormance_djc": 5492,
         "dormance": [
-          10,
-          0.24290220820189273
+          11,
+          0.4330708661417323
         ],
         "flush2_djc": 3125,
         "flush2": [
@@ -350,10 +350,10 @@
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Protéger des vents froids et desséchants à Cazaux.\nFertilisation : suspendre.\nSource : La Maison du Bananier — https://www.lamaisondubananier.com/les-erables-acer-palmatum/1222-acer-palmatum-butterfly-erable-du-japon.html",
         "notes_perso": "Cultivar panaché évoqué plus haut comme \"proche\" de Beni Shichihenge — même famille de sensibilités (panachure réversible, limiter les tailles).Web recherchéWeb recherchéDonnée critique du forum bonsaï : \"feuilles fines et panachées, ça crame facilement\" face au vent et au soleil — confirmation pratique de la fragilité signalée pour la fiche.",
         "erreurs_fatales": "",
-        "dormance_djc": 5087,
+        "dormance_djc": 5492,
         "dormance": [
-          10,
-          0.24290220820189273
+          11,
+          0.4330708661417323
         ],
         "flush2_djc": null,
         "flush2": null,
@@ -407,10 +407,10 @@
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Résistant au gel à Cazaux ; protéger uniquement lors de fortes gelées (< -10°C).\nSentai (taille de structure) — taille des branches fortes en automne pour éviter les pertes de sève excessives.\nFertilisation : suspendre.\nSource : Bonsai Empire — https://www.bonsaiempire.fr/especes/erable",
         "notes_perso": "Débourrement rouge carmin spectaculaire, viré vert en été, re-rougit à l'automne.",
         "erreurs_fatales": "",
-        "dormance_djc": 5087,
+        "dormance_djc": 5492,
         "dormance": [
-          10,
-          0.24290220820189273
+          11,
+          0.4330708661417323
         ],
         "flush2_djc": 2899,
         "flush2": [
@@ -467,10 +467,10 @@
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Rustique jusqu'à -20°C — protection nécessaire à Cazaux uniquement lors de gelées fortes (<-10°C).\nSentai (taille de structure) — taille des branches fortes en automne pour éviter les pertes de sève excessives.\nFertilisation : suspendre.\nSource : Bonsai Empire — https://www.bonsaiempire.fr/especes/erable",
         "notes_perso": "un des premiers Acer en végétation, débourrement précoce orange-jaune, floraison discrète mai-juin produisant des samares, automne flamboyant orange-rouge.",
         "erreurs_fatales": "",
-        "dormance_djc": 5223,
+        "dormance_djc": 5492,
         "dormance": [
-          10,
-          0.6719242902208202
+          11,
+          0.4330708661417323
         ],
         "flush2_djc": 3125,
         "flush2": [
@@ -519,18 +519,18 @@
         "maturation_djc": 3576,
         "maturation_travaux": "Observation — Ko 39 (18-22 août) ~3576°J : bisamares ailés virant du vert au rouge, jusqu'à 3 cm d'envergure.\nFertilisation : suspendre après Ko 33 (juil).\nSource : Jardin Florilège — https://jardin-florilege.eu/fr/encyclopedie/acer-palmatum-manyo-no-sato",
         "senescence": [
-          9,
-          0.4308755760368664
+          10,
+          0.24290220820189273
         ],
-        "senescence_djc": 4683,
+        "senescence_djc": 5087,
         "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : feuillage virant au pourpre et à l'orange, coloration automnale caractéristique.\nFertilisation : suspendre.\nSource : Promesse de Fleurs — https://www.promessedefleurs.com/arbustes/arbustes-par-variete/erables-du-japon/erable-du-japon-manyo-no-sato-acer-palmatum.html",
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Rustique jusqu'à -15°C ; protéger des vents froids à Cazaux.\nFertilisation : suspendre.\nSource : Jardin du Pic Vert — https://www.jardindupicvert.com/arbustes/erable-du-japon-manyo-no-sato.html",
         "notes_perso": "",
         "erreurs_fatales": "",
-        "dormance_djc": 5087,
+        "dormance_djc": 5492,
         "dormance": [
-          10,
-          0.24290220820189273
+          11,
+          0.4330708661417323
         ],
         "flush2_djc": null,
         "flush2": null,
@@ -581,10 +581,10 @@
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Rustique à Cazaux ; protéger des vents froids ou salés.\nFertilisation : suspendre.\nSource : Promesse de Fleurs — https://www.promessedefleurs.com/arbustes/arbustes-par-variete/erables-du-japon/acer-palmatum-orange-dream.html",
         "notes_perso": "",
         "erreurs_fatales": "",
-        "dormance_djc": 5087,
+        "dormance_djc": 5492,
         "dormance": [
-          10,
-          0.24290220820189273
+          11,
+          0.4330708661417323
         ],
         "flush2_djc": null,
         "flush2": null,
@@ -638,10 +638,10 @@
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, bois brun rougeâtre décoratif révélé. Très rustique à Cazaux jusqu'à -20/-23°C ; protéger les jeunes sujets du vent fort et du gel intense.\nSentai (taille de structure) — taille annuelle avant l'hiver ou en fin d'hiver avant débourrement.\nFertilisation : suspendre.\nSource : Bambouseraie de Paris — https://bambouseraiedeparis.fr/products/acer-palmatum-osakazuki",
         "notes_perso": "couleur rouge spectaculaire à l'automne, taille de tronc plus grande, feuillage vert en été (contrairement aux cultivars pourpres permanents). Je vérifie les détails restants.",
         "erreurs_fatales": "",
-        "dormance_djc": 5223,
+        "dormance_djc": 5492,
         "dormance": [
-          10,
-          0.6719242902208202
+          11,
+          0.4330708661417323
         ],
         "flush2_djc": null,
         "flush2": null,
@@ -695,10 +695,10 @@
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, écorce rouge corail pleinement visible sur le bois de 1-2 ans — atout décoratif majeur de l'hiver. Surveiller l'apparition de bactérioses hivernales (taches brunes, dépérissement de rameaux), plus fréquentes lors d'hivers froids et humides à Cazaux ; couper et désinfecter les outils si symptômes observés.\nFertilisation : suspendre.\nSource : Au Jardin (forum) — https://www.aujardin.org/viewtopic.php?t=194792",
         "notes_perso": "Cultivar majeur \"Corail d'Hiver\" — écorce rouge corail vif, particularité décorative hivernale similaire à Bi-Hoo mais nettement plus connu et robuste.Web recherchéWeb recherchéDonnée critique trouvée : sensibilité aux bactérioses hivernales, écorce corail sur bois de 1-2 ans seulement (le bois ancien redevient vert-gris), mi-ombre préférable, sol calcaire à proscrire.",
         "erreurs_fatales": "",
-        "dormance_djc": 5223,
+        "dormance_djc": 5492,
         "dormance": [
-          10,
-          0.6719242902208202
+          11,
+          0.4330708661417323
         ],
         "flush2_djc": 2899,
         "flush2": [
@@ -755,10 +755,10 @@
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Rustique à Cazaux ; protéger des gelées tardives au printemps suivant (jeunes feuilles sensibles) et des vents froids.\nFertilisation : suspendre.\nSource : Roué Pépinières — https://rouepepinieres.com/568-acer-palmatum-shaina.html",
         "notes_perso": "mutation witches-broom de 'Bloodgood', entre-nœuds très courts (aspect touffu), lobe central court et rond, idéal pour bonsaï à petite échelle. Marcottage aérien difficile sur ce cultivar (signalé sur forum).",
         "erreurs_fatales": "",
-        "dormance_djc": 5223,
+        "dormance_djc": 5492,
         "dormance": [
-          10,
-          0.6719242902208202
+          11,
+          0.4330708661417323
         ],
         "flush2_djc": null,
         "flush2": null,
@@ -812,10 +812,10 @@
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Protéger des vents forts et du gel intense à Cazaux, cultivar plus fragile que les Acer standards.\nFertilisation : suspendre.\nSource : Achat Vente Palmiers — https://www.achat-vente-palmiers.com/fr/erables/129-acer-palmatum-taylor-.html",
         "notes_perso": "Donnée importante : cultivar réputé difficile à maintenir en bonsaï (avec Geisha, Baby Lace), feuillage panaché rose toute la saison avec une seconde poussée rose en plein été, \"limitez les tailles\" — vigueur réduite, sensible au stress.",
         "erreurs_fatales": "",
-        "dormance_djc": 5087,
+        "dormance_djc": 5492,
         "dormance": [
-          10,
-          0.24290220820189273
+          11,
+          0.4330708661417323
         ],
         "flush2_djc": null,
         "flush2": null,
@@ -869,10 +869,10 @@
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Rustique jusqu'à -25°C ; protéger des vents forts à Cazaux.\nFertilisation : suspendre.\nSource : Meilland Richardier — https://www.meillandrichardier.com/erable-du-japon-trompenburg.html",
         "notes_perso": "Cultivar distinctif : lobes enroulés en tube (effet \"griffe\"), un des plus reconnaissables visuellement.Web recherchéWeb recherchéDonnée clé : \"Limitez les tailles\" (sensible au stress comme Taylor/Beni Shichihenge), protéger des vents forts, sélectionné en 1965 à l'arboretum Trompenburg de Rotterdam.",
         "erreurs_fatales": "",
-        "dormance_djc": 5087,
+        "dormance_djc": 5492,
         "dormance": [
-          10,
-          0.24290220820189273
+          11,
+          0.4330708661417323
         ],
         "flush2_djc": null,
         "flush2": null,
@@ -926,10 +926,10 @@
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Paillage épais à la base recommandé en hiver à Cazaux.\nFertilisation : suspendre.\nSource : Jardiland — https://www.jardiland.com/p/acer-palmatum-wilson-s-pink-dwarf-erable-japonais-nain-20770485",
         "notes_perso": "sensible aux brûlures de jeunes feuilles par vent fort dès le débourrement (forum Au Jardin), nécessite abri du vent.",
         "erreurs_fatales": "",
-        "dormance_djc": 5087,
+        "dormance_djc": 5492,
         "dormance": [
-          10,
-          0.24290220820189273
+          11,
+          0.4330708661417323
         ],
         "flush2_djc": null,
         "flush2": null,
@@ -984,18 +984,18 @@
         "maturation_djc": 4024,
         "maturation_travaux": "Observation — Ko 43 (8-12 sept) ~4024°J : cônes ligneux (strobiles) de 1-2 cm virant du vert au brun foncé, décoratifs et persistant tout l'hiver sur les rameaux.\nFertilisation : NPK 4-10-14, EC 0,8-1,0 mS/cm, pH 5,5-7,0.\nSource : Jardins du Monde — https://jardins-du-monde.be/fr/arbres/aulne-glutineux.html",
         "senescence": [
-          9,
-          0.2119815668202765
+          10,
+          0.24290220820189273
         ],
-        "senescence_djc": 4588,
+        "senescence_djc": 5087,
         "senescence_travaux": "Observation — Ko 49 (8-12 oct) ~4588°J : feuilles jaunissant tardivement (aulne caduc tardif), souvent encore vertes tandis que d'autres espèces ont déjà perdu leur feuillage. Cônes persistants ornementaux.\nFertilisation : suspendre.\nSource : Jardins du Monde — https://jardins-du-monde.be/fr/arbres/aulne-glutineux.html",
         "dormance_travaux": "Observation — Ko 57 (17-21 nov) ~5223°J : chute des feuilles tardive, cônes brun-noir persistants sur rameaux nus tout l'hiver. Chatons mâles déjà bien formés pour la floraison de février. Rustique jusqu'à -25°C à Cazaux, aucune protection nécessaire. Maintenir le substrat humide même en hiver.\nFertilisation : suspendre.\nSource : Mistral Bonsai — https://www.mistralbonsai.com/fr/tout-sur-le-bonsai/fiches-techniques-des-bonsais/bonsai-dexterieur/aulne/",
         "notes_perso": "",
         "erreurs_fatales": "",
-        "dormance_djc": 5223,
+        "dormance_djc": 5492,
         "dormance": [
-          10,
-          0.6719242902208202
+          11,
+          0.4330708661417323
         ]
       },
       {
@@ -1032,18 +1032,18 @@
         "maturation_djc": 3576,
         "maturation_travaux": "Observation — Ko 39 (18-22 août) ~3576°J : croissance ralentit, bois se lignifie. Possible seconde vague de floraison si pincement pratiqué en juin.\nSentai (taille de structure) — taille légère de rectification, laisser les rameaux florifères pour l'automne.\nFertilisation : NPK 4-10-10, EC 0,8-1,0 mS/cm, pH 5,5-6,5. Durcir les tissus avant hivernage.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
         "senescence": [
-          8,
-          1
+          10,
+          0.24290220820189273
         ],
-        "senescence_djc": 4401,
+        "senescence_djc": 5087,
         "senescence_travaux": "Observation — Ko 47 (28 sept-2 oct) ~4401°J : ralentissement marqué, feuilles pâlissent légèrement. Rentrer en serre avant les premières gelées (seuil critique : 5°C).\nFertilisation : arrêt complet de la fertilisation azotée. Dernière application Ko 48 maximum.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
         "dormance_travaux": "Observation — Ko 57 (17-21 nov) ~5223°J : repos en serre froide (5-10°C), arrosages très espacés, feuilles partiellement tombées.\nSentai (taille de structure) — taille de structure en fin de dormance (Ko 3-4), avant la reprise. Ne jamais tailler en automne — la floraison se forme sur le bois de l'année.\nFertilisation : aucune en dormance. Reprendre à la sortie hivernage.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
         "notes_perso": "Uekae (rempotage) — rempotage à la reprise, tous les 2-3 ans.     (JL = pumice + charbon + Ecorce de pin compostée + pouzzolane",
         "erreurs_fatales": "variété à bractées blanches se teintant de rose. Bien poussant. Port naturellement retombant. À palisser ou tuteurer pour l'utiliser en grimpant. Non rustique\n\nFloraison : avril-septembre\nRusticité : 1°C\nSol : riche et drainé\nUtilisations : bac, pot, jardinière, massif, mur",
-        "dormance_djc": 5223,
+        "dormance_djc": 5492,
         "dormance": [
-          10,
-          0.6719242902208202
+          11,
+          0.4330708661417323
         ],
         "flush2_djc": 3125,
         "flush2": [
@@ -1109,10 +1109,10 @@
         "dormance_travaux": "Observation — Ko 57 (17-21 nov) ~5223°J : repos en serre froide (5-10°C), feuilles semi-caduques, arrosages très espacés (substrat presque sec entre deux arrosages).\nSentai (taille de structure) — taille de structure en fin de dormance Ko 3-5, avant reprise printanière. Ne jamais tailler en automne-hiver — le bois aoûté porte les bourgeons florifères.\nFertilisation : aucune en dormance. Reprendre à Ko 13 à la sortie hivernage.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
         "notes_perso": "",
         "erreurs_fatales": "",
-        "dormance_djc": 5223,
+        "dormance_djc": 5492,
         "dormance": [
-          10,
-          0.6719242902208202
+          11,
+          0.4330708661417323
         ]
       },
       {
@@ -1152,18 +1152,18 @@
         "maturation_djc": 3576,
         "maturation_travaux": "Observation — Ko 39 (18-22 août) ~3576°J : aoûtement du bois, possible seconde vague de bractées si pincement pratiqué en juin-juillet. Croissance ralentit.\nSentai (taille de structure) — taille légère uniquement, conserver le bois aoûté porteur de bourgeons florifères.\nFertilisation : NPK 4-10-10, EC 0,8-1,0 mS/cm, pH 5,5-6,5. Durcir les tissus pour l'hivernage.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
         "senescence": [
-          8,
-          1
+          10,
+          0.24290220820189273
         ],
-        "senescence_djc": 4401,
+        "senescence_djc": 5087,
         "senescence_travaux": "Observation — Ko 47 (28 sept-2 oct) ~4401°J : ralentissement net, feuilles pâlissent. Rentrer en serre avant 8°C nocturnes — le 'Violet de Mèze' est légèrement plus frileux que B. glabra seul.\nFertilisation : arrêt complet de l'azote. Dernière application Ko 47 maximum.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
         "dormance_travaux": "Observation — Ko 57 (17-21 nov) ~5223°J : repos en serre froide (5-10°C), feuilles partiellement caduques, arrosages très espacés (1 fois toutes les 2-3 semaines).\nSentai (taille de structure) — taille de structure en toute fin de dormance Ko 3-4, avant reprise. Ne jamais tailler en automne-hiver — le bois aoûté porte les bourgeons florifères du printemps.\nFertilisation : aucune en dormance. Reprendre à Ko 15 à la sortie hivernage.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/bougainvillea",
         "notes_perso": "Le champion de la résistance au froid : -8°C ! Variété très poussante, vigoureuse. Entre 6 et 10 m de haut. À planter en pleine terre de nombreuses régions.\n\nFloraison : de mai aux gelées\nSol : riche, bien drainé\nRusticité : -8°C\nUtilisations : contre un mur, une façade, sur une pergola",
         "erreurs_fatales": "",
-        "dormance_djc": 5223,
+        "dormance_djc": 5492,
         "dormance": [
-          10,
-          0.6719242902208202
+          11,
+          0.4330708661417323
         ],
         "flush2_djc": 2998,
         "flush2": [
@@ -1254,18 +1254,18 @@
         "maturation_djc": 3691,
         "maturation_travaux": "Observation — Ko 39 (18-22 août) ~3600°J : fruits en grossissement, jaunes à maturité en automne. Feuilles vert foncé luisant.\nLimiter à 2-3 fruits par bonsaï pour ne pas épuiser l'arbre ; retirer les fruits surnuméraires.\nFertilisation : basculer vers NPK 6-10-10 pour préparer la dormance et durcir les rameaux, EC 0,8-1,0 mS/cm.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/flowering-quince",
         "senescence": [
-          8,
-          1
+          10,
+          0.24290220820189273
         ],
-        "senescence_djc": 4401,
+        "senescence_djc": 5087,
         "senescence_travaux": "Observation — Ko 47 (28 sept – 2 oct) ~4400°J : jaunissement et chute des feuilles (souvent sans couleur automnale marquée, chute verte possible).\nSentai (taille de structure) — taille de structure et raccourcissement des pousses de l'année à 1-2 nœuds pour initier les éperons floraux de la saison suivante.\nUekae (rempotage) — période privilégiée pour le rempotage bisannuel ; substrat identique à la feuillaison.\nFertilisation : arrêt progressif, dernière application NPK 0-6-10.\nSource : Bonsai4Me — http://www.bonsai4me.com/SpeciesGuide/Chaenomeles.html",
         "dormance_travaux": "Observation — Ko 56-72 (nov – fév) : repos végétatif, bourgeons floraux visibles sur vieux bois. Froid indispensable pour une floraison abondante ; ne pas rentrer en serre chauffée.\nHarigane-kake (ligature) — poser les ligatures de structure sur bois nu, bien visible ; surveiller dès Ko 3.\nProtéger des gelées sous -5°C (tuer les bourgeons floraux) sans supprimer le froid.\nFertilisation : aucune.\nSource : Ma-Ke Bonsai — http://guide.makebonsai.com/bonsai_species_guide_training.asp?SpeciesID=5001",
         "notes_perso": "K23 2eme feuillaison",
         "erreurs_fatales": "",
-        "dormance_djc": 5223,
+        "dormance_djc": 5492,
         "dormance": [
-          10,
-          0.6719242902208202
+          11,
+          0.4330708661417323
         ],
         "flush2_djc": null,
         "flush2": null,
@@ -1668,18 +1668,18 @@
         "maturation_djc": 3691,
         "maturation_travaux": "Observation — Ko 40-48 (23 août-7 oct) ~3691-4496°J : aoûtement des rameaux, bois se lignifie. Maturation des fruits (drupes jaune-vert) si présents.\nSentai (taille de structure) — taille légère de rectification de silhouette en fin d'aoûtement (Ko 47-48).\nFertilisation : NPK 3-8-8, réduire l'azote, favoriser la maturation et les réserves pour la floraison hivernale. EC 0,8-1,2 mS/cm.\nSource : Association Française Bonsai — https://www.afbonsai.com/prunus-mume",
         "senescence": [
-          9,
-          1
+          10,
+          0.24290220820189273
         ],
-        "senescence_djc": 4930,
+        "senescence_djc": 5087,
         "senescence_travaux": "Observation — Ko 52-60 (23 oct-6 déc) ~4854-5382°J : jaunissement et chute des feuilles. L'arbre entre en dormance apparente mais prépare ses bourgeons floraux.\nHarigane-kake (ligature) — poser les ligatures de structure après chute des feuilles, silhouette visible. Utiliser fil d'aluminium, surveiller sur bois jeune.\nFertilisation : arrêter toute fertilisation à la sénescence.\nSource : Bonsai Tonight — https://bonsaitonight.com/tag/japanese-apricot/",
         "dormance_travaux": "Observation — Ko 60-66 (2 déc-5 jan) ~5382-11°J : dormance courte, chevauchant avec l'initiation florale. À Cazaux (hivers doux), les bourgeons floraux s'ouvrent dès Ko 67 (6 jan). Pas de phase de dormance franche distincte de la floraison.\nProtection : abriter des gelées inférieures à -10°C ; à Cazaux le risque est faible mais surveiller les gelées tardives sur fleurs ouvertes.\nFertilisation : aucune.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/japanese-apricot",
         "notes_perso": "K23 2eme feuillaison, Test effeuillage sur mume blanc",
         "erreurs_fatales": "Ne pas laisser sécher le substrat : Enroulement des feuilles Effeuillage 6 juin 2026",
-        "dormance_djc": 5223,
+        "dormance_djc": 5492,
         "dormance": [
-          10,
-          0.6719242902208202
+          11,
+          0.4330708661417323
         ]
       },
       {
@@ -1980,18 +1980,18 @@
         "maturation_djc": 4024,
         "maturation_travaux": "Observation — Ko 43 (8-12 sept) ~4024°J : fruits virant au rouge ou jaune-vert, 1,3-2,3 cm de diamètre, en grossissement.\nMebana (sélection bourgeons) — éclaircir les fruits si production excessive, pour éviter de fatiguer l'arbre et de casser les branches sous le poids.\nFertilisation : NPK 4-10-14, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Maitre Bonsai — https://www.maitre-bonsai.fr/espece/bonsai-malus-pommier/",
         "senescence": [
-          9,
-          0.2119815668202765
+          10,
+          0.24290220820189273
         ],
-        "senescence_djc": 4588,
+        "senescence_djc": 5087,
         "senescence_travaux": "Observation — Ko 49 (8-12 oct) ~4588°J : feuillage jaunissant, fruits mûrs prêts à être retirés avant l'hiver pour ne pas épuiser l'arbre.\nSentai (taille de structure) — taille de structure en automne, après mûrissement des fruits ; retirer les fruits restants avant l'hiver.\nFertilisation : suspendre.\nSource : Maitre Bonsai — https://www.maitre-bonsai.fr/espece/bonsai-malus-pommier/",
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : feuilles tombées, croissance stoppée. Très rustique à Cazaux, aucune protection nécessaire.\nSentai (taille de structure) — en hiver, supprimer uniquement le bois mort.\nFertilisation : suspendre.\nSource : Jardin Secrets — https://jardin-secrets.com/pommier-du-japon.html",
         "notes_perso": "\"Pommier japonais\" = Malus floribunda en bonsaï classique (pommier d'ornement à petits fruits), mais le terme désigne souvent aussi Malus halliana. Je vérifie l'espèce de référence.Web recherchéWeb recherchéMalus floribunda confirmé — espèce de référence \"Pommier japonais\" sur Wikipedia FR. Floraison très précoce, fructification automnale, taille post-floraison + taille de structure en fin d'hiver.",
         "erreurs_fatales": "",
-        "dormance_djc": 5087,
+        "dormance_djc": 5492,
         "dormance": [
-          10,
-          0.24290220820189273
+          11,
+          0.4330708661417323
         ],
         "flush2_djc": 2660,
         "flush2": [
@@ -2040,18 +2040,18 @@
         "maturation_djc": 1991,
         "maturation_travaux": "Observation — Ko 25 (6-10 juin) ~2000°J : croissance ralentit, pousses de printemps lignifiées.\ntaille légère d'éclaircissement seulement en juin, réserver les coupes importantes à la dormance.\nHarigane-kake (ligature) — retirer toutes les ligatures posées au printemps avant strangulation.\nFertilisation : NPK 6-6-6 équilibré, EC 1,0-1,2 mS/cm, pH 5,5-6,5.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/juniper",
         "senescence": [
-          8,
-          0.7612732095490716
+          10,
+          0.24290220820189273
         ],
-        "senescence_djc": 4311,
+        "senescence_djc": 5087,
         "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4300°J : feuillage interne jaunit et tombe naturellement, croissance estivale achevée.\nHazukashi (désaiguillage) — retirer à la main le feuillage mort interne pour améliorer la circulation d'air et la pénétration lumineuse ; ne jamais couper avec des ciseaux le feuillage écailleux vivant.\nFertilisation : NPK 3-10-10 pour durcir les pousses avant l'hiver, EC 0,8-1,0 mS/cm, pH 5,5-6,5.\nSource : Bonsai Tonight — https://bonsaitonight.com/2019/09/17/fall-juniper-work/",
         "dormance_travaux": "Observation — Ko 60-72 (déc-fév) : croissance nulle, feuillage peut brunir légèrement par le froid (réversible).\nUekae (rempotage) — Ko 4-6 (19 fév-5 mars) ~450-560°J, juste avant reprise végétative, tous les 3-4 ans. Substrat : 60% akadama (3-6 mm) + 30% pouzzolane + 10% sable de rivière lavé ; pH cible 5,5-6,5 ; drainage rapide impératif. Ne pas rempoter la même année qu'une taille de structure importante.\nSentai (taille de structure) — coupes majeures en jan-fév uniquement si l'arbre n'est pas rempôté cette saison.\nFertilisation : aucun apport de novembre à fin janvier.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/juniper",
         "notes_perso": "Points de vigilance \nPas de mekiri ni mebana — non applicables aux genévriers.\nfloraison_djc avant debourrement_djc — cohérent : J. sabina fleurit tôt, avant la reprise végétative visible.\nfeuillaison null — persistant sans phase distincte.\nPincement aux doigts explicitement spécifié — règle métier critique pour les junipérus à feuillage écailleux.",
         "erreurs_fatales": "1. floraison_djc: 400 avant debourrement_djc: 500 — séquence correcte pour J. sabina, pas d'erreur.\n2. Pincement (Metsumi) \"toutes les 3-4 semaines jusqu'en août\" — erreur fatale. Sur junipérus, arrêter le pincement fin juillet au plus tard. Pincer en août empêche la maturation des pousses et affaiblit l'arbre avant l'hiver. Fenêtre correcte : Ko 10-35 (mars-début août), arrêt Ko 34-35 (~fin juillet).\n3. Sentai en maturation Ko 25 \"coupes importantes tolérées jusqu'à mi-juillet\" — erreur fatale. Les coupes importantes sur junipérus se font en dehors de la pleine croissance estivale. La fenêtre correcte est hiver/début printemps ou fin été/automne. En juin en pleine croissance, les grosses coupes stressent excessivement l'arbre et peuvent provoquer des dépérissements. Reformuler : taille légère d'éclaircissement seulement en juin, réserver les coupes importantes à la dormance.\n4. Hazukashi en sénescence — terme utilisé pour retirer le feuillage mort interne. Techniquement acceptable dans l'esprit mais hazukashi désigne strictement le désaiguillage des conifères à aiguilles (pins, épicéas). Pour un junipérus à écailles, le terme correct est simplement \"nettoyage du feuillage interne mort\" — pas hazukashi. Erreur terminologique, pas fatale mais inexacte comme pour mebana sur Kuromatsu.\nCorrections prioritaires : arrêt Metsumi fin juillet (Ko 34) + supprimer \"coupes importantes\" de la phase maturation juin.",
-        "dormance_djc": 5223,
+        "dormance_djc": 5492,
         "dormance": [
-          10,
-          0.6719242902208202
+          11,
+          0.4330708661417323
         ]
       },
       {
@@ -2091,10 +2091,10 @@
         "maturation_djc": 3230,
         "maturation_travaux": "Observation — Ko 36 (3-7 aout) ~3230°J : boutons floraux de la prochaine saison en cours de formation sur les pousses de l'année. Croissance ralentit, feuilles durcissent.\nAucune taille ni ligature sur rameaux portant des boutons différenciés.\nOmbrage partiel recommandé si T° > 30°C (voile 30 %).\nFertilisation : NPK 0-10-10, EC 0,8-1,0 mS/cm, pH 4,5-5,5 ; favorise la maturation des boutons et le durcissement des rameaux.\nSource : Bonsai4Me — https://bonsai4me.com/speciesguides/a-care-calendar-for-satsuki-azalea-bonsai/",
         "senescence": [
-          9,
-          0
+          10,
+          0.24290220820189273
         ],
-        "senescence_djc": 4496,
+        "senescence_djc": 5087,
         "senescence_travaux": "Observation — Ko 47 (28 sept-2 oct) ~4401°J : arrêt de la croissance végétative, quelques feuilles anciennes jaunissent et tombent (phénomène normal). Boutons floraux visibles et bien formés.\nFertilisation : NPK 3-8-8 organique granulé, dose réduite, dernière application avant Ko 55 (nov) ; stopper l'azote pour durcir les tissus avant l'hiver.\nProtection anti-mildiou et anti-acariens préventive si automne humide.\nSource : Bonsai Empire — https://www.bonsaiempire.com/tree-species/azalea",
         "dormance_travaux": "",
         "semis": null,
@@ -2103,10 +2103,10 @@
         "boutures": null,
         "boutures_djc": null,
         "boutures_travaux": "",
-        "dormance_djc": 5223,
+        "dormance_djc": 5492,
         "dormance": [
-          10,
-          0.6719242902208202
+          11,
+          0.4330708661417323
         ],
         "notes_perso": "3/4kanuma 1/4 pumice vs l’inverse ;)\n\nPlante basale not atopic \nRajouter vinaigre \nVariété ?\nMi ombre \nVoile ombrage \nSi abouti floraison taille apres 80% de la floraison rempotage tous les 3 ans enlever gourmand  autour du bourgeon floral \nTaille drastique = compacité \nSi besoin de force rempotage en mars et on enlève les fleurs \nAlgami (?) avant  en octobre => mars avril (potasse) et après la floraison azote jamais d’engrais pendant la floraison engrais organique \nPot profond vigilant sur le chevelu \nGranulométrie grosse = grosse pousse (80% Pumice 20% Kanuma ou l'inverse dixit Lebecot)\nCharbon  => 10%\nBouture et rempotage très vite en juin avec la lune\nMultisec et purin d’ail tous les 15 jours \nPoudre de cannelle si problème de racine \nPas de cuivre\nPousse en juin et fin août \nFumagine \nAliette en espagne \nTsutsuji\nComptoir des fleurs oligo \nMarcote en dent de scie",
         "erreurs_fatales": "Plante basale : Le dépérissement de la cime (Die-back)\nC'est le risque majeur. La sève circule plus volontiers dans les branches basses de la Satsuki que dans sa tête.\nLe risque : Si vous taillez la tête trop sévèrement (surtout après la floraison ou en plein été), l'arbre peut tout simplement abandonner la zone. Le bourgeonnement en retrait sur le vieux bois est beaucoup plus capricieux en haut qu'en bas. Vous risquez de vous retrouver avec une cime morte qui sèche jusqu'au tronc principal.\nLa parade : Laissez toujours un tire-sève (un rameau avec des feuilles actives) à l'extrémité de la zone taillée pour maintenir le flux de sève.\nIMPORTANT : toujours rempoter au printempts contrairement à ce que disent les manuels japonais.",
@@ -2151,18 +2151,18 @@
         "maturation_djc": null,
         "maturation_travaux": "",
         "senescence": [
-          8,
-          0.7612732095490716
+          10,
+          0.24290220820189273
         ],
-        "senescence_djc": 4311,
+        "senescence_djc": 5087,
         "senescence_travaux": "Observation — Ko 46 (23-27 sept) ~4311°J : ralentissement de la croissance, formation des boutons floraux de l'année suivante achevée — toute taille au-delà compromet la floraison.\nFertilisation : NPK 4-10-14 faible dose, EC 0,6-0,8 mS/cm, pH 4,5-5,5.\nSource : Bonsai-Shop — https://www.bonsai-shop.com/fr/especes/azalees",
         "dormance_travaux": "Observation — Ko 60 (2-6 déc) ~5382°J : croissance stoppée, boutons floraux formés et dormants. Tolère jusqu'à -15°C sous abri non chauffé avec paillage ; à Cazaux, protection recommandée lors des épisodes de gel marqué. Perte foliaire partielle possible, normale.\nFertilisation : suspendre.\nSource : Bonsai-Shop — https://www.bonsai-shop.com/fr/especes/azalees",
         "notes_perso": "debourrement_djc: 600 → Ko 6 = 557°J ✓\nfeuillaison_djc: 800 → Ko 10 = 798°J ✓\nfloraison_djc: 1100 → Ko 14 = 1070°J ✓ (plus précoce que Satsuki, cohérent avec la source)\ncroissance_djc: 1300 → Ko 17 = 1272°J ✓\nsenescence_djc: 4300 → Ko 46 = 4311°J ✓\ndormance_djc: 5400 → Ko 60 = 5382°J ✓\nmaturation null — pas de fruits ornementaux exploités en bonsaï.\n\"Tsutsuji\" (つつじ) = nom japonais générique pour les azalées du genre Rhododendron, distinct de \"Satsuki\" (azalées d'été, Rhododendron indicum) déjà fait dans ta base. Tsutsuji désigne généralement Rhododendron kaempferi/obtusum, à floraison printanière (avril-mai), contrairement aux Satsuki qui fleurissent en juin.Web recherchéWeb recherchéConfirmé : Tsutsuji = azalée Kurume (Rhododendron kaempferi / R. kiusianum), distincte des Satsuki (R. indicum) déjà en base — floraison plus précoce (avril-mai vs mai-juin), fleurs plus petites.",
         "erreurs_fatales": "Rempoter en juin. <toujours rempoter au printemps",
-        "dormance_djc": 5382,
+        "dormance_djc": 5492,
         "dormance": [
           11,
-          0
+          0.4330708661417323
         ],
         "flush2_djc": null,
         "flush2": null,
