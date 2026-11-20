@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1795178457519,
-  "_date": "2026-11-20T12:40:57.519Z",
-  "_modCount": 1658,
+  "_ts": 1795178495084,
+  "_date": "2026-11-20T12:41:35.084Z",
+  "_modCount": 1659,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -350,10 +350,10 @@
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Protéger des vents froids et desséchants à Cazaux.\nFertilisation : suspendre.\nSource : La Maison du Bananier — https://www.lamaisondubananier.com/les-erables-acer-palmatum/1222-acer-palmatum-butterfly-erable-du-japon.html",
         "notes_perso": "Cultivar panaché évoqué plus haut comme \"proche\" de Beni Shichihenge — même famille de sensibilités (panachure réversible, limiter les tailles).Web recherchéWeb recherchéDonnée critique du forum bonsaï : \"feuilles fines et panachées, ça crame facilement\" face au vent et au soleil — confirmation pratique de la fragilité signalée pour la fiche.",
         "erreurs_fatales": "",
-        "dormance_djc": 5492,
+        "dormance_djc": 5223,
         "dormance": [
-          11,
-          0.4330708661417323
+          10,
+          0.6719242902208202
         ],
         "flush2_djc": null,
         "flush2": null,
@@ -2173,7 +2173,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 93
+    "_modCount": 94
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
