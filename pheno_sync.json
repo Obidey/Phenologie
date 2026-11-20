@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1795178563050,
-  "_date": "2026-11-20T12:42:43.050Z",
-  "_modCount": 1661,
+  "_ts": 1795178594847,
+  "_date": "2026-11-20T12:43:14.847Z",
+  "_modCount": 1662,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -527,10 +527,10 @@
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Rustique jusqu'à -15°C ; protéger des vents froids à Cazaux.\nFertilisation : suspendre.\nSource : Jardin du Pic Vert — https://www.jardindupicvert.com/arbustes/erable-du-japon-manyo-no-sato.html",
         "notes_perso": "",
         "erreurs_fatales": "",
-        "dormance_djc": 5492,
+        "dormance_djc": 5223,
         "dormance": [
-          11,
-          0.4330708661417323
+          10,
+          0.6719242902208202
         ],
         "flush2_djc": null,
         "flush2": null,
@@ -2173,7 +2173,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 96
+    "_modCount": 97
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
