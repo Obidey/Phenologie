@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1795178495084,
-  "_date": "2026-11-20T12:41:35.084Z",
-  "_modCount": 1659,
+  "_ts": 1795178518367,
+  "_date": "2026-11-20T12:41:58.367Z",
+  "_modCount": 1660,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -467,10 +467,10 @@
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Rustique jusqu'à -20°C — protection nécessaire à Cazaux uniquement lors de gelées fortes (<-10°C).\nSentai (taille de structure) — taille des branches fortes en automne pour éviter les pertes de sève excessives.\nFertilisation : suspendre.\nSource : Bonsai Empire — https://www.bonsaiempire.fr/especes/erable",
         "notes_perso": "un des premiers Acer en végétation, débourrement précoce orange-jaune, floraison discrète mai-juin produisant des samares, automne flamboyant orange-rouge.",
         "erreurs_fatales": "",
-        "dormance_djc": 5492,
+        "dormance_djc": 5223,
         "dormance": [
-          11,
-          0.4330708661417323
+          10,
+          0.6719242902208202
         ],
         "flush2_djc": 3125,
         "flush2": [
@@ -2173,7 +2173,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 94
+    "_modCount": 95
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
