@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1795178390572,
-  "_date": "2026-11-20T12:39:50.572Z",
-  "_modCount": 1657,
+  "_ts": 1795178457519,
+  "_date": "2026-11-20T12:40:57.519Z",
+  "_modCount": 1658,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -230,10 +230,10 @@
         "dormance_travaux": "Observation — Ko 55 (7-11 nov) ~5087°J : chute des feuilles, croissance stoppée. Rustique à Cazaux jusqu'à -20°C ; protéger des vents forts.\nFertilisation : suspendre.\nSource : Achat Vente Palmiers — https://www.achat-vente-palmiers.com/fr/erables/109-acer-palmatum-beni-shichihenge-.html",
         "notes_perso": "Cultivar panaché \"à sept changements\" — variabilité saisonnière de coloris importante, sensible à la panachure réversible selon vigueur/lumière.Web recherchéWeb recherchéDonnée clé : \"limitez les tailles\" pour préserver la panachure (signal de sensibilité au stress, identique au cultivar 'Taylor'), nom signifiant \"sept apparitions rouges\", panachure réversible si vigueur excessive.",
         "erreurs_fatales": "",
-        "dormance_djc": 5492,
+        "dormance_djc": 5223,
         "dormance": [
-          11,
-          0.4330708661417323
+          10,
+          0.6719242902208202
         ],
         "flush2_djc": null,
         "flush2": null,
