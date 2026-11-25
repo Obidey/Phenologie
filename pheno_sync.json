@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1795618263853,
-  "_date": "2026-11-25T14:51:03.853Z",
-  "_modCount": 1680,
+  "_ts": 1795618272359,
+  "_date": "2026-11-25T14:51:12.359Z",
+  "_modCount": 1681,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -2726,7 +2726,9 @@
     "ko58_Acer_palmatum_Beni_Shichihenge_senescence_0": true,
     "ko58_Acer_palmatum_Butterfly_senescence_0": true,
     "ko58_Acer_palmatum_Katsura_dormance_0": true,
-    "ko58_Juniperus_Itoigawa_dormance_0": true
+    "ko58_Juniperus_Itoigawa_dormance_0": true,
+    "ko58_Juniperus_rigida_dormance_0": true,
+    "ko58_Lierre_dormance_0": true
   },
   "config": {
     "ville1": {
