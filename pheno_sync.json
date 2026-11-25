@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1795605747486,
-  "_date": "2026-11-25T11:22:27.486Z",
-  "_modCount": 1672,
+  "_ts": 1795605783066,
+  "_date": "2026-11-25T11:23:03.066Z",
+  "_modCount": 1673,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -985,9 +985,9 @@
         "maturation_travaux": "Observation — Ko 43 (8-12 sept) ~4024°J : cônes ligneux (strobiles) de 1-2 cm virant du vert au brun foncé, décoratifs et persistant tout l'hiver sur les rameaux.\nFertilisation : NPK 4-10-14, EC 0,8-1,0 mS/cm, pH 5,5-7,0.\nSource : Jardins du Monde — https://jardins-du-monde.be/fr/arbres/aulne-glutineux.html",
         "senescence": [
           10,
-          0.24290220820189273
+          0.6719242902208202
         ],
-        "senescence_djc": 5087,
+        "senescence_djc": 5223,
         "senescence_travaux": "Observation — Ko 49 (8-12 oct) ~4588°J : feuilles jaunissant tardivement (aulne caduc tardif), souvent encore vertes tandis que d'autres espèces ont déjà perdu leur feuillage. Cônes persistants ornementaux.\nFertilisation : suspendre.\nSource : Jardins du Monde — https://jardins-du-monde.be/fr/arbres/aulne-glutineux.html",
         "dormance_travaux": "Observation — Ko 57 (17-21 nov) ~5223°J : chute des feuilles tardive, cônes brun-noir persistants sur rameaux nus tout l'hiver. Chatons mâles déjà bien formés pour la floraison de février. Rustique jusqu'à -25°C à Cazaux, aucune protection nécessaire. Maintenir le substrat humide même en hiver.\nFertilisation : suspendre.\nSource : Mistral Bonsai — https://www.mistralbonsai.com/fr/tout-sur-le-bonsai/fiches-techniques-des-bonsais/bonsai-dexterieur/aulne/",
         "notes_perso": "",
@@ -2173,7 +2173,7 @@
       }
     ],
     "_version": "v20",
-    "_modCount": 101
+    "_modCount": 102
   },
   "checklist": {
     "ko11_Acacia_Constantinople_debourrement_0": true,
