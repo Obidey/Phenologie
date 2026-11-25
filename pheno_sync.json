@@ -1,9 +1,9 @@
 {
   "_type": "pheno_sync",
   "_version": "v20",
-  "_ts": 1795618188444,
-  "_date": "2026-11-25T14:49:48.444Z",
-  "_modCount": 1676,
+  "_ts": 1795618241290,
+  "_date": "2026-11-25T14:50:41.290Z",
+  "_modCount": 1677,
   "_device": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, lik",
   "data": {
     "bornes": {},
@@ -2722,7 +2722,8 @@
     "ko43_Pommier_du_japon_maturation_0": true,
     "ko43_Aulne_maturation_0": true,
     "ko58_Acer_palmatum__Enkan_senescence_0": true,
-    "ko58_Acer_palmatum_Atropurpureum_senescence_0": true
+    "ko58_Acer_palmatum_Atropurpureum_senescence_0": true,
+    "ko58_Acer_palmatum_Beni_Shichihenge_senescence_0": true
   },
   "config": {
     "ville1": {
